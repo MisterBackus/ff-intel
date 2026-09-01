@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-08-31 evening file includes Monday NFL waiver awards.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-01 morning file includes overnight practice-squad landings (Jaydon Blue → PHI PS).
 
 ## Latest
 
