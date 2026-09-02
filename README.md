@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-02 morning file adds Pacheco → Lions IR, corrects Henderson (ankle, not healthy), and flags today’s 49ers plane decision.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-02 evening file puts **Kittle on the Australia plane**, notes **Evans practiced Wednesday**, and tracks Jeanty / Egbuka / Nabers / Flowers / Tuten Wednesday visuals.
 
 ## Latest
 
