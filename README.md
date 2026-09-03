@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-02 evening file puts **Kittle on the Australia plane**, notes **Evans practiced Wednesday**, and tracks Jeanty / Egbuka / Nabers / Flowers / Tuten Wednesday visuals.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-03 morning file keeps **Kittle and Evans on the Australia plane** (in flight, land Friday), adds **Joe Milton to the Cowboys practice squad**, confirms **Higgins DNP Wednesday**, and flags Henderson’s Thursday Patriots practice as **MISSING** until the afternoon report.
 
 ## Latest
 
