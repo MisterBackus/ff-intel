@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-04 morning file marks **Swift Thursday exit as a cramp** (Schefter), **Odunze preliminary all-good** (Wiederer), **49ers on the ground in Melbourne**, and corrects the Nacua visual to **Sunday Rams practice** (not Friday). Henderson still has not practiced since Aug 24; Stevenson remains the Wednesday lead.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-04 evening file marks **Pelissero: all signs pointing toward Mahomes Week 1** (still not Reid-cleared; Fields remains the cuff), a **Dell $1.7M restructure** that does not create snaps, and a **closed Friday injury window** (Jeanty/Love/Tuten/Egbuka/Henderson/Nacua visuals MISSING). Saturday: Patriots practice + 49ers Melbourne. Sunday: Rams practice (Nacua).
 
 ## Latest
 
