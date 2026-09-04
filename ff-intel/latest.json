@@ -1,5 +1,5 @@
 {
-  "generated_at_et": "2026-09-03 18:15 ET",
+  "generated_at_et": "2026-09-04 08:15 ET",
   "nfl_week": "preseason / week 0",
   "league": {
     "teams": 10,
@@ -13,34 +13,34 @@
   },
   "data_freshness": [
     "53-man rosters locked 2026-08-30 18:00 ET",
-    "Official Week 1 injury reports not required until game week (Sept 7-9); NFL.com Week 1 report still empty",
-    "Values anchored to FantasyPros Superflex ECR (Maye is QB3; Sep 3 three-expert board has him QB2) plus Thursday beat/practice notes",
-    "Trends vs Thursday 8:25 AM ET 1-100 board",
-    "New Thursday afternoon: Henderson DNP again (Reiss/Alper 3:28p); no practice since Aug 24; three Patriots practices left Sat/Sun/Mon; Stevenson is the clear Wednesday lead. Flowers returned to Ravens practice (Mink/Hensley). Chase and Higgins did not work Thursday (Hobson); Bengals off until Monday. Swift exited Thursday holding midsection/core (Hammond/Rotoworld) — severity MISSING. Odunze hobbling, trainers pulled him (Hammond) — wasn't overly concerned. Barrows: sure Kittle will not play his usual 95% snaps if active Thursday. Levis worked out for Jets PS (Schefter) — still unsigned. Steichen: Richardson is IND QB2",
-    "Rams are off Tue-Thu. Nacua last team-drill note is still Monday side work. Next Rams practice is Friday",
-    "49ers still in flight; land Friday Melbourne. Soft-tissue tax for Kittle/Evans is Saturday light session",
-    "No new Mahomes game clearance. Falcons QB still unnamed. Jeanty Thursday team visual MISSING. Love Thursday visual MISSING. Tuten Thursday visual MISSING. Browning still FA"
+    "Official Week 1 injury reports not required until game week (Sept 7-9); NFL.com Week 1 report still empty. Rams/49ers first official report is Tuesday after practice",
+    "Values anchored to FantasyPros Superflex ECR (Maye is QB3 on the large board; Sep 4 three-expert board has him QB2 / overall 2) plus Friday beat notes",
+    "Trends vs Thursday 6:15 PM ET 1-100 board",
+    "New Friday morning: Schefter said Swift Thursday exit was a cramp. Wiederer (The Athletic): Odunze should be all good (preliminary). Bears off the weekend. 49ers landed Melbourne 7:50 a.m. local Friday (PFT/SMH). Light practice Saturday. Rams do not practice Friday \u2014 next session Sunday 2:45-4:20 p.m. PT. McVay speaks Friday but will not discuss injuries until the Tuesday report window",
+    "Patriots are off Friday. Henderson next chance Sat/Sun/Mon. Still no practice since Aug 24. Stevenson remains the Wednesday lead",
+    "No new Mahomes game clearance. Falcons QB still unnamed. Jeanty Friday team visual MISSING. Love Friday visual MISSING. Tuten Friday visual MISSING. Levis still unsigned. Browning still FA"
   ],
   "must_act_today": [
-    "Do not lock TreVeyon Henderson as your Wednesday RB2 — DNP Thursday; no practice since Aug 24; start Rhamondre Stevenson",
+    "Do not lock TreVeyon Henderson as your Wednesday RB2 \u2014 DNP Thursday; no practice since Aug 24; Patriots off Friday; start Rhamondre Stevenson",
     "Fade Josh Jacobs (Commissioner's Exempt); draft or FAAB MarShawn Lloyd",
     "Fade Zach Charbonnet (PUP); draft or FAAB Jadarian Price for the Wednesday opener",
-    "Fade James Conner (IR); start/stash Tyler Allgeier; Love Thursday visual MISSING",
+    "Fade James Conner (IR); start/stash Tyler Allgeier; Love Friday visual MISSING",
     "Fade Alvin Kamara (MCL, ~4 weeks, on 53); take Travis Etienne",
     "Do not draft Tank Dell (IR) or Jordyn Tyson (IR, ~2 months)",
-    "Do not pay full price for Ashton Jeanty (low ankle; Kubiak yes is not team; Thursday visual MISSING); roster Mike Washington Jr.",
+    "Do not pay full price for Ashton Jeanty (low ankle; Kubiak yes is not team; Friday visual MISSING); roster Mike Washington Jr.",
     "Patrick Mahomes still not game-cleared; roster Justin Fields or fade a half-tier",
-    "If you own D'Andre Swift, roster a Bears RB dart tonight — Thursday midsection/core exit; severity MISSING",
-    "Drop / do not draft Jaydon Blue — PHI practice squad behind Saquon, Tank Bigsby, and Will Shipley",
-    "Drop / do not draft Cedric Tillman — NO practice squad behind Olave/Vele/Lance",
-    "Drop / do not draft Joe Milton — Cowboys practice squad behind Dak/Howell",
-    "Drop / do not draft Will Levis — Jets PS workout Thursday, still unsigned; $0 until a 53",
-    "Drop / do not draft Isiah Pacheco — Lions IR, Holmes no timetable; Gibbs does not need a 10-team cuff",
-    "Evans practiced Wednesday and is on the Australia plane — warmer, still not a locked WR2",
-    "Kittle is on the plane and trending toward Week 1 on a snap count (Barrows) — TE2-upside, not a 3rd-round chip",
+    "Do not sell D'Andre Swift as damaged \u2014 Schefter: Thursday exit was a cramp. Start him",
+    "Drop / do not draft Jaydon Blue \u2014 PHI practice squad behind Saquon, Tank Bigsby, and Will Shipley",
+    "Drop / do not draft Cedric Tillman \u2014 NO practice squad behind Olave/Vele/Lance",
+    "Drop / do not draft Joe Milton \u2014 Cowboys practice squad behind Dak/Howell",
+    "Drop / do not draft Will Levis \u2014 Jets PS workout Thursday, still unsigned Friday; $0 until a 53",
+    "Drop / do not draft Isiah Pacheco \u2014 Lions IR, Holmes no timetable; Gibbs does not need a 10-team cuff",
+    "Evans practiced Wednesday and is in Melbourne \u2014 warmer, still not a locked WR2",
+    "Kittle is in Melbourne and trending toward Week 1 on a snap count (Barrows) \u2014 TE2-upside, not a 3rd-round chip",
     "Get two Superflex QBs before leaving any draft",
-    "Do not lock a Falcons QB — Cunningham Wednesday: not yet; no Thursday announcement",
-    "If you own Javonte, roster Malik Davis or Emari Demercado (one only)"
+    "Do not lock a Falcons QB \u2014 Cunningham Wednesday: not yet; no Friday announcement",
+    "If you own Javonte, roster Malik Davis or Emari Demercado (one only)",
+    "Nacua next visual is Sunday Rams practice, not Friday \u2014 McVay will not discuss injuries today"
   ],
   "injuries": [
     {
@@ -89,14 +89,14 @@
       "team": "NO",
       "status": "IR",
       "note": "Recurring hamstring. ~2 months. Week 8-9 GUESS (intl Week 7, bye Week 8).",
-      "replacement": "Chris Olave, Devaughn Vele, Bryce Lance. Tillman signed to NO PS Tuesday — not a 10-team add."
+      "replacement": "Chris Olave, Devaughn Vele, Bryce Lance. Tillman signed to NO PS Tuesday \u2014 not a 10-team add."
     },
     {
       "player": "Ashton Jeanty",
       "pos": "RB",
       "team": "LV",
       "status": "Questionable",
-      "note": "Low-ankle sprain ~8/23. Not on IR. Wednesday: DNP team. Kubiak: yes, optimistic about Week 1. Thursday team visual MISSING.",
+      "note": "Low-ankle sprain ~8/23. Not on IR. Wednesday: DNP team. Kubiak: yes, optimistic about Week 1. Friday team visual MISSING.",
       "replacement": "Mike Washington Jr. (preseason juice; Spytek praised scheme fit). Startable if Jeanty sits. Dylan Laube depth."
     },
     {
@@ -112,7 +112,7 @@
       "pos": "WR",
       "team": "SF",
       "status": "Questionable",
-      "note": "Adductor/groin. Practiced Wednesday (Maiocco/Wagoner). On the Australia plane (in flight Wednesday night). Soft-tissue + age + travel still cap him.",
+      "note": "Adductor/groin. Practiced Wednesday (Maiocco/Wagoner). On the ground in Melbourne Friday morning local (PFT/SMH). Soft-tissue + age + travel still cap him. Saturday light session is the hold.",
       "replacement": "De'Zhaun Stribling and Deebo Samuel if he sits Australia. Not a 10-team locked WR2 price."
     },
     {
@@ -120,31 +120,31 @@
       "pos": "RB",
       "team": "NE",
       "status": "Questionable",
-      "note": "Right ankle ~8/24. DNP Thursday (Reiss/Alper). Not present for media-access portion. No practice since Aug 24. Walking without a limp. Three practices left (Sat/Sun/Mon). Alper: if still out at start of next week, may be Week 2.",
+      "note": "Right ankle ~8/24. DNP Thursday (Reiss/Alper). No practice since Aug 24. Walking without a limp. Patriots off Friday. Three practices left Sat/Sun/Mon. Alper: if still out at start of next week, may be Week 2.",
       "replacement": "Rhamondre Stevenson is the clear Wednesday lead (startable). Corey Kiner is a speculative mix-in, not a 10-team start."
     },
     {
       "player": "D'Andre Swift",
       "pos": "RB",
       "team": "CHI",
-      "status": "Questionable",
-      "note": "Thursday: exited holding midsection/core after a team-drill carry (Hammond/Rotoworld). Severity MISSING.",
-      "replacement": "Kyle Monangai if active (still week-to-week, knee). Roschon / PS dart if both are down. Have a cuff tonight if you own Swift."
+      "status": "Healthy",
+      "note": "Thursday midsection/core exit (Hammond). Schefter: a cramp. Bears off the weekend. Next visual next week. Do not fade as a Week 1 out.",
+      "replacement": "Kyle Monangai still week-to-week (knee). Cramp news shrinks the emergency path. Roschon only if both are down."
     },
     {
       "player": "Rome Odunze",
       "pos": "WR",
       "team": "CHI",
       "status": "Questionable",
-      "note": "Thursday: hobbling in install with an apparent right-leg injury (Hammond). Wasn't overly concerned; trainers pulled him. Severity MISSING.",
-      "replacement": "Luther Burden / Kalif Raymond. Watch, not a 10-team fade yet."
+      "note": "Thursday hobble, apparent right leg (Hammond). Wiederer: should be all good (preliminary). Not a left-foot re-injury. Bears off the weekend.",
+      "replacement": "Luther Burden / Kalif Raymond. Watch, not a 10-team fade."
     },
     {
       "player": "Puka Nacua",
       "pos": "WR",
       "team": "LAR",
       "status": "Limited",
-      "note": "Psoas/groin; missed ~3 weeks; returned to practice Sunday 8/30. Monday 8/31 worked off to the side for team drills. Rams are off Tue-Thu. Next visual Friday. Avoided exempt list.",
+      "note": "Psoas/groin; missed ~3 weeks; returned to practice Sunday 8/30. Monday 8/31 worked off to the side for team drills. Rams off Fri. Next practice Sunday 2:45-4:20 p.m. PT. McVay will not discuss injuries Friday. Avoided exempt list. NFL still reviewing off-field \u2014 not a Week 1 sit.",
       "replacement": "Davante Adams / Kyren Williams if he sits Australia. Start Nacua if active Thursday."
     },
     {
@@ -152,7 +152,7 @@
       "pos": "TE",
       "team": "SF",
       "status": "Limited",
-      "note": "Achilles (Jan). Off PUP 8/23. Two positive practice days. On the Australia plane. Barrows: sure he will not play his usual 95% snaps if active.",
+      "note": "Achilles (Jan). Off PUP 8/23. Two positive practice days. Landed Melbourne Friday. Barrows: sure he will not play his usual 95% snaps if active. Saturday light session is the contact tell.",
       "replacement": "No startable 49ers TE2 in 10-team. Draft as TE2 upside on a snap count, not McBride."
     },
     {
@@ -192,7 +192,7 @@
       "pos": "WR",
       "team": "TB",
       "status": "Limited",
-      "note": "Toe sprain. Wednesday: side field with trainers; ran without obvious issues (Stroud). Bowles: headed in the right direction; better gauge next week. Still not team. Thursday MISSING.",
+      "note": "Toe sprain. Wednesday: side field with trainers; ran without obvious issues (Stroud). Bowles: headed in the right direction; better gauge next week. Still not team. Friday MISSING.",
       "replacement": "Chris Godwin if healthy. Do not pay WR2."
     },
     {
@@ -200,7 +200,7 @@
       "pos": "RB",
       "team": "ARI",
       "status": "Questionable",
-      "note": "High-ankle sprain. Wednesday: rehab, not practicing. Thursday visual MISSING. Garafolo still ~50/50.",
+      "note": "High-ankle sprain. Thursday: LaFleur said progressing; rehab, not practicing. Friday visual MISSING. Garafolo still ~50/50.",
       "replacement": "Tyler Allgeier is the safer early-week start."
     },
     {
@@ -233,7 +233,7 @@
       "team": "CAR",
       "status": "Limited",
       "note": "Hamstring in camp. No preseason snaps. Returned to practice Tuesday (Person). Committee with Brooks if both are active.",
-      "replacement": "Jonathon Brooks (side work Wednesday, soreness; Canales very optimistic Week 1). Trevor Etienne is IR — ignore in 10-team."
+      "replacement": "Jonathon Brooks (side work Wednesday, soreness; Canales very optimistic Week 1). Trevor Etienne is IR \u2014 ignore in 10-team."
     },
     {
       "player": "Jonathon Brooks",
@@ -281,22 +281,22 @@
       "team": "CIN",
       "status": "Limited",
       "note": "Heel contusion. DNP Tuesday, Wednesday, and Thursday (Baby/Hobson). Ran the hill Wednesday. Taylor: limited this week, good at the end of the week with Chase.",
-      "replacement": "Chase. Do not fade Higgins as a Week 1 out — Sunday game, time left."
+      "replacement": "Chase. Do not fade Higgins as a Week 1 out \u2014 Sunday game, time left."
     },
     {
       "player": "Kyle Monangai",
       "pos": "RB",
       "team": "CHI",
       "status": "Questionable",
-      "note": "Hyperextended knee. Ben Johnson: week-to-week; Week 1 in jeopardy. Swift said he looked good running Wednesday. Path opens if Swift's Thursday core exit is real.",
-      "replacement": "Roschon Johnson spells Swift. Strong cuff only if you own Swift."
+      "note": "Hyperextended knee. Ben Johnson: week-to-week; Week 1 in jeopardy. Swift Thursday exit was a cramp (Schefter), so the emergency path shrank.",
+      "replacement": "Roschon Johnson spells Swift. Speculative cuff only if you own Swift."
     },
     {
       "player": "Bhayshul Tuten",
       "pos": "RB",
       "team": "JAC",
       "status": "Questionable",
-      "note": "Illness. DNP Wednesday (O'Halloran). Thursday visual MISSING. Watch, not a structural fade.",
+      "note": "Illness. DNP Wednesday (O'Halloran). Friday visual MISSING. Watch, not a structural fade.",
       "replacement": "JAC committee / LeQuint Allen Jr. (Coen flagged as possible Week 1 GTD). Not a 10-team must-add."
     },
     {
@@ -352,7 +352,7 @@
       "pos": "QB",
       "team": "ATL",
       "status": "Limited",
-      "note": "ACL 2025. Back in 11-on-11. Cunningham Wednesday: starter not named yet. No Thursday announcement.",
+      "note": "ACL 2025. Back in 11-on-11. Cunningham Wednesday: starter not named yet. No Friday announcement.",
       "replacement": "Tua Tagovailoa is the other name. Do not lock either as a 10-team QB2."
     },
     {
@@ -424,7 +424,7 @@
       "pos": "RB",
       "team": "SF",
       "status": "Healthy",
-      "note": "Suited up and went through drills Tuesday. No Wednesday setback. Flying to Australia.",
+      "note": "Suited up and went through drills Tuesday. No Wednesday setback. Landed Melbourne Friday.",
       "replacement": "No 10-team SF cuff. Start if active Thursday."
     },
     {
@@ -456,7 +456,7 @@
       "pos": "QB",
       "team": "FA",
       "status": "Free agent",
-      "note": "Worked out Thursday for the Jets practice squad (Schefter/Rosenblatt). Still unsigned.",
+      "note": "Worked out Thursday for the Jets practice squad (Schefter/Rosenblatt). Still unsigned Friday.",
       "replacement": "$0 until a 53-man job. Cade Klubnik remains NYJ QB2."
     },
     {
@@ -502,49 +502,84 @@
   ],
   "news": [
     {
+      "player": "D'Andre Swift",
+      "note": "Schefter: Thursday midsection/core exit was a cramp. Bears off the weekend.",
+      "impact": "Restore as a startable CHI RB2/flex. Do not sell as damaged. Monangai is not a must-add."
+    },
+    {
+      "player": "Rome Odunze",
+      "note": "Wiederer (The Athletic): should be all good after Thursday hobble (preliminary). Right-leg, not a left-foot re-injury. Bears off the weekend.",
+      "impact": "Watch, not a fade. Burden emergency bump comes off."
+    },
+    {
+      "player": "Mike Evans",
+      "note": "49ers landed Melbourne Friday 7:50 a.m. local (PFT/SMH). Evans practiced Wednesday and is on the ground.",
+      "impact": "Warmer. Saturday light session is the hold. Still not a locked WR2."
+    },
+    {
+      "player": "George Kittle",
+      "note": "Landed Melbourne Friday. Barrows still sure he will not play his usual 95% snaps if active.",
+      "impact": "Landing does not change the snap-count cap. Have a TE2 plan. Saturday is the contact tell."
+    },
+    {
+      "player": "Puka Nacua",
+      "note": "Rams do not practice Friday. Next session Sunday 2:45-4:20 p.m. PT. McVay will not discuss injuries today. Last team-drill note is still Monday side work.",
+      "impact": "No new setback. Sunday is the visual, not Friday. Start if active Thursday."
+    },
+    {
       "player": "TreVeyon Henderson",
-      "note": "DNP Thursday (Reiss/Alper 3:28p). Not present for media window. No practice since Aug 24. Walking without a limp. Three practices left Sat/Sun/Mon. Alper: if still out at start of next week, may be Week 2.",
-      "impact": "Stevenson is the clear Wednesday lead. Do not lock Henderson as your Wed RB2."
+      "note": "Patriots off Friday. Still no practice since Aug 24. Three practices left Sat/Sun/Mon.",
+      "impact": "Stevenson remains the clear Wednesday lead. Do not lock Henderson as your Wed RB2."
+    },
+    {
+      "player": "Will Levis",
+      "note": "Still unsigned Friday after Thursday Jets PS workout (Schefter/Rosenblatt).",
+      "impact": "$0 in 10-team until a 53-man job. Browning still FA."
+    },
+    {
+      "player": "Michael Penix Jr.",
+      "note": "No Friday Falcons QB announcement. Cunningham Wednesday: not yet.",
+      "impact": "Do not draft a Falcons QB as a locked Superflex QB2."
+    },
+    {
+      "player": "Ashton Jeanty",
+      "note": "Friday team visual MISSING. Last note is Wednesday DNP team + Kubiak yes.",
+      "impact": "Progress in words, not team. Do not pay first-round. Roster Washington as the cuff."
+    },
+    {
+      "player": "Jeremiyah Love",
+      "note": "Friday visual MISSING. Last note is Thursday LaFleur progressing, not practicing. Garafolo still ~50/50.",
+      "impact": "Allgeier remains the safer Week 1 flex. Do not pay Love as a locked RB2."
+    },
+    {
+      "player": "Emeka Egbuka",
+      "note": "Friday visual MISSING. Last note is Wednesday side field; ran clean. Bowles: better gauge next week.",
+      "impact": "Do not pay WR2."
+    },
+    {
+      "player": "Bhayshul Tuten",
+      "note": "Friday visual MISSING. Illness DNP Wednesday (O'Halloran).",
+      "impact": "Watch, not a structural fade. JAC backfield is noisy (Allen Jr. possible GTD)."
+    },
+    {
+      "player": "Patrick Mahomes",
+      "note": "No Friday medical. Still not cleared for a game. Reid day-to-day on Week 1 MNF.",
+      "impact": "Pair with Fields or fade a half-tier. Do not blind-start on Monday Night."
     },
     {
       "player": "Zay Flowers",
-      "note": "Returned to Ravens practice Thursday (Mink 1:03p / Hensley). First team work since Vikings joints (~8/19-20). Only Devontez Walker missing early.",
+      "note": "Returned to Ravens practice Thursday (Mink/Hensley). No Friday change.",
       "impact": "Expected Week 1. Tiny tax comes off. Start if next week's report is full."
     },
     {
       "player": "Ja'Marr Chase",
-      "note": "Did not work Thursday (Hobson, Bengals.com 3:26p) after present-not-suited Wednesday. Bengals off until Monday. Taylor still optimistic for Sept 13.",
-      "impact": "Tiny additional tax. Sunday game. Do not fade the WR1."
+      "note": "Did not work Thursday (Hobson). Bengals off until Monday. Taylor still optimistic for Sept 13.",
+      "impact": "Tiny tax. Sunday game. Do not fade the WR1."
     },
     {
       "player": "Tee Higgins",
-      "note": "DNP Tuesday, Wednesday, and Thursday. Ran the hill Wednesday. Taylor still expects Week 1.",
-      "impact": "Tax continues. Do not fade as a Week 1 out — time left before Sunday."
-    },
-    {
-      "player": "D'Andre Swift",
-      "note": "Exited Thursday holding midsection/core after a team-drill carry (Hammond/Rotoworld).",
-      "impact": "Severity MISSING. If you own Swift, roster a Bears RB dart tonight. Do not fade as a locked Week 1 out yet."
-    },
-    {
-      "player": "Rome Odunze",
-      "note": "Hobbling in Thursday install with an apparent right-leg injury (Hammond). Wasn't overly concerned; trainers pulled him.",
-      "impact": "Watch, not a fade. Burden is the pivot if he sits. Severity MISSING."
-    },
-    {
-      "player": "George Kittle",
-      "note": "Barrows is sure he will not play his usual 95% snaps if active in Melbourne. Already on the plane.",
-      "impact": "Snap-count is now the cap. Have a TE2 plan. Not a 3rd-round chip."
-    },
-    {
-      "player": "Will Levis",
-      "note": "Worked out Thursday for the Jets practice squad (Schefter/Rosenblatt). Still unsigned.",
-      "impact": "$0 in 10-team. Practice-squad dart only until a 53-man job."
-    },
-    {
-      "player": "Anthony Richardson",
-      "note": "Steichen Thursday: Richardson will serve as the Colts QB2 behind Daniel Jones.",
-      "impact": "Already a lottery, not a start."
+      "note": "DNP Tuesday, Wednesday, and Thursday. Ran the hill Wednesday. Bengals off until Monday.",
+      "impact": "Tax continues. Do not fade as a Week 1 out \u2014 time left before Sunday."
     },
     {
       "player": "Jadarian Price",
@@ -557,79 +592,19 @@
       "impact": "JSN is still the only 10-team SEA WR. Shaheed is a late dart, not a paid piece."
     },
     {
-      "player": "Devin Neal",
-      "note": "Received an injury settlement and was waived (Triplett).",
-      "impact": "Already a fade. Etienne is the Saints back."
-    },
-    {
-      "player": "Mike Evans",
-      "note": "Still on the Australia plane (in flight). Practiced Wednesday.",
-      "impact": "Warmer than Tuesday. Still not a locked WR2. Stribling is a dart only if Evans sits Australia."
-    },
-    {
-      "player": "Ashton Jeanty",
-      "note": "Thursday team visual MISSING. Last note is Wednesday DNP team + Kubiak yes.",
-      "impact": "Progress in words, not team. Do not pay first-round. Roster Washington as the cuff."
-    },
-    {
       "player": "Kirk Cousins",
       "note": "Wednesday DNP was a rest look (red jersey/hat). Mendoza ran 1s. Named Week 1 starter. Mendoza still on the 53.",
       "impact": "Do not fade Cousins on a rest day. Mendoza remains a SF dart only."
     },
     {
-      "player": "Emeka Egbuka",
-      "note": "Wednesday side field with trainers; ran without obvious issues (Stroud). Thursday MISSING. Still not team.",
-      "impact": "Slightly warmer Wednesday. Do not pay WR2."
-    },
-    {
       "player": "Malik Nabers",
-      "note": "Individual and team drills Wednesday (Harbaugh/Hughes). Still noncommittal on Week 1.",
-      "impact": "Slightly warmer. Conservative: flex only if Friday report is full."
-    },
-    {
-      "player": "Bhayshul Tuten",
-      "note": "Illness. DNP Wednesday (O'Halloran). Thursday visual MISSING.",
-      "impact": "Watch, not a structural fade. JAC backfield is noisy (Allen Jr. possible GTD)."
-    },
-    {
-      "player": "Jonathon Brooks",
-      "note": "Side work Wednesday (soreness). Canales: very optimistic Week 1. Hubbard practiced Tuesday.",
-      "impact": "Committee if both are active. Do not pay either as every-down."
+      "note": "Individual and team drills Wednesday (Harbaugh/Hughes). Still noncommittal on Week 1. No Friday upgrade.",
+      "impact": "Slightly warmer. Conservative: flex only if next week's report is full."
     },
     {
       "player": "Isiah Pacheco",
       "note": "Holmes Wednesday: no clear timetable; hope he plays this year. Already on Lions IR (back).",
       "impact": "Reinforces the 10-team fade. Gibbs does not need a Lions cuff."
-    },
-    {
-      "player": "Puka Nacua",
-      "note": "Rams are off Tuesday-Thursday. Last team-drill note is still Monday side work. Next visual Friday.",
-      "impact": "No new setback. Start if active Thursday. Soft-tissue + Australia is a start/sit flag, not a trade-down."
-    },
-    {
-      "player": "Jeremiyah Love",
-      "note": "Rehab Wednesday, not practicing. Thursday visual MISSING. Garafolo still ~50/50.",
-      "impact": "Allgeier remains the safer Week 1 flex. Do not pay Love as a locked RB2."
-    },
-    {
-      "player": "Michael Penix Jr.",
-      "note": "Cunningham Wednesday: Falcons have not named a Week 1 starter yet. No Thursday announcement.",
-      "impact": "Do not draft a Falcons QB as a locked Superflex QB2."
-    },
-    {
-      "player": "Patrick Mahomes",
-      "note": "No Thursday medical. Still not cleared for a game. Reid day-to-day on Week 1 MNF.",
-      "impact": "Pair with Fields or fade a half-tier. Do not blind-start on Monday Night."
-    },
-    {
-      "player": "Jake Browning",
-      "note": "Still a free agent Thursday evening. Declined a Buccaneers practice-squad offer.",
-      "impact": "$0 until a 53-man job."
-    },
-    {
-      "player": "Khalil Shakir",
-      "note": "Zenitz Wednesday night: Bills optimism for Week 1. Out of team since mid-August.",
-      "impact": "Not a 10-team start. DJ Moore is the Bills WR to draft."
     },
     {
       "player": "Josh Jacobs",
@@ -662,14 +637,24 @@
       "impact": "Still $0 in 10-team. Behind Dak and Howell."
     },
     {
-      "player": "Ollie Gordon II",
-      "note": "Practiced in a non-contact jersey Wednesday (ribs).",
-      "impact": "Achane cuff only. Not a 10-team start."
+      "player": "Jake Browning",
+      "note": "Still a free agent Friday. Declined a Buccaneers practice-squad offer.",
+      "impact": "$0 until a 53-man job."
     },
     {
-      "player": "Michael Wilson",
-      "note": "Signed a 3-year extension (Rapoport).",
-      "impact": "Does not create a 10-team start next to MHJ / McBride."
+      "player": "Khalil Shakir",
+      "note": "Zenitz Wednesday night: Bills optimism for Week 1. Out of team since mid-August.",
+      "impact": "Not a 10-team start. DJ Moore is the Bills WR to draft."
+    },
+    {
+      "player": "Anthony Richardson",
+      "note": "Steichen Thursday: Richardson will serve as the Colts QB2 behind Daniel Jones.",
+      "impact": "Already a lottery, not a start."
+    },
+    {
+      "player": "Kyle Monangai",
+      "note": "Swift cramp news shrinks the Thursday emergency path. Still week-to-week himself (knee).",
+      "impact": "Speculative only. Do not panic-add this morning."
     }
   ],
   "faab": [
@@ -711,7 +696,7 @@
       "priority": "Must-add",
       "bid_low": 8,
       "bid_high": 12,
-      "why": "Jeanty low-ankle cuff plus standalone. Kubiak yes is not team. Thursday visual MISSING. Washington still ran 1s."
+      "why": "Jeanty low-ankle cuff plus standalone. Kubiak yes is not team. Friday visual MISSING. Washington still ran 1s."
     },
     {
       "player": "Rhamondre Stevenson",
@@ -719,7 +704,7 @@
       "priority": "Must-add",
       "bid_low": 6,
       "bid_high": 10,
-      "why": "Clear Wednesday lead after Henderson DNP Thursday and 10 days of no practice. Startable RB2/flex."
+      "why": "Clear Wednesday lead after Henderson DNP Thursday and 11 days of no practice. Patriots off Friday. Startable RB2/flex."
     },
     {
       "player": "Tyler Allgeier",
@@ -772,10 +757,10 @@
     {
       "player": "Kyle Monangai",
       "pos": "RB",
-      "priority": "Strong",
-      "bid_low": 2,
-      "bid_high": 5,
-      "why": "Swift Thursday core exit plus his own knee. Path if Swift sits and he is active. Only if you own Swift; else Speculative."
+      "priority": "Speculative",
+      "bid_low": 1,
+      "bid_high": 3,
+      "why": "Swift Thursday exit was a cramp (Schefter). Path is only his own knee plus a Swift setback. Not a panic-add."
     },
     {
       "player": "Sam Darnold",
@@ -807,7 +792,7 @@
       "priority": "Speculative",
       "bid_low": 1,
       "bid_high": 3,
-      "why": "Evans practiced Wednesday and is flying. Dart only if Evans sits Australia."
+      "why": "Evans practiced Wednesday and is in Melbourne. Dart only if Evans sits Australia."
     },
     {
       "player": "Emari Demercado",
@@ -1005,7 +990,7 @@
       "player": "Travis Etienne Jr.",
       "pos": "RB",
       "call": "Strong start",
-      "note": "Kamara out. Volume RB2 at DET — not a smash matchup, still start."
+      "note": "Kamara out. Volume RB2 at DET \u2014 not a smash matchup, still start."
     },
     {
       "player": "Omarion Hampton",
@@ -1023,19 +1008,19 @@
       "player": "Ashton Jeanty",
       "pos": "RB",
       "call": "Toss-up",
-      "note": "Low ankle. Kubiak yes, Thursday visual MISSING. Sit if limited Friday; start Washington instead."
+      "note": "Low ankle. Kubiak yes, Friday visual MISSING. Sit if limited; start Washington instead."
     },
     {
       "player": "TreVeyon Henderson",
       "pos": "RB",
       "call": "Toss-up",
-      "note": "DNP Thursday. No practice since Aug 24. Short week. Do not blind-start Wednesday. Stevenson is the call."
+      "note": "DNP Thursday. No practice since Aug 24. Patriots off Friday. Short week. Do not blind-start Wednesday. Stevenson is the call."
     },
     {
       "player": "D'Andre Swift",
       "pos": "RB",
-      "call": "Toss-up",
-      "note": "Thursday midsection/core exit. Severity MISSING. Watch, not a lock. Have a cuff."
+      "call": "Strong start",
+      "note": "Schefter: Thursday exit was a cramp. Restore as CHI RB2/flex vs CAR. Do not sit him as injured."
     },
     {
       "player": "Josh Jacobs",
@@ -1065,7 +1050,7 @@
       "player": "Jeremiyah Love",
       "pos": "RB",
       "call": "Toss-up",
-      "note": "Rehab Wednesday, not practicing. Thursday MISSING. Garafolo still ~50/50. If active, expect a ramp. Allgeier still eats early."
+      "note": "Rehab, not practicing. Friday MISSING. Garafolo still ~50/50. If active, expect a ramp. Allgeier still eats early."
     },
     {
       "player": "Chuba Hubbard",
@@ -1082,14 +1067,14 @@
     {
       "player": "Kyle Monangai",
       "pos": "RB",
-      "call": "Toss-up",
-      "note": "Only if Swift sits and he is active. Still week-to-week himself."
+      "call": "Sit / trap",
+      "note": "Swift is a cramp. Path only if Swift sits and he is active. Still week-to-week himself. Not a 10-team start."
     },
     {
       "player": "Puka Nacua",
       "pos": "WR",
       "call": "Must-start",
-      "note": "If active Thursday in Melbourne. Monday was off-to-side — Rams off Tue-Thu. Confirm Friday/Thursday report."
+      "note": "If active Thursday in Melbourne. Monday was off-to-side. Rams off Fri. Confirm Sunday practice / Thursday report."
     },
     {
       "player": "Jaxon Smith-Njigba",
@@ -1131,7 +1116,7 @@
       "player": "Mike Evans",
       "pos": "WR",
       "call": "Toss-up",
-      "note": "Practiced Wednesday and is on the plane. Warmer. Do not blind-start. Stribling is the pivot only if he sits."
+      "note": "Practiced Wednesday and is in Melbourne. Warmer. Do not blind-start. Stribling is the pivot only if he sits."
     },
     {
       "player": "Emeka Egbuka",
@@ -1143,7 +1128,7 @@
       "player": "Rome Odunze",
       "pos": "WR",
       "call": "Toss-up",
-      "note": "Thursday hobble; wasn't overly concerned. Watch, not a fade."
+      "note": "Wiederer: should be all good (preliminary). Watch until next week's report. Not a fade."
     },
     {
       "player": "Keenan Allen",
@@ -1173,39 +1158,40 @@
       "player": "George Kittle",
       "pos": "TE",
       "call": "Toss-up",
-      "note": "On the plane and trending toward Week 1 on a snap count (Barrows). Sit if Melbourne contact is limited. Have a TE2 plan."
+      "note": "In Melbourne and trending toward Week 1 on a snap count (Barrows). Sit if Saturday contact is limited. Have a TE2 plan."
     }
   ],
   "streamers_qb": [
-    "Justin Fields (KC) — Mahomes insurance / MNF pivot",
-    "Sam Darnold (SEA) — Wednesday lock",
-    "Kirk Cousins (LV) — Week 1 starter; Wed DNP was rest",
-    "Geno Smith (NYJ) — named starter",
-    "Daniel Jones (IND) — volume QB2; Richardson named QB2",
-    "Cam Ward (TEN) — year-2 upside",
-    "Tyler Shough (NO) — Saints QB1, efficiency GUESS",
-    "Bryce Young (CAR) — stream vs CHI",
-    "Jacoby Brissett (ARI) — bridge starter",
-    "Aaron Rodgers (PIT) — veteran volume",
-    "Deshaun Watson (CLE) — named starter, ugly floor",
-    "Malik Willis (MIA) — rushing dart, not a lock"
+    "Justin Fields (KC) \u2014 Mahomes insurance / MNF pivot",
+    "Sam Darnold (SEA) \u2014 Wednesday lock",
+    "Kirk Cousins (LV) \u2014 Week 1 starter; Wed DNP was rest",
+    "Geno Smith (NYJ) \u2014 named starter",
+    "Daniel Jones (IND) \u2014 volume QB2; Richardson named QB2",
+    "Cam Ward (TEN) \u2014 year-2 upside",
+    "Tyler Shough (NO) \u2014 Saints QB1, efficiency GUESS",
+    "Bryce Young (CAR) \u2014 stream vs CHI",
+    "Jacoby Brissett (ARI) \u2014 bridge starter",
+    "Aaron Rodgers (PIT) \u2014 veteran volume",
+    "Deshaun Watson (CLE) \u2014 named starter, ugly floor",
+    "Malik Willis (MIA) \u2014 rushing dart, not a lock"
   ],
   "actions_today": [
     "Draft a QB in Rounds 1-2 unless Chase/Gibbs/Bijan/Nacua is clearly the best player on the board",
     "Secure QB2 by the end of Round 6-7; do not finish with one quarterback",
     "Fade Jacobs, Conner, Dell, Tyson, Charbonnet, Sean Tucker, Pacheco (DET IR, no timetable), Jaydon Blue (PHI PS), Cedric Tillman (NO PS), Joe Milton (DAL PS), Will Levis/Browning until a 53, Trey Benson (ARI IR)",
-    "Do not lock Henderson as your Wednesday RB2; DNP Thursday; no practice since Aug 24; start Stevenson",
-    "If you own Swift, roster Monangai or Roschon tonight — Thursday core exit; severity MISSING",
-    "Evans is on the Australia plane — warmer, still do not pay locked WR2. Egbuka side work is not team. Odunze Thursday hobble is a watch, not a fade",
-    "Kittle is on the plane and trending toward Week 1 on a snap count — TE2-upside dart, not a 4th-round buy",
+    "Do not lock Henderson as your Wednesday RB2; DNP Thursday; no practice since Aug 24; Patriots off Friday; start Stevenson",
+    "Start Swift \u2014 Schefter: Thursday exit was a cramp. Do not sell him as damaged. Do not panic-add Monangai",
+    "Odunze preliminary all-good (Wiederer). Watch, not a fade. Evans is in Melbourne \u2014 warmer, still do not pay locked WR2. Egbuka side work is not team",
+    "Kittle is in Melbourne and trending toward Week 1 on a snap count \u2014 TE2-upside dart, not a 4th-round buy",
     "Target Lloyd, Price, Etienne, Allgeier, Washington, Fields, Stevenson as values / late darts. Flowers is back at practice",
-    "If already drafted: start Maye/JSN/Brown Wednesday; start Stevenson not Henderson; sit Jacobs/Kamara/Conner/Dell/Tyson/Blue/Tillman/Pacheco/Milton; roster Fields if you have Mahomes",
-    "FAAB if waivers are open: Lloyd $12-20, Price $10-16, Washington $8-12, Etienne $8-14, Fields $8-15, Stevenson $6-10, Allgeier $6-10, Monangai $2-5 only if you own Swift",
+    "If already drafted: start Maye/JSN/Brown Wednesday; start Stevenson not Henderson; start Swift; sit Jacobs/Kamara/Conner/Dell/Tyson/Blue/Tillman/Pacheco/Milton; roster Fields if you have Mahomes",
+    "FAAB if waivers are open: Lloyd $12-20, Price $10-16, Washington $8-12, Etienne $8-14, Fields $8-15, Stevenson $6-10, Allgeier $6-10. Do not spend $2-5 on Monangai this morning",
     "Drop IR dead (Dell/Tyson/Conner/Benson/Pacheco) or Blue/Tillman/Milton or a 4th committee RB in this 10-team",
-    "Buy Lloyd/Price/Etienne/Stevenson from managers who drafted before Sunday; sell Jacobs for any startable piece; sell Henderson if someone still has him as a locked Wed RB2",
-    "Watch Friday Rams (Nacua), Melbourne Saturday (Kittle/Evans), Patriots Sat/Sun/Mon (Henderson), Swift/Odunze next visual, Jeanty first team period, Mahomes, Falcons Penix eval, Love first suited practice, Egbuka first team, Tuten illness, Higgins/Chase Monday",
+    "Buy Lloyd/Price/Etienne/Stevenson from managers who drafted before Sunday; buy Swift if someone is dumping the Thursday scare; sell Jacobs for any startable piece; sell Henderson if someone still has him as a locked Wed RB2",
+    "Watch Sunday Rams (Nacua), Melbourne Saturday (Kittle/Evans), Patriots Sat/Sun/Mon (Henderson), Jeanty first team period, Mahomes, Falcons Penix eval, Love first suited practice, Egbuka first team, Tuten illness, Higgins/Chase Monday",
     "Do not send two startable QBs for one skill player",
-    "Do not draft Penix or Tua as a locked QB2 — Cunningham Wednesday: not yet; no Thursday announcement"
+    "Do not draft Penix or Tua as a locked QB2 \u2014 Cunningham Wednesday: not yet; no Friday announcement",
+    "Nacua next visual is Sunday, not Friday \u2014 McVay will not discuss injuries today"
   ],
   "trade_board": [
     {
@@ -1230,7 +1216,7 @@
       "value": 93,
       "tier": "QB1",
       "trend": "flat",
-      "note": "Brown/Doubs; Wednesday lock; Superflex ECR is QB3"
+      "note": "Brown/Doubs; Wednesday lock; Superflex ECR is QB3; Sep 4 three-expert board has him QB2 / overall 2"
     },
     {
       "player": "Jahmyr Gibbs",
@@ -1277,8 +1263,8 @@
       "pos": "WR",
       "value": 84,
       "tier": "WR1",
-      "trend": "down",
-      "note": "Overall WR1; did not work Thursday; Taylor feels good; Sunday game; do not fade"
+      "trend": "flat",
+      "note": "Overall WR1; did not work Thursday; Taylor feels good; Sunday game; Bengals off until Monday; do not fade"
     },
     {
       "player": "Puka Nacua",
@@ -1286,7 +1272,7 @@
       "value": 82,
       "tier": "WR1",
       "trend": "flat",
-      "note": "Practiced Sunday; Monday side work; Rams off Tue-Thu; still 1.02-ish if active Thu"
+      "note": "Practiced Sunday; Monday side work; Rams off Fri; next visual Sunday; still 1.02-ish if active Thu"
     },
     {
       "player": "Caleb Williams",
@@ -1318,7 +1304,7 @@
       "value": 76,
       "tier": "RB1",
       "trend": "flat",
-      "note": "Practiced Tuesday; flying; age/injury tax, still SF offense"
+      "note": "Practiced Tuesday; in Melbourne; age/injury tax, still SF offense"
     },
     {
       "player": "Amon-Ra St. Brown",
@@ -1518,7 +1504,7 @@
       "value": 51,
       "tier": "RB2",
       "trend": "flat",
-      "note": "Kubiak yes optimistic Week 1; Thursday team visual MISSING; do not pay first-round"
+      "note": "Kubiak yes optimistic Week 1; Friday team visual MISSING; do not pay first-round"
     },
     {
       "player": "Trey McBride",
@@ -1597,7 +1583,7 @@
       "pos": "WR",
       "value": 45,
       "tier": "WR2",
-      "trend": "up",
+      "trend": "flat",
       "note": "Back at practice Thursday; expected Week 1; residual tax only"
     },
     {
@@ -1670,7 +1656,7 @@
       "value": 40,
       "tier": "TE2",
       "trend": "flat",
-      "note": "CHI year-2; tiny bump if Odunze sits"
+      "note": "CHI year-2; Odunze all-good takes the tiny bump off"
     },
     {
       "player": "Tyler Warren",
@@ -1717,7 +1703,7 @@
       "pos": "WR",
       "value": 38,
       "tier": "WR3",
-      "trend": "down",
+      "trend": "flat",
       "note": "Heel; three straight DNPs; ran the hill; Taylor says good by week's end"
     },
     {
@@ -1734,7 +1720,7 @@
       "value": 35,
       "tier": "RB3",
       "trend": "flat",
-      "note": "Rehab Wed, not practicing; Thursday MISSING; Garafolo still ~50/50; still ramp"
+      "note": "Rehab, not practicing; Friday MISSING; Garafolo still ~50/50; still ramp"
     },
     {
       "player": "Tucker Kraft",
@@ -1790,15 +1776,15 @@
       "value": 32,
       "tier": "WR3",
       "trend": "flat",
-      "note": "Groin; participating Tuesday; tiny bump if Odunze sits"
+      "note": "Groin; participating Tuesday; Odunze all-good takes the emergency bump off"
     },
     {
       "player": "George Kittle",
       "pos": "TE",
       "value": 31,
       "tier": "TE2",
-      "trend": "down",
-      "note": "On the plane; Barrows sure of a snap count if active; still Achilles + Melbourne contact"
+      "trend": "flat",
+      "note": "In Melbourne; Barrows sure of a snap count if active; still Achilles + Melbourne contact"
     },
     {
       "player": "Tyler Allgeier",
@@ -1829,8 +1815,8 @@
       "pos": "RB",
       "value": 30,
       "tier": "RB3",
-      "trend": "up",
-      "note": "Clear Wednesday lead after Henderson DNP Thursday and 10 days of no practice"
+      "trend": "flat",
+      "note": "Clear Wednesday lead after Henderson DNP Thursday and 11 days of no practice"
     },
     {
       "player": "Bhayshul Tuten",
@@ -1838,7 +1824,7 @@
       "value": 29,
       "tier": "RB3",
       "trend": "flat",
-      "note": "JAC; illness DNP Wednesday; Thursday MISSING; watch not fade"
+      "note": "JAC; illness DNP Wednesday; Friday MISSING; watch not fade"
     },
     {
       "player": "Cam Ward",
@@ -1878,7 +1864,7 @@
       "value": 28,
       "tier": "WR4",
       "trend": "flat",
-      "note": "Practiced Wednesday; on the plane; groin + Australia + age still cap him"
+      "note": "Practiced Wednesday; in Melbourne; groin + Australia + age still cap him"
     },
     {
       "player": "Harold Fannin Jr.",
@@ -1915,18 +1901,18 @@
     {
       "player": "Rome Odunze",
       "pos": "WR",
-      "value": 26,
+      "value": 28,
       "tier": "WR4",
-      "trend": "down",
-      "note": "Thursday hobble (right leg); wasn't overly concerned; severity MISSING"
+      "trend": "up",
+      "note": "Wiederer: should be all good (preliminary). Right-leg, not left-foot re-injury. Watch until next week"
     },
     {
       "player": "D'Andre Swift",
       "pos": "RB",
-      "value": 25,
+      "value": 28,
       "tier": "RB3",
-      "trend": "down",
-      "note": "Thursday midsection/core exit (Hammond); severity MISSING; have a cuff"
+      "trend": "up",
+      "note": "Schefter: Thursday exit was a cramp. Restore as CHI RB2/flex. Monangai is not a must-add"
     },
     {
       "player": "Kyle Pitts",
@@ -1941,8 +1927,8 @@
       "pos": "RB",
       "value": 23,
       "tier": "RB3",
-      "trend": "down",
-      "note": "DNP Thursday; no practice since Aug 24; not a locked Wed RB2"
+      "trend": "flat",
+      "note": "DNP Thursday; no practice since Aug 24; Patriots off Friday; not a locked Wed RB2"
     },
     {
       "player": "Josh Downs",
@@ -2070,7 +2056,7 @@
       "value": 16,
       "tier": "QB5",
       "trend": "flat",
-      "note": "ATL QB battle unresolved; Cunningham Wednesday: not yet"
+      "note": "ATL QB battle unresolved; Cunningham Wednesday: not yet; no Friday announcement"
     },
     {
       "player": "Malik Davis",
@@ -2094,15 +2080,15 @@
       "value": 14,
       "tier": "QB5",
       "trend": "flat",
-      "note": "ATL QB battle unresolved; camp struggles"
+      "note": "ATL QB battle unresolved; camp struggles; no Friday announcement"
     },
     {
       "player": "Kyle Monangai",
       "pos": "RB",
-      "value": 12,
+      "value": 10,
       "tier": "RB4",
-      "trend": "up",
-      "note": "Swift Thursday exit opens a path; still week-to-week himself; only if you own Swift"
+      "trend": "down",
+      "note": "Swift cramp shrinks the emergency path; still week-to-week himself; speculative"
     },
     {
       "player": "Anthony Richardson",
@@ -2117,7 +2103,7 @@
       "pos": "RB",
       "value": 10,
       "tier": "RB5",
-      "trend": "up",
+      "trend": "flat",
       "note": "Only other NE 53-man back; behind Stevenson; not a 10-team start"
     },
     {
@@ -2134,7 +2120,7 @@
       "value": 9,
       "tier": "WR5",
       "trend": "flat",
-      "note": "Evans practiced and is flying; dart only if Evans sits Australia"
+      "note": "Evans practiced and is in Melbourne; dart only if Evans sits Australia"
     },
     {
       "player": "Brady Cook",
@@ -2222,7 +2208,7 @@
       "value": 2,
       "tier": "QB5",
       "trend": "flat",
-      "note": "Jets PS workout Thursday; unsigned; $0"
+      "note": "Jets PS workout Thursday; unsigned Friday; $0"
     },
     {
       "player": "Cedric Tillman",
@@ -2240,38 +2226,40 @@
     "Half-PPR: WRs hold value. Committee RBs are discounted unless they have a path to 15+ touches.",
     "10-team benches are shallow. A 4th RB is worth less than in 12-team. Do not overpay for depth.",
     "Side getting the best player in a 2-for-1 sends extra. 3-for-1s usually lose in 10-team unless you are dumping IR dead.",
-    "Never invent a value from vibes. Thin data (Shough, Willis efficiency, Mahomes Week 1, Jeanty date, Allen NFL discipline, Nacua Thursday, Evans Australia hold, Henderson Wednesday, Kittle snap count, Higgins heel, Swift core, Odunze leg) is labeled GUESS or MISSING.",
+    "Never invent a value from vibes. Thin data (Shough, Willis efficiency, Mahomes Week 1, Jeanty date, Allen NFL discipline, Nacua Thursday, Evans Australia hold, Henderson Wednesday, Kittle snap count, Higgins heel) is labeled GUESS or MISSING.",
     "Buy Sunday cut-day risers (Lloyd, Price, Etienne, Allgeier, Stevenson) from managers who drafted before 8/30.",
     "Sell Jacobs for any startable piece. Do not buy Conner/Dell/Tyson/Blue/Benson/Tillman/Milton/Levis/Pacheco as discount IR, FA, or practice-squad upside.",
     "Mahomes without Fields is a worse chip than Dak/TLaw. Buy the pair or fade.",
     "Davis and Demercado are the same Dallas cuff. Roster one if you own Javonte; do not stack both in 10-team.",
     "Blue on the Eagles practice squad, Tillman on the Saints practice squad, Milton on the Cowboys practice squad, and Levis as an unsigned Jets workout are not new startable pieces.",
-    "Evans practiced Wednesday and is on the plane. Warmer. Still not a locked WR2 chip.",
-    "Kittle is on the plane and trending toward Week 1 on a snap count. That does not make him a 3rd-round chip.",
-    "Henderson is not a locked Wednesday RB2 chip. DNP Thursday. No practice since Aug 24. Stevenson is the chip.",
+    "Evans practiced Wednesday and is in Melbourne. Warmer. Still not a locked WR2 chip.",
+    "Kittle is in Melbourne and trending toward Week 1 on a snap count. That does not make him a 3rd-round chip.",
+    "Henderson is not a locked Wednesday RB2 chip. DNP Thursday. No practice since Aug 24. Patriots off Friday. Stevenson is the chip.",
     "Pacheco on Lions IR with no timetable does not create a new startable Lions RB. It just makes Gibbs scarcer.",
     "Mendoza is on the Raiders 53, not the practice squad. Ignore recaps that demote him.",
-    "Swift Thursday core exit is a watch, not a locked Week 1 out. Severity is MISSING. Have a Bears RB dart if you own him."
+    "Swift Thursday exit was a cramp (Schefter). Do not sell him as damaged. Do not buy Monangai as if Swift is out.",
+    "Nacua next visual is Sunday Rams practice, not Friday. McVay will not discuss injuries today."
   ],
   "ripoff_flags": [
-    "Josh Jacobs + a 2nd for a healthy RB2 — Jacobs cannot play",
-    "Mahomes straight-up for Dak/TLaw/Purdy without Fields — still un-cleared ACL return",
-    "Jeanty as a 1st-round chip today — Kubiak yes is not team; Thursday visual MISSING; ankle plus Washington committee talk",
-    "Henderson as a locked Wednesday RB2 chip — DNP Thursday; no practice since Aug 24; short week",
-    "Evans as a locked WR2 chip — on the plane; still groin + Australia",
-    "Kittle as a 3rd-round chip because he is in the air — Barrows is sure of a snap count",
-    "Conner, Dell, Benson, Blue, Tillman, Milton, Levis, or Pacheco buy-low — IR / practice-squad / workout dead cap on a 10-team bench",
-    "Bowers for a mid QB2 — Superflex tax; keep the TE1 or get a QB1",
-    "Sending two startable QBs for one elite skill player — 10-team still punishes 1-QB rosters",
-    "Trading Davis for Demercado plus anything — they are the same cuff",
-    "Any kicker or DST package — this league does not start them",
-    "Jaydon Blue as Eagles upside — PHI PS behind Saquon, Bigsby, and Shipley",
-    "Cedric Tillman as Saints WR2 — NO PS behind Olave/Vele/Lance",
-    "Joe Milton as Superflex depth — DAL PS behind Dak/Howell",
-    "Will Levis as Superflex depth — unsigned Jets PS workout",
-    "Trey Benson as if he has a snap path — ARI IR",
-    "Isiah Pacheco as a Gibbs cuff in 10-team — Lions IR, Holmes no timetable; Vaki/Saylors are not startable here",
-    "Khalil Shakir as a Week 1 flex chip — optimism is not team; out of team since mid-August",
-    "Swift as an every-down chip tonight without asking about the core — Thursday exit; severity MISSING"
+    "Josh Jacobs + a 2nd for a healthy RB2 \u2014 Jacobs cannot play",
+    "Mahomes straight-up for Dak/TLaw/Purdy without Fields \u2014 still un-cleared ACL return",
+    "Jeanty as a 1st-round chip today \u2014 Kubiak yes is not team; Friday visual MISSING; ankle plus Washington committee talk",
+    "Henderson as a locked Wednesday RB2 chip \u2014 DNP Thursday; no practice since Aug 24; Patriots off Friday; short week",
+    "Evans as a locked WR2 chip \u2014 in Melbourne; still groin + Australia",
+    "Kittle as a 3rd-round chip because he landed \u2014 Barrows is sure of a snap count",
+    "Conner, Dell, Benson, Blue, Tillman, Milton, Levis, or Pacheco buy-low \u2014 IR / practice-squad / workout dead cap on a 10-team bench",
+    "Bowers for a mid QB2 \u2014 Superflex tax; keep the TE1 or get a QB1",
+    "Sending two startable QBs for one elite skill player \u2014 10-team still punishes 1-QB rosters",
+    "Trading Davis for Demercado plus anything \u2014 they are the same cuff",
+    "Any kicker or DST package \u2014 this league does not start them",
+    "Jaydon Blue as Eagles upside \u2014 PHI PS behind Saquon, Bigsby, and Shipley",
+    "Cedric Tillman as Saints WR2 \u2014 NO PS behind Olave/Vele/Lance",
+    "Joe Milton as Superflex depth \u2014 DAL PS behind Dak/Howell",
+    "Will Levis as Superflex depth \u2014 unsigned Jets PS workout",
+    "Trey Benson as if he has a snap path \u2014 ARI IR",
+    "Isiah Pacheco as a Gibbs cuff in 10-team \u2014 Lions IR, Holmes no timetable; Vaki/Saylors are not startable here",
+    "Khalil Shakir as a Week 1 flex chip \u2014 optimism is not team; out of team since mid-August",
+    "Selling Swift as a damaged every-down chip \u2014 Schefter: it was a cramp",
+    "Buying Monangai as if Swift is out \u2014 the emergency path shrank this morning"
   ]
 }
