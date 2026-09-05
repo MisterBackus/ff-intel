@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-05 morning file marks **McVay Friday on Nacua** (high-speed work with Reggie Scott; still not team; Sunday is the tell; 82→83), a **Falcons QB presser Wednesday 9/9 3:45 ET** (starter still unnamed), and **open Saturday windows** (Patriots practice today — Henderson still 0 since Aug 24; Melbourne Saturday report MISSING). Mahomes already priced Friday evening (Pelissero warmer, Reid not cleared).
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-05 evening file marks **TreVeyon Henderson DNP Saturday** (Reiss/Callahan/MDS; 23→21) after Vrabel “we’ll see,” **Rhamondre Stevenson +2 to 32** as the Wednesday lead, a **49ers AAMI Park session with no player designations** (Kittle/Evans still MISSING), and **Jeremy Fowler: Falcons QB as early as Monday** (starter still unnamed). Nacua already priced this morning (83). NFL.com Week 1 report still empty.
 
 ## Latest
 
