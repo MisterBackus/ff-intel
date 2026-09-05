@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-04 evening file marks **Pelissero: all signs pointing toward Mahomes Week 1** (still not Reid-cleared; Fields remains the cuff), a **Dell $1.7M restructure** that does not create snaps, and a **closed Friday injury window** (Jeanty/Love/Tuten/Egbuka/Henderson/Nacua visuals MISSING). Saturday: Patriots practice + 49ers Melbourne. Sunday: Rams practice (Nacua).
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-05 morning file marks **McVay Friday on Nacua** (high-speed work with Reggie Scott; still not team; Sunday is the tell; 82→83), a **Falcons QB presser Wednesday 9/9 3:45 ET** (starter still unnamed), and **open Saturday windows** (Patriots practice today — Henderson still 0 since Aug 24; Melbourne Saturday report MISSING). Mahomes already priced Friday evening (Pelissero warmer, Reid not cleared).
 
 ## Latest
 
