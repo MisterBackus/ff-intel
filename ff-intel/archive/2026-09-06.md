@@ -1,31 +1,31 @@
 # FF-Intel — 10-team Superflex Half-PPR (no K / no DST)
 
-- **Generated:** Sunday, September 6, 2026, 8:15 AM ET (America/New_York)
+- **Generated:** Sunday, September 6, 2026, 6:20 PM ET (America/New_York)
 - **NFL week:** Preseason / Week 0 (draft week)
 - **Season:** 2026 NFL · Platform: Sleeper · $100 FAAB
 - **Data freshness:**
   - 53-man rosters locked Sunday, Aug 30, 6:00 PM ET
-  - Official Week 1 injury reports are **not required until game week** (Sept 7–9). NFL.com Week 1 report is still **empty** Sunday morning (“No Injuries Reported” for Wed NE@SEA, Thu SF vs LAR, and every other Week 1 game). Patriots official practice report **not posted**
-  - Superflex values: FantasyPros Superflex ECR **Sep 4** (Maye still **QB3**; Henderson ECR RB25 / Stevenson RB26 — we have Stevenson ahead on availability) + Sunday-morning beat sweep. Thin spots labeled **GUESS**
-  - **Risers/fallers vs Saturday 6:20 PM ET board**
-  - **Still closed from Saturday:** Patriots **Henderson DNP** (Reiss / Callahan / MDS). **0 practices since Aug 24. Two left (Sun/Mon).** Stevenson 32 / Henderson 21 already priced last night
-  - **Sunday tells not open yet:** Rams practice **2:45–4:20 p.m. PT** (Nacua team-drill). Patriots Sunday practice (Henderson’s last weekend chance). Do not invent either result
+  - Official Week 1 injury reports are **not required until game week** (Sept 7–9). NFL.com Week 1 report is still **empty** Sunday evening (“No Injuries Reported” for Wed NE@SEA, Thu SF vs LAR, and every other Week 1 game). Patriots official practice report **still not posted**
+  - Superflex values: FantasyPros Superflex ECR **Sep 4** (Maye still **QB3**; Henderson ECR RB25 / Stevenson RB26 — we have Stevenson further ahead on availability) + Sunday-evening beat sweep. Thin spots labeled **GUESS**
+  - **Risers/fallers vs Sunday 8:15 AM ET board**
+  - **Closed Sunday:** Patriots practiced. **Henderson not present / not on the field** (Mike Reiss media-access; Alex Barth, 98.5 The Sports Hub). **0 practices since Aug 24. Only Monday left, then fly.** Stevenson 32→34. Henderson 21→19
+  - **Rams window is open now:** Practice **2:45–4:20 p.m. PT (5:45–7:20 p.m. ET)**. No published Nacua team-drill designation as of 6:20 PM ET. **MISSING.** Do not invent it
   - **49ers off Sunday** in Melbourne after Saturday AAMI Park light session. Kittle contact / Evans hold still **MISSING** until Mon–Wed game-week practices
-  - **New vs Saturday 6:20 PM:** Ian Rapoport (Sat ~4:35 PM ET, missed last night): **Egbuka expected back at practice next week**, Week 1 in play. Still not team. Value 36→37
+  - Egbuka Rapoport “practice next week” already priced this morning (37). Still not team
   - Jeremy Fowler (ESPN): Falcons QB **as early as Monday**. Starter still unnamed. Presser still Wed 9/9 3:45 ET
-  - Jeanty / Love / Tuten team visuals still **MISSING**. Levis still unsigned. Browning still FA. Chase/Higgins wait until Monday. Swift/Odunze: Bears still off
+  - Jeanty / Love / Tuten team visuals still **MISSING**. Levis still unsigned. Browning still FA. Hunt still unsigned. Chase/Higgins wait until Monday. Swift/Odunze: Bears still off
 
 ---
 
 ## 1. League week context
 
-**Now:** Sunday morning of Labor Day weekend. First kickoff is **3 days** away (Wed 9/9 8:20 PM ET). No byes Week 1. Drafts still run today and Labor Day. **Henderson’s Saturday DNP still stands. Today’s two tells (Patriots practice; Rams 2:45–4:20 p.m. PT) have not happened yet.**
+**Now:** Sunday evening of Labor Day weekend. First kickoff is **3 days** away (Wed 9/9 8:20 PM ET). No byes Week 1. Drafts still run tonight and Labor Day. **Henderson’s Sunday tell closed as another miss (not present / not on the field). Only Monday practice left. Rams Nacua team-drill window is open now — no published designation yet.**
 
 **Week 1 kickoff window**
 
 | When (ET) | Game | Note |
 |---|---|---|
-| Wed 9/9 8:20p NBC | NE @ SEA | Super Bowl rematch. **Lineup lock is Wednesday** for Maye, Darnold, JSN, Price, A.J. Brown, **Stevenson (lead) / Henderson (DNP Saturday; 0 practices since 8/24; two practices left)** |
+| Wed 9/9 8:20p NBC | NE @ SEA | Super Bowl rematch. **Lineup lock is Wednesday** for Maye, Darnold, JSN, Price, A.J. Brown, **Stevenson (clear-cut starter) / Henderson (DNP Sat+Sun; 0 practices since 8/24; only Monday left)** |
 | Thu 9/10 8:35p Netflix | SF vs LAR (Melbourne) | International short week. Nacua (**McVay: high-speed work; Sunday team visual**), Kyren, Purdy, CMC, **Kittle (snap-count if active)**, Evans/Stribling |
 | Sun 9/13 1:00p | 8 games | CHI@CAR (**Swift = cramp; Odunze preliminary all-good**), TB@CIN, NO@DET, BUF@HOU, BAL@IND, CLE@JAC, ATL@PIT, NYJ@TEN |
 | Sun 9/13 4:25p | ARI@LAC, MIA@LV, GB@MIN, WAS@PHI | Jeanty/Washington, Lloyd, Love/Allgeier, Hampton |
@@ -35,16 +35,16 @@
 **Byes this week:** None (preseason). Week 1: none.
 
 **Short weeks / travel**
-- SEA/NE play Wednesday — treat as TNF+1. Do not leave those players on the bench after weekend drafts. Henderson has **not practiced in 13 days** (Saturday DNP). Stevenson is the conservative lock until he returns to practice.
+- SEA/NE play Wednesday — treat as TNF+1. Do not leave those players on the bench after weekend drafts. Henderson has **not practiced since Aug 24** (Sat + Sun misses). Stevenson is the lock. Reiss: **clear-cut starter regardless.**
 - **49ers:** Landed Melbourne Friday 7:50 a.m. local. **Light practice happened Saturday at AAMI Park.** No player designations published. Off Sunday, normal Mon–Wed, play Thursday ET.
 - **Rams:** McVay spoke Friday. Nacua is in performance-staff speed work, not confirmed in team. Practice **Sun / Mon / Tue** in Woodland Hills (Sun 2:45–4:20 p.m. PT), fly Wednesday, one Melbourne walkthrough Thursday.
-- Patriots have **Sun / Mon** practices left, then fly Monday afternoon. Official Henderson designations still **MISSING** (NFL.com empty; MDS: first official report not posted as of 3:41 PM ET).
+- Patriots have **Monday practice only**, then fly Monday afternoon. Official Henderson designations still **MISSING** (NFL.com still empty Sunday evening; beat DNP Sat+Sun is the fact).
 - KC/DEN have the long week (Monday). Mahomes clearance can still slip.
 
 **Weather:** None that changes a start/sit. Week 1 forecasts are still days out. **MISSING.**
 
 **Deadlines that matter**
-- **Today (Sun 9/6):** **Rams practice 2:45–4:20 p.m. PT** — Nacua first team-drill tell since Monday side work. **Patriots Sunday practice** — Henderson’s last weekend chance (0 since 8/24). If he DNP again, Week 1 is in real trouble (Alper: if still out at the start of next week, it may be Week 2). Labor Day weekend drafts still run.
+- **Today (Sun 9/6, evening):** Patriots practiced — **Henderson not present / not on the field** (Reiss / Barth). Weekend is a wash. **Rams practice 2:45–4:20 p.m. PT is in progress / wrapping** — no published Nacua team-drill designation as of 6:20 PM ET. **MISSING.** Labor Day weekend drafts still run tonight.
 - **Mon 9/7 Labor Day:** Last Patriots practice, then fly Monday afternoon. Last comfortable Sleeper draft night. Bengals back on the field (Chase/Higgins). Fowler: Falcons QB decision **as early as Monday**. 49ers resume Melbourne game-week practices (Kittle/Evans first real designations).
 - **Tue 9/8:** Official injury-report window opens for most Sunday teams. Rams last Woodland Hills practice, then fly Wednesday.
 - **Wed 9/9 3:45 PM ET:** Falcons **Starting QB Press Conference** (announcement date, not a lock that they wait until then).
@@ -56,13 +56,13 @@
 
 ## 2. Injuries and availability (most important)
 
-Official practice reports start game week (Rams/49ers Tuesday; Patriots official report still **not posted** Sunday morning). Statuses use beat/NFL reporting + 53-man/PUP/IR/exempt + Saturday-closed notes. **Sunday visuals are not in yet.**
+Official practice reports start game week (Rams/49ers Tuesday; Patriots official report still **not posted** Sunday evening). Statuses use beat/NFL reporting + 53-man/PUP/IR/exempt + Sunday-closed Patriots notes. **Rams Nacua team-drill designation is still MISSING.**
 
 ### Must act today (draft / stash / fade)
 
 | Player | Pos | Team | Status | Injury | If they play | If they sit | Handcuff in THIS league | Flag |
 |---|---|---|---|---|---|---|---|---|
-| TreVeyon Henderson | RB | NE | **Questionable / DNP Saturday** | Right ankle (cut, 8/24). **No practice since 8/24 (13 days).** Walking without a limp. **Reiss/Callahan/MDS: DNP Saturday. Not dressed.** Sunday practice **not reported yet**. One weekend session + Monday left, then fly. NBC: **legitimate trouble of missing Week 1** | Committee only if he suddenly ramps Sun–Mon | **Rhamondre Stevenson is the clear Wednesday lead** (Reiss). Corey Kiner mix | **Stevenson startable now** (RB2/flex). Kiner is a speculative mix-in, not a 10-team start. Haskins/Larison are PS | **MUST ACT** — do not lock Henderson as your Wed RB2; start Stevenson |
+| TreVeyon Henderson | RB | NE | **Questionable / DNP Sat+Sun** | Right ankle (cut, 8/24). **No practice since 8/24.** Walking without a limp. **Reiss: not present for Sunday media access. Barth (98.5): not on the field.** Only Monday left, then fly. Reiss: if active, No. 2 on a possible snap count. NBC already called Week 1 **legitimate trouble** | Committee / snap-count only if he suddenly ramps Monday | **Rhamondre Stevenson is the clear-cut starter** (Reiss Sunday). Corey Kiner mix; Larison and/or Haskins likely PS elevations | **Stevenson startable now** (RB2/flex). Kiner is a speculative mix-in, not a 10-team start. Haskins/Larison are PS | **MUST ACT** — do not lock Henderson as your Wed RB2; start Stevenson |
 | Josh Jacobs | RB | GB | **Exempt** | Off-field; also groin in camp. Gutekunst still expects him at some point in 2026 | N/A — cannot practice or play | MarShawn Lloyd is the lead. Packers also traded for Kaleb Johnson | **Lloyd startable now** (RB2/flex). Johnson is a stash, not a Week 1 start | **MUST ACT** — fade Jacobs; draft Lloyd |
 | Zach Charbonnet | RB | SEA | **PUP** | Knee / ACL (Feb) | N/A until Week 5 at earliest | **Jadarian Price** early downs; Destin: Holani on 3rd/short/GL **GUESS** | **Price startable** (RB2/flex Weeks 1–4). Holani is a vulture, not a 10-team start | **MUST ACT** |
 | James Conner | RB | ARI | **IR** (return) | Ankle (2025) — ~12-month recovery if Week 5 | Unlikely any 2026 impact | Love if healthy; **Tyler Allgeier** volume now | Allgeier **startable flex**. Love Saturday visual **MISSING** | **MUST ACT** — do not draft Conner |
@@ -72,7 +72,7 @@ Official practice reports start game week (Rams/49ers Tuesday; Patriots official
 | Ashton Jeanty | RB | LV | **Questionable / Limited** | Low-ankle sprain (~8/23). Not on IR. Wed: DNP team. Kubiak: **“Yes”** optimistic Week 1. **Saturday team visual MISSING** | Lead back vs MIA 9/13 | **Mike Washington Jr.** (1s + Spytek praise) | Washington **startable if Jeanty sits**; draft him as the cuff | **MUST ACT** — do not pay 1st/early 2nd without a plan |
 | Patrick Mahomes | QB | KC | **Limited / not game-cleared** | ACL+LCL (Dec 2025). Full camp; zero preseason snaps. **Pelissero Fri: all signs pointing toward Week 1.** Reid still has **not** cleared him | QB1 vs DEN MNF if cleared | **Justin Fields** (Chiefs) is the Superflex streamer | Fields is a **must-roster SF cuff** in 10-team | **MUST ACT** — pair Mahomes with Fields or fade a half-tier |
 | Jaydon Blue | RB | PHI | **Practice squad** | Healthy; waived by DAL, signed PHI PS Mon night | N/A — not on 53 | N/A | **Behind Saquon, Tank Bigsby, Will Shipley.** Also Pierce/Steele on PS | **MUST ACT** — drop if rostered; do not draft in 10-team |
-| Puka Nacua | WR | LAR | **Limited → ramping** | Psoas/groin, missed ~3 weeks. Returned last Sunday; Monday side work. **McVay Fri: high-speed yards with Reggie Scott; “when we get back out there.”** Not confirmed in team. Rams off Saturday. **Today 2:45–4:20 p.m. PT is the team-drill tell — not in yet** | WR1 vs SF in Melbourne if active Thursday | Adams/Kyren/Atwell hold | Start if active Thursday. Confirm today’s team session before locking a 1.02 | **MUST ACT** — warmer words, still not a locked team practice |
+| Puka Nacua | WR | LAR | **Limited → ramping** | Psoas/groin, missed ~3 weeks. Returned last Sunday; Monday side work. **McVay Fri: high-speed yards with Reggie Scott; “when we get back out there.”** Not confirmed in team. Rams off Saturday. **Today’s 2:45–4:20 p.m. PT window is open; no published team-drill designation as of 6:20 PM ET** | WR1 vs SF in Melbourne if active Thursday | Adams/Kyren/Atwell hold | Start if active Thursday. Confirm a team-drill note before locking a 1.02 | **MUST ACT** — warmer words, still not a locked team practice |
 | Mike Evans | WR | SF | **Questionable → ramping** | Adductor / groin. Practiced Wednesday. **On the ground in Melbourne.** Saturday AAMI Park session happened; **player hold still MISSING** | WR2/flex if he holds | **De'Zhaun Stribling** + Deebo get the snaps | Stribling is a late dart only if Evans sits Australia | **MUST ACT** — landed, still not a locked WR2 |
 
 ### Other relevant names (not just stars)
@@ -118,7 +118,7 @@ Official practice reports start game week (Rams/49ers Tuesday; Patriots official
 | Jakobi Meyers | WR | JAC | Limited | Hand | Expected to participate Wednesday (O’Halloran) | WR2/3 if full | 10-team dart only. Not a must-add |
 | Ollie Gordon II | RB | MIA | Limited | Ribs | Wed: non-contact jersey (Poupart) | Achane cuff if he ramps | Speculative — only if you own Achane |
 | Joe Milton | QB | DAL | **Practice squad** | Healthy; waived Mon, **re-signed DAL PS Wednesday** | N/A | Behind Dak / Howell | **Not a 10-team add.** $0 |
-| Will Levis | QB | FA | **Free agent** | Healthy | Worked out Thursday for Jets PS (Schefter / Rosenblatt). **Still unsigned Saturday evening** | N/A until a 53 | **$0.** Practice-squad dart only |
+| Will Levis | QB | FA | **Free agent** | Healthy | Worked out Thursday for Jets PS (Schefter / Rosenblatt). **Still unsigned Sunday evening** | N/A until a 53 | **$0.** Practice-squad dart only |
 | Anthony Richardson | QB | IND | Healthy | Named **QB2** behind Jones (Steichen Thursday) | Available | Pure SF lottery if Jones sits | Not a 10-team start |
 
 **Jordan Love (QB, GB):** Healthy. Prior ankle talk is stale. Week 1 starter at MIN.
@@ -133,7 +133,7 @@ Official practice reports start game week (Rams/49ers Tuesday; Patriots official
 - If **Mahomes** sits MNF: **Justin Fields** (KC) is the add/start. Next: Nix is already a start.
 - If a mid-QB goes down in-season: **Bryce Young, Jacoby Brissett, Aaron Rodgers, Kirk Cousins, Geno Smith, Daniel Jones, Cam Ward, Tyler Shough, Sam Darnold, Deshaun Watson** are the Week 1–4 streamer pool. 10-team: only 2–3 of these should be rostered as QB3s.
 - **Brady Cook** is on the Dolphins 53 behind Willis. Not startable unless Willis sits.
-- **Will Levis:** Jets PS workout Thursday. Still unsigned Saturday evening. $0 until a 53-man job.
+- **Will Levis:** Jets PS workout Thursday. Still unsigned Sunday evening. $0 until a 53-man job.
 - **Jake Browning:** still a free agent. Declined a TB practice-squad offer. $0 until a 53-man job.
 - **Joe Milton:** Cowboys practice squad. Still $0 in this league.
 
@@ -141,15 +141,14 @@ Official practice reports start game week (Rams/49ers Tuesday; Patriots official
 
 ## 3. News that changes value
 
-Only snaps / usage. No rumor filler. **Bold = new since Saturday 6:20 PM ET packet.**
+Only snaps / usage. No rumor filler. **Bold = new since Sunday 8:15 AM ET packet.**
 
-- **Ian Rapoport (NFL Network, Sat ~4:35 PM ET):** **Egbuka expected back at practice next week**; Week 1 vs CIN still in play. DraftSharks / FantasyLife carried it after last night’s packet. Still not team. Bowles already said “better gauge next week.” Value 36→37. **Do not pay locked WR2.**
-- **Sunday tells not open (8:15 AM ET).** Rams practice is **2:45–4:20 p.m. PT**. Patriots Sunday practice not reported. Do not invent Nacua team drills or a Henderson return.
-- **NFL.com Week 1 injury report still empty** Sunday morning — “No Injuries Reported” for Wed NE@SEA, Thu Melbourne, and every other Week 1 game. Patriots official report still **not posted**.
+- **Mike Reiss (ESPN / Rotoworld) + Alex Barth (98.5 The Sports Hub):** **Henderson not present for Sunday media access / not on the field.** Second straight DNP. **0 practices since Aug 24.** Only Monday left, then fly. Reiss Sunday: Stevenson is the **clear-cut starter regardless**; if Henderson sits, Larison and/or Haskins are the likely PS elevations next to Kiner. Value **Henderson 21→19 / Stevenson 32→34**. Official NFL.com report still empty.
+- **Rams practice window is open now (2:45–4:20 p.m. PT).** No published Nacua team-drill designation as of 6:20 PM ET. McVay Friday high-speed work already priced (83). **MISSING. Do not invent it.**
+- Ian Rapoport (NFL Network, Sat ~4:35 PM ET): Egbuka expected back at practice next week; Week 1 vs CIN still in play. Already priced this morning (36→37). Still not team. **Do not pay locked WR2.**
+- **NFL.com Week 1 injury report still empty** Sunday evening — “No Injuries Reported” for Wed NE@SEA, Thu Melbourne, and every other Week 1 game. Patriots official report still **not posted**.
 - **49ers off Sunday** in Melbourne. Saturday AAMI Park session produced **no player designations**. Kittle contact / Evans hold still **MISSING** until Mon–Wed.
-- **Will Levis still unsigned** Sunday morning after Thursday’s Jets PS workout. Browning still FA. Hunt still unsigned after the Aug 25 Lions visit. $0.
-- TreVeyon Henderson DNP Saturday (Reiss / Callahan / MDS). **0 practices since Aug 24.** Sunday/Monday left. Already priced 23→21 last night. Stevenson remains the Wednesday lead at 32.
-- McVay Friday on Nacua (Barshop / ESPN). Speed work ≠ team drills. **Today 2:45–4:20 p.m. PT is the team visual.** Unchanged overnight — Rams were off Saturday.
+- **Will Levis still unsigned** Sunday evening after Thursday’s Jets PS workout. Browning still FA. Hunt still unsigned after the Aug 25 Lions visit. $0.
 - Jeremy Fowler: Falcons QB **as early as Monday**. Presser still Wed 9/9 3:45 ET. Starter still unnamed.
 - Pelissero (Rich Eisen, Fri ~2:16 PM ET): “all signs are pointing toward” Mahomes Week 1. Reid still has **not** confirmed. Still **not game-cleared**. Fields remains the required cuff. Unchanged overnight.
 - Tank Dell $1.7M one-year restructure (NBC Sports Friday). Cap housekeeping. Still IR/PUP, still misses Weeks 1–4. Unchanged.
@@ -202,7 +201,7 @@ Bids are **% of $100 and dollars**. Priority assumes a typical 10-team Sleeper (
 | Jadarian Price | RB | SEA | Lead early-down back Weeks 1–4+; Wednesday debut vs NE. Holani may vulture short/GL **GUESS** | Draft / 10–16% / $10–$16 | **Must-add** |
 | Mike Washington Jr. | RB | LV | Jeanty cuff + standalone. Kubiak optimism is not team. Washington still ran 1s | 8–12% / $8–$12 | **Must-add** |
 | Travis Etienne Jr. | RB | NO | Kamara out ~month; 53-man lead back. Neal is a settlement, not a threat | Should be drafted; 8–14% / $8–$14 if free | **Must-add** |
-| Rhamondre Stevenson | RB | NE | **Clear Wednesday lead** after Henderson’s Saturday DNP (13 days out). Startable RB2/flex | 8–12% / $8–$12 if free | **Must-add** |
+| Rhamondre Stevenson | RB | NE | **Clear-cut Wednesday starter** after Henderson Sat+Sun misses (Reiss). Startable RB2/flex | 8–14% / $8–$14 if free | **Must-add** |
 | Tyler Allgeier | RB | ARI | Conner IR + Love still not practicing. Proven vulture / early-down | 6–10% / $6–$10 | Strong |
 | Malik Davis | RB | DAL | Still the primary Javonte backup after Blue wipeout | 3–6% / $3–$6 | Strong (if you have Javonte) else Speculative |
 | Emari Demercado | RB | DAL | Claimed Monday. Competing cuff with Davis. Pass-game / ST juice | 2–4% / $2–$4 | Speculative — only if you own Javonte and missed Davis |
@@ -251,7 +250,7 @@ Week 1 is 4 days out — this is a **draft + early W1** board, not locked lineup
 **Sit / trap / stream only:** Kirk Cousins, Geno Smith, Daniel Jones, Cam Ward, Sam Darnold (**Wed — streamable**), Bryce Young, Jacoby Brissett, Aaron Rodgers, **Deshaun Watson**, **any Falcons QB (presser Wed 3:45 ET; starter unnamed)**, Brady Cook, **Joe Milton (DAL PS)**, **Will Levis (Jets PS workout, unsigned)**.
 
 **Blind-start traps**
-- **Henderson as a locked Wednesday RB2.** Ankle, **DNP Saturday**, no practice since Aug 24, short week. Two practices left. Stevenson is the start.
+- **Henderson as a locked Wednesday RB2.** Ankle, **DNP Sat+Sun**, no practice since Aug 24, short week. Only Monday left. Stevenson is the start.
 - **Mahomes in the 3rd–4th** as if he’s 2024 Mahomes. Camp participant, not game-cleared. Pair or fade.
 - **Jacobs as your RB2.** He cannot play.
 - **Jaydon Blue as a dart.** PHI practice squad, fourth or fifth in line. Still a drop.
@@ -272,15 +271,15 @@ Week 1 is 4 days out — this is a **draft + early W1** board, not locked lineup
 
 **Must-start:** Gibbs (**Pacheco IR = even more volume**), Bijan, CMC, Jonathan Taylor, James Cook.
 
-**Strong:** Chase Brown, Saquon, Achane, Omarion Hampton, Kenneth Walker (KC), Henry, Kyren, Javonte, Etienne (Kamara out), Price (Charbonnet PUP), Lloyd (Jacobs exempt), **Stevenson (Wednesday lead after Saturday DNP)**, **Swift (cramp, not a sit)**.
+**Strong:** Chase Brown, Saquon, Achane, Omarion Hampton, Kenneth Walker (KC), Henry, Kyren, Javonte, Etienne (Kamara out), Price (Charbonnet PUP), Lloyd (Jacobs exempt), **Stevenson (clear-cut Wednesday starter after Sat+Sun DNPs)**, **Swift (cramp, not a sit)**.
 
-**Toss-up:** Jeanty (health — Kubiak yes, still not team), Hall (groin), Bucky Irving, Quinshon Judkins, **Bhayshul Tuten (illness DNP Wed; Sat MISSING)**, **TreVeyon Henderson (DNP Saturday; do not lock Wednesday)**, Allgeier (Love still not practicing), Hubbard (practiced Tue; Brooks committee), Monangai (only if Swift sits and he is active — unlikely after cramp news).
+**Toss-up:** Jeanty (health — Kubiak yes, still not team), Hall (groin), Bucky Irving, Quinshon Judkins, **Bhayshul Tuten (illness DNP Wed; weekend MISSING)**, Allgeier (Love still not practicing), Hubbard (practiced Tue; Brooks committee), Monangai (only if Swift sits and he is active — unlikely after cramp news).
 
-**Sit / trap:** Jacobs, Conner, Charbonnet, Kamara, Pacheco, Sean Tucker, Kaleb Johnson (playbook), Love if still limited, Blue, Benson, 4th RBs on any depth chart.
+**Sit / trap:** **TreVeyon Henderson (DNP Sat+Sun; even if active, Reiss says No. 2 on a possible snap count)**, Jacobs, Conner, Charbonnet, Kamara, Pacheco, Sean Tucker, Kaleb Johnson (playbook), Love if still limited, Blue, Benson, 4th RBs on any depth chart.
 
 ### WR
 
-**Must-start:** Ja’Marr Chase (**if active** — did not work Thursday, expected W1, Sunday game), Puka Nacua (**if active Thu** — McVay high-speed warmer; confirm Sunday team), JSN (**Wed**), Amon-Ra, CeeDee, Jefferson.
+**Must-start:** Ja’Marr Chase (**if active** — did not work Thursday, expected W1, Sunday game), Puka Nacua (**if active Thu** — McVay high-speed warmer; today’s team-drill still **MISSING**), JSN (**Wed**), Amon-Ra, CeeDee, Jefferson.
 
 **Strong:** Drake London, A.J. Brown (**Wed**), Nico Collins, George Pickens, Chris Olave, Rashee Rice, DeVonta Smith, Tee Higgins (**heel; three straight DNPs; Taylor says good by week’s end**), **Zay Flowers (back at practice Thursday)**.
 
@@ -302,7 +301,7 @@ Week 1 is 4 days out — this is a **draft + early W1** board, not locked lineup
 
 ## 6. Matchups that matter (Week 1 only)
 
-- **NE @ SEA (Wed):** Maye and JSN are smash starts. Price is a volume play even in a tough box; Destin’s Holani short/GL note is a TD-vulture tax, not a sit. **Henderson is not a blind-start** — Saturday DNP, 13 days of no practice + short week. **Start Stevenson.** SEA can force NE into passing (good for Brown, mixed for RBs).
+- **NE @ SEA (Wed):** Maye and JSN are smash starts. Price is a volume play even in a tough box; Destin’s Holani short/GL note is a TD-vulture tax, not a sit. **Henderson is not a blind-start** — Sat+Sun DNP, 0 practices since Aug 24 + short week. **Start Stevenson.** SEA can force NE into passing (good for Brown, mixed for RBs).
 - **SF vs LAR (Thu, Melbourne):** High-profile, short rest, travel. Start Nacua/Kyren/CMC/Purdy **if active**. **Nacua: McVay Friday high-speed work; Sunday is the team-drill tell.** **Kittle is in Melbourne and trending toward playing on a snap count** — start only if you have no safer TE; have a TE2 plan. Saturday AAMI Park session happened; contact designation **MISSING**. **Evans practiced Wednesday and landed** — Saturday hold still **MISSING**; still not a blind-start; Stribling is the pivot only if he sits. Donald more likely Week 2–3 (Graziano) — tiny Purdy help, not a sit.
 - **CHI @ CAR:** **Swift is a strong start again** after the cramp clarification. Odunze is a toss-up until next week’s report, but preliminary all-good. Burden is a CHI WR3, not a paid pivot. Young is a streamer, not a smash.
 - **NO @ DET:** Etienne vs a good Lions front is not pretty, but volume is volume while Kamara is out. **Gibbs is even more of an auto** with Pacheco on IR and no timetable. Goff/ARSB are auto. Shough is a toss-up, not a smash.
@@ -327,7 +326,7 @@ No weather landmines. No Week 1 byes.
 
 Superflex: starting QBs are premium. QB2s still matter. Half-PPR: WRs hold; committee RBs discounted unless 15+ touch path. 10-team: do not pay up for a 4th RB.
 
-Trends below are **vs the Saturday 6:20 PM ET packet**.
+Trends below are **vs the Sunday 8:15 AM ET packet**.
 
 ### A. Tier list by position
 
@@ -401,13 +400,13 @@ Trends below are **vs the Saturday 6:20 PM ET packet**.
 | Bucky Irving | 34 | flat | TB lead-ish; Tucker devalued |
 | Quinshon Judkins | 32 | flat | CLE |
 | Tyler Allgeier | 31 | flat | Love still not practicing. Safer Week 1 ARI start |
-| Rhamondre Stevenson | 32 | flat | **Clear Wednesday lead** after Henderson’s Saturday DNP. Already priced last night (30→32) |
+| Rhamondre Stevenson | 34 | up | **Clear-cut Wednesday starter** (Reiss Sunday). Henderson Sat+Sun DNP. 32→34 |
 | Bhayshul Tuten | 29 | flat | JAC. Illness DNP Wednesday. Saturday visual MISSING. Watch, not a fade |
 | D’Andre Swift | 28 | flat | **Schefter: Thursday exit was a cramp.** Bears off. Restore as CHI RB2/flex |
 | Cam Skattebo | 28 | flat | NYG |
 | Mike Washington Jr. | 28 | flat | Jeanty cuff + standalone. Kubiak warmth does not kill the cuff |
 | Chuba Hubbard | 27 | flat | Practiced Tuesday; hamstring + Brooks committee |
-| TreVeyon Henderson | 21 | flat | Ankle; **DNP Saturday** (Reiss). 0 practices since 8/24. Sunday practice not in yet. One weekend + Monday left. Already priced last night (23→21) |
+| TreVeyon Henderson | 19 | down | Ankle; **DNP Sat+Sun** (Reiss / Barth). 0 practices since 8/24. Only Monday left. 21→19 |
 | Jaylen Warren | 22 | flat | PIT split |
 | Tony Pollard | 22 | flat | TEN |
 | Emmett Johnson | 20 | flat | KC RB2 |
@@ -489,13 +488,13 @@ Trends below are **vs the Saturday 6:20 PM ET packet**.
 | Dallas Goedert | 14 | flat | PHI |
 | Mark Andrews | 12 | flat | BAL |
 
-### B. Biggest risers / fallers (vs Saturday 6:20 PM ET packet)
+### B. Biggest risers / fallers (vs Sunday 8:15 AM ET packet)
 
-**Risers:** Emeka Egbuka (+1, Rapoport Sat ~4:35 PM: expected back at practice next week; Week 1 in play; still not team).
+**Risers:** Rhamondre Stevenson (+2, Reiss: clear-cut starter regardless; Henderson Sat+Sun misses; more Wednesday volume).
 
-**Fallers:** None overnight. Henderson’s Saturday DNP is already priced (21). Stevenson already priced (32).
+**Fallers:** TreVeyon Henderson (−2, not present / not on the field Sunday; 0 practices since Aug 24; only Monday left).
 
-Unchanged pending **today’s** visuals: Nacua **team** (Rams 2:45–4:20 p.m. PT — not in yet), Henderson Sunday practice (not in yet), Jeanty, Love, Tuten, Falcons QB (Fowler: as early as Monday; presser Wed), Evans/Kittle Melbourne designations (**MISSING**; 49ers off Sunday). Chase/Higgins wait until Monday. Swift/Odunze/Mahomes/Nacua-speed-work already moved earlier — still flat.
+Unchanged pending later visuals: Nacua **team** (Rams 2:45–4:20 p.m. PT window open; **no published designation as of 6:20 PM ET**), Jeanty, Love, Tuten, Falcons QB (Fowler: as early as Monday; presser Wed), Evans/Kittle Melbourne designations (**MISSING**; 49ers off Sunday). Chase/Higgins wait until Monday. Egbuka/Swift/Odunze/Mahomes already moved earlier — still flat.
 
 ### C. Fair 1-for-1 (equal value)
 
@@ -513,7 +512,7 @@ Unchanged pending **today’s** visuals: Nacua **team** (Rams 2:45–4:20 p.m. P
 - Fields ≈ Cousins (different shape: cuff vs starter)
 - Malik Davis ≈ Emari Demercado (do not trade a startable flex for either)
 - Love ≈ Allgeier **only as a 2–3 week bet**; Allgeier is the safer Week 1 chip
-- **Stevenson >> Henderson right now** (availability vs talent). Do not trade Stevenson straight for Henderson — gap widened after Saturday DNP
+- **Stevenson >> Henderson right now** (availability vs talent). Do not trade Stevenson straight for Henderson — gap widened again after Sunday DNP (34 vs 19)
 - Kittle ≈ Kraft **as a Week 1-if-active bet**; Kraft is still the safer “expected to play” chip. Snap-count makes Kraft the plus side
 - Evans ≈ Odunze (Evans is in Melbourne; Odunze preliminary all-good — both discounted WR3s)
 - Allen ≈ Downs (different shape: Week 1 veteran vs ROS legal hedge)
@@ -534,7 +533,7 @@ Side getting the **best player** sends extra.
 - Evans (28) + Stribling (9) ≈ Odunze (28) — do not pay a healthy WR3 for Evans alone
 - Gibbs (91) ≈ Bijan (88) + a late dart — do not give Gibbs straight for Bijan this week
 - Kittle (31) + a dart ≈ Kraft (34) — landing confirmation does not make Kittle a plus-player over Kraft
-- Stevenson (32) ≈ Henderson (21) + a late dart — do not give the Wednesday lead for the injured talent. Gap widened after Saturday DNP
+- Stevenson (34) ≈ Henderson (19) + a late dart — do not give the Wednesday starter for the injured talent. Gap widened again after Sunday DNP
 - Swift (28) ≈ Hubbard (27) — do not sell Swift as if the core was real
 
 In 10-team, 3-for-1s usually lose. Only do them if you are dumping a dead bench (Conner/Dell/Tyson/Blue/Tillman/Pacheco/Milton) to upgrade a starter.
@@ -544,7 +543,7 @@ In 10-team, 3-for-1s usually lose. Only do them if you are dumping a dead bench 
 - **Jacobs + a 2nd for a healthy RB2.** Jacobs cannot play. That’s a 1-for-nothing.
 - **Mahomes straight-up for a locked QB2 (Dak/TLaw/Purdy) without Fields.** Pelissero warmth is not Reid clearance. You’re still buying an un-cleared ACL return.
 - **Jeanty as a 1st-round chip today.** Kubiak “yes” is not team. Ankle + Washington committee talk.
-- **Henderson as a locked Wednesday RB2 chip.** Saturday DNP. 13 days of no practice. Short week. Two practices left. Stevenson is the chip.
+- **Henderson as a locked Wednesday RB2 chip.** Sat+Sun DNP. 0 practices since Aug 24. Short week. Only Monday left. Stevenson is the chip.
 - **Evans as a locked WR2 chip.** In Melbourne — warmer — still groin + Australia. Saturday hold **MISSING**. Do not pay WR2.
 - **Nacua as if Friday was a full team practice.** McVay described speed work with the performance staff. Sunday is the team tell.
 - **Kittle as a 3rd-round chip because he landed.** Landing ≠ snap share. Barrows is sure of a count. Saturday contact **MISSING**. He is a 5th/6th with upside.
@@ -562,7 +561,7 @@ In 10-team, 3-for-1s usually lose. Only do them if you are dumping a dead bench 
 
 **QB is the scarce position.** 20 starting SF slots, ~18 locked QBs you actually want. The cliff after Love/Mayfield/Murray is real. Saturday evening did **not** add a startable QB (Levis still unsigned; Falcons still unnamed — Fowler only added a Monday window; Browning still unsigned). Pelissero makes Mahomes a slightly less scary 4th–6th dart **if** you also roster Fields.
 
-**RB is the second scarce position this week** because Jacobs, Charbonnet, Conner, Kamara, Pacheco, and maybe Jeanty/Love/Hall/Hubbard/**Henderson (Saturday DNP)** are compromised. Swift coming off the worry list helps a little. Lloyd/Price/Etienne/Allgeier/Washington/**Stevenson** are the pressure-release valves. Pacheco’s no-timetable IR does **not** create a new startable Lions RB — it just makes Gibbs scarcer. Henderson’s Saturday DNP makes Stevenson scarcer for Wednesday.
+**RB is the second scarce position this week** because Jacobs, Charbonnet, Conner, Kamara, Pacheco, and maybe Jeanty/Love/Hall/Hubbard/**Henderson (Sat+Sun DNP)** are compromised. Swift coming off the worry list helps a little. Lloyd/Price/Etienne/Allgeier/Washington/**Stevenson** are the pressure-release valves. Pacheco’s no-timetable IR does **not** create a new startable Lions RB — it just makes Gibbs scarcer. Henderson’s Sunday miss makes Stevenson scarcer for Wednesday.
 
 WR is deep in 10-team Half-PPR. Evans/Egbuka/Higgins softness is why Godwin/Stribling matter as darts, not as paid pieces. Nacua’s Friday speed-work note is warmer, not a lock. Odunze is off the panic list if Friday’s preliminary holds. Flowers is off the worry list if Thursday holds. TE is Bowers/McBride then a long wait; Kittle is a snap-count Week 1 dart, not a panic-run target.
 
@@ -585,7 +584,7 @@ Only names with a real snap path.
 - **Harold Fannin Jr., TE, CLE** — Year-2 target share; startable TE2.
 - **Tyler Shough, QB, NO** — 53-man QB1. Startable SF QB2 if you miss the run.
 - **Jonathon Brooks, RB, CAR** — Hubbard practiced; Brooks soreness. Path this week if Chuba is limited.
-- **Corey Kiner, RB, NE** — Path if Henderson sits Wednesday (more likely after Saturday DNP). Behind Stevenson. Not a Week 1 start in 10-team.
+- **Corey Kiner, RB, NE** — Path if Henderson sits Wednesday (more likely after Sat+Sun DNP). Behind Stevenson. Not a Week 1 start in 10-team. Reiss: Larison/Haskins are the likelier PS elevations.
 - **Fernando Mendoza, QB, LV** — On the **53** behind Cousins. Ran 1s on a rest day. Path if Cousins slips, not Week 1.
 - **Brady Cook, QB, MIA** — On the 53 behind Willis. Path = Willis injury only.
 - **Cade Klubnik, QB, NYJ** — Only Geno backup. Path = Geno injury only. Levis is a PS workout, not a cut of Klubnik.
@@ -599,15 +598,15 @@ Only names with a real snap path.
 
 ## 9. What a manager should do today (draft week)
 
-1. **If you draft today–Labor Day:** Take a QB in the first two rounds unless Chase/Gibbs/Bijan/Nacua is the clear best player. Get **QB2 by the end of Round 6–7**. Do not walk out with one QB. Henderson’s Saturday DNP is closed. Today’s Nacua/Henderson visuals are **not in yet** — draft Stevenson/Price/Lloyd, not hopes.
+1. **If you draft tonight–Labor Day:** Take a QB in the first two rounds unless Chase/Gibbs/Bijan/Nacua is the clear best player. Get **QB2 by the end of Round 6–7**. Do not walk out with one QB. **Henderson Sat+Sun DNP is closed.** Draft Stevenson/Price/Lloyd, not hopes. Nacua team-drill still **MISSING** — do not invent it.
 2. **QB run timing:** Allen/Lamar/Maye/Burrow/Daniels/Hurts go 1.01–2.06. Maye is **QB3** on Superflex ECR (Sep 4) — still do not fade him into the 3rd. Caleb/Herbert/TLaw/Dak go late 2nd–3rd. Purdy/Dart/Nix/**Mahomes (Pelissero warmer, still pair Fields)**/Stafford/Goff/Love is the 4th–6th cluster. After that you are streaming.
 3. **Positional runs:** After the elite QB cluster, RB/WR mixed 2–4. TE run is Bowers/McBride in the 3rd–4th, then a long pause. In 10-team you can wait on TE after those two. **Do not join a Kittle panic run** — Barrows is sure of a snap count; Saturday AAMI Park session produced **no contact designation**. 49ers are off today.
-4. **Values:** Lloyd, Price, Etienne, Allgeier, Washington, Fields, **Stevenson (Wednesday lead)**, **Swift (cramp, not damaged)**, Boutte, Jones/Darnold as QB2s, Olave (Tyson out), Collins (room thinned), Warren (practiced), Downs (practiced; Allen ROS hedge), Flowers (back at practice), Love a round later than ADP, Gibbs a hair over Bijan this week. Nacua is 83 pending **today’s 2:45 p.m. PT team session**. Egbuka is 37 after Rapoport — still not a WR2 price. Kittle is a late-round TE2 dart, not a 4th-round buy.
-5. **Fades:** Jacobs, Conner, Dell (restructure ≠ snap path), Tyson, Charbonnet, Kirk, Guerendo, Sean Tucker, **Pacheco (DET IR, no timetable)**, **Jaydon Blue (PHI PS)**, **Cedric Tillman (NO PS)**, **Joe Milton (DAL PS)**, **Will Levis / Browning until a 53**, **Trey Benson (ARI IR)**, one-QB heroes, Kittle in the 4th, Evans as a locked WR2, **Egbuka as a locked WR2 (Rapoport ≠ team)**, **Henderson as a locked Wednesday RB2 (Saturday DNP; Sunday not in yet)**, Jeanty at full 1st-round price, Mahomes without Fields, **any Falcons QB as a locked QB2 (Fowler Monday window ≠ a name)**, Shakir as a locked flex, **Monangai as a Swift-out dart**.
+4. **Values:** Lloyd, Price, Etienne, Allgeier, Washington, Fields, **Stevenson (34, clear-cut Wednesday starter)**, **Swift (cramp, not damaged)**, Boutte, Jones/Darnold as QB2s, Olave (Tyson out), Collins (room thinned), Warren (practiced), Downs (practiced; Allen ROS hedge), Flowers (back at practice), Love a round later than ADP, Gibbs a hair over Bijan this week. Nacua is 83 pending a **published team-drill note**. Egbuka is 37 after Rapoport — still not a WR2 price. Kittle is a late-round TE2 dart, not a 4th-round buy.
+5. **Fades:** Jacobs, Conner, Dell (restructure ≠ snap path), Tyson, Charbonnet, Kirk, Guerendo, Sean Tucker, **Pacheco (DET IR, no timetable)**, **Jaydon Blue (PHI PS)**, **Cedric Tillman (NO PS)**, **Joe Milton (DAL PS)**, **Will Levis / Browning until a 53**, **Trey Benson (ARI IR)**, one-QB heroes, Kittle in the 4th, Evans as a locked WR2, **Egbuka as a locked WR2 (Rapoport ≠ team)**, **Henderson as a locked Wednesday RB2 (Sat+Sun DNP; only Monday left)**, Jeanty at full 1st-round price, Mahomes without Fields, **any Falcons QB as a locked QB2 (Fowler Monday window ≠ a name)**, Shakir as a locked flex, **Monangai as a Swift-out dart**.
 6. **Late-round darts:** Fields, Washington, Davis **or** Demercado (one only if you have Javonte), Emmett Johnson, Lance, Mendoza, Richardson, Brooks, Cook (one only), Fannin if you waited at TE, **Kiner only if you own Henderson or Stevenson**. Stribling only if Evans is your problem. Bigsby only if you own Saquon. Shaheed only as a free last pick.
-7. **Sit/start locks for people who already drafted:** Start Maye/JSN/Brown Wednesday. **Start Stevenson, not Henderson** — Saturday DNP, 13 days out; Sunday practice not reported yet. **Start Swift** — it was a cramp. Do not start Jacobs/Kamara/Conner/Dell/Tyson/Blue/Tillman/Pacheco/Milton. Hold Price/Lloyd. If you have Mahomes, roster Fields or a streamer before MNF — Pelissero is not Reid. **Evans is in Melbourne** but Saturday hold is still **MISSING** — still not a Thursday lock. **Kittle is in Melbourne** but plan for a snap count. **Nacua: wait for today’s Rams practice** before locking a 1.02. **Drop Blue / Tillman / Pacheco / Milton** if you drafted them.
-8. **FAAB (if waivers are already open):** Lloyd $12–$20, Price $10–$16, Washington $8–$12, Etienne $8–$14, Fields $8–$15, **Stevenson $8–$12**, Allgeier $6–$10. Stribling $1–$3 only if Evans is your problem. Demercado only $2–$4 if you own Javonte and missed Davis. Drop IR dead (Dell/Tyson/Conner/Benson/Pacheco) or Blue/Tillman/Milton. **Do not spend $2–$5 on Monangai.**
-9. **Trades:** Buy Lloyd/Price/Etienne/**Stevenson** from managers who drafted before Saturday’s DNP. Sell Jacobs for anything startable. Sell Evans if someone still has him as a locked WR2 (you can keep him as a discounted WR3). **Sell Henderson if someone still has him as a locked Wed RB2 — Stevenson is the chip.** **Buy Swift if someone is still dumping him on the Thursday scare.** Do not buy Mahomes expensive just because Pelissero sounded warm. Do not send two QBs for one WR. Do not trade a flex for Blue, Tillman, Milton, Levis, or Pacheco “upside.” Buy Gibbs a hair over Bijan this week if someone is fading DET volume. Do not buy Kittle as if the landing made him McBride. Nacua 83 is not a reason to pay a locked 1.01 before today’s team session. Do not pay Egbuka as a locked WR2 on a Rapoport practice-next-week note.
-10. **Watch list (today → Monday):** **Rams practice 2:45–4:20 p.m. PT** (Nacua team drills?). **Patriots Sunday practice** (Henderson on the field — last weekend chance). Jeanty’s first team period. Reid/Mahomes medical. Falcons internal decision (Fowler: as early as Monday; presser Wednesday). Love’s first suited practice. Egbuka’s first **next-week** team period. Tuten illness clear. Higgins/Chase first suited day Monday. Levis Jets PS decision. Melbourne player designations Mon–Wed.
+7. **Sit/start locks for people who already drafted:** Start Maye/JSN/Brown Wednesday. **Start Stevenson, not Henderson** — Sat+Sun DNP, 0 practices since Aug 24; only Monday left. **Start Swift** — it was a cramp. Do not start Jacobs/Kamara/Conner/Dell/Tyson/Blue/Tillman/Pacheco/Milton. Hold Price/Lloyd. If you have Mahomes, roster Fields or a streamer before MNF — Pelissero is not Reid. **Evans is in Melbourne** but Saturday hold is still **MISSING** — still not a Thursday lock. **Kittle is in Melbourne** but plan for a snap count. **Nacua: wait for a published team-drill note** before locking a 1.02. **Drop Blue / Tillman / Pacheco / Milton** if you drafted them.
+8. **FAAB (if waivers are already open):** Lloyd $12–$20, Price $10–$16, Washington $8–$12, Etienne $8–$14, Fields $8–$15, **Stevenson $8–$14**, Allgeier $6–$10. Stribling $1–$3 only if Evans is your problem. Demercado only $2–$4 if you own Javonte and missed Davis. Drop IR dead (Dell/Tyson/Conner/Benson/Pacheco) or Blue/Tillman/Milton. **Do not spend $2–$5 on Monangai.**
+9. **Trades:** Buy Lloyd/Price/Etienne/**Stevenson** from managers who drafted Henderson as the locked Wed RB2. Sell Jacobs for anything startable. Sell Evans if someone still has him as a locked WR2 (you can keep him as a discounted WR3). **Sell Henderson if someone still has him as a locked Wed RB2 — Stevenson is the chip (34 vs 19).** **Buy Swift if someone is still dumping him on the Thursday scare.** Do not buy Mahomes expensive just because Pelissero sounded warm. Do not send two QBs for one WR. Do not trade a flex for Blue, Tillman, Milton, Levis, or Pacheco “upside.” Buy Gibbs a hair over Bijan this week if someone is fading DET volume. Do not buy Kittle as if the landing made him McBride. Nacua 83 is not a reason to pay a locked 1.01 before a published team session. Do not pay Egbuka as a locked WR2 on a Rapoport practice-next-week note.
+10. **Watch list (tonight → Monday):** **Rams practice window 2:45–4:20 p.m. PT** — still waiting on a published Nacua team-drill note. **Patriots Monday practice** (Henderson’s last chance before the flight). Jeanty’s first team period. Reid/Mahomes medical. Falcons internal decision (Fowler: as early as Monday; presser Wednesday). Love’s first suited practice. Egbuka’s first **next-week** team period. Tuten illness clear. Higgins/Chase first suited day Monday. Levis Jets PS decision. Melbourne player designations Mon–Wed.
 
 **Conservative lineup default when reports conflict:** Sit the injured player, start the replacement who has the 15-touch or QB1 job.

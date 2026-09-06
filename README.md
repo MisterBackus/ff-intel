@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-06 morning file is still **preseason / week 0**. Henderson Saturday DNP is already priced (21); Stevenson stays the Wednesday lead (32). Sunday Rams (Nacua team) and Patriots (Henderson) practices are **not in yet**. **Egbuka 36→37** on Rapoport “practice next week.” 49ers off Sunday; Kittle/Evans designations still **MISSING**. NFL.com Week 1 report still empty.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-06 evening file is still **preseason / week 0**. **Henderson DNP Sat+Sun** (Reiss/Barth); only Monday left. **Stevenson 32→34**, **Henderson 21→19**. Rams Nacua team-drill still **MISSING** (window open, no published designation). NFL.com Week 1 report still empty.
 
 ## Latest
 
