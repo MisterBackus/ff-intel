@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-07 evening file is still **preseason / week 0** (Labor Day draft night; first kickoff Wed 9/9). Official NE/SEA Monday reports are live. **Henderson official DNP Sun+Mon** (17). **Tua named Falcons Week 1 starter; Penix inactive.** Chase/Higgins and Egbuka practiced Monday. Nacua full vs limited still **MISSING**.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-08 morning file is still **preseason / week 0** (first kickoff Wed 9/9 8:20 PM ET). **Henderson Tuesday Q/D/Out still MISSING** (17); start Stevenson (35). **Odunze missed Monday** (25). 49ers Tuesday Melbourne practice: **CMC 77 / Kittle 34 / Evans 31**. Nacua full vs limited still **MISSING**. Tua named; Penix inactive.
 
 ## Latest
 
