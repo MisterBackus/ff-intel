@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-08 evening file is still **preseason / week 0** (first kickoff Wed 9/9 8:20 PM ET). **Henderson is OUT** (14); start Stevenson (38). **Nacua not on official Rams sheet** (86). **CMC/Evans not on official 49ers sheet** (78 / 33). Kittle official limited (34). Odunze Tuesday visual still **MISSING** (25). Tua named; Penix inactive.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-09 morning file is still **preseason / week 0** (Week 1 gameday; first kickoff Wed 9/9 8:20 PM ET). **Henderson is OUT tonight** (14); start Stevenson (38). **Odunze DNP Mon+Tue** (24). **Allgeier official ARI RB1** (33). **Reid: most likely Mahomes starts** (64) — still pair Fields. Nacua off official Rams sheet (86). CMC not on official SF sheet (78). Tua named; Penix inactive.
 
 ## Latest
 
