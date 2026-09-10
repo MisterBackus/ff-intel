@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-09 evening file is still **preseason / week 0** (Week 1 gameday; first kickoff Wed 9/9 8:20 PM ET). **Henderson is OUT tonight** (14); start Stevenson (38). **Bowers out Sunday** after a meniscus trim (48); stream Mayer (18). **Jeanty official Full** (54). **Egbuka official Full** (42). **Odunze official Limited** (25). **Allgeier official ARI RB1** (33). **Reid: most likely Mahomes starts** (64) — still pair Fields. Larison elevated; Haskins not.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-10 evening file is **Week 1** (Wed NE@SEA **FINAL SEA 13–10**; Melbourne lock tonight 8:35 PM ET). **Brown prelim high-ankle** (46) — MRI **MISSING**; do not drop. **Darnold miss Week 2** (18); **FAAB Lock** (22). **Mahomes official Full** (70) — start MNF, keep Fields. **Tua oblique Limited** (14) — do not lock. **JSN 8–122–1** (82). **Stevenson 18–51 + 5–44** (42). Sit Bowers; start CMC/Nacua tonight.
 
 ## Latest
 
