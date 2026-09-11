@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-11 morning file is **Week 1** (Wed NE@SEA **FINAL SEA 13–10**; Melbourne **FINAL SF 27–7**). **Brown MRI confirmed high-ankle, out ≥4 weeks (34)** — do not drop. **Darnold miss Week 2 (18); FAAB Lock (22).** **CMC/Black split (74 / new 14).** **Evans 6–49–1 (38). Deebo 6–48–1 (new 30).** Sit Bowers. Do not lock Tua. Start Mahomes MNF.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-11 evening file is **Week 1** (Wed NE@SEA **FINAL SEA 13–10**; Melbourne **FINAL SF 27–7**). **Friday official sheets LIVE.** **Tua OUT; Rush starts (16).** **Brown IR path, min Weeks 2–5 (32)** — do not drop. **Bowers official OUT.** **Odunze / Love official Q — do not lock; start Allgeier.** Sit Kamara. Start Mahomes (Mon weather now clean). **Malik Davis OUT.**
 
 ## Latest
 

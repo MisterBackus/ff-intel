@@ -1,5 +1,5 @@
 {
-  "generated_at_et": "2026-09-11 08:20 ET",
+  "generated_at_et": "2026-09-11 18:20 ET",
   "nfl_week": "1",
   "league": {
     "teams": 10,
@@ -13,39 +13,64 @@
   },
   "data_freshness": [
     "53-man rosters locked 2026-08-30 18:00 ET",
+    "Official Friday NFL.com sheets and Sunday game designations LIVE. MNF DEN@KC designations post Saturday",
     "Wed NE@SEA FINAL SEA 13-10. Maye 23/33 178 1 TD 3 INT 7-47 rush. Lock 16/22 187 1 TD. JSN 8-122-1. Stevenson 18-51 + 5-44. Price 10-52. Holani 8-29. Hollins 4-51. Doubs 0/3. Douglas 5-20 on 7",
-    "Melbourne FINAL SF 27-7. Official box: Purdy 25/34 205 3 TD 1 INT. CMC 10-68 + 5-20. Kaelon Black 14-65 + 1-5. Evans 6-49-1. Deebo 6-48-1 + 12 rush. Robinson 2-50-1. Kittle 2-12 on 5. Nacua 5-74 on 9 stuffed at 1. Adams 3-26 on 6. Kyren 11-41-1 + 3-24. Corum 10-54. Stafford 15/25 155 0 TD 1 INT. Temp 57F NW 4 mph",
-    "A.J. Brown MRI CLOSED. Rapoport Thu night: confirmed high-ankle, out at least 4 weeks. Schultz 3-6 weeks; IR discussions open not official. ESPN Reiss Fri 8:06 AM. Official IR designation MISSING",
-    "Darnold MRI CLOSED already priced Thu: unusual muscle strain, hip intact, no IR, miss Week 2. Lock is the 9/20 starter",
-    "Official Friday NFL.com sheets / game designations MISSING as of 08:20 ET. Thursday sheets remain last official tags for Sunday and MNF",
-    "Values anchored to FantasyPros Superflex ECR Sep 8 (Maye is QB3) plus Wednesday and Melbourne boxes and Brown MRI",
-    "Trends vs Thursday 6:20 PM ET published 1-100 board",
+    "Melbourne FINAL SF 27-7. Purdy 25/34 205 3 TD 1 INT. CMC 10-68 + 5-20. Kaelon Black 14-65 + 1-5. Evans 6-49-1. Deebo 6-48-1 + 12 rush. Kittle 2-12 on 5. Nacua 5-74 on 9. Adams 3-26 on 6. Kyren 11-41-1 + 3-24. Corum 10-54. Stafford 15/25 155 0 TD 1 INT",
+    "A.J. Brown IR CLOSED as a lineup fact. Schefter/Rapoport Fri: Patriots placing him on IR (high-ankle). Min 4 games = Weeks 2-5. Earliest Week 6 (10/18 vs NYJ). Official NFL.com transaction wire MISSING as of 18:20 ET",
+    "Tua official OUT (oblique DNP Friday). Cooper Rush starts at PIT. Penix official OUT. Tua week-to-week (FOX/ESPN)",
+    "Bowers official OUT. Jeanty Full Friday no designation. Odunze official Q. Love official Q. Nabers Full + Q. Kamara Full Friday + Q still sit. Chase Friday DNP rest; Taylor good to go. Malik Davis official OUT (hip)",
+    "NWS KC Mon: mostly sunny 90F. Sunday is the storm day. No sit for Mahomes. JAX heat/storms watch not a sit. PIT game likely dry",
+    "Values anchored to FantasyPros Superflex ECR Sep 9 (Maye is QB2 behind Allen) plus Friday designations and Wednesday/Melbourne boxes",
+    "Trends vs Friday 8:20 AM ET published 1-100 board",
     "Levis still unsigned. Browning still FA. Hunt still unsigned"
   ],
   "must_act_today": [
-    "Do not lock Tua — official Thursday Limited (oblique); Rush took 1s; Friday tag MISSING; do not start Penix",
-    "Sit Brock Bowers Sunday — stream Michael Mayer or your TE2; do not drop Bowers (48)",
-    "Start Mahomes Monday — official Thursday Full; keep Justin Fields; recheck Friday KC sheet and Sunday night storms",
-    "A.J. Brown MRI confirmed high-ankle, out at least 4 weeks — do not drop (34); do not start Weeks 2-4; add Hollins or Doubs (one)",
+    "Sit Tua and Penix — both official OUT. Cooper Rush starts at PIT. Add Rush $4-$8 only if you need a Sunday Superflex",
+    "Sit Brock Bowers Sunday — official OUT; stream Michael Mayer or your TE2; do not drop Bowers (48)",
+    "Start Mahomes Monday — Friday Full; NWS Monday mostly sunny 90F; keep Justin Fields; recheck Saturday KC designation",
+    "A.J. Brown IR path — Schefter/Rapoport Patriots placing him on IR; min Weeks 2-5; earliest Week 6; do not drop (32); add Hollins or Doubs (one)",
     "Darnold expected to miss Week 2 — stash; FAAB Drew Lock $8-$14 as the Week 2 Superflex streamer",
-    "CMC 10-68 + 5-20 and Kaelon Black 14-65 — if you own CMC, FAAB Black $3-$6 as the cuff, not a flex",
-    "Rome Odunze official Thursday Limited — Friday tag MISSING; still not a locked WR2; Burden is the CHI pivot if he sits",
-    "Start Flowers (official Full), Chase, Higgins, Egbuka, Hall, Nabers, Allgeier (not Love), Etienne, Lloyd, Swift",
-    "Do not smash-sell Maye (88), CMC (74), Nacua (84), or Stafford (50)",
+    "Rome Odunze official Q — do not lock; Burden is the CHI pivot if he sits; wait 11:30a inactives if you can",
+    "Jeremiyah Love official Q — start Allgeier, not Love",
+    "Sit Kamara even though he is official Q after a Full Friday — start Etienne",
+    "Malik Davis official OUT (hip) — if you own Javonte, FAAB Demercado $3-$6",
+    "Start Flowers (no tag), Chase (Taylor: plays), Higgins, Egbuka, Hall, Jeanty (no designation), Nabers (lean; SNF wait OK), Allgeier, Etienne, Lloyd, Swift",
+    "Do not smash-sell Maye (88), CMC (74), Nacua (84), or Stafford (50). FantasyPros Superflex ECR Sep 9 still has Maye as QB2",
     "Hold Melbourne producers: Purdy (3 TD), Evans (6-49-1), Deebo (6-48-1). Kittle is a snap-count TE2. Kyren is a committee RB2",
-    "Do not start Holani, Douglas, Larison, Robinson, Stribling, Jacobs, Kamara, Conner, Dell, Tyson, Blue, Slayton, Penix, Bowers, Brown, Black-as-flex, or Corum-as-flex",
-    "Fade Josh Jacobs (Exempt); start MarShawn Lloyd",
-    "Fade Zach Charbonnet (PUP); Price is the confirmed early-down lead; Holani is a tax not a flex",
-    "If Bowers was your starter, FAAB Michael Mayer $4-$8",
-    "If Tua is ruled out Friday, FAAB Cooper Rush $2-$5; otherwise $0"
+    "Do not start Holani, Douglas, Larison, Robinson, Stribling, McMillan, Jacobs, Kamara, Conner, Dell, Tyson, Blue, Slayton, Penix, Tua, Bowers, Brown, Davis, Black-as-flex, or Corum-as-flex",
+    "If you own CMC, FAAB Kaelon Black $3-$6 as the cuff, not a flex"
   ],
   "injuries": [
+    {
+      "player": "Tua Tagovailoa",
+      "pos": "QB",
+      "team": "ATL",
+      "status": "Out",
+      "note": "Oblique. Official Friday DNP and Out. Week-to-week (FOX/ESPN). Cooper Rush starts Sunday at PIT.",
+      "replacement": "Cooper Rush is the locked Sunday starter. Ugly floor. Penix is also official Out."
+    },
+    {
+      "player": "Cooper Rush",
+      "pos": "QB",
+      "team": "ATL",
+      "status": "Healthy",
+      "note": "Named Week 1 starter after Tua was ruled out. Took Thursday first-team reps. Jack Strand is the emergency.",
+      "replacement": "Desperation Superflex stream only. Not a ROS QB2."
+    },
+    {
+      "player": "Michael Penix Jr.",
+      "pos": "QB",
+      "team": "ATL",
+      "status": "Out",
+      "note": "ACL 2025. Official Full in practice. Official Out / inactive Week 1.",
+      "replacement": "Rush starts. Do not lock Penix as a QB2."
+    },
     {
       "player": "A.J. Brown",
       "pos": "WR",
       "team": "NE",
-      "status": "Out",
-      "note": "MRI confirmed high-ankle sprain (Rapoport). Out at least 4 weeks. Schultz 3-6; IR discussions open not official. Do not drop. Do not start Weeks 2-4.",
+      "status": "IR",
+      "note": "MRI confirmed high-ankle. Schefter/Rapoport Fri: Patriots placing him on IR. Min 4 games = Weeks 2-5. Earliest Week 6 vs NYJ. Official NFL.com transaction wire MISSING as of 18:20 ET. Do not drop.",
       "replacement": "Romeo Doubs / Mack Hollins split. Hollins 4-51; Doubs 0/3. Roster one. Neither is a locked 10-team WR2."
     },
     {
@@ -65,44 +90,132 @@
       "replacement": "Darnold stash. Lock is the add."
     },
     {
-      "player": "Tua Tagovailoa",
-      "pos": "QB",
-      "team": "ATL",
-      "status": "Limited",
-      "note": "Oblique. Official Thursday Limited. Rush took all first-team reps. Rapoport day-to-day. Friday tag MISSING. Do not lock as Sunday QB2.",
-      "replacement": "Cooper Rush if Tua sits. Penix remains inactive Week 1."
+      "player": "Brock Bowers",
+      "pos": "TE",
+      "team": "LV",
+      "status": "Out",
+      "note": "Meniscus trim Tuesday. Official Friday DNP and Out. Expected to miss a game or two. Sit Sunday.",
+      "replacement": "Michael Mayer is the Week 1 TE stream. Not a season-long TE1."
     },
     {
-      "player": "Cooper Rush",
-      "pos": "QB",
-      "team": "ATL",
-      "status": "Healthy",
-      "note": "Took Thursday first-team reps after Tua's oblique. Emergency starter only.",
-      "replacement": "Not a 10-team roster unless Tua is out. Ugly floor vs PIT."
+      "player": "Rome Odunze",
+      "pos": "WR",
+      "team": "CHI",
+      "status": "Questionable",
+      "note": "Calf. Official Limited Wednesday-Friday. Official Q. Player: plans to play. Johnson: long season, do what is right. Do not lock.",
+      "replacement": "Luther Burden III is the CHI WR2 pivot if Odunze sits."
+    },
+    {
+      "player": "Jeremiyah Love",
+      "pos": "RB",
+      "team": "ARI",
+      "status": "Questionable",
+      "note": "High-ankle. Official Limited Wednesday-Friday. Official Q. LaFleur: trending well. Depth chart still RB2 behind Allgeier.",
+      "replacement": "Tyler Allgeier is the official Week 1 RB1 and the safer start."
     },
     {
       "player": "Patrick Mahomes",
       "pos": "QB",
       "team": "KC",
       "status": "Full",
-      "note": "ACL+LCL Dec 2025. Official Thursday Full. Reid will not hold anything back. Friday KC sheet MISSING. Start MNF vs DEN.",
+      "note": "ACL+LCL Dec 2025. Official Friday Full. Saturday MNF designation MISSING. NWS Monday mostly sunny 90F. Start MNF vs DEN.",
       "replacement": "Justin Fields remains the required Superflex cuff."
     },
     {
-      "player": "Rome Odunze",
+      "player": "Malik Nabers",
       "pos": "WR",
-      "team": "CHI",
-      "status": "Limited",
-      "note": "Calf (Finley). Official Thursday Limited. Friday tag MISSING. Still not a locked WR2.",
-      "replacement": "Luther Burden III is the CHI WR2 pivot if Odunze sits."
+      "team": "NYG",
+      "status": "Questionable",
+      "note": "ACL+meniscus. Official Friday Full plus Q. Harbaugh: ready to go. Snap-count GUESS. SNF so you can wait.",
+      "replacement": "Malachi Fields / Odell Beckham. Slayton is gone. Lean start."
     },
     {
-      "player": "Brock Bowers",
-      "pos": "TE",
-      "team": "LV",
+      "player": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "status": "Questionable",
+      "note": "MCL 8/18. Official Friday Full plus Q. Beat line remains out ~1 month. Full Friday does not make him a Week 1 start. Sit.",
+      "replacement": "Travis Etienne Jr. is the back (RB2)."
+    },
+    {
+      "player": "Malik Davis",
+      "pos": "RB",
+      "team": "DAL",
       "status": "Out",
-      "note": "Meniscus trim Tuesday. Official Thursday DNP. Friday tag MISSING. Expected to miss a game or two. Sit Sunday.",
-      "replacement": "Michael Mayer is the Week 1 TE stream. Not a season-long TE1."
+      "note": "Hip. Official Friday Limited and Out.",
+      "replacement": "Emari Demercado is the remaining Javonte 53-man cuff. Not a 10-team flex."
+    },
+    {
+      "player": "Ja'Marr Chase",
+      "pos": "WR",
+      "team": "CIN",
+      "status": "Healthy",
+      "note": "Knee. Friday DNP rest after two Fulls. Zac Taylor: Chase, Higgins, and DJ Turner are good to go. Start.",
+      "replacement": "Tee Higgins (Friday Full, no tag)."
+    },
+    {
+      "player": "Tee Higgins",
+      "pos": "WR",
+      "team": "CIN",
+      "status": "Healthy",
+      "note": "Heel. Friday Full. No game designation. Taylor: good to go. Start.",
+      "replacement": "Chase."
+    },
+    {
+      "player": "Emeka Egbuka",
+      "pos": "WR",
+      "team": "TB",
+      "status": "Healthy",
+      "note": "Toe. Friday Full. No game designation. McMillan official Doubtful helps the target share.",
+      "replacement": "Chris Godwin if the toe flares. McMillan is Doubtful."
+    },
+    {
+      "player": "Jalen McMillan",
+      "pos": "WR",
+      "team": "TB",
+      "status": "Doubtful",
+      "note": "Knee. Official Friday Limited and Doubtful. Not a 10-team start.",
+      "replacement": "Egbuka / Godwin."
+    },
+    {
+      "player": "Sean Tucker",
+      "pos": "RB",
+      "team": "TB",
+      "status": "Doubtful",
+      "note": "Hamstring. Official Friday Limited and Doubtful. Behind Irving.",
+      "replacement": "Bucky Irving. Ignore in this league."
+    },
+    {
+      "player": "Zay Flowers",
+      "pos": "WR",
+      "team": "BAL",
+      "status": "Healthy",
+      "note": "Hamstring. Friday Full. No game designation. Start.",
+      "replacement": "Not a 10-team fade."
+    },
+    {
+      "player": "Breece Hall",
+      "pos": "RB",
+      "team": "NYJ",
+      "status": "Healthy",
+      "note": "Groin. Friday Full. No game designation. Start vs TEN.",
+      "replacement": "Braelon Allen only if Hall sits Sunday."
+    },
+    {
+      "player": "Ashton Jeanty",
+      "pos": "RB",
+      "team": "LV",
+      "status": "Full",
+      "note": "Low-ankle sprain ~8/23. Official Friday Full. No game designation. Still a ramp. Start if rostered.",
+      "replacement": "Mike Washington Jr. Still must-roster if you have Jeanty."
+    },
+    {
+      "player": "Tyler Allgeier",
+      "pos": "RB",
+      "team": "ARI",
+      "status": "Healthy",
+      "note": "Official Week 1 depth chart RB1. Love is official Q. Startable flex this week.",
+      "replacement": "Love if he ramps. Allgeier is the Week 1 ARI start."
     },
     {
       "player": "Christian McCaffrey",
@@ -198,15 +311,7 @@
       "team": "ARI",
       "status": "IR",
       "note": "Ankle from 2025. Do not count on 2026.",
-      "replacement": "Tyler Allgeier is official Week 1 RB1. Love official Limited."
-    },
-    {
-      "player": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
-      "status": "Out",
-      "note": "MCL 8/18. Out ~1 month. Official Thursday Limited does not make him a Week 1 start.",
-      "replacement": "Travis Etienne Jr. is the back (RB2)."
+      "replacement": "Tyler Allgeier is official Week 1 RB1. Love official Q."
     },
     {
       "player": "Tank Dell",
@@ -225,14 +330,6 @@
       "replacement": "Chris Olave, Devaughn Vele, Bryce Lance."
     },
     {
-      "player": "Ashton Jeanty",
-      "pos": "RB",
-      "team": "LV",
-      "status": "Full",
-      "note": "Low-ankle sprain ~8/23. Official Thursday Full. Friday tag MISSING. Still a ramp.",
-      "replacement": "Mike Washington Jr. Still must-roster if you have Jeanty."
-    },
-    {
       "player": "TreVeyon Henderson",
       "pos": "RB",
       "team": "NE",
@@ -249,107 +346,11 @@
       "replacement": "Kyle Monangai is not a panic-add."
     },
     {
-      "player": "Zay Flowers",
-      "pos": "WR",
-      "team": "BAL",
-      "status": "Full",
-      "note": "Hamstring. Official Thursday Full. Friday tag MISSING. Start.",
-      "replacement": "Not a 10-team fade."
-    },
-    {
-      "player": "Breece Hall",
-      "pos": "RB",
-      "team": "NYJ",
-      "status": "Full",
-      "note": "Groin. Official Thursday Full. Start vs TEN.",
-      "replacement": "Braelon Allen only if Hall sits Sunday."
-    },
-    {
-      "player": "Malik Nabers",
-      "pos": "WR",
-      "team": "NYG",
-      "status": "Full",
-      "note": "ACL+meniscus. Official Thursday Full. Still a ramp. Start as WR2/flex.",
-      "replacement": "Malachi Fields / Odell Beckham. Slayton is gone."
-    },
-    {
-      "player": "Ja'Marr Chase",
-      "pos": "WR",
-      "team": "CIN",
-      "status": "Full",
-      "note": "Knee hyperextension + bone bruise. Official Thursday Full. Start.",
-      "replacement": "Tee Higgins (official Full)."
-    },
-    {
-      "player": "Tee Higgins",
-      "pos": "WR",
-      "team": "CIN",
-      "status": "Full",
-      "note": "Heel contusion. Official Thursday Full. Start.",
-      "replacement": "Chase."
-    },
-    {
-      "player": "Emeka Egbuka",
-      "pos": "WR",
-      "team": "TB",
-      "status": "Full",
-      "note": "Toe. Official Thursday Full. Start as WR2/flex, not a new WR1.",
-      "replacement": "Chris Godwin if the toe flares."
-    },
-    {
-      "player": "Jalen McMillan",
-      "pos": "WR",
-      "team": "TB",
-      "status": "Limited",
-      "note": "Undisclosed. Official Thursday Limited. Not a 10-team start.",
-      "replacement": "Egbuka / Godwin."
-    },
-    {
-      "player": "Jeremiyah Love",
-      "pos": "RB",
-      "team": "ARI",
-      "status": "Limited",
-      "note": "High-ankle. Official Limited Wednesday and Thursday. Friday tag MISSING. Depth chart still RB2 behind Allgeier.",
-      "replacement": "Tyler Allgeier is the official Week 1 RB1 and the safer start."
-    },
-    {
-      "player": "Tyler Allgeier",
-      "pos": "RB",
-      "team": "ARI",
-      "status": "Healthy",
-      "note": "Official Week 1 depth chart RB1. Startable flex this week.",
-      "replacement": "Love if he ramps. Allgeier is the Week 1 ARI start."
-    },
-    {
-      "player": "Tyler Warren",
-      "pos": "TE",
-      "team": "IND",
-      "status": "Healthy",
-      "note": "Groin not believed serious. Not on official IND sheet. Start.",
-      "replacement": "No 10-team startable Colts TE2."
-    },
-    {
-      "player": "Tucker Kraft",
-      "pos": "TE",
-      "team": "GB",
-      "status": "Healthy",
-      "note": "ACL 2025. Not on official GB sheet. Start if you have him.",
-      "replacement": "Jonnu Smith not startable in 10-team."
-    },
-    {
-      "player": "Alec Pierce",
-      "pos": "WR",
-      "team": "IND",
-      "status": "Limited",
-      "note": "Off PUP after ankle surgery. Official Thursday Limited. Pitch-count GUESS.",
-      "replacement": "Josh Downs is the safer Colts WR2."
-    },
-    {
       "player": "Luther Burden III",
       "pos": "WR",
       "team": "CHI",
       "status": "Healthy",
-      "note": "Groin already priced. Not listed. CHI WR2 path if Odunze sits.",
+      "note": "Not listed. CHI WR2 path if Odunze (official Q) sits.",
       "replacement": "Rome Odunze. Burden is this week's CHI pivot, not a lock."
     },
     {
@@ -357,16 +358,16 @@
       "pos": "RB",
       "team": "CAR",
       "status": "Healthy",
-      "note": "Hamstring in camp. Not on official CAR sheet. Hubbard is the Week 1 chip.",
-      "replacement": "Jonathon Brooks (official Limited). Not a 10-team start if Chuba is full."
+      "note": "Not on official CAR sheet. Hubbard is the Week 1 chip. Brooks upgraded to Friday Full with no tag.",
+      "replacement": "Jonathon Brooks is a committee tax, not a 10-team start if Chuba is full."
     },
     {
       "player": "Jonathon Brooks",
       "pos": "RB",
       "team": "CAR",
-      "status": "Limited",
-      "note": "Groin. Official Thursday Limited.",
-      "replacement": "Hubbard if Brooks sits."
+      "status": "Healthy",
+      "note": "Groin. Friday Full. No game designation. Upgraded from Thursday Limited.",
+      "replacement": "Hubbard remains the CAR chip."
     },
     {
       "player": "Keenan Allen",
@@ -381,15 +382,23 @@
       "pos": "WR",
       "team": "IND",
       "status": "Healthy",
-      "note": "Minor calf last week. Not on official IND sheet.",
+      "note": "Minor calf last week. Not on official IND sheet. Safer than Pierce (Limited, no tag).",
       "replacement": "Already the Colts WR2 if Allen sits later. ROS legal hedge."
+    },
+    {
+      "player": "Alec Pierce",
+      "pos": "WR",
+      "team": "IND",
+      "status": "Limited",
+      "note": "Off PUP after ankle surgery. Friday Limited. No game designation. Pitch-count GUESS.",
+      "replacement": "Josh Downs is the safer Colts WR2."
     },
     {
       "player": "Keaton Mitchell",
       "pos": "RB",
       "team": "LAC",
-      "status": "Limited",
-      "note": "Hamstring. Official Thursday Limited.",
+      "status": "Healthy",
+      "note": "Hamstring. Friday Full. No game designation. Upgraded from Thursday Limited.",
       "replacement": "Omarion Hampton remains the start. Tiny tax. Mitchell is not a 10-team stash."
     },
     {
@@ -397,15 +406,23 @@
       "pos": "RB",
       "team": "JAC",
       "status": "Healthy",
-      "note": "Illness last week. Not on official JAC sheet. Allen Jr. Limited. Meyers Limited.",
-      "replacement": "JAC committee / LeQuint Allen Jr. if he sits. Tuten is the chip."
+      "note": "Not on official JAC sheet. Allen Jr. official Q (hip).",
+      "replacement": "Tuten is the JAC chip. Allen Jr. is a tiny tax if active."
+    },
+    {
+      "player": "LeQuint Allen Jr.",
+      "pos": "RB",
+      "team": "JAC",
+      "status": "Questionable",
+      "note": "Hip. Friday Limited. Official Q.",
+      "replacement": "Tuten remains the startable Jaguars back."
     },
     {
       "player": "Jakobi Meyers",
       "pos": "WR",
       "team": "JAC",
       "status": "Limited",
-      "note": "Official Thursday Limited. Pitch-count GUESS.",
+      "note": "Friday Limited. No game designation. Pitch-count GUESS. Lean play if rostered.",
       "replacement": "Parker Washington if Meyers sits."
     },
     {
@@ -425,12 +442,20 @@
       "replacement": "Lifts Nico Collins; opens Boutte."
     },
     {
-      "player": "Michael Penix Jr.",
-      "pos": "QB",
-      "team": "ATL",
-      "status": "Inactive",
-      "note": "ACL 2025. Official Full in practice. Still named inactive for Week 1 vs PIT.",
-      "replacement": "Tua if healthy; Rush if Tua sits. Do not lock Penix as a QB2."
+      "player": "Tyler Warren",
+      "pos": "TE",
+      "team": "IND",
+      "status": "Healthy",
+      "note": "Groin not believed serious. Not on official IND sheet. Start.",
+      "replacement": "No 10-team startable Colts TE2."
+    },
+    {
+      "player": "Tucker Kraft",
+      "pos": "TE",
+      "team": "GB",
+      "status": "Healthy",
+      "note": "ACL 2025. Not on official GB sheet. Start if you have him.",
+      "replacement": "Jonnu Smith not startable in 10-team."
     },
     {
       "player": "Jaydon Blue",
@@ -453,16 +478,8 @@
       "pos": "QB",
       "team": "FA",
       "status": "Free agent",
-      "note": "Jets PS workout Sep 3. Still unsigned Friday morning.",
+      "note": "Jets PS workout Sep 3. Still unsigned Friday evening.",
       "replacement": "$0 until a 53-man job."
-    },
-    {
-      "player": "Sean Tucker",
-      "pos": "RB",
-      "team": "TB",
-      "status": "Limited",
-      "note": "Undisclosed. Official Thursday Limited. Behind Irving.",
-      "replacement": "Bucky Irving. Ignore in this league."
     },
     {
       "player": "Khalil Shakir",
@@ -485,7 +502,7 @@
       "pos": "TE",
       "team": "LV",
       "status": "Healthy",
-      "note": "Bowers out 1-2 after meniscus trim. Week 1 stream vs MIA.",
+      "note": "Bowers official Out 1-2 after meniscus trim. Week 1 stream vs MIA.",
       "replacement": "Only startable this week if you lost Bowers."
     },
     {
@@ -493,7 +510,7 @@
       "pos": "WR",
       "team": "NE",
       "status": "Healthy",
-      "note": "4-51 on 5 after Brown exited. Temporary Patriots WR2/3 for ~4 weeks.",
+      "note": "4-51 on 5 after Brown exited. Temporary Patriots WR2/3 through Week 5 with Brown on IR.",
       "replacement": "Speculative 10-team add. Prefer one of Hollins/Doubs."
     },
     {
@@ -501,7 +518,7 @@
       "pos": "WR",
       "team": "NE",
       "status": "Healthy",
-      "note": "0/3 with a drop. $68M path is real with Brown out 4+ weeks.",
+      "note": "0/3 with a drop. $68M path is real with Brown on IR through Week 5.",
       "replacement": "Speculative. Do not roster both Hollins and Doubs in 10-team."
     },
     {
@@ -537,6 +554,14 @@
       "replacement": "Kiner / Larison are not 10-team starts."
     },
     {
+      "player": "Emari Demercado",
+      "pos": "RB",
+      "team": "DAL",
+      "status": "Healthy",
+      "note": "On DAL 53. Malik Davis official Out (hip). Remaining Javonte cuff this week.",
+      "replacement": "Only startable if Javonte sits. Cuff if you own Javonte."
+    },
+    {
       "player": "Jordan Love",
       "pos": "QB",
       "team": "GB",
@@ -557,7 +582,7 @@
       "pos": "QB",
       "team": "LV",
       "status": "Healthy",
-      "note": "Named Week 1 starter. Bowers out is a tiny efficiency tax, not a sit.",
+      "note": "Named Week 1 starter. Bowers official Out is a tiny efficiency tax, not a sit.",
       "replacement": "Fernando Mendoza is the dart on the 53."
     },
     {
@@ -573,95 +598,90 @@
       "pos": "QB",
       "team": "IND",
       "status": "Healthy",
-      "note": "Named IND QB2 behind Daniel Jones.",
+      "note": "Named IND QB2 behind Daniel Jones. Friday Full.",
       "replacement": "Pure Superflex lottery. Not a 10-team start."
     }
   ],
   "news": [
     {
+      "player": "Tua Tagovailoa",
+      "note": "Official Friday DNP and Out (oblique). Week-to-week. Cooper Rush starts at PIT. Penix also official Out.",
+      "impact": "Value 14->10. Sit Tua. Sit Penix. FAAB Rush only if you need a Sunday QB2."
+    },
+    {
+      "player": "Cooper Rush",
+      "note": "Named Falcons Week 1 starter. Took Thursday 1s. Ugly floor vs PIT.",
+      "impact": "Value 12->16. Must-add Sunday streamer if you are thin at QB. Not a ROS QB2."
+    },
+    {
       "player": "A.J. Brown",
-      "note": "MRI confirmed high-ankle (Rapoport Thu night; Reiss Fri 8:06 AM). Out at least 4 weeks. IR talks open not official.",
-      "impact": "Value 46->34. Do not drop. Do not start Weeks 2-4. Add Hollins or Doubs (one)."
+      "note": "Schefter/Rapoport Fri: Patriots placing him on IR after MRI-confirmed high-ankle. Min Weeks 2-5. Earliest Week 6. Official transaction wire MISSING.",
+      "impact": "Value 34->32. Do not drop. Do not start Weeks 2-5. Add Hollins or Doubs (one)."
+    },
+    {
+      "player": "Brock Bowers",
+      "note": "Official Friday DNP and Out. Meniscus trim. Miss 1-2.",
+      "impact": "48 flat. Sit. Stream Mayer. Do not drop."
+    },
+    {
+      "player": "Ashton Jeanty",
+      "note": "Official Friday Full. No game designation after three Fulls.",
+      "impact": "Value 54->55. Start if rostered. Keep Washington."
+    },
+    {
+      "player": "Rome Odunze",
+      "note": "Official Q after Limited Wednesday-Friday. Player plans to play. Johnson cautious.",
+      "impact": "Value 28->26. Do not lock. Burden is the pivot."
+    },
+    {
+      "player": "Jeremiyah Love",
+      "note": "Official Q. Limited all three days. LaFleur trending well.",
+      "impact": "Value 34->32. Start Allgeier (33->34)."
+    },
+    {
+      "player": "Malik Nabers",
+      "note": "Official Friday Full plus Q. Harbaugh ready to go. SNF.",
+      "impact": "52 flat. Lean start. You can wait for SNF inactives."
+    },
+    {
+      "player": "Ja'Marr Chase",
+      "note": "Friday DNP rest. Zac Taylor: Chase and Higgins good to go.",
+      "impact": "85 flat. Start."
+    },
+    {
+      "player": "Alvin Kamara",
+      "note": "Official Friday Full plus Q. Beat line remains out ~month.",
+      "impact": "16 flat. Still sit. Start Etienne."
+    },
+    {
+      "player": "Malik Davis",
+      "note": "Official Friday Out (hip).",
+      "impact": "Value 14->8. Demercado 16->18 as the remaining Javonte cuff."
+    },
+    {
+      "player": "Patrick Mahomes",
+      "note": "Official Friday Full. NWS Monday mostly sunny 90F. Saturday designation MISSING.",
+      "impact": "70 flat. Start MNF. Morning storm watch is stale. Keep Fields."
+    },
+    {
+      "player": "Mack Hollins",
+      "note": "Brown IR path through Week 5. 4-51 already.",
+      "impact": "Value 18->20. Cheap add. Roster one of Hollins/Doubs."
+    },
+    {
+      "player": "Romeo Doubs",
+      "note": "Brown IR path through Week 5. Ugly 0/3 tape. $68M path.",
+      "impact": "Value 18->20. Roster one, not both."
+    },
+    {
+      "player": "Drake Maye",
+      "note": "Brown IR is a tiny tax. 3 INTs already priced. FantasyPros Superflex ECR Sep 9 is QB2.",
+      "impact": "88 flat. Do not smash-sell."
     },
     {
       "player": "Christian McCaffrey",
       "note": "Already played 10-68 + 5-20. Kaelon Black 14-65 in the blowout.",
-      "impact": "Value 78->74. Still RB1. FAAB Black if you own CMC."
-    },
-    {
-      "player": "Kaelon Black",
-      "note": "14-65 + 1-5. Tied CMC at 15 touches.",
-      "impact": "New value 14. Cuff, not a 10-team flex."
-    },
-    {
-      "player": "Mike Evans",
-      "note": "6-49-1. First 49ers TD.",
-      "impact": "Value 34->38. Hold as WR2/flex."
-    },
-    {
-      "player": "Deebo Samuel",
-      "note": "6-48-1 + 12 rush. Target peer with Evans.",
-      "impact": "New published-board value 30. Hold as WR2/flex."
-    },
-    {
-      "player": "George Kittle",
-      "note": "2-12 on 5. Shanahan snap count confirmed.",
-      "impact": "Value 35->32. TE2, not McBride."
-    },
-    {
-      "player": "Puka Nacua",
-      "note": "5-74 on 9. Stuffed at the 1. INT intended for him.",
-      "impact": "Value 86->84. Still LAR WR1. Hold."
-    },
-    {
-      "player": "Kyren Williams",
-      "note": "11-41-1 + 3-24. Corum 10-54.",
-      "impact": "Value 46->42. Committee RB2."
-    },
-    {
-      "player": "Blake Corum",
-      "note": "10-54. Real early-down share.",
-      "impact": "New value 12. Cuff only if you own Kyren."
-    },
-    {
-      "player": "Matthew Stafford",
-      "note": "15/25, 155, 0 TD, 1 INT.",
-      "impact": "Value 56->50. One-week dud. Hold ROS."
-    },
-    {
-      "player": "Davante Adams",
-      "note": "3-26 on 6.",
-      "impact": "Value 32->28. Hold as LAR WR2."
-    },
-    {
-      "player": "Brock Purdy",
-      "note": "25/34, 205, 3 TD, 1 INT.",
-      "impact": "Value 65->67. Hold."
-    },
-    {
-      "player": "Demarcus Robinson",
-      "note": "2-50-1 spike including 39-yard TD.",
-      "impact": "New value 10. Not a 10-team start."
-    },
-    {
-      "player": "De'Zhaun Stribling",
-      "note": "Started; 0 targets.",
-      "impact": "Value 6->4. Drop / ignore."
-    },
-    {
-      "player": "Drake Maye",
-      "note": "Brown out 4 weeks is a tiny tax. 3 INTs already priced. ECR still QB3.",
-      "impact": "Value 90->88. Do not smash-sell."
-    },
-    {
-      "player": "Mack Hollins",
-      "note": "Brown out 4+ weeks. 4-51 already.",
-      "impact": "Value 14->18. Cheap add. Roster one of Hollins/Doubs."
-    },
-    {
-      "player": "Romeo Doubs",
-      "note": "Brown out 4+ weeks. Ugly 0/3 tape. $68M path.",
-      "impact": "Value 15->18. Roster one, not both."
+      "impact": "74 flat. Still RB1. FAAB Black if you own CMC."
     },
     {
       "player": "Sam Darnold",
@@ -674,32 +694,30 @@
       "impact": "22 flat. Must-add Superflex streamer."
     },
     {
-      "player": "Tua Tagovailoa",
-      "note": "Oblique. Official Thursday Limited. Friday tag MISSING. Rush took 1s.",
-      "impact": "14 flat. Do not lock as Sunday QB2."
+      "player": "Jalen McMillan",
+      "note": "Official Doubtful (knee).",
+      "impact": "Ignore in 10-team. Helps lock Egbuka as the TB WR2/flex."
     },
     {
-      "player": "Brock Bowers",
-      "note": "Official Thursday DNP. Friday tag MISSING. Out Sunday. Miss 1-2.",
-      "impact": "48 flat. Sit. Stream Mayer. Do not drop."
-    },
-    {
-      "player": "Rome Odunze",
-      "note": "Official Thursday Limited. Friday tag MISSING.",
-      "impact": "28 flat. Still do not lock as WR2."
-    },
-    {
-      "player": "Patrick Mahomes",
-      "note": "Official Thursday Full. Friday KC sheet MISSING. Start MNF.",
-      "impact": "70 flat. Keep Fields."
+      "player": "Keaton Mitchell",
+      "note": "Friday Full. No designation. Upgraded from Thursday Limited.",
+      "impact": "Tiny Hampton tax gone. Not a 10-team stash."
     },
     {
       "player": "Will Levis",
-      "note": "Still unsigned Friday morning.",
+      "note": "Still unsigned Friday evening.",
       "impact": "$0 in 10-team until a 53-man job."
     }
   ],
   "faab": [
+    {
+      "player": "Cooper Rush",
+      "pos": "QB",
+      "priority": "Must-add",
+      "bid_low": 4,
+      "bid_high": 8,
+      "why": "Locked Falcons Week 1 starter after Tua official Out. Ugly floor vs PIT. Must-add only if you need a Sunday Superflex; else $0-$2."
+    },
     {
       "player": "Drew Lock",
       "pos": "QB",
@@ -714,7 +732,7 @@
       "priority": "Must-add",
       "bid_low": 4,
       "bid_high": 8,
-      "why": "Bowers out 1-2. Only startable LV TE this week. Rental, not a season-long TE1."
+      "why": "Bowers official Out 1-2. Only startable LV TE this week. Rental, not a season-long TE1."
     },
     {
       "player": "MarShawn Lloyd",
@@ -730,7 +748,7 @@
       "priority": "Must-add",
       "bid_low": 8,
       "bid_high": 14,
-      "why": "Kamara out ~month. Official Limited is not a Week 1 return."
+      "why": "Kamara official Q after Full Friday is not a Week 1 start. Beat line remains ~month."
     },
     {
       "player": "Rhamondre Stevenson",
@@ -754,7 +772,7 @@
       "priority": "Must-add",
       "bid_low": 6,
       "bid_high": 10,
-      "why": "Jeanty official Full does not kill the cuff after 17 days off."
+      "why": "Jeanty no designation does not kill the cuff after 17 days off."
     },
     {
       "player": "Kaelon Black",
@@ -770,7 +788,7 @@
       "priority": "Strong",
       "bid_low": 4,
       "bid_high": 8,
-      "why": "4-51. Brown out at least 4 weeks. Temporary WR2/3. Roster one of Hollins/Doubs."
+      "why": "4-51. Brown IR through Week 5. Temporary WR2/3. Roster one of Hollins/Doubs."
     },
     {
       "player": "Romeo Doubs",
@@ -778,7 +796,7 @@
       "priority": "Strong",
       "bid_low": 3,
       "bid_high": 6,
-      "why": "Brown out 4+ weeks. $68M path. Ugly Week 1. Roster one, not both."
+      "why": "Brown IR through Week 5. $68M path. Ugly Week 1. Roster one, not both."
     },
     {
       "player": "Deebo Samuel",
@@ -794,7 +812,7 @@
       "priority": "Strong",
       "bid_low": 4,
       "bid_high": 8,
-      "why": "Mahomes official Full shrinks the start. Still the required cuff if you have Mahomes."
+      "why": "Mahomes Friday Full plus clean Monday weather shrinks the start. Still the required cuff if you have Mahomes."
     },
     {
       "player": "Tyler Allgeier",
@@ -802,7 +820,7 @@
       "priority": "Strong",
       "bid_low": 6,
       "bid_high": 10,
-      "why": "Official Week 1 ARI RB1. Love still official Limited."
+      "why": "Official Week 1 ARI RB1. Love official Q."
     },
     {
       "player": "Luther Burden III",
@@ -810,7 +828,15 @@
       "priority": "Strong",
       "bid_low": 3,
       "bid_high": 6,
-      "why": "Odunze official Limited. CHI pivot if Odunze sits."
+      "why": "Odunze official Q. CHI pivot if Odunze sits."
+    },
+    {
+      "player": "Emari Demercado",
+      "pos": "RB",
+      "priority": "Strong",
+      "bid_low": 3,
+      "bid_high": 6,
+      "why": "Malik Davis official Out (hip). Remaining Javonte 53-man cuff."
     },
     {
       "player": "Blake Corum",
@@ -821,20 +847,12 @@
       "why": "10-54. Real Kyren tax. Strong only if you have Kyren."
     },
     {
-      "player": "Cooper Rush",
-      "pos": "QB",
-      "priority": "Strong",
-      "bid_low": 2,
-      "bid_high": 5,
-      "why": "Only if Tua sits. Took Thursday 1s. Ugly floor vs PIT. Else $0."
-    },
-    {
       "player": "Kirk Cousins",
       "pos": "QB",
       "priority": "Strong",
       "bid_low": 3,
       "bid_high": 6,
-      "why": "Locked Week 1 Raiders starter. Bowers out is a tiny tax."
+      "why": "Locked Week 1 Raiders starter. Bowers official Out is a tiny tax."
     },
     {
       "player": "Geno Smith",
@@ -861,14 +879,6 @@
       "why": "Won KC RB2. Walker cuff plus pass-game juice."
     },
     {
-      "player": "Malik Davis",
-      "pos": "RB",
-      "priority": "Strong",
-      "bid_low": 3,
-      "bid_high": 6,
-      "why": "Primary Javonte backup. Prefer Davis over Demercado."
-    },
-    {
       "player": "Kayshon Boutte",
       "pos": "WR",
       "priority": "Strong",
@@ -882,7 +892,7 @@
       "priority": "Strong",
       "bid_low": 2,
       "bid_high": 4,
-      "why": "ROS Colts WR2 if Allen legal process bites after Week 1."
+      "why": "Safer than Pierce (Limited, no tag). ROS Colts WR2 if Allen legal process bites after Week 1."
     },
     {
       "player": "Cam Ward",
@@ -901,14 +911,6 @@
       "why": "Saints 53-man QB1. Efficiency is GUESS."
     },
     {
-      "player": "Tua Tagovailoa",
-      "pos": "QB",
-      "priority": "Speculative",
-      "bid_low": 1,
-      "bid_high": 3,
-      "why": "Named starter but oblique Limited. Do not pay as a lock until Friday."
-    },
-    {
       "player": "Kaleb Johnson",
       "pos": "RB",
       "priority": "Speculative",
@@ -922,7 +924,7 @@
       "priority": "Speculative",
       "bid_low": 1,
       "bid_high": 3,
-      "why": "Official Limited. Not a start if Chuba is full."
+      "why": "Friday Full, no tag. Not a start if Chuba is full."
     },
     {
       "player": "Bryce Lance",
@@ -1016,13 +1018,13 @@
       "player": "Drake Maye",
       "pos": "QB",
       "call": "Must-start",
-      "note": "Already played. 3 INT. Brown out 4 weeks. Do not smash-sell ROS (88)."
+      "note": "Already played. 3 INT. Brown IR. ECR Sep 9 still QB2. Do not smash-sell ROS (88)."
     },
     {
       "player": "Patrick Mahomes",
       "pos": "QB",
       "call": "Strong start",
-      "note": "Official Thursday Full. Start MNF. Keep Fields. Recheck storms Sunday night."
+      "note": "Friday Full. NWS Monday mostly sunny 90F. Start MNF. Keep Fields. Recheck Saturday designation."
     },
     {
       "player": "Brock Purdy",
@@ -1037,6 +1039,24 @@
       "note": "Already played. 155, 0 TD, 1 INT. Hold ROS. Do not smash-sell."
     },
     {
+      "player": "Cooper Rush",
+      "pos": "QB",
+      "call": "Sit / trap",
+      "note": "Locked Sunday starter. Ugly floor vs PIT. Stream only if you have no better Sunday QB2."
+    },
+    {
+      "player": "Tua Tagovailoa",
+      "pos": "QB",
+      "call": "Sit / trap",
+      "note": "Official Out. Week-to-week. Do not start."
+    },
+    {
+      "player": "Michael Penix Jr.",
+      "pos": "QB",
+      "call": "Sit / trap",
+      "note": "Official Out Week 1. Drop / ignore as a Sunday start."
+    },
+    {
       "player": "Drew Lock",
       "pos": "QB",
       "call": "Sit / trap",
@@ -1049,28 +1069,10 @@
       "note": "Already out. Expected to miss Week 2. Stash, do not start."
     },
     {
-      "player": "Tua Tagovailoa",
-      "pos": "QB",
-      "call": "Toss-up",
-      "note": "Oblique Limited. Friday tag MISSING. Only start if Friday is Full. Otherwise sit."
-    },
-    {
-      "player": "Cooper Rush",
-      "pos": "QB",
-      "call": "Sit / trap",
-      "note": "Emergency only if Tua sits. Ugly floor vs PIT."
-    },
-    {
-      "player": "Michael Penix Jr.",
-      "pos": "QB",
-      "call": "Sit / trap",
-      "note": "Inactive Week 1. Drop / ignore as a Sunday start."
-    },
-    {
       "player": "Justin Fields",
       "pos": "QB",
       "call": "Sit / trap",
-      "note": "Cuff. Start only if Mahomes sits — unlikely after official Full."
+      "note": "Cuff. Start only if Mahomes sits — unlikely after Friday Full plus clean weather."
     },
     {
       "player": "Kirk Cousins",
@@ -1118,13 +1120,13 @@
       "player": "Travis Etienne Jr.",
       "pos": "RB",
       "call": "Strong start",
-      "note": "Kamara out. Volume RB2 at DET."
+      "note": "Kamara Q, still sit. Volume RB2 at DET."
     },
     {
       "player": "Omarion Hampton",
       "pos": "RB",
       "call": "Strong start",
-      "note": "LAC lead. Mitchell Limited — tiny tax."
+      "note": "LAC lead. Mitchell Friday Full — tiny tax gone."
     },
     {
       "player": "D'Andre Swift",
@@ -1136,13 +1138,19 @@
       "player": "Tyler Allgeier",
       "pos": "RB",
       "call": "Strong start",
-      "note": "Official Week 1 ARI RB1. Safer than Love."
+      "note": "Official Week 1 ARI RB1. Safer than Love (official Q)."
     },
     {
       "player": "Breece Hall",
       "pos": "RB",
       "call": "Strong start",
-      "note": "Official Full. Start vs TEN."
+      "note": "Friday Full, no tag. Start vs TEN."
+    },
+    {
+      "player": "Ashton Jeanty",
+      "pos": "RB",
+      "call": "Strong start",
+      "note": "Friday Full, no designation. Start if rostered; keep Washington."
     },
     {
       "player": "Kyren Williams",
@@ -1151,16 +1159,16 @@
       "note": "Already played. 11-41-1. Hold as committee RB2."
     },
     {
-      "player": "Ashton Jeanty",
-      "pos": "RB",
-      "call": "Toss-up",
-      "note": "Official Full, still a ramp. Start if rostered; keep Washington."
-    },
-    {
       "player": "Jeremiyah Love",
       "pos": "RB",
       "call": "Toss-up",
-      "note": "Official Limited. Friday tag MISSING. Allgeier is the Week 1 chip."
+      "note": "Official Q. Allgeier is the Week 1 chip."
+    },
+    {
+      "player": "Alvin Kamara",
+      "pos": "RB",
+      "call": "Sit / trap",
+      "note": "Official Q after Full Friday. Still sit. Start Etienne."
     },
     {
       "player": "Kaelon Black",
@@ -1173,6 +1181,12 @@
       "pos": "RB",
       "call": "Sit / trap",
       "note": "10-54. Cuff only. Not a 10-team flex if Kyren is healthy."
+    },
+    {
+      "player": "Malik Davis",
+      "pos": "RB",
+      "call": "Sit / trap",
+      "note": "Official Out (hip). Demercado is the remaining cuff."
     },
     {
       "player": "TreVeyon Henderson",
@@ -1214,37 +1228,37 @@
       "player": "Ja'Marr Chase",
       "pos": "WR",
       "call": "Must-start",
-      "note": "Official Full. Sunday game."
+      "note": "Friday DNP rest. Taylor: plays. Sunday game."
     },
     {
       "player": "A.J. Brown",
       "pos": "WR",
       "call": "Sit / trap",
-      "note": "MRI high-ankle. Out at least 4 weeks. Do not start Weeks 2-4. Do not drop."
+      "note": "IR path. Out Weeks 2-5 minimum. Do not start. Do not drop."
     },
     {
       "player": "Tee Higgins",
       "pos": "WR",
       "call": "Strong start",
-      "note": "Official Full."
+      "note": "Friday Full, no tag."
     },
     {
       "player": "Zay Flowers",
       "pos": "WR",
       "call": "Strong start",
-      "note": "Official Thursday Full. Start."
+      "note": "Friday Full, no tag. Start."
     },
     {
       "player": "Malik Nabers",
       "pos": "WR",
       "call": "Strong start",
-      "note": "Official Full. Start as WR2/flex."
+      "note": "Full plus official Q. Harbaugh ready. Lean start. SNF wait OK."
     },
     {
       "player": "Emeka Egbuka",
       "pos": "WR",
       "call": "Strong start",
-      "note": "Official Full. WR2/flex, not a new WR1."
+      "note": "Friday Full, no tag. McMillan Doubtful. WR2/flex, not a new WR1."
     },
     {
       "player": "Mike Evans",
@@ -1259,10 +1273,16 @@
       "note": "Already played 6-48-1. Hold as WR2/flex."
     },
     {
+      "player": "Drake London",
+      "pos": "WR",
+      "call": "Strong start",
+      "note": "Must-start even with Rush at QB."
+    },
+    {
       "player": "Rome Odunze",
       "pos": "WR",
       "call": "Toss-up",
-      "note": "Official Thursday Limited. Friday tag MISSING. Sit/watch. Do not lock."
+      "note": "Official Q. Player plans to play. Johnson cautious. Sit/watch. Do not lock."
     },
     {
       "player": "Luther Burden III",
@@ -1274,13 +1294,19 @@
       "player": "Mack Hollins",
       "pos": "WR",
       "call": "Toss-up",
-      "note": "Only if you are thin and Brown is out a month. Not a smash WR2."
+      "note": "Only if you are thin and Brown is IR through Week 5. Not a smash WR2."
     },
     {
       "player": "Romeo Doubs",
       "pos": "WR",
       "call": "Toss-up",
       "note": "Same path as Hollins. Roster one, not both."
+    },
+    {
+      "player": "Jalen McMillan",
+      "pos": "WR",
+      "call": "Sit / trap",
+      "note": "Official Doubtful. Ignore."
     },
     {
       "player": "Khalil Shakir",
@@ -1304,13 +1330,13 @@
       "player": "Brock Bowers",
       "pos": "TE",
       "call": "Sit / trap",
-      "note": "Meniscus trim. Official DNP. Out Sunday. Stream Mayer. Do not drop."
+      "note": "Official Out. Stream Mayer. Do not drop."
     },
     {
       "player": "Trey McBride",
       "pos": "TE",
       "call": "Must-start",
-      "note": "Clear TE1 this week with Bowers out."
+      "note": "Clear TE1 this week with Bowers official Out."
     },
     {
       "player": "Tyler Warren",
@@ -1332,13 +1358,12 @@
     }
   ],
   "streamers_qb": [
+    "Cooper Rush (ATL) — locked Sunday starter after Tua official Out; ugly floor vs PIT",
     "Drew Lock (SEA) — Week 2 starter at ARI; 16/22, 187, 1 TD already",
-    "Cooper Rush (ATL) — only if Tua sits; took Thursday 1s; ugly floor",
-    "Justin Fields (KC) — Mahomes insurance; official Full makes a start unlikely",
-    "Kirk Cousins (LV) — Week 1 starter; Bowers out is a tiny tax",
-    "Geno Smith (NYJ) — named starter; Hall official Full",
+    "Justin Fields (KC) — Mahomes insurance; Friday Full plus clean Monday weather makes a start unlikely",
+    "Kirk Cousins (LV) — Week 1 starter; Bowers official Out is a tiny tax",
+    "Geno Smith (NYJ) — named starter; Hall Friday Full, no tag",
     "Daniel Jones (IND) — volume QB2",
-    "Tua Tagovailoa (ATL) — named starter but oblique Limited; Friday tag MISSING; only if Friday is Full",
     "Cam Ward (TEN) — year-2 upside",
     "Tyler Shough (NO) — Saints QB1, efficiency GUESS",
     "Bryce Young (CAR) — stream vs CHI",
@@ -1348,1188 +1373,166 @@
     "Malik Willis (MIA) — rushing dart, not a lock"
   ],
   "actions_today": [
-    "Do not lock Tua — official Thursday Limited (oblique); Rush took 1s; Friday tag MISSING; do not start Penix",
-    "Sit Bowers Sunday — stream Mayer or your TE2; do not drop Bowers (48)",
-    "Start Mahomes Monday — official Thursday Full; keep Fields; recheck Friday KC sheet and Sunday night storms",
-    "Do not drop Brown — MRI high-ankle; out at least 4 weeks; he is a 34; add Hollins or Doubs (one)",
-    "FAAB Lock $8-14; Hollins $4-8 or Doubs $3-6 (one); Mayer $4-8 if you lost Bowers; Black $3-6 if you have CMC; Corum $2-5 if you have Kyren; Rush $2-5 only if Tua is out",
-    "Do not smash-sell Maye (88), CMC (74), Nacua (84), or Stafford (50)",
+    "Sit Tua and Penix — both official Out; Cooper Rush starts at PIT; add Rush $4-8 only if you need a Sunday Superflex",
+    "Sit Bowers Sunday — official Out; stream Mayer or your TE2; do not drop Bowers (48)",
+    "Start Mahomes Monday — Friday Full; NWS Monday mostly sunny 90F; keep Fields; recheck Saturday KC designation",
+    "Do not drop Brown — Schefter/Rapoport IR path; min Weeks 2-5; earliest Week 6; he is a 32; add Hollins or Doubs (one)",
+    "FAAB Lock $8-14; Rush $4-8 if you need a Sunday QB2; Hollins $4-8 or Doubs $3-6 (one); Mayer $4-8 if you lost Bowers; Black $3-6 if you have CMC; Demercado $3-6 if you have Javonte (Davis Out); Corum $2-5 if you have Kyren",
+    "Do not smash-sell Maye (88), CMC (74), Nacua (84), or Stafford (50). FantasyPros Superflex ECR Sep 9 still has Maye as QB2",
     "Hold Melbourne producers: Purdy (3 TD), Evans (6-49-1), Deebo (6-48-1). Kittle is a snap-count TE2. Kyren is a committee RB2",
-    "Start Flowers (Full), Chase, Higgins, Egbuka, Hall, Nabers, Allgeier (not Love), Etienne, Lloyd, Swift",
-    "Do not start Holani, Douglas, Larison, Robinson, Stribling, Jacobs, Kamara, Conner, Dell, Tyson, Blue, Slayton, Penix, Bowers, Brown, Black-as-flex, Corum-as-flex",
-    "Buy Brown from panic-sellers (34 not a dart). Buy Maye if dumped. Buy CMC if someone is scared of Black. Sell Tua if someone still thinks he is a locked QB2",
-    "Watch: Friday official sheets (Tua, Odunze, Love, Bowers), Brown IR yes/no, JAC/KC weather Saturday-Sunday",
+    "Start Chase (Taylor: plays), Higgins, Egbuka, Hall, Flowers, Jeanty, Nabers (lean; SNF wait OK), Allgeier (not Love), Etienne (not Kamara), Lloyd, Swift",
+    "Do not lock Odunze (official Q). Do not start Holani, Douglas, Larison, Robinson, Stribling, McMillan, Jacobs, Kamara, Conner, Dell, Tyson, Blue, Slayton, Penix, Tua, Bowers, Brown, Davis, Black-as-flex, Corum-as-flex",
+    "Buy Brown from panic-sellers (32 not a dart). Buy Maye if dumped. Buy CMC if someone is scared of Black. Sell Tua if someone still thinks he is a locked QB2",
+    "Watch: Saturday KC/DEN designations, Sunday 11:30a inactives (Odunze, Love, Kamara, Meyers), SNF Nabers inactives, Brown official transaction wire, JAC Saturday heat/storms",
     "Do not send two startable QBs for one skill player"
   ],
   "trade_board": [
-    {
-      "player": "Josh Allen",
-      "pos": "QB",
-      "value": 100,
-      "tier": "QB1",
-      "trend": "flat",
-      "note": "Safest Superflex 1.01"
-    },
-    {
-      "player": "Lamar Jackson",
-      "pos": "QB",
-      "value": 96,
-      "tier": "QB1",
-      "trend": "flat",
-      "note": "Same tier as Allen"
-    },
-    {
-      "player": "Jahmyr Gibbs",
-      "pos": "RB",
-      "value": 91,
-      "tier": "RB1",
-      "trend": "flat",
-      "note": "RB1 in DET; Pacheco IR"
-    },
-    {
-      "player": "Joe Burrow",
-      "pos": "QB",
-      "value": 90,
-      "tier": "QB1",
-      "trend": "flat",
-      "note": "Chase/Higgins official Full"
-    },
-    {
-      "player": "Drake Maye",
-      "pos": "QB",
-      "value": 88,
-      "tier": "QB1",
-      "trend": "down",
-      "note": "3 INT already priced; Brown out 4 weeks tiny tax; ECR still QB3; 90->88"
-    },
-    {
-      "player": "Bijan Robinson",
-      "pos": "RB",
-      "value": 88,
-      "tier": "RB1",
-      "trend": "flat",
-      "note": "Every-down ATL"
-    },
-    {
-      "player": "Jayden Daniels",
-      "pos": "QB",
-      "value": 87,
-      "tier": "QB1",
-      "trend": "flat",
-      "note": "Rush floor"
-    },
-    {
-      "player": "Ja'Marr Chase",
-      "pos": "WR",
-      "value": 85,
-      "tier": "WR1",
-      "trend": "flat",
-      "note": "Official Full; start"
-    },
-    {
-      "player": "Jalen Hurts",
-      "pos": "QB",
-      "value": 85,
-      "tier": "QB1",
-      "trend": "flat",
-      "note": "Tush push + Smith"
-    },
-    {
-      "player": "Puka Nacua",
-      "pos": "WR",
-      "value": 84,
-      "tier": "WR1",
-      "trend": "down",
-      "note": "5-74 on 9; stuffed at 1; still WR1; 86->84"
-    },
-    {
-      "player": "Jaxon Smith-Njigba",
-      "pos": "WR",
-      "value": 82,
-      "tier": "WR1",
-      "trend": "flat",
-      "note": "8-122-1; SEA offense"
-    },
-    {
-      "player": "Caleb Williams",
-      "pos": "QB",
-      "value": 78,
-      "tier": "QB2",
-      "trend": "flat",
-      "note": "QB7 ECR"
-    },
-    {
-      "player": "Amon-Ra St. Brown",
-      "pos": "WR",
-      "value": 76,
-      "tier": "WR1",
-      "trend": "flat",
-      "note": "DET lock"
-    },
-    {
-      "player": "Justin Herbert",
-      "pos": "QB",
-      "value": 76,
-      "tier": "QB2",
-      "trend": "flat",
-      "note": "Stable QB1"
-    },
-    {
-      "player": "Christian McCaffrey",
-      "pos": "RB",
-      "value": 74,
-      "tier": "RB1",
-      "trend": "down",
-      "note": "10-68 + 5-20; Black 14-65 tax; still RB1; 78->74"
-    },
-    {
-      "player": "Jonathan Taylor",
-      "pos": "RB",
-      "value": 74,
-      "tier": "RB1",
-      "trend": "flat",
-      "note": "IND lead"
-    },
-    {
-      "player": "Patrick Mahomes",
-      "pos": "QB",
-      "value": 70,
-      "tier": "QB2",
-      "trend": "flat",
-      "note": "Official Thursday Full; start MNF; pair Fields"
-    },
-    {
-      "player": "CeeDee Lamb",
-      "pos": "WR",
-      "value": 70,
-      "tier": "WR1",
-      "trend": "flat",
-      "note": "DAL"
-    },
-    {
-      "player": "Trevor Lawrence",
-      "pos": "QB",
-      "value": 70,
-      "tier": "QB2",
-      "trend": "flat",
-      "note": "Coen offense"
-    },
-    {
-      "player": "Dak Prescott",
-      "pos": "QB",
-      "value": 68,
-      "tier": "QB2",
-      "trend": "flat",
-      "note": "Lamb/Pickens; SNF"
-    },
-    {
-      "player": "James Cook",
-      "pos": "RB",
-      "value": 68,
-      "tier": "RB1",
-      "trend": "flat",
-      "note": "BUF volume"
-    },
-    {
-      "player": "Justin Jefferson",
-      "pos": "WR",
-      "value": 68,
-      "tier": "WR1",
-      "trend": "flat",
-      "note": "MIN"
-    },
-    {
-      "player": "Brock Purdy",
-      "pos": "QB",
-      "value": 67,
-      "tier": "QB2",
-      "trend": "up",
-      "note": "3 TD already; 25/34 205; 65->67"
-    },
-    {
-      "player": "Drake London",
-      "pos": "WR",
-      "value": 62,
-      "tier": "WR2",
-      "trend": "flat",
-      "note": "ATL WR1"
-    },
-    {
-      "player": "Jaxson Dart",
-      "pos": "QB",
-      "value": 62,
-      "tier": "QB2",
-      "trend": "flat",
-      "note": "NYG starter"
-    },
-    {
-      "player": "Bo Nix",
-      "pos": "QB",
-      "value": 60,
-      "tier": "QB2",
-      "trend": "flat",
-      "note": "MNF vs KC"
-    },
-    {
-      "player": "Chase Brown",
-      "pos": "RB",
-      "value": 58,
-      "tier": "RB2",
-      "trend": "flat",
-      "note": "CIN lead"
-    },
-    {
-      "player": "Nico Collins",
-      "pos": "WR",
-      "value": 58,
-      "tier": "WR2",
-      "trend": "flat",
-      "note": "Room thinned (Higgins/Dell)"
-    },
-    {
-      "player": "Saquon Barkley",
-      "pos": "RB",
-      "value": 56,
-      "tier": "RB2",
-      "trend": "flat",
-      "note": "PHI"
-    },
-    {
-      "player": "Ashton Jeanty",
-      "pos": "RB",
-      "value": 54,
-      "tier": "RB2",
-      "trend": "flat",
-      "note": "Official Full; still a ramp; pair Washington"
-    },
-    {
-      "player": "De'Von Achane",
-      "pos": "RB",
-      "value": 54,
-      "tier": "RB2",
-      "trend": "flat",
-      "note": "Willis offense is GUESS"
-    },
-    {
-      "player": "Jared Goff",
-      "pos": "QB",
-      "value": 54,
-      "tier": "QB2",
-      "trend": "flat",
-      "note": "DET machine"
-    },
-    {
-      "player": "Omarion Hampton",
-      "pos": "RB",
-      "value": 53,
-      "tier": "RB2",
-      "trend": "flat",
-      "note": "LAC lead; Mitchell Limited"
-    },
-    {
-      "player": "George Pickens",
-      "pos": "WR",
-      "value": 52,
-      "tier": "WR2",
-      "trend": "flat",
-      "note": "DAL WR2"
-    },
-    {
-      "player": "Jordan Love",
-      "pos": "QB",
-      "value": 52,
-      "tier": "QB2",
-      "trend": "flat",
-      "note": "Healthy; Jacobs-less run game"
-    },
-    {
-      "player": "Kenneth Walker III",
-      "pos": "RB",
-      "value": 52,
-      "tier": "RB2",
-      "trend": "flat",
-      "note": "KC lead"
-    },
-    {
-      "player": "Malik Nabers",
-      "pos": "WR",
-      "value": 52,
-      "tier": "WR2",
-      "trend": "flat",
-      "note": "Official Full; ACL ramp; WR2/flex"
-    },
-    {
-      "player": "Matthew Stafford",
-      "pos": "QB",
-      "value": 50,
-      "tier": "QB2",
-      "trend": "down",
-      "note": "155 0 TD 1 INT; one-week dud; hold ROS; 56->50"
-    },
-    {
-      "player": "Chris Olave",
-      "pos": "WR",
-      "value": 50,
-      "tier": "WR2",
-      "trend": "flat",
-      "note": "Tyson out helps target share"
-    },
-    {
-      "player": "Derrick Henry",
-      "pos": "RB",
-      "value": 50,
-      "tier": "RB2",
-      "trend": "flat",
-      "note": "BAL script"
-    },
-    {
-      "player": "Trey McBride",
-      "pos": "TE",
-      "value": 50,
-      "tier": "TE1",
-      "trend": "flat",
-      "note": "Clear TE1 this week with Bowers out"
-    },
-    {
-      "player": "Baker Mayfield",
-      "pos": "QB",
-      "value": 48,
-      "tier": "QB3",
-      "trend": "flat",
-      "note": "TB still throws"
-    },
-    {
-      "player": "Brock Bowers",
-      "pos": "TE",
-      "value": 48,
-      "tier": "TE1",
-      "trend": "flat",
-      "note": "Out Sunday; miss 1-2; still ROS TE1"
-    },
-    {
-      "player": "Zay Flowers",
-      "pos": "WR",
-      "value": 47,
-      "tier": "WR2",
-      "trend": "flat",
-      "note": "Official Thursday Full"
-    },
-    {
-      "player": "DeVonta Smith",
-      "pos": "WR",
-      "value": 46,
-      "tier": "WR2",
-      "trend": "flat",
-      "note": "PHI WR1"
-    },
-    {
-      "player": "Kyler Murray",
-      "pos": "QB",
-      "value": 46,
-      "tier": "QB3",
-      "trend": "flat",
-      "note": "MIN starter"
-    },
-    {
-      "player": "Rashee Rice",
-      "pos": "WR",
-      "value": 46,
-      "tier": "WR2",
-      "trend": "flat",
-      "note": "KC"
-    },
-    {
-      "player": "Breece Hall",
-      "pos": "RB",
-      "value": 44,
-      "tier": "RB2",
-      "trend": "flat",
-      "note": "Official Full; start vs TEN"
-    },
-    {
-      "player": "Javonte Williams",
-      "pos": "RB",
-      "value": 44,
-      "tier": "RB2",
-      "trend": "flat",
-      "note": "DAL lead"
-    },
-    {
-      "player": "Travis Etienne Jr.",
-      "pos": "RB",
-      "value": 44,
-      "tier": "RB2",
-      "trend": "flat",
-      "note": "Kamara out ~month"
-    },
-    {
-      "player": "Rhamondre Stevenson",
-      "pos": "RB",
-      "value": 42,
-      "tier": "RB3",
-      "trend": "flat",
-      "note": "18-51 + 5-44; confirmed lead"
-    },
-    {
-      "player": "Kyren Williams",
-      "pos": "RB",
-      "value": 42,
-      "tier": "RB2",
-      "trend": "down",
-      "note": "11-41-1 + 3-24; Corum 10-54; 46->42"
-    },
-    {
-      "player": "Emeka Egbuka",
-      "pos": "WR",
-      "value": 42,
-      "tier": "WR3",
-      "trend": "flat",
-      "note": "Official Full; WR2/flex not a new WR1"
-    },
-    {
-      "player": "Malik Willis",
-      "pos": "QB",
-      "value": 42,
-      "tier": "QB3",
-      "trend": "flat",
-      "note": "Rushing dart; efficiency GUESS"
-    },
-    {
-      "player": "Tee Higgins",
-      "pos": "WR",
-      "value": 42,
-      "tier": "WR3",
-      "trend": "flat",
-      "note": "Official Full"
-    },
-    {
-      "player": "C.J. Stroud",
-      "pos": "QB",
-      "value": 40,
-      "tier": "QB3",
-      "trend": "flat",
-      "note": "Higgins/Dell out"
-    },
-    {
-      "player": "Colston Loveland",
-      "pos": "TE",
-      "value": 40,
-      "tier": "TE2",
-      "trend": "flat",
-      "note": "CHI year-2"
-    },
-    {
-      "player": "MarShawn Lloyd",
-      "pos": "RB",
-      "value": 40,
-      "tier": "RB3",
-      "trend": "flat",
-      "note": "GB lead while Jacobs exempt"
-    },
-    {
-      "player": "Tetairoa McMillan",
-      "pos": "WR",
-      "value": 40,
-      "tier": "WR3",
-      "trend": "flat",
-      "note": "CAR"
-    },
-    {
-      "player": "Tyler Shough",
-      "pos": "QB",
-      "value": 40,
-      "tier": "QB3",
-      "trend": "flat",
-      "note": "Saints QB1 on 53"
-    },
-    {
-      "player": "Tyler Warren",
-      "pos": "TE",
-      "value": 40,
-      "tier": "TE2",
-      "trend": "flat",
-      "note": "Not listed; start"
-    },
-    {
-      "player": "Garrett Wilson",
-      "pos": "WR",
-      "value": 38,
-      "tier": "WR3",
-      "trend": "flat",
-      "note": "NYJ / Geno"
-    },
-    {
-      "player": "Jaylen Waddle",
-      "pos": "WR",
-      "value": 38,
-      "tier": "WR3",
-      "trend": "flat",
-      "note": "DEN"
-    },
-    {
-      "player": "Ladd McConkey",
-      "pos": "WR",
-      "value": 38,
-      "tier": "WR3",
-      "trend": "flat",
-      "note": "LAC"
-    },
-    {
-      "player": "Mike Evans",
-      "pos": "WR",
-      "value": 38,
-      "tier": "WR3",
-      "trend": "up",
-      "note": "6-49-1; real SF WR2; 34->38"
-    },
-    {
-      "player": "Jadarian Price",
-      "pos": "RB",
-      "value": 36,
-      "tier": "RB3",
-      "trend": "flat",
-      "note": "10-52; Holani 8-29 tax confirmed"
-    },
-    {
-      "player": "A.J. Brown",
-      "pos": "WR",
-      "value": 34,
-      "tier": "WR3",
-      "trend": "down",
-      "note": "MRI high-ankle; out at least 4 weeks; do not drop; 46->34"
-    },
-    {
-      "player": "Bucky Irving",
-      "pos": "RB",
-      "value": 34,
-      "tier": "RB3",
-      "trend": "flat",
-      "note": "TB lead-ish"
-    },
-    {
-      "player": "Jeremiyah Love",
-      "pos": "RB",
-      "value": 34,
-      "tier": "RB3",
-      "trend": "flat",
-      "note": "Official Limited Wed+Thu; Allgeier is the Week 1 chip"
-    },
-    {
-      "player": "Terry McLaurin",
-      "pos": "WR",
-      "value": 34,
-      "tier": "WR3",
-      "trend": "flat",
-      "note": "WAS"
-    },
-    {
-      "player": "Tucker Kraft",
-      "pos": "TE",
-      "value": 34,
-      "tier": "TE2",
-      "trend": "flat",
-      "note": "Not listed; expected Week 1"
-    },
-    {
-      "player": "Tyler Allgeier",
-      "pos": "RB",
-      "value": 33,
-      "tier": "RB3",
-      "trend": "flat",
-      "note": "Official Week 1 ARI RB1; safer start"
-    },
-    {
-      "player": "Kirk Cousins",
-      "pos": "QB",
-      "value": 32,
-      "tier": "QB3",
-      "trend": "flat",
-      "note": "LV Week 1 starter"
-    },
-    {
-      "player": "George Kittle",
-      "pos": "TE",
-      "value": 32,
-      "tier": "TE2",
-      "trend": "down",
-      "note": "2-12 on 5; snap count confirmed; 35->32"
-    },
-    {
-      "player": "Quinshon Judkins",
-      "pos": "RB",
-      "value": 32,
-      "tier": "RB3",
-      "trend": "flat",
-      "note": "CLE"
-    },
-    {
-      "player": "Luther Burden III",
-      "pos": "WR",
-      "value": 31,
-      "tier": "WR3",
-      "trend": "flat",
-      "note": "Odunze still Limited; CHI pivot if he sits"
-    },
-    {
-      "player": "Bhayshul Tuten",
-      "pos": "RB",
-      "value": 31,
-      "tier": "RB3",
-      "trend": "flat",
-      "note": "Not listed; Allen Jr. Limited"
-    },
-    {
-      "player": "DJ Moore",
-      "pos": "WR",
-      "value": 30,
-      "tier": "WR4",
-      "trend": "flat",
-      "note": "BUF. The Bills WR"
-    },
-    {
-      "player": "Deebo Samuel",
-      "pos": "WR",
-      "value": 30,
-      "tier": "WR4",
-      "trend": "up",
-      "note": "6-48-1 + 12 rush; target peer with Evans; NEW to published board"
-    },
-    {
-      "player": "Daniel Jones",
-      "pos": "QB",
-      "value": 30,
-      "tier": "QB3",
-      "trend": "flat",
-      "note": "Volume QB2"
-    },
-    {
-      "player": "Cam Skattebo",
-      "pos": "RB",
-      "value": 28,
-      "tier": "RB3",
-      "trend": "flat",
-      "note": "NYG"
-    },
-    {
-      "player": "Cam Ward",
-      "pos": "QB",
-      "value": 28,
-      "tier": "QB4",
-      "trend": "flat",
-      "note": "Year-2 upside"
-    },
-    {
-      "player": "Christian Watson",
-      "pos": "WR",
-      "value": 28,
-      "tier": "WR4",
-      "trend": "flat",
-      "note": "GB"
-    },
-    {
-      "player": "Chuba Hubbard",
-      "pos": "RB",
-      "value": 28,
-      "tier": "RB3",
-      "trend": "flat",
-      "note": "Not listed; Brooks Limited"
-    },
-    {
-      "player": "D'Andre Swift",
-      "pos": "RB",
-      "value": 28,
-      "tier": "RB3",
-      "trend": "flat",
-      "note": "Not listed; start vs CAR"
-    },
-    {
-      "player": "Davante Adams",
-      "pos": "WR",
-      "value": 28,
-      "tier": "WR3",
-      "trend": "down",
-      "note": "3-26 on 6; 32->28"
-    },
-    {
-      "player": "Harold Fannin Jr.",
-      "pos": "TE",
-      "value": 28,
-      "tier": "TE2",
-      "trend": "flat",
-      "note": "CLE year-2 targets"
-    },
-    {
-      "player": "Rome Odunze",
-      "pos": "WR",
-      "value": 28,
-      "tier": "WR4",
-      "trend": "flat",
-      "note": "Thu Limited; Friday tag MISSING; still not a lock"
-    },
-    {
-      "player": "Geno Smith",
-      "pos": "QB",
-      "value": 26,
-      "tier": "QB4",
-      "trend": "flat",
-      "note": "Named NYJ starter"
-    },
-    {
-      "player": "Mike Washington Jr.",
-      "pos": "RB",
-      "value": 26,
-      "tier": "RB3",
-      "trend": "flat",
-      "note": "Required Jeanty cuff"
-    },
-    {
-      "player": "Sam LaPorta",
-      "pos": "TE",
-      "value": 26,
-      "tier": "TE2",
-      "trend": "flat",
-      "note": "DET"
-    },
-    {
-      "player": "Justin Fields",
-      "pos": "QB",
-      "value": 24,
-      "tier": "QB4",
-      "trend": "flat",
-      "note": "Mahomes Full shrinks the start; still the required cuff"
-    },
-    {
-      "player": "Kyle Pitts",
-      "pos": "TE",
-      "value": 24,
-      "tier": "TE2",
-      "trend": "flat",
-      "note": "ATL"
-    },
-    {
-      "player": "Parker Washington",
-      "pos": "WR",
-      "value": 24,
-      "tier": "WR4",
-      "trend": "flat",
-      "note": "JAC; Meyers Limited"
-    },
-    {
-      "player": "Marvin Harrison Jr.",
-      "pos": "WR",
-      "value": 24,
-      "tier": "WR4",
-      "trend": "flat",
-      "note": "ARI; Brissett cap"
-    },
-    {
-      "player": "Drew Lock",
-      "pos": "QB",
-      "value": 22,
-      "tier": "QB4",
-      "trend": "flat",
-      "note": "Week 2 starter; 16/22, 187, 1 TD"
-    },
-    {
-      "player": "Bryce Young",
-      "pos": "QB",
-      "value": 22,
-      "tier": "QB4",
-      "trend": "flat",
-      "note": "Streamer"
-    },
-    {
-      "player": "Carnell Tate",
-      "pos": "WR",
-      "value": 22,
-      "tier": "WR4",
-      "trend": "flat",
-      "note": "Not listed"
-    },
-    {
-      "player": "Jaylen Warren",
-      "pos": "RB",
-      "value": 22,
-      "tier": "RB4",
-      "trend": "flat",
-      "note": "PIT split"
-    },
-    {
-      "player": "Josh Downs",
-      "pos": "WR",
-      "value": 22,
-      "tier": "WR4",
-      "trend": "flat",
-      "note": "Not listed; ROS legal hedge"
-    },
-    {
-      "player": "Tony Pollard",
-      "pos": "RB",
-      "value": 22,
-      "tier": "RB4",
-      "trend": "flat",
-      "note": "TEN"
-    },
-    {
-      "player": "Emmett Johnson",
-      "pos": "RB",
-      "value": 20,
-      "tier": "RB4",
-      "trend": "flat",
-      "note": "Won KC RB2"
-    },
-    {
-      "player": "Jacoby Brissett",
-      "pos": "QB",
-      "value": 20,
-      "tier": "QB4",
-      "trend": "flat",
-      "note": "ARI bridge"
-    },
-    {
-      "player": "Travis Kelce",
-      "pos": "TE",
-      "value": 20,
-      "tier": "TE3",
-      "trend": "flat",
-      "note": "Age"
-    },
-    {
-      "player": "Aaron Rodgers",
-      "pos": "QB",
-      "value": 18,
-      "tier": "QB4",
-      "trend": "flat",
-      "note": "PIT volume, age"
-    },
-    {
-      "player": "Deshaun Watson",
-      "pos": "QB",
-      "value": 18,
-      "tier": "QB4",
-      "trend": "flat",
-      "note": "Named starter; floor GUESS ugly"
-    },
-    {
-      "player": "Josh Jacobs",
-      "pos": "RB",
-      "value": 18,
-      "tier": "RB4",
-      "trend": "flat",
-      "note": "Exempt; cannot play"
-    },
-    {
-      "player": "Kayshon Boutte",
-      "pos": "WR",
-      "value": 18,
-      "tier": "WR4",
-      "trend": "flat",
-      "note": "HOU WR2/3 path"
-    },
-    {
-      "player": "Keenan Allen",
-      "pos": "WR",
-      "value": 18,
-      "tier": "WR4",
-      "trend": "flat",
-      "note": "Ballard: plays Week 1; court Sept 16"
-    },
-    {
-      "player": "Mack Hollins",
-      "pos": "WR",
-      "value": 18,
-      "tier": "WR4",
-      "trend": "up",
-      "note": "4-51; Brown out 4+ weeks; 14->18"
-    },
-    {
-      "player": "Michael Mayer",
-      "pos": "TE",
-      "value": 18,
-      "tier": "TE3",
-      "trend": "flat",
-      "note": "Bowers out 1-2; Week 1 stream; rental"
-    },
-    {
-      "player": "Romeo Doubs",
-      "pos": "WR",
-      "value": 18,
-      "tier": "WR4",
-      "trend": "up",
-      "note": "Brown out 4+ weeks; ugly tape; $68M path; 15->18"
-    },
-    {
-      "player": "Sam Darnold",
-      "pos": "QB",
-      "value": 18,
-      "tier": "QB4",
-      "trend": "flat",
-      "note": "Miss Week 2; muscle strain; no IR"
-    },
-    {
-      "player": "Alvin Kamara",
-      "pos": "RB",
-      "value": 16,
-      "tier": "RB4",
-      "trend": "flat",
-      "note": "MCL; official Limited != Week 1 start"
-    },
-    {
-      "player": "Emari Demercado",
-      "pos": "RB",
-      "value": 16,
-      "tier": "RB4",
-      "trend": "flat",
-      "note": "On DAL 53; competing cuff"
-    },
-    {
-      "player": "Jonathon Brooks",
-      "pos": "RB",
-      "value": 16,
-      "tier": "RB4",
-      "trend": "flat",
-      "note": "Official Limited"
-    },
-    {
-      "player": "Kaelon Black",
-      "pos": "RB",
-      "value": 14,
-      "tier": "RB4",
-      "trend": "up",
-      "note": "14-65 + 1-5; CMC cuff not a flex; NEW"
-    },
-    {
-      "player": "Tua Tagovailoa",
-      "pos": "QB",
-      "value": 14,
-      "tier": "QB4",
-      "trend": "flat",
-      "note": "Oblique Limited; Friday tag MISSING; Rush took 1s"
-    },
-    {
-      "player": "Fernando Mendoza",
-      "pos": "QB",
-      "value": 14,
-      "tier": "QB5",
-      "trend": "flat",
-      "note": "On 53; not Week 1 QB"
-    },
-    {
-      "player": "Malik Davis",
-      "pos": "RB",
-      "value": 14,
-      "tier": "RB4",
-      "trend": "flat",
-      "note": "Primary DAL backup"
-    },
-    {
-      "player": "Blake Corum",
-      "pos": "RB",
-      "value": 12,
-      "tier": "RB4",
-      "trend": "up",
-      "note": "10-54; Kyren cuff not a flex; NEW"
-    },
-    {
-      "player": "Cooper Rush",
-      "pos": "QB",
-      "value": 12,
-      "tier": "QB5",
-      "trend": "flat",
-      "note": "Emergency ATL starter if Tua sits"
-    },
-    {
-      "player": "Anthony Richardson",
-      "pos": "QB",
-      "value": 12,
-      "tier": "QB5",
-      "trend": "flat",
-      "note": "Named IND QB2; lottery only"
-    },
-    {
-      "player": "Kyle Monangai",
-      "pos": "RB",
-      "value": 12,
-      "tier": "RB4",
-      "trend": "flat",
-      "note": "Speculative"
-    },
-    {
-      "player": "Michael Penix Jr.",
-      "pos": "QB",
-      "value": 10,
-      "tier": "QB5",
-      "trend": "flat",
-      "note": "Inactive Week 1"
-    },
-    {
-      "player": "TreVeyon Henderson",
-      "pos": "RB",
-      "value": 10,
-      "tier": "RB5",
-      "trend": "flat",
-      "note": "Already OUT; Week 2+ stash"
-    },
-    {
-      "player": "Bryce Lance",
-      "pos": "WR",
-      "value": 10,
-      "tier": "WR5",
-      "trend": "flat",
-      "note": "Tyson IR dart"
-    },
-    {
-      "player": "Demarcus Robinson",
-      "pos": "WR",
-      "value": 10,
-      "tier": "WR5",
-      "trend": "up",
-      "note": "2-50-1 spike; not a 10-team start; NEW"
-    },
-    {
-      "player": "Corey Kiner",
-      "pos": "RB",
-      "value": 9,
-      "tier": "RB5",
-      "trend": "flat",
-      "note": "6-11; not a start"
-    },
-    {
-      "player": "Khalil Shakir",
-      "pos": "WR",
-      "value": 9,
-      "tier": "WR5",
-      "trend": "flat",
-      "note": "Not listed; still not a 10-team start"
-    },
-    {
-      "player": "DeMario Douglas",
-      "pos": "WR",
-      "value": 9,
-      "tier": "WR5",
-      "trend": "up",
-      "note": "5-20 on 7; still not a start; 8->9"
-    },
-    {
-      "player": "Brady Cook",
-      "pos": "QB",
-      "value": 8,
-      "tier": "QB5",
-      "trend": "flat",
-      "note": "On MIA 53; behind Willis"
-    },
-    {
-      "player": "George Holani",
-      "pos": "RB",
-      "value": 8,
-      "tier": "RB5",
-      "trend": "flat",
-      "note": "8-29 short/GL tax; not a 10-team flex"
-    },
-    {
-      "player": "Zach Charbonnet",
-      "pos": "RB",
-      "value": 8,
-      "tier": "RB5",
-      "trend": "flat",
-      "note": "PUP; Week 5+"
-    },
-    {
-      "player": "James Conner",
-      "pos": "RB",
-      "value": 6,
-      "tier": "RB5",
-      "trend": "flat",
-      "note": "IR; fade"
-    },
-    {
-      "player": "Jordyn Tyson",
-      "pos": "WR",
-      "value": 6,
-      "tier": "WR5",
-      "trend": "flat",
-      "note": "IR ~2 months"
-    },
-    {
-      "player": "Ollie Gordon II",
-      "pos": "RB",
-      "value": 6,
-      "tier": "RB5",
-      "trend": "flat",
-      "note": "Ribs; Achane cuff only"
-    },
-    {
-      "player": "Tank Dell",
-      "pos": "WR",
-      "value": 6,
-      "tier": "WR5",
-      "trend": "flat",
-      "note": "IR/PUP"
-    },
-    {
-      "player": "Isiah Pacheco",
-      "pos": "RB",
-      "value": 5,
-      "tier": "RB5",
-      "trend": "flat",
-      "note": "Lions IR; no timetable"
-    },
-    {
-      "player": "De'Zhaun Stribling",
-      "pos": "WR",
-      "value": 4,
-      "tier": "WR5",
-      "trend": "down",
-      "note": "Started; 0 targets; 6->4"
-    },
-    {
-      "player": "Lan Larison",
-      "pos": "RB",
-      "value": 4,
-      "tier": "RB5",
-      "trend": "flat",
-      "note": "2-9 receiving; not a start"
-    },
-    {
-      "player": "Jaydon Blue",
-      "pos": "RB",
-      "value": 4,
-      "tier": "RB5",
-      "trend": "flat",
-      "note": "PHI PS; cuttable"
-    },
-    {
-      "player": "Joe Milton",
-      "pos": "QB",
-      "value": 4,
-      "tier": "QB5",
-      "trend": "flat",
-      "note": "DAL practice squad; cuttable"
-    },
-    {
-      "player": "Cedric Tillman",
-      "pos": "WR",
-      "value": 2,
-      "tier": "WR5",
-      "trend": "flat",
-      "note": "NO PS; cuttable"
-    },
-    {
-      "player": "Darius Slayton",
-      "pos": "WR",
-      "value": 2,
-      "tier": "WR5",
-      "trend": "flat",
-      "note": "Released Monday; $0"
-    },
-    {
-      "player": "Will Levis",
-      "pos": "QB",
-      "value": 2,
-      "tier": "QB5",
-      "trend": "flat",
-      "note": "Unsigned Friday morning; $0"
-    }
+    {"player": "Josh Allen", "pos": "QB", "value": 100, "tier": "QB1", "trend": "flat", "note": "Safest Superflex 1.01"},
+    {"player": "Lamar Jackson", "pos": "QB", "value": 96, "tier": "QB1", "trend": "flat", "note": "Same tier as Allen"},
+    {"player": "Jahmyr Gibbs", "pos": "RB", "value": 91, "tier": "RB1", "trend": "flat", "note": "RB1 in DET; Pacheco IR"},
+    {"player": "Joe Burrow", "pos": "QB", "value": 90, "tier": "QB1", "trend": "flat", "note": "Chase/Higgins play"},
+    {"player": "Drake Maye", "pos": "QB", "value": 88, "tier": "QB1", "trend": "flat", "note": "3 INT + Brown IR already priced; ECR Sep 9 QB2; do not smash-sell"},
+    {"player": "Bijan Robinson", "pos": "RB", "value": 88, "tier": "RB1", "trend": "flat", "note": "Every-down ATL even with Rush"},
+    {"player": "Jayden Daniels", "pos": "QB", "value": 87, "tier": "QB1", "trend": "flat", "note": "Rush floor"},
+    {"player": "Ja'Marr Chase", "pos": "WR", "value": 85, "tier": "WR1", "trend": "flat", "note": "Friday DNP rest; Taylor plays; start"},
+    {"player": "Jalen Hurts", "pos": "QB", "value": 85, "tier": "QB1", "trend": "flat", "note": "Tush push + Smith"},
+    {"player": "Puka Nacua", "pos": "WR", "value": 84, "tier": "WR1", "trend": "flat", "note": "5-74 on 9; still WR1"},
+    {"player": "Jaxon Smith-Njigba", "pos": "WR", "value": 82, "tier": "WR1", "trend": "flat", "note": "8-122-1; SEA offense"},
+    {"player": "Caleb Williams", "pos": "QB", "value": 78, "tier": "QB2", "trend": "flat", "note": "QB7 range"},
+    {"player": "Amon-Ra St. Brown", "pos": "WR", "value": 76, "tier": "WR1", "trend": "flat", "note": "DET lock"},
+    {"player": "Justin Herbert", "pos": "QB", "value": 76, "tier": "QB2", "trend": "flat", "note": "Stable QB1"},
+    {"player": "Christian McCaffrey", "pos": "RB", "value": 74, "tier": "RB1", "trend": "flat", "note": "10-68 + 5-20; Black tax already priced; still RB1"},
+    {"player": "Jonathan Taylor", "pos": "RB", "value": 74, "tier": "RB1", "trend": "flat", "note": "IND lead"},
+    {"player": "Patrick Mahomes", "pos": "QB", "value": 70, "tier": "QB2", "trend": "flat", "note": "Friday Full; Mon weather clean; Sat tag MISSING; pair Fields"},
+    {"player": "CeeDee Lamb", "pos": "WR", "value": 70, "tier": "WR1", "trend": "flat", "note": "DAL"},
+    {"player": "Trevor Lawrence", "pos": "QB", "value": 70, "tier": "QB2", "trend": "flat", "note": "Coen offense"},
+    {"player": "Dak Prescott", "pos": "QB", "value": 68, "tier": "QB2", "trend": "flat", "note": "Lamb/Pickens; SNF"},
+    {"player": "James Cook", "pos": "RB", "value": 68, "tier": "RB1", "trend": "flat", "note": "BUF volume"},
+    {"player": "Justin Jefferson", "pos": "WR", "value": 68, "tier": "WR1", "trend": "flat", "note": "MIN"},
+    {"player": "Brock Purdy", "pos": "QB", "value": 67, "tier": "QB2", "trend": "flat", "note": "3 TD already; hold"},
+    {"player": "Drake London", "pos": "WR", "value": 62, "tier": "WR2", "trend": "flat", "note": "ATL WR1 even with Rush"},
+    {"player": "Jaxson Dart", "pos": "QB", "value": 62, "tier": "QB2", "trend": "flat", "note": "NYG starter"},
+    {"player": "Bo Nix", "pos": "QB", "value": 60, "tier": "QB2", "trend": "flat", "note": "MNF vs KC; weather now clean"},
+    {"player": "Chase Brown", "pos": "RB", "value": 58, "tier": "RB2", "trend": "flat", "note": "CIN lead"},
+    {"player": "Nico Collins", "pos": "WR", "value": 58, "tier": "WR2", "trend": "flat", "note": "Room thinned (Higgins/Dell)"},
+    {"player": "Saquon Barkley", "pos": "RB", "value": 56, "tier": "RB2", "trend": "flat", "note": "PHI"},
+    {"player": "Ashton Jeanty", "pos": "RB", "value": 55, "tier": "RB2", "trend": "up", "note": "Friday Full, no designation; still a ramp; pair Washington; 54->55"},
+    {"player": "De'Von Achane", "pos": "RB", "value": 54, "tier": "RB2", "trend": "flat", "note": "Willis offense is GUESS"},
+    {"player": "Jared Goff", "pos": "QB", "value": 54, "tier": "QB2", "trend": "flat", "note": "DET machine"},
+    {"player": "Omarion Hampton", "pos": "RB", "value": 53, "tier": "RB2", "trend": "flat", "note": "LAC lead; Mitchell now Full"},
+    {"player": "George Pickens", "pos": "WR", "value": 52, "tier": "WR2", "trend": "flat", "note": "DAL WR2"},
+    {"player": "Jordan Love", "pos": "QB", "value": 52, "tier": "QB2", "trend": "flat", "note": "Healthy; Jacobs-less run game"},
+    {"player": "Kenneth Walker III", "pos": "RB", "value": 52, "tier": "RB2", "trend": "flat", "note": "KC lead; Mon weather clean"},
+    {"player": "Malik Nabers", "pos": "WR", "value": 52, "tier": "WR2", "trend": "flat", "note": "Full plus official Q; Harbaugh ready; lean start"},
+    {"player": "Matthew Stafford", "pos": "QB", "value": 50, "tier": "QB2", "trend": "flat", "note": "155 0 TD 1 INT; one-week dud; hold ROS"},
+    {"player": "Chris Olave", "pos": "WR", "value": 50, "tier": "WR2", "trend": "flat", "note": "Tyson out helps target share"},
+    {"player": "Derrick Henry", "pos": "RB", "value": 50, "tier": "RB2", "trend": "flat", "note": "BAL script"},
+    {"player": "Trey McBride", "pos": "TE", "value": 50, "tier": "TE1", "trend": "flat", "note": "Clear TE1 this week with Bowers official Out"},
+    {"player": "Baker Mayfield", "pos": "QB", "value": 48, "tier": "QB3", "trend": "flat", "note": "TB still throws"},
+    {"player": "Brock Bowers", "pos": "TE", "value": 48, "tier": "TE1", "trend": "flat", "note": "Official Out Sunday; miss 1-2; still ROS TE1"},
+    {"player": "Zay Flowers", "pos": "WR", "value": 47, "tier": "WR2", "trend": "flat", "note": "Friday Full, no tag"},
+    {"player": "DeVonta Smith", "pos": "WR", "value": 46, "tier": "WR2", "trend": "flat", "note": "PHI WR1"},
+    {"player": "Kyler Murray", "pos": "QB", "value": 46, "tier": "QB3", "trend": "flat", "note": "MIN starter"},
+    {"player": "Rashee Rice", "pos": "WR", "value": 46, "tier": "WR2", "trend": "flat", "note": "KC; Mon weather clean"},
+    {"player": "Breece Hall", "pos": "RB", "value": 44, "tier": "RB2", "trend": "flat", "note": "Friday Full, no tag; start vs TEN"},
+    {"player": "Javonte Williams", "pos": "RB", "value": 44, "tier": "RB2", "trend": "flat", "note": "DAL lead; Davis Out — Demercado is the cuff"},
+    {"player": "Travis Etienne Jr.", "pos": "RB", "value": 44, "tier": "RB2", "trend": "flat", "note": "Kamara Q != start"},
+    {"player": "Rhamondre Stevenson", "pos": "RB", "value": 42, "tier": "RB3", "trend": "flat", "note": "18-51 + 5-44; confirmed lead"},
+    {"player": "Kyren Williams", "pos": "RB", "value": 42, "tier": "RB2", "trend": "flat", "note": "11-41-1 + 3-24; Corum 10-54"},
+    {"player": "Emeka Egbuka", "pos": "WR", "value": 42, "tier": "WR3", "trend": "flat", "note": "Friday Full, no tag; McMillan Doubtful"},
+    {"player": "Malik Willis", "pos": "QB", "value": 42, "tier": "QB3", "trend": "flat", "note": "Rushing dart; efficiency GUESS"},
+    {"player": "Tee Higgins", "pos": "WR", "value": 42, "tier": "WR3", "trend": "flat", "note": "Friday Full, no tag"},
+    {"player": "C.J. Stroud", "pos": "QB", "value": 40, "tier": "QB3", "trend": "flat", "note": "Higgins/Dell out"},
+    {"player": "Colston Loveland", "pos": "TE", "value": 40, "tier": "TE2", "trend": "flat", "note": "CHI year-2"},
+    {"player": "MarShawn Lloyd", "pos": "RB", "value": 40, "tier": "RB3", "trend": "flat", "note": "GB lead while Jacobs exempt"},
+    {"player": "Tetairoa McMillan", "pos": "WR", "value": 40, "tier": "WR3", "trend": "flat", "note": "CAR"},
+    {"player": "Tyler Shough", "pos": "QB", "value": 40, "tier": "QB3", "trend": "flat", "note": "Saints QB1 on 53"},
+    {"player": "Tyler Warren", "pos": "TE", "value": 40, "tier": "TE2", "trend": "flat", "note": "Not listed; start"},
+    {"player": "Garrett Wilson", "pos": "WR", "value": 38, "tier": "WR3", "trend": "flat", "note": "NYJ / Geno"},
+    {"player": "Jaylen Waddle", "pos": "WR", "value": 38, "tier": "WR3", "trend": "flat", "note": "DEN"},
+    {"player": "Ladd McConkey", "pos": "WR", "value": 38, "tier": "WR3", "trend": "flat", "note": "LAC"},
+    {"player": "Mike Evans", "pos": "WR", "value": 38, "tier": "WR3", "trend": "flat", "note": "6-49-1; real SF WR2"},
+    {"player": "Jadarian Price", "pos": "RB", "value": 36, "tier": "RB3", "trend": "flat", "note": "10-52; Holani 8-29 tax confirmed"},
+    {"player": "Bucky Irving", "pos": "RB", "value": 34, "tier": "RB3", "trend": "flat", "note": "TB lead-ish; Tucker Doubtful"},
+    {"player": "Tyler Allgeier", "pos": "RB", "value": 34, "tier": "RB3", "trend": "up", "note": "Official Week 1 ARI RB1; Love official Q; 33->34"},
+    {"player": "Terry McLaurin", "pos": "WR", "value": 34, "tier": "WR3", "trend": "flat", "note": "WAS"},
+    {"player": "Tucker Kraft", "pos": "TE", "value": 34, "tier": "TE2", "trend": "flat", "note": "Not listed; expected Week 1"},
+    {"player": "Kirk Cousins", "pos": "QB", "value": 32, "tier": "QB3", "trend": "flat", "note": "LV Week 1 starter"},
+    {"player": "George Kittle", "pos": "TE", "value": 32, "tier": "TE2", "trend": "flat", "note": "2-12 on 5; snap count confirmed"},
+    {"player": "A.J. Brown", "pos": "WR", "value": 32, "tier": "WR3", "trend": "down", "note": "IR min Weeks 2-5; earliest Week 6; do not drop; 34->32"},
+    {"player": "Jeremiyah Love", "pos": "RB", "value": 32, "tier": "RB3", "trend": "down", "note": "Official Q; Allgeier is the Week 1 chip; 34->32"},
+    {"player": "Luther Burden III", "pos": "WR", "value": 32, "tier": "WR3", "trend": "up", "note": "Odunze official Q; CHI pivot if he sits; 31->32"},
+    {"player": "Quinshon Judkins", "pos": "RB", "value": 32, "tier": "RB3", "trend": "flat", "note": "CLE"},
+    {"player": "Bhayshul Tuten", "pos": "RB", "value": 31, "tier": "RB3", "trend": "flat", "note": "Not listed; Allen Jr. official Q"},
+    {"player": "DJ Moore", "pos": "WR", "value": 30, "tier": "WR4", "trend": "flat", "note": "BUF. The Bills WR"},
+    {"player": "Deebo Samuel", "pos": "WR", "value": 30, "tier": "WR4", "trend": "flat", "note": "6-48-1 + 12 rush; target peer with Evans"},
+    {"player": "Daniel Jones", "pos": "QB", "value": 30, "tier": "QB3", "trend": "flat", "note": "Volume QB2"},
+    {"player": "Cam Skattebo", "pos": "RB", "value": 28, "tier": "RB3", "trend": "flat", "note": "NYG"},
+    {"player": "Cam Ward", "pos": "QB", "value": 28, "tier": "QB4", "trend": "flat", "note": "Year-2 upside"},
+    {"player": "Christian Watson", "pos": "WR", "value": 28, "tier": "WR4", "trend": "flat", "note": "GB"},
+    {"player": "Chuba Hubbard", "pos": "RB", "value": 28, "tier": "RB3", "trend": "flat", "note": "Not listed; Brooks Full is a tax"},
+    {"player": "D'Andre Swift", "pos": "RB", "value": 28, "tier": "RB3", "trend": "flat", "note": "Not listed; start vs CAR"},
+    {"player": "Davante Adams", "pos": "WR", "value": 28, "tier": "WR3", "trend": "flat", "note": "3-26 on 6"},
+    {"player": "Harold Fannin Jr.", "pos": "TE", "value": 28, "tier": "TE2", "trend": "flat", "note": "CLE year-2 targets"},
+    {"player": "Geno Smith", "pos": "QB", "value": 26, "tier": "QB4", "trend": "flat", "note": "Named NYJ starter"},
+    {"player": "Rome Odunze", "pos": "WR", "value": 26, "tier": "WR4", "trend": "down", "note": "Official Q; player plans to play; Johnson cautious; do not lock; 28->26"},
+    {"player": "Mike Washington Jr.", "pos": "RB", "value": 26, "tier": "RB3", "trend": "flat", "note": "Required Jeanty cuff"},
+    {"player": "Sam LaPorta", "pos": "TE", "value": 26, "tier": "TE2", "trend": "flat", "note": "DET"},
+    {"player": "Justin Fields", "pos": "QB", "value": 24, "tier": "QB4", "trend": "flat", "note": "Mahomes Full plus clean weather shrinks the start; still the required cuff"},
+    {"player": "Kyle Pitts", "pos": "TE", "value": 24, "tier": "TE2", "trend": "flat", "note": "ATL; Rush is a tiny tax not a sit"},
+    {"player": "Parker Washington", "pos": "WR", "value": 24, "tier": "WR4", "trend": "flat", "note": "JAC; Meyers Limited / no tag"},
+    {"player": "Marvin Harrison Jr.", "pos": "WR", "value": 24, "tier": "WR4", "trend": "flat", "note": "ARI; Brissett cap"},
+    {"player": "Drew Lock", "pos": "QB", "value": 22, "tier": "QB4", "trend": "flat", "note": "Week 2 starter; 16/22, 187, 1 TD"},
+    {"player": "Bryce Young", "pos": "QB", "value": 22, "tier": "QB4", "trend": "flat", "note": "Streamer"},
+    {"player": "Carnell Tate", "pos": "WR", "value": 22, "tier": "WR4", "trend": "flat", "note": "Not listed"},
+    {"player": "Jaylen Warren", "pos": "RB", "value": 22, "tier": "RB4", "trend": "flat", "note": "PIT split"},
+    {"player": "Josh Downs", "pos": "WR", "value": 22, "tier": "WR4", "trend": "flat", "note": "Safer than Pierce; ROS legal hedge"},
+    {"player": "Tony Pollard", "pos": "RB", "value": 22, "tier": "RB4", "trend": "flat", "note": "TEN"},
+    {"player": "Emmett Johnson", "pos": "RB", "value": 20, "tier": "RB4", "trend": "flat", "note": "Won KC RB2"},
+    {"player": "Jacoby Brissett", "pos": "QB", "value": 20, "tier": "QB4", "trend": "flat", "note": "ARI bridge"},
+    {"player": "Mack Hollins", "pos": "WR", "value": 20, "tier": "WR4", "trend": "up", "note": "4-51; Brown IR through Week 5; 18->20"},
+    {"player": "Romeo Doubs", "pos": "WR", "value": 20, "tier": "WR4", "trend": "up", "note": "Brown IR through Week 5; ugly tape; $68M path; 18->20"},
+    {"player": "Travis Kelce", "pos": "TE", "value": 20, "tier": "TE3", "trend": "flat", "note": "Age"},
+    {"player": "Aaron Rodgers", "pos": "QB", "value": 18, "tier": "QB4", "trend": "flat", "note": "PIT volume, age"},
+    {"player": "Deshaun Watson", "pos": "QB", "value": 18, "tier": "QB4", "trend": "flat", "note": "Named starter; floor GUESS ugly"},
+    {"player": "Emari Demercado", "pos": "RB", "value": 18, "tier": "RB4", "trend": "up", "note": "Davis Out; remaining Javonte 53 cuff; 16->18"},
+    {"player": "Josh Jacobs", "pos": "RB", "value": 18, "tier": "RB4", "trend": "flat", "note": "Exempt; cannot play"},
+    {"player": "Kayshon Boutte", "pos": "WR", "value": 18, "tier": "WR4", "trend": "flat", "note": "HOU WR2/3 path"},
+    {"player": "Keenan Allen", "pos": "WR", "value": 18, "tier": "WR4", "trend": "flat", "note": "Ballard: plays Week 1; court Sept 16"},
+    {"player": "Michael Mayer", "pos": "TE", "value": 18, "tier": "TE3", "trend": "flat", "note": "Bowers official Out 1-2; Week 1 stream; rental"},
+    {"player": "Sam Darnold", "pos": "QB", "value": 18, "tier": "QB4", "trend": "flat", "note": "Miss Week 2; muscle strain; no IR"},
+    {"player": "Jonathon Brooks", "pos": "RB", "value": 17, "tier": "RB4", "trend": "up", "note": "Friday Full, no tag; 16->17"},
+    {"player": "Alvin Kamara", "pos": "RB", "value": 16, "tier": "RB4", "trend": "flat", "note": "Official Q after Full Friday; still sit; start Etienne"},
+    {"player": "Cooper Rush", "pos": "QB", "value": 16, "tier": "QB4", "trend": "up", "note": "Locked Week 1 starter; ugly floor; 12->16"},
+    {"player": "Kaelon Black", "pos": "RB", "value": 14, "tier": "RB4", "trend": "flat", "note": "14-65 + 1-5; CMC cuff not a flex"},
+    {"player": "Fernando Mendoza", "pos": "QB", "value": 14, "tier": "QB5", "trend": "flat", "note": "On 53; not Week 1 QB"},
+    {"player": "Blake Corum", "pos": "RB", "value": 12, "tier": "RB4", "trend": "flat", "note": "10-54; Kyren cuff not a flex"},
+    {"player": "Anthony Richardson", "pos": "QB", "value": 12, "tier": "QB5", "trend": "flat", "note": "Named IND QB2; lottery only"},
+    {"player": "Kyle Monangai", "pos": "RB", "value": 12, "tier": "RB4", "trend": "flat", "note": "Speculative"},
+    {"player": "Tua Tagovailoa", "pos": "QB", "value": 10, "tier": "QB5", "trend": "down", "note": "Official Out; week-to-week; 14->10"},
+    {"player": "Michael Penix Jr.", "pos": "QB", "value": 10, "tier": "QB5", "trend": "flat", "note": "Official Out Week 1"},
+    {"player": "TreVeyon Henderson", "pos": "RB", "value": 10, "tier": "RB5", "trend": "flat", "note": "Already OUT; Week 2+ stash"},
+    {"player": "Bryce Lance", "pos": "WR", "value": 10, "tier": "WR5", "trend": "flat", "note": "Tyson IR dart"},
+    {"player": "Demarcus Robinson", "pos": "WR", "value": 10, "tier": "WR5", "trend": "flat", "note": "2-50-1 spike; not a 10-team start"},
+    {"player": "Corey Kiner", "pos": "RB", "value": 9, "tier": "RB5", "trend": "flat", "note": "6-11; not a start"},
+    {"player": "Khalil Shakir", "pos": "WR", "value": 9, "tier": "WR5", "trend": "flat", "note": "Not listed; still not a 10-team start"},
+    {"player": "DeMario Douglas", "pos": "WR", "value": 9, "tier": "WR5", "trend": "flat", "note": "5-20 on 7; still not a start"},
+    {"player": "Brady Cook", "pos": "QB", "value": 8, "tier": "QB5", "trend": "flat", "note": "On MIA 53; behind Willis"},
+    {"player": "George Holani", "pos": "RB", "value": 8, "tier": "RB5", "trend": "flat", "note": "8-29 short/GL tax; not a 10-team flex"},
+    {"player": "Malik Davis", "pos": "RB", "value": 8, "tier": "RB5", "trend": "down", "note": "Official Out (hip); 14->8"},
+    {"player": "Zach Charbonnet", "pos": "RB", "value": 8, "tier": "RB5", "trend": "flat", "note": "PUP; Week 5+"},
+    {"player": "James Conner", "pos": "RB", "value": 6, "tier": "RB5", "trend": "flat", "note": "IR; fade"},
+    {"player": "Jordyn Tyson", "pos": "WR", "value": 6, "tier": "WR5", "trend": "flat", "note": "IR ~2 months"},
+    {"player": "Ollie Gordon II", "pos": "RB", "value": 6, "tier": "RB5", "trend": "flat", "note": "Ribs; Achane cuff only"},
+    {"player": "Tank Dell", "pos": "WR", "value": 6, "tier": "WR5", "trend": "flat", "note": "IR/PUP"},
+    {"player": "Isiah Pacheco", "pos": "RB", "value": 5, "tier": "RB5", "trend": "flat", "note": "Lions IR; no timetable"},
+    {"player": "De'Zhaun Stribling", "pos": "WR", "value": 4, "tier": "WR5", "trend": "flat", "note": "Started; 0 targets"},
+    {"player": "Lan Larison", "pos": "RB", "value": 4, "tier": "RB5", "trend": "flat", "note": "2-9 receiving; not a start"},
+    {"player": "Jaydon Blue", "pos": "RB", "value": 4, "tier": "RB5", "trend": "flat", "note": "PHI PS; cuttable"},
+    {"player": "Joe Milton", "pos": "QB", "value": 4, "tier": "QB5", "trend": "flat", "note": "DAL practice squad; cuttable"},
+    {"player": "Cedric Tillman", "pos": "WR", "value": 2, "tier": "WR5", "trend": "flat", "note": "NO PS; cuttable"},
+    {"player": "Darius Slayton", "pos": "WR", "value": 2, "tier": "WR5", "trend": "flat", "note": "Released Monday; $0"},
+    {"player": "Will Levis", "pos": "QB", "value": 2, "tier": "QB5", "trend": "flat", "note": "Unsigned Friday evening; $0"}
   ],
   "trade_rules_of_thumb": [
     "Scale is 1-100 Superflex Half-PPR 10-team. Keep it every day. 90+ is 1.01-1.04, 75-89 late 1st/early 2nd, 55-74 is a 2nd.",
@@ -2538,43 +1541,46 @@
     "Half-PPR: WRs hold value. Committee RBs are discounted unless they have a path to 15+ touches as the lead.",
     "10-team benches are shallow. A 4th RB is worth less than in 12-team. Do not overpay for depth.",
     "Side getting the best player in a 2-for-1 sends extra. 3-for-1s usually lose in 10-team unless you are dumping IR dead.",
-    "Never invent a value from vibes. Thin spots (Tua Friday, Odunze Friday, Love Friday, Brown IR yes/no, Shough/Willis efficiency, JAC/KC weather) are labeled GUESS or MISSING.",
-    "Do not smash-sell Maye after 3 INTs plus Brown MRI. He is still an 88.",
-    "Do not drop Brown. Out 4 weeks is not cuttable. He is a 34, not a 10.",
+    "Never invent a value from vibes. Thin spots (Odunze Q, Love Q, Nabers Q, Kamara Q, Mahomes Sat designation, Brown official wire, Shough/Willis efficiency, JAC weather) are labeled GUESS or MISSING.",
+    "Do not smash-sell Maye after 3 INTs plus Brown IR. He is still an 88. FantasyPros Superflex ECR Sep 9 is QB2.",
+    "Do not drop Brown. IR 4 games is not cuttable. He is a 32, not a 10. Earliest Week 6.",
     "Darnold missed Week 2 is not season-ending. Lock is a 1-3 week stream (22), not a season-long QB2.",
-    "Mahomes official Full (70) is a start. Keep Fields (24) attached.",
-    "Tua oblique Limited (14) is not a locked QB2. Friday tag MISSING. Rush (12) is the emergency only.",
-    "Bowers is a 1-2 game miss (48). Sit him Sunday. Do not sell him for a streamer.",
+    "Mahomes Friday Full (70) is a start. Monday weather is now clean. Keep Fields (24) attached.",
+    "Tua official Out (10) is not a locked QB2. Rush (16) is the Sunday emergency only.",
+    "Bowers is official Out (48). Sit him Sunday. Do not sell him for a streamer.",
     "Mayer is a 1-2 week rental (18). Do not pay him as a season-long TE1.",
     "CMC 10-68 + Black 14-65 does not make CMC a sell. CMC is a 74. Black is a 14 cuff.",
     "Kyren/Corum is a committee. Kyren is a 42. Corum is a 12 cuff.",
     "Evans 6-49-1 (38) and Deebo 6-48-1 (30) are both holdable SF WR2/flexes.",
-    "Hollins (18) and Doubs (18) are a month-long committee. Roster one.",
-    "Allgeier is official Week 1 RB1 (33). Love is official Limited (34) — Allgeier is the safer Week 1 start.",
+    "Hollins (20) and Doubs (20) are a month-plus committee. Roster one.",
+    "Allgeier is official Week 1 RB1 (34). Love is official Q (32) — Allgeier is the safer Week 1 start.",
+    "Kamara official Q after Full Friday is still a sit. Start Etienne.",
+    "Malik Davis official Out (8). Demercado (18) is the remaining Javonte cuff.",
     "Do not sit Sunday/MNF studs because Melbourne already happened."
   ],
   "ripoff_flags": [
-    "Selling Maye as if 3 INTs plus Brown MRI killed him — he is still an 88",
-    "Dropping Brown — out 4 weeks is not cuttable; he is a 34 not a 10",
-    "Paying Hollins and Doubs as WR2s — they are 18s; roster one",
+    "Selling Maye as if 3 INTs plus Brown IR killed him — he is still an 88; ECR Sep 9 QB2",
+    "Dropping Brown — IR 4 games is not cuttable; he is a 32 not a 10",
+    "Paying Hollins and Doubs as WR2s — they are 20s; roster one",
     "Douglas as a 10-team WR3 — this league bar is higher than PPR flex chatter",
     "Selling Darnold as season-ending — muscle strain; no IR; miss weeks not the year",
     "Paying Lock as a season-long QB2 — he is a 1-3 week stream (22)",
-    "Tua as a locked Sunday start — oblique Limited; Friday tag MISSING; Rush took 1s",
-    "Penix as a Week 1 QB — inactive",
+    "Paying Rush as a ROS QB2 — he is a 16; one ugly Sunday",
+    "Tua or Penix as a Sunday start — both official Out",
     "Selling CMC because Black got 14 carries — CMC is still a 74; Black is a 14 cuff",
     "Starting Black or Corum as flexes while CMC/Kyren are healthy",
     "Selling Stafford or Nacua as if Melbourne killed the offense — one script",
     "Holani as a 10-team flex — 8-29 is a tax",
-    "Love as the Week 1 ARI RB over Allgeier — official Limited vs official RB1",
-    "Bowers as a Sunday start — sit",
+    "Love as the Week 1 ARI RB over Allgeier — official Q vs official RB1",
+    "Kamara as a sneak start because he is Q after a Full Friday — sit; start Etienne",
+    "Bowers as a Sunday start — official Out",
     "Selling Bowers as if the knee is season-ending — miss a game or two; he is a 48 not a 20",
     "Kittle as a 3rd-round chip — 2-12 confirmed the snap count",
     "Buying Mayer as a season-long TE1 — 1-2 week rental",
     "Sending two startable QBs for one elite skill player",
     "Any kicker or DST package — this league does not start them",
-    "Jaydon Blue / Cedric Tillman / Joe Milton / Will Levis / Pacheco / Slayton buy-low",
+    "Jaydon Blue / Cedric Tillman / Joe Milton / Will Levis / Pacheco / Slayton / Malik Davis this week buy-low",
     "Khalil Shakir as a Week 1 flex chip",
-    "Demarcus Robinson or Stribling as 10-team WR3s"
+    "Demarcus Robinson, Stribling, or McMillan as 10-team WR3s"
   ]
 }
