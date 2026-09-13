@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-12 evening file is **Week 1** (Wed NE@SEA **FINAL SEA 13–10**; Melbourne **FINAL SF 27–7**; Sunday lock in ~18.5 hours). **MNF designations CLOSED** — Mahomes Sat Full, **no tag; START.** **Brown official IR** (Patriots.com Sat 4:00 PM ET; 32). **Tua OUT; Rush starts (16, ECR QB32).** **Bowers official OUT.** **Odunze / Love official Q — do not lock; start Allgeier.** **Nabers more GTD — do not lock tonight.** Sit Kamara. **Malik Davis OUT.** Trade board **flat** vs Saturday 8:20 AM ET.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-13 morning file is **Week 1** (Wed NE@SEA **FINAL SEA 13–10**; Melbourne **FINAL SF 27–7**; Sunday 1:00 lock in ~4.5 hours). **Sunday inactives still MISSING.** **Rush still starts** despite Sat spasms (16). **Dobbins NEW 26** (DEN MNF). **Brown official IR** (32). **Tua OUT.** **Bowers official OUT.** **Odunze / Love official Q — do not lock; start Allgeier.** **Nabers GTD — do not lock this morning.** Sit Kamara. **Malik Davis OUT.** KC rain resolving dry; **wind watch, not sit.** Trade board **flat** vs Saturday 6:20 PM ET except Dobbins / Harvey.
 
 ## Latest
 
