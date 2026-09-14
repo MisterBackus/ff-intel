@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-13 evening file is **Week 1** (Wed/Melbourne + Sunday 1:00 **FINAL**; 4:25 **LIVE**; SNF 8:20; MNF Mon). **Nabers SNF inactives still MISSING.** **Flowers 5–150 then hamstring** (42). **Rush trap confirmed** (12). **Swift 18–124–3** (36). **Coker NEW 18.** **Lock is the Week 2 QB add.** **Start Mahomes Monday** — rain dry, wind watch. Sit Kamara/Bowers/Tua. Do not drop Brown (32) or Flowers.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-14 morning file is **Week 1** (Wed/Melbourne/Sunday **FINAL**; MNF DEN@KC tonight). **Start Mahomes** — rain 0%, wind 12–14 watch. **Nabers played 6–69** (58). **Jeanty 23–102 + 6–45–2** (70). **Dart 230/3 + 54** (70). **Kyler concussion** — FAAB Wentz. **Flowers MRI today** (38). **McConkey chest** (32). **Lock + Wentz** are the Week 2 QB adds. Do not drop Brown (32), Flowers, or McConkey. Do not pay Lloyd as an RB2.
 
 ## Latest
 
