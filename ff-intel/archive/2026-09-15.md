@@ -315,7 +315,7 @@ Conservative call when sources conflict. **Week 2 is live.** TNF names lock Thur
 
 **Strong:** Nabers (**MNF**), London (vs CAR — hold through QB mess), Nico (vs CIN), Olave (@ BAL), Rice (vs IND), DeVonta (@ TEN), Higgins (@ HOU), Egbuka (vs CLE), Evans (vs MIA), Deebo (vs MIA), **DJ Moore (TNF)**, Christian Watson (@ NYJ).
 
-**Toss-up:** Lamb (vs WAS — muted W1, hold), Pickens (vs WAS), McMillan (CAR), Waddle (@ SF — **ugly tape, not a panic-sit if you have no one else, but not a smash**), Garrett Wilson (vs GB), **McConkey (ribs — W2 MISSING)**, **Flowers (MRI MISSING / Schefter miss)**, McLaurin (@ DAL), Adams (**MNF**), Coker (@ ATL — smash tape, not a locked WR2), Hollins / Doubs (only if thin), Bourne (thin).
+**Toss-up:** Lamb (vs WAS — muted W1, hold), Pickens (vs WAS), McMillan (CAR), Waddle (vs JAC — **ugly DEN tape, not a panic-sit if you have no one else, but not a smash**), Garrett Wilson (vs GB), **McConkey (ribs — W2 MISSING)**, **Flowers (MRI MISSING / Schefter miss)**, McLaurin (@ DAL), Adams (**MNF**), Coker (@ ATL — smash tape, not a locked WR2), Hollins / Doubs (only if thin), Bourne (thin).
 
 **Sit / trap:** Dell, Tyson, Higgins (HOU), **Brown Weeks 2–5**, Shakir as a locked flex, Douglas (NE), Robinson, Stribling, McMillan (TB), Bell, Cambre, Slayton, Boutte as a drafted WR3, Harrison as a panic-sell, Lane, **Sutton as a smash**, **Worthy as a smash**.
 
@@ -339,7 +339,7 @@ Conservative call when sources conflict. **Week 2 is live.** TNF names lock Thur
 - **NO @ BAL:** Flowers MRI decides Bateman / Henry stacks. Shough volume meets a real defense — toss-up, not a smash. Kamara unconfirmed.
 - **LV @ LAC:** McConkey landmine. Bowers DTD. Jeanty still a must-start. Hampton strong.
 - **CAR @ ATL:** Falcons QB unnamed. Start Bijan. Hold London. Do not start Rush or Tua. Young is a stream-up.
-- **MIA @ SF:** Achane / Willis / Waddle are **tough-spot fades as smashes**. CMC / Purdy / Deebo / Evans are the SF starts.
+- **MIA @ SF:** Achane / Willis are **tough-spot fades as smashes**. CMC / Purdy / Deebo / Evans are the SF starts. Waddle is **DEN** (vs JAC), not Miami.
 - **NYG @ LAR (Mon):** Nabers / Dart vs Nacua / Stafford / Kyren — late lock.
 - **IND @ KC (SNF):** Start Mahomes / Walker. Taylor still a must-start. Jones is volume-only.
 - **PIT @ NE:** Stevenson is the chip until Henderson is named active. Maye is still a must-start. Do not start Brown.
