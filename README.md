@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-14 **evening** file is **Week 1** (Wed/Melbourne/Sunday **FINAL**; MNF DEN@KC tonight 8:15 ET). **Start Mahomes** — rain 0–4%, gusts 28–30 watch. Official inactives **MISSING**. **Flowers 40** (not serious / MRI still MISSING). **McConkey ribs DTD** (32). **Kyler 36** — FAAB Wentz. **Henderson practiced Monday** (14). **Lock + Wentz** are the Week 2 QB adds. Do not drop Brown (32), Flowers, or McConkey. Do not pay Lloyd as an RB2.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-15 **morning** file is **Week 2**. Week 1 is **CLOSED** (MNF **KC 31–10 DEN**). **FAAB is today:** Lock **$8–$14**, Wentz **$6–$12**. Walker smash (**60**). Dobbins is a committee (**22**). **Flowers MRI still MISSING** — sit until Wednesday; do not drop (40). **McConkey ribs DTD** (32). **Kyler 36** — sit; stream Wentz. TNF DET@BUF Thursday — 36% showers are watch, not sit. Do not drop Brown (32), Flowers, or McConkey. Do not pay Lloyd or Dobbins as RB2s.
 
 ## Latest
 
