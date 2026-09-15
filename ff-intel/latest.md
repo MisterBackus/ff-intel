@@ -1,38 +1,36 @@
 # FF-Intel — 10-team Superflex Half-PPR (no K / no DST)
 
-- **Generated:** Tuesday, September 15, 2026, 8:20 AM ET (America/New_York)
+- **Generated:** Tuesday, September 15, 2026, 6:20 PM ET (America/New_York)
 - **NFL week:** Week 2 (TNF DET@BUF Thu 9/17 8:15 ET)
 - **Season:** 2026 NFL · Platform: Sleeper · $100 FAAB
 - **Data freshness:**
   - 53-man rosters locked Sunday, Aug 30, 6:00 PM ET
-  - **Week 1 CLOSED.** MNF **FINAL: KC 31–10 DEN.** Official inactives **CLOSED**: Mahomes / Rice / Worthy **active**. Simmons **OUT**. Conner **OUT**. DEN: Mims active; Badie inactive.
-  - **1:00 FINAL:** CHI 59–37 CAR; BUF 36–31 HOU; CIN 33–27 TB; DET 31–30 NO (OT); JAC 34–10 CLE; BAL 41–23 IND; NYJ 23–10 TEN; PIT 20–13 ATL
-  - **4:25 FINAL:** ARI 26–14 LAC; LV 27–13 MIA; MIN 39–22 GB; PHI 24–22 WAS
-  - **SNF FINAL:** NYG 28–20 DAL
-  - **MNF FINAL:** KC 31–10 DEN. Mahomes **15/27, 184, 2 TD, 1 INT + 7–23–1**. Walker **23–173–1 + 3–18–1**. Emmett Johnson **8–24 + 2–44**. Rice **2–19–1**. Worthy **3–18 on 6**. Kelce **3–71**. Nix **17/28, 131, 1 TD, 1 INT**. Dobbins **8–36**. Harvey **3–18 + 4–23**. Waddle **1–2**. Sutton **2–11**. Engram **4–43–1**.
-  - **Zay Flowers MRI result still MISSING.** Rapoport: hamstring **not considered serious**, day-to-day. Schefter Mon: **unrealistic** he plays Week 2. Minter: day-to-day. **Conflict** — conservative: have a pivot; do not drop; sit until Wednesday practice.
-  - **Ladd McConkey = ribs.** Harbaugh DTD; will not commit to Week 2. Monday testing. Week 2 vs LV still **MISSING**.
-  - **Kyler:** still concussion protocol. O’Connell: pretty good / in meetings. Rapoport: Vikings unsure. Schefter: **not likely** Week 2. Sit until cleared. **Wentz is the stream.**
-  - **Tua:** oblique strain DTD. Stefanski Mon: **no Week 2 starter named** (Wednesday practice is the first look). Rush trap already confirmed.
-  - **Bowers:** Kubiak DTD. “If he’s ready, he’s gonna play.” Sit until Wednesday. Do not drop.
-  - **Henderson:** practiced Monday (first since Aug 24). Stretching / footwork / ball security. Not a locked Week 2 RB2.
-  - **Darnold:** SEA Mon — unique **glute** soft-tissue; hip joint **unaffected**; short-term; **no IR**. Misses 9/20. **Lock starts @ ARI.**
-  - Superflex values: FantasyPros **seasonal** Superflex ECR last full table **Sep 8** (Maye **QB3**). Sep 9 three-expert table has Maye **QB2**. Thin spots labeled **GUESS**.
-  - **Risers/fallers vs Monday 6:20 PM ET published board** listed in §7B
-  - Levis still unsigned Tuesday morning. Browning still FA. Hunt still unsigned.
+  - **Week 1 CLOSED.** MNF **FINAL: KC 31–10 DEN.** Official inactives **CLOSED**. Boxes unchanged since this morning.
+  - **First official non-TNF Week 2 practice reports are still Wednesday.** TNF teams practiced Tuesday.
+  - **Zay Flowers MRI result still MISSING** as of 6:20 PM ET. Rapoport: not serious / DTD. Schefter Mon: unrealistic Week 2. Minter: DTD. **Conflict** — sit until Wednesday; do not drop (40).
+  - **McConkey ribs:** no Tuesday update. Harbaugh DTD. Week 2 vs LV still **MISSING**. Do not drop (32).
+  - **Kyler:** still protocol. **NEW Tue:** Garafolo — Vikings have **not ruled him out**; protocol unpredictable; Wentz if not. Schefter Mon: not likely. **Conflict** — sit until cleared; do not drop (36).
+  - **Falcons QB NEW Tue:** Kendall — media advisory flipped to “QB Cooper Rush press conference.” Wyche: listed **based on no new information** / **placeholder**. Raimondi: not set in stone. Stefanski still has **not named** a starter. Conservative: **do not stream Rush**. Wednesday 1s decide.
+  - **Ty Johnson NEW Tue:** NBC Sports — **Limited** Tuesday (hamstring). Only BUF offensive name. Not a 10-team start. Cook / Allen still lock.
+  - **Lions Tue official designations still MISSING** on detroitlions.com (Mon estimated: Mahogany NP hip, Miller NP knee). Tiny OL tax. Campbell: Gibbs ready. **Not a sit.**
+  - **Dickerson IR** (knee, min 4). Tiny Hurts/Saquon tax. **Not a sit.**
+  - **Overshown NEW Tue:** Jerry Jones — likely miss vs WAS (hamstring strain). Tiny DAL tax. **Not a sit** on Dak / Lamb / Javonte.
+  - Superflex values: FantasyPros **seasonal** Superflex ECR last full table **Sep 8** (Maye **QB3**). Sep 9 three-expert table has Maye **QB2**. FP **Week 2 weekly** rankings published **today** (1QB-style explainer; do not smash-sell Maye). Thin spots labeled **GUESS**.
+  - **Risers/fallers vs Tuesday 8:20 AM ET published board:** **entire 1–100 board FLAT** (§7B)
+  - Levis still unsigned Tuesday evening. Browning still FA. Hunt still unsigned.
 
 ---
 
 ## 1. League week context
 
-**Now:** Tuesday morning. Week 1 is scored. **First useful $100 FAAB is today.** First official Week 2 practice reports are **Wednesday**. TNF lock is Thursday.
+**Now:** Tuesday evening. Week 1 is scored. **If your Sleeper room processed default Tuesday-AM FAAB, confirm who you got.** If the commissioner set Tuesday evening / Wednesday, **the same bid board still applies.** First official non-TNF Week 2 sheets are **Wednesday**. TNF lock is Thursday.
 
 **Week 2 window**
 
 | When (ET) | Game | Note |
 |---|---|---|
 | **Thu 9/17 8:15p Prime** | **DET @ BUF** | Short week. Start Gibbs / Allen / Cook / Amon-Ra / Goff / DJ Moore / Kincaid |
-| Sun 9/20 1:00p | CAR@ATL, NO@BAL, MIN@CHI, CIN@HOU, PIT@NE, GB@NYJ, CLE@TB, PHI@TEN | **Wentz @ CHI if Murray sits.** Flowers landmine in BAL. Falcons QB **MISSING** |
+| Sun 9/20 1:00p | CAR@ATL, NO@BAL, MIN@CHI, CIN@HOU, PIT@NE, GB@NYJ, CLE@TB, PHI@TEN | **Wentz @ CHI if Murray sits.** Flowers landmine. Falcons starter still **unnamed** (Rush is a placeholder, not a smash) |
 | Sun 9/20 4:05p | JAC@DEN, LV@LAC | Tuten / Dobbins / Jeanty / Hampton. **McConkey + Bowers landmines** |
 | Sun 9/20 4:25p | SEA@ARI, WAS@DAL, MIA@SF | **Lock @ ARI smash stream.** Achane @ SF is a tough spot |
 | Sun 9/20 8:20p NBC | IND @ KC | Jones / Taylor / Mahomes / Walker |
@@ -46,13 +44,13 @@
 - **NE / SEA / SF / LAR already had extra rest** after early Week 1. Next game Sun 9/20 (NYG@LAR is Mon).
 
 **Weather (only if it changes a start/sit)**
-- **DET @ BUF (Thu):** NFLWeather ~68°F / 3 mph / **~36% showers**. NWS Buffalo: storms more likely **before 8 PM**, then 30% showers. Light wind. **Watch, not a sit** for Allen / Cook / Gibbs / Amon-Ra / Goff / Moore / Kincaid.
-- No other Week 2 slate is sit-level as of 8:20 AM ET.
+- **DET @ BUF (Thu):** NFLWeather still **~68°F / 3 mph NW / ~36% showers** (gusts 6–9). Chance of showers and thunderstorms. Light wind. **Watch, not a sit** for Allen / Cook / Gibbs / Amon-Ra / Goff / Moore / Kincaid.
+- No other Week 2 slate is sit-level as of 6:20 PM ET.
 
 **Deadlines that matter**
-- **Tue 9/15:** First useful **$100 FAAB** (typical Sleeper Tuesday). Bid board below is for **today**.
-- **Wed 9/16:** First useful Week 2 practice reports (Tua / Murray / Flowers / McConkey / Bowers / Kamara / Henderson). Keenan Allen **court date** (OWI) — NFL still monitoring; do not invent a suspension.
-- **Thu 9/17 8:15 PM ET:** Week 2 TNF lock (DET@BUF).
+- **Tue 9/15 evening:** If FAAB already ran, stop bidding. If it is still open, bid board below is unchanged.
+- **Wed 9/16:** First useful non-TNF Week 2 practice reports (Tua / Murray / Flowers / McConkey / Bowers / Kamara / Henderson). Keenan Allen **court date** (OWI) — NFL still monitoring; do not invent a suspension.
+- **Thu 9/17 8:15 PM ET:** Week 2 TNF lock (DET@BUF). Set Allen / Gibbs / Cook / Amon-Ra / Goff / Moore / Kincaid tonight or tomorrow.
 - **Sun 9/20 1:00 PM ET:** First Sunday lock.
 - **Mon 9/21 8:15 PM ET:** NYG@LAR lock.
 - **NFL trade deadline:** Tue Nov 10, 4:00 PM ET. League trade deadline: commissioner-set. **MISSING** for this Sleeper room.
@@ -61,7 +59,7 @@
 
 ## 2. Injuries and availability (most important)
 
-Statuses use **closed Week 1 boxes + Monday coach / beat notes**. Official Week 2 sheets start Wednesday. Conservative call when sources conflict.
+Statuses use **closed Week 1 boxes + Monday coach notes + Tuesday TNF visuals / Falcons advisory**. Official non-TNF Week 2 sheets start Wednesday. Conservative call when sources conflict.
 
 ### Must act today (FAAB / fade / landmine)
 
@@ -69,9 +67,9 @@ Statuses use **closed Week 1 boxes + Monday coach / beat notes**. Official Week 
 |---|---|---|---|---|---|---|---|---|
 | Drew Lock | QB | SEA | **Healthy / W2 starter** | Darnold out 9/20 (glute) | **Start @ ARI** | N/A | Darnold stash | **MUST ACT** — FAAB $8–$14 today |
 | Carson Wentz | QB | MIN | **Healthy / likely W2** | Kyler still protocol | **Start @ CHI if Murray sits** | N/A | Murray stash | **MUST ACT** — FAAB $6–$12 today |
-| Kyler Murray | QB | MIN | **Concussion protocol** | Schefter: not likely W2. O’Connell DTD | Only if cleared Wed–Fri | **Wentz** | Wentz is the stream | **MUST ACT** — sit until cleared; do not drop (36) |
-| Cooper Rush | QB | ATL | **Healthy / trap** | 12/22, 2 INT, pick-six | Only if Tua **and** Penix named out | Tua / Penix still **MISSING** | **Drop as a W2 start** unless desperate | **MUST ACT** — do not stream blindly |
-| Tua Tagovailoa | QB | ATL | **DTD / W2 starter MISSING** | Oblique strain. Stefanski no name | N/A until named | Rush already ugly | Hold; do not start until named | Sit |
+| Kyler Murray | QB | MIN | **Concussion protocol** | Schefter: not likely W2. **Garafolo Tue: not ruled out.** Protocol unpredictable | Only if cleared Wed–Fri | **Wentz** | Wentz is the stream | **MUST ACT** — sit until cleared; do not drop (36) |
+| Cooper Rush | QB | ATL | **Healthy / trap / placeholder** | 12/22, 2 INT, pick-six. Kendall advisory lists Rush; Wyche = **no new info** | Only if Tua **and** Penix named out | Tua / Penix still **unnamed** | **Drop as a W2 start** unless desperate | **MUST ACT** — placeholder ≠ smash stream |
+| Tua Tagovailoa | QB | ATL | **DTD / W2 starter unnamed** | Oblique strain. Stefanski still no name | N/A until named | Rush already ugly | Hold; do not start until named | Sit |
 | Zay Flowers | WR | BAL | **DTD / MRI MISSING** | Hamstring. Rapoport not serious. Schefter unrealistic W2 | Wait Wednesday | Bateman / Wester / Moore | Do **not** drop (40). FAAB Bateman $2–$4 if you own him | **MUST ACT** — landmine; have a pivot |
 | Ladd McConkey | WR | LAC | **DTD (ribs)** | Harbaugh will not commit. Monday testing | Wait Wednesday | Tre Harris / Johnston | Do **not** drop (32). FAAB Harris $2–$4 | **MUST ACT** — landmine |
 | A.J. Brown | WR | NE | **Official IR (min 4)** | High-ankle. Earliest Week 6 | N/A | Hollins + Doubs split | Roster **one** | **MUST ACT** — do not drop (32) |
@@ -95,7 +93,7 @@ Statuses use **closed Week 1 boxes + Monday coach / beat notes**. Official Week 
 | D’Andre Swift | RB | CHI | **Healthy** | **18–124–3** | vs MIN | Locked RB2 | Monangai tax, not a flex |
 | Jahmyr Gibbs | RB | DET | **Healthy** | Recap **156–2**. **TNF** | @ BUF | RB1 | No 10-team Lions cuff |
 | Josh Allen | QB | BUF | **Healthy** | **334/2 + 2 rush TD**. **TNF** | vs DET | SF 1.01 | Hold |
-| James Cook | RB | BUF | **Healthy** | 13–57. Allen ate TDs. **TNF** | vs DET | RB1 | Ty Johnson hamstring Mon |
+| James Cook | RB | BUF | **Healthy** | 13–57. Allen ate TDs. **TNF** | vs DET | RB1 | Ty Johnson **Limited Tue** — cuff only, not a sit |
 | DJ Moore | WR | BUF | **Healthy** | **5–100–1**. **TNF** | vs DET | Locked WR3 / flex | Shakir still not a start |
 | Dalton Kincaid | TE | BUF | **Healthy** | **5–130**. **TNF** | vs DET | Real TE1 week | FAAB if free |
 | Travis Etienne Jr. | RB | NO | **Healthy** | 9–46. Miller 9–30–1 | @ BAL | Committee until Kamara posts fulls | Miller is the tax |
@@ -142,11 +140,14 @@ Statuses use **closed Week 1 boxes + Monday coach / beat notes**. Official Week 
 | De’Zhaun Stribling | WR | SF | **Out** | Deltoid sprain; ≥1 month | N/A | Evans / Deebo | Ignore |
 | Chris Lindstrom | G | ATL | **Protocol** | Concussion. Tiny London/Bijan tax | N/A | Not a sit | Not a sit |
 | Keenan Allen | WR | IND | **Healthy** | Played W1. **Court Wed 9/16** | vs KC SNF | WR4 / depth | Downs / Pierce. Do not invent a ban |
+| Ty Johnson | RB | BUF | **Limited Tue** | Hamstring. NBC Sports: only BUF offensive name on TNF report | 3rd-down / Gore Jr. tax if he sits | Not a 10-team flex | Ignore as a start |
+| Landon Dickerson | OL | PHI | **IR (min 4)** | Knee. Schefter / Dickerson confirmed | Tiny Hurts / Saquon tax | Not a sit | Not a sit |
+| DeMarvion Overshown | LB | DAL | **Likely out W2** | Hamstring strain. Jerry Jones Tue: miss this week | Tiny Dak / Lamb / Javonte tax | Not a sit | Not a sit |
 
 **Superflex QB-out streamers**
 - **Lock is the locked Week 2 stream** (Darnold out @ ARI). SEA confirmed glute / no IR / Lock starts.
 - **Wentz is the Week 2 stream** if Murray stays in protocol (12/19, 3 TD already; @ CHI). Schefter: Murray not likely.
-- **Rush is a confirmed trap.** Stefanski has not named a Week 2 starter. Do not stream unless Tua **and** Penix are named out **and** you have no one else.
+- **Rush is a confirmed trap.** Tuesday advisory lists him as the Wednesday speaker; Wyche says **placeholder / no new information**. Do not stream unless Tua **and** Penix are named out **and** you have no one else.
 - **Shough volume is real** (410/3) but **Week 2 @ BAL is a downgrade**. Young volume is real (361/3) @ ATL. Dart is a locked QB2 (MNF). Love volume is real. Brissett volume vs SEA. Geno floor vs GB. Ward / Watson / Rush / Nix-as-smash are fades.
 - Mid-QB pool: Cousins, Jones, Brissett, Rodgers, Wentz, Lock. 10-team: roster only 2–3 as QB3s.
 - Levis / Browning / Milton still **$0**.
@@ -155,32 +156,29 @@ Statuses use **closed Week 1 boxes + Monday coach / beat notes**. Official Week 
 
 ## 3. News that changes value
 
-Only snaps / usage. **Bold = new since Monday 6:20 PM ET packet.**
+Only snaps / usage. **Bold = new since Tuesday 8:20 AM ET packet.**
 
-- **MNF FINAL KC 31–10 DEN.** Official inactives **CLOSED**. Start-Mahomes was correct. Wind did not sit anyone.
-- **Walker smash:** 23–173–1 + 3–18–1 (2 scores). Emmett Johnson **8–24 + 2–44** is a real passing-down tax / cuff, not a flex.
-- **Mahomes rust + health:** 15/27, 184, 2 TD, 1 INT + **7–23–1**. Looked mobile. Locked QB2 ROS. Keep Fields.
-- **Dobbins is a committee, not a lead.** 8–36. Harvey **3–18 + 4–23** on 4 targets. Do not pay Dobbins as an RB2.
-- **DEN pass game wrecked:** Nix 131/1/1. Waddle **1–2**. Sutton **2–11**. Engram **4–43–1** was the only usable DEN skill tape.
-- **Rice muted:** 2–19–1. Worthy 3–18 on 6. Kelce **3–71** led KC receivers. Do not smash-sell Rice after one script; do not promote Worthy.
-- **Flowers MRI still MISSING.** Schefter “unrealistic this week” vs Rapoport “not serious / DTD” is an open **conflict**. Conservative: sit until Wednesday; do not drop.
-- **McConkey** Monday testing; Harbaugh still DTD. Week 2 vs LV **MISSING**.
-- **Darnold** SEA statement: unique glute, hip unaffected, short-term, **no IR**, Lock starts Sunday.
-- **Henderson** practiced Monday. Stevenson remains the lead until 15+ touches.
-- **Kamara:** Moore “will be a part of this here shortly.” Not a locked Week 2 start.
-- **Bowers** still Kubiak DTD. Mayer remains a rental.
-- **Tua / Penix** still unnamed. Wednesday practice is the first look.
-- **Keenan Allen court Wednesday.** Played Week 1. NFL monitoring. Do not invent a suspension.
-- FantasyPros **seasonal** Superflex ECR last full table **Sep 8** (Maye QB3). Sep 9 three-expert table has Maye **QB2**.
-- Levis still unsigned Tuesday morning. $0.
+- **Falcons QB advisory (Tue).** Kendall: Wednesday slot is now “QB Cooper Rush press conference.” **Wyche: listed based on no new information / placeholder.** Raimondi: not set in stone. Stefanski still has not named a starter. **Do not stream Rush.** Wednesday 1s are the tell.
+- **Murray not ruled out (Tue).** Garafolo: O’Connell said Monday he felt better; protocol is unpredictable; Wentz if he sits. Schefter Mon “not likely” is still live. **Sit Kyler until cleared.**
+- **Ty Johnson Limited Tuesday (NBC Sports).** Only BUF offensive name. Cook / Allen / Moore / Kincaid are still TNF locks. Johnson is not a 10-team flex.
+- **Flowers MRI still MISSING** at 6:20 PM ET. No Tuesday result. Same conflict (Rapoport DTD vs Schefter miss). Sit until Wednesday. Do not drop.
+- **McConkey / Bowers / Kamara / Henderson / Tua:** no Tuesday practice designation that changes the morning call. Wait Wednesday.
+- **Dickerson IR** (knee, min 4). Tiny Hurts / Saquon tax. Not a sit.
+- **Overshown likely miss Week 2** (Jerry Jones, hamstring strain). Tiny Dak / Lamb / Javonte tax. Not a sit.
+- **Lions OL:** Tuesday official designations still **MISSING**. Monday estimated Mahogany / Miller NP. Tiny Gibbs / Goff / Amon-Ra tax. Campbell: Gibbs ready. Not a sit.
+- **TNF weather unchanged:** 68°F / 3 mph / 36% showers. Watch, not sit.
+- **MNF / Week 1 boxes unchanged.** Walker smash, Mahomes rust, Dobbins committee already priced this morning.
+- FantasyPros **Week 2 weekly** rankings published today (generic 1QB explainer). Seasonal Superflex last full table still **Sep 8** (Maye QB3). Do not smash-sell Maye.
+- **Keenan Allen court Wednesday.** Played Week 1. Do not invent a suspension.
+- Levis still unsigned Tuesday evening. $0.
 
-**Coaching / OC:** No Tuesday OC firings. Stefanski still has not named a Week 2 QB. Tape says do not stream Rush if you have a choice.
+**Coaching / OC:** No Tuesday OC firings. Stefanski still has not named a Week 2 QB. A media-advisory breadcrumb is not a start.
 
 ---
 
 ## 4. Waiver / FAAB board ($100)
 
-**Bids are due today.** 10-team benches are short — do not roster a 4th RB or IR stash unless the path is 15+ touches in the next 1–4 weeks.
+**If FAAB is still open, these bids are unchanged.** 10-team benches are short — do not roster a 4th RB or IR stash unless the path is 15+ touches in the next 1–4 weeks.
 
 Bids are **% of $100 and dollars**.
 
@@ -198,7 +196,7 @@ Bids are **% of $100 and dollars**.
 | Daniel Jones | QB | IND | 19/31, 166. Volume only @ KC | 1–3% / $1–$3 | Speculative | Same |
 | Aaron Rodgers | QB | PIT | 24/40, 221, 1 TD. @ NE | 1–3% / $1–$3 | Speculative | Same |
 | Malik Willis | QB | MIA | 220 + rush TD. **@ SF is a fade** | 1–3% / $1–$3 | Speculative | Same |
-| Cooper Rush | QB | ATL | Trap confirmed. Only if Tua **and** Penix named out **and** you are desperate | 0–2% / $0–$2 | Speculative — usually a **drop** | N/A |
+| Cooper Rush | QB | ATL | Placeholder speaker, not a named smash. Only if Tua **and** Penix named out **and** you are desperate | 0–2% / $0–$2 | Speculative — usually a **drop** | N/A |
 | Cam Ward | QB | TEN | 19/32, 140. Fade vs PHI | 0–2% / $0–$2 | Ignore | N/A |
 | Deshaun Watson | QB | CLE | Ugly. Fade @ TB | 0–1% / $0–$1 | Ignore | N/A |
 | Bo Nix | QB | DEN | 131/1/1. **Not a stream-up** after MNF | 0–2% / $0–$2 | Ignore as an add | N/A |
@@ -263,7 +261,7 @@ Bids are **% of $100 and dollars**.
 | George Holani | RB | SEA | Confirmed short/GL. **Not a 10-team flex** | 0–2% / $0–$2 | Speculative — only if you own Price |
 | Ollie Gordon II | RB | MIA | Ribs. Achane path only | 0–2% / $0–$2 | Speculative — only if you own Achane |
 
-**Do not FAAB in 10-team:** Conner, Dell, Tyson, Charbonnet (PUP), Jacobs (exempt), **Pacheco (December)**, Tucker, **Blue**, Benson, **Tillman**, **Milton**, **Levis / Browning until a 53**, **Slayton**, **Penix as a start**, **Tua as a start**, **Bowers as a start**, **Holani as a flex**, **Douglas (NE) as a WR3**, **Larison**, **Stribling (month-plus)**, **Robinson as a WR3**, **Malik Davis**, **McMillan (inactive W1)**, **Bell as a paid WR3**, **Cambre**, **Ja’Kobi Lane**, **Jack Strand**, **Rush as a ROS QB2**, **Watson as a paid QB3**, **Ward as a paid QB3**, **Lloyd as a $20 RB2**, **Dobbins as a $10+ RB2**, **Nix as a stream-up**, **Waddle as a panic-add**, Vaki/Saylors, kickers, DST.
+**Do not FAAB in 10-team:** Conner, Dell, Tyson, Charbonnet (PUP), Jacobs (exempt), **Pacheco (December)**, Tucker, **Blue**, Benson, **Tillman**, **Milton**, **Levis / Browning until a 53**, **Slayton**, **Penix as a start**, **Tua as a start**, **Bowers as a start**, **Holani as a flex**, **Douglas (NE) as a WR3**, **Larison**, **Stribling (month-plus)**, **Robinson as a WR3**, **Malik Davis**, **McMillan (inactive W1)**, **Bell as a paid WR3**, **Cambre**, **Ja’Kobi Lane**, **Jack Strand**, **Rush as a ROS QB2 or a smash stream**, **Ty Johnson as a flex**, **Watson as a paid QB3**, **Ward as a paid QB3**, **Lloyd as a $20 RB2**, **Dobbins as a $10+ RB2**, **Nix as a stream-up**, **Waddle as a panic-add**, Vaki/Saylors, kickers, DST.
 
 ---
 
@@ -279,17 +277,17 @@ Conservative call when sources conflict. **Week 2 is live.** TNF names lock Thur
 
 **Toss-up / matchup QB2:** Baker Mayfield (vs CLE — smash-ish), **Drew Lock (@ ARI — start if you streamed him)**, **Carson Wentz (@ CHI — start if Murray sits)**, Tyler Shough (**@ BAL — volume, not a smash**), C.J. Stroud (vs CIN), Kirk Cousins (@ LAC), Jacoby Brissett (vs SEA), Bryce Young (@ ATL).
 
-**Sit / trap / stream only:** Geno (floor vs GB), Jones (@ KC), Ward (vs PHI), Darnold (out), **Nix (131-yard fade as a smash)**, Willis (@ SF), **Kyler (sit until cleared)**, Watson (@ TB), **Tua (unnamed)**, **Penix (unnamed)**, **Rush (trap)**, Rodgers (only if thin), Milton, Levis, Strand.
+**Sit / trap / stream only:** Geno (floor vs GB), Jones (@ KC), Ward (vs PHI), Darnold (out), **Nix (131-yard fade as a smash)**, Willis (@ SF), **Kyler (sit until cleared)**, Watson (@ TB), **Tua (unnamed)**, **Penix (unnamed)**, **Rush (placeholder / trap)**, Rodgers (only if thin), Milton, Levis, Strand.
 
 **Blind-start traps**
-- **Starting Rush Week 2** because Stefanski “might go back to him.” Tape is 2 INT + a pick-six. Starter is unnamed.
-- **Starting Kyler** because he was in meetings. Protocol is not a clearance.
+- **Starting Rush Week 2** because the Wednesday speaker slot has his name on it. Wyche: **placeholder / no new information**. Tape is 2 INT + a pick-six. Starter is unnamed.
+- **Starting Kyler** because Garafolo said he is not ruled out. Protocol is not a clearance.
 - **Starting Flowers or McConkey** without Wednesday practice. Both are landmines.
 - **Starting Bowers** on Kubiak optimism. Wait until he practices.
 - **Starting Kamara** on “shortly.” Wait for multiple full practices.
 - **Locking Henderson as an RB2** because he practiced Monday. Stevenson is still the lead.
 - **Paying / starting Dobbins as a locked RB2.** 8–36. Harvey ate passing downs.
-- **Sitting Allen / Gibbs / Cook / Amon-Ra on 36% Buffalo showers.** Light wind. Watch, not sit.
+- **Sitting Allen / Gibbs / Cook / Amon-Ra on 36% Buffalo showers or Lions OL estimates.** Light wind. Mahogany / Miller tax is **not** a sit. Watch, not sit.
 - **Smash-selling Maye** after 3 INTs + Brown IR. Seasonal ECR still QB1-tier.
 - **Smash-selling Mahomes** after 184 yards. He rushed a TD and looked healthy. He is a **72**.
 - **Paying Love as the locked ARI RB1.** Allgeier led 17–61 / 41 snaps.
@@ -345,7 +343,7 @@ Conservative call when sources conflict. **Week 2 is live.** TNF names lock Thur
 - **PIT @ NE:** Stevenson is the chip until Henderson is named active. Maye is still a must-start. Do not start Brown.
 - **DEN vs JAC:** Dobbins is a committee flex, not a smash. Tuten is an RB3. Nix is not a stream-up after 131 yards.
 
-No Week 2 byes. No sit-level weather as of 8:20 AM ET.
+No Week 2 byes. No sit-level weather as of 6:20 PM ET. TNF 36% showers unchanged.
 
 ---
 
@@ -355,7 +353,7 @@ No Week 2 byes. No sit-level weather as of 8:20 AM ET.
 
 Superflex: starting QBs are premium. QB2s still matter. Half-PPR: WRs hold; committee RBs discounted unless 15+ touch path. 10-team: do not pay up for a 4th RB.
 
-Trends below are **vs the Monday 6:20 PM ET published board**.
+Trends below are **vs the Tuesday 8:20 AM ET published board**. Entire board is **FLAT**. Morning already priced the MNF boxes.
 
 ### A. Tier list by position
 
@@ -372,12 +370,12 @@ Trends below are **vs the Monday 6:20 PM ET published board**.
 | Caleb Williams | 80 | flat | 269/2 + rush scores |
 | Trevor Lawrence | 74 | flat | 245/4 TD |
 | Justin Herbert | 72 | flat | 209/1/1. McConkey ribs. Hold |
-| Patrick Mahomes | 72 | **up** | **15/27, 184, 2 TD, 1 INT + 7–23–1.** Healthy. Rust, not a sit |
+| Patrick Mahomes | 72 | flat | **15/27, 184, 2 TD, 1 INT + 7–23–1.** Healthy. Rust, not a sit |
 | Jaxson Dart | 70 | flat | 230/3 + 54. MNF |
 | Brock Purdy | 67 | flat | 3 TD already. Hold |
 | Dak Prescott | 64 | flat | 175/2/1. One script |
 | Jordan Love | 60 | flat | 387/2 |
-| Bo Nix | 56 | **down** | **17/28, 131, 1/1.** Ugly. Do not smash-sell ROS; fade as a smash |
+| Bo Nix | 56 | flat | **17/28, 131, 1/1.** Ugly. Do not smash-sell ROS; fade as a smash |
 | Jared Goff | 56 | flat | TNF vs DET |
 | Matthew Stafford | 50 | flat | Melbourne dud. Hold ROS. MNF |
 | Baker Mayfield | 48 | flat | vs CLE smash-ish |
@@ -404,7 +402,7 @@ Trends below are **vs the Monday 6:20 PM ET published board**.
 | Michael Penix Jr. | 10 | flat | W2/W3 dart |
 | Brady Cook | 8 | flat | On MIA 53 |
 | Joe Milton | 4 | flat | DAL PS |
-| Will Levis | 2 | flat | Unsigned Tuesday morning. $0 |
+| Will Levis | 2 | flat | Unsigned Tuesday evening. $0 |
 
 **RB**
 
@@ -416,7 +414,7 @@ Trends below are **vs the Monday 6:20 PM ET published board**.
 | Jonathan Taylor | 74 | flat | Two scores. Hold |
 | Ashton Jeanty | 70 | flat | 23–102 + 6–45–2 |
 | James Cook | 62 | flat | 13–57. TNF. Hold |
-| Kenneth Walker III | 60 | **up** | **23–173–1 + 3–18–1.** Smash confirmed. Not Gibbs |
+| Kenneth Walker III | 60 | flat | **23–173–1 + 3–18–1.** Smash confirmed. Not Gibbs |
 | Saquon Barkley | 58 | flat | 15–83 |
 | Derrick Henry | 56 | flat | 144–3 |
 | Chase Brown | 56 | flat | 16–56–1. RB2, not a smash |
@@ -438,8 +436,8 @@ Trends below are **vs the Monday 6:20 PM ET published board**.
 | Chuba Hubbard | 32 | flat | 13–87–2 |
 | MarShawn Lloyd | 32 | flat | 13–37. Brooks started |
 | Quinshon Judkins | 28 | flat | Blowout tape |
-| Emmett Johnson | 24 | **up** | **8–24 + 2–44.** Real Walker tax |
-| J.K. Dobbins | 22 | **down** | **8–36.** Committee, not a lead |
+| Emmett Johnson | 24 | flat | **8–24 + 2–44.** Real Walker tax |
+| J.K. Dobbins | 22 | flat | **8–36.** Committee, not a lead |
 | Mike Washington Jr. | 22 | flat | 7–41. Cuff only |
 | Jaylen Warren | 22 | flat | Already played |
 | Tony Pollard | 22 | flat | Already played |
@@ -452,7 +450,7 @@ Trends below are **vs the Monday 6:20 PM ET published board**.
 | Jacory Croskey-Merritt | 16 | flat | 16–63–1. Not a locked flex |
 | TreVeyon Henderson | 14 | flat | Practiced Monday. Not a locked RB2 |
 | Kaelon Black | 14 | flat | 14–65. CMC cuff |
-| RJ Harvey | 12 | **up** | **3–18 + 4–23.** Dobbins tax. Not a flex |
+| RJ Harvey | 12 | flat | **3–18 + 4–23.** Dobbins tax. Not a flex |
 | Blake Corum | 12 | flat | 10–54. Kyren cuff |
 | George Holani | 8 | flat | Short/GL. Not a flex |
 | Zach Charbonnet | 8 | flat | PUP. Week 5+ |
@@ -477,7 +475,7 @@ Trends below are **vs the Monday 6:20 PM ET published board**.
 | Drake London | 58 | flat | 2–29. Rush wrecked. Hold |
 | Malik Nabers | 58 | flat | 6–69. MNF |
 | Chris Olave | 56 | flat | 10–182 |
-| Rashee Rice | 44 | **down** | **2–19–1.** Muted volume. TD. Hold |
+| Rashee Rice | 44 | flat | **2–19–1.** Muted volume. TD. Hold |
 | DeVonta Smith | 44 | flat | 3–53 |
 | George Pickens | 44 | flat | 3–28 + drop. Hold |
 | Tee Higgins | 42 | flat | Hold |
@@ -490,7 +488,7 @@ Trends below are **vs the Monday 6:20 PM ET published board**.
 | Garrett Wilson | 38 | flat | vs GB |
 | A.J. Brown | 32 | flat | Official IR. Min Weeks 2–5. Do not drop |
 | Ladd McConkey | 32 | flat | Ribs. W2 MISSING. Do not drop |
-| Jaylen Waddle | 28 | **down** | **1–2.** Nix wrecked. One script. Do not smash-sell to a 12 |
+| Jaylen Waddle | 28 | flat | **1–2.** Nix wrecked. One script. Do not smash-sell to a 12 |
 | Rome Odunze | 28 | flat | 2–52. Pitch-count |
 | Davante Adams | 28 | flat | 3–26. MNF |
 | Luther Burden III | 30 | flat | Odunze played |
@@ -511,12 +509,12 @@ Trends below are **vs the Monday 6:20 PM ET published board**.
 | Josh Downs | 22 | flat | IND hedge |
 | Demarcus Robinson | 10 | flat | Spike. Not a start |
 | Tre Harris | 10 | flat | McConkey ribs / W2 landmine |
-| Pat Bryant | 10 | **new** | **4–42.** DEN WR tape. Speculative |
+| Pat Bryant | 10 | flat | **4–42.** DEN WR tape. Speculative |
 | Chris Bell | 8 | flat | Not a 10-team WR3 |
 | DeMario Douglas | 9 | flat | Not a start |
 | Khalil Shakir | 9 | flat | Not a locked WR3 |
-| Xavier Worthy | 12 | **new published** | **3–18 on 6.** Not a smash |
-| Courtland Sutton | 16 | **new published** | **2–11.** Ugly. Hold as depth, not a start |
+| Xavier Worthy | 12 | flat | **3–18 on 6.** Not a smash |
+| Courtland Sutton | 16 | flat | **2–11.** Ugly. Hold as depth, not a start |
 | Jordyn Tyson | 6 | flat | IR ~2 months |
 | Tank Dell | 6 | flat | IR/PUP |
 | De’Zhaun Stribling | 4 | flat | Miss ≥1 month |
@@ -538,21 +536,19 @@ Trends below are **vs the Monday 6:20 PM ET published board**.
 | Dallas Goedert | 26 | flat | 4–77–2 |
 | Isaiah Likely | 24 | flat | 8–78–2. MNF |
 | Kyle Pitts | 24 | flat | Falcons QB mess |
-| Travis Kelce | 22 | **up** | **3–71.** Volume, no TD |
+| Travis Kelce | 22 | flat | **3–71.** Volume, no TD |
 | T.J. Hockenson | 22 | flat | 4–36–1 |
 | Michael Mayer | 16 | flat | 6–32. Rental |
-| Evan Engram | 14 | **new published** | **4–43–1.** Only usable DEN skill tape |
+| Evan Engram | 14 | flat | **4–43–1.** Only usable DEN skill tape |
 | Mike Gesicki | 12 | flat | 5–78–1. Not a 10-team TE1 |
 
-### B. Biggest risers / fallers since Monday 6:20 PM ET
+### B. Biggest risers / fallers since Tuesday 8:20 AM ET
 
-**Risers:** Walker **52→60**. Mahomes **70→72**. Emmett Johnson **20→24**. Kelce **20→22**. Harvey **8→12**.
+**Entire 1–100 board FLAT.** Tuesday news (Rush placeholder, Garafolo “not ruled out,” Ty Johnson Limited, Dickerson IR, Overshown miss) does not reprice ROS values. Morning already moved Walker / Mahomes / Dobbins / Nix / Rice / Waddle.
 
-**Fallers:** Nix **60→56**. Dobbins **26→22**. Rice **46→44**. Waddle **32→28**.
+**Closed MISSING that stays MISSING:** Flowers MRI. McConkey Week 2. Falcons **named** starter (advisory ≠ announcement). Lions Tuesday official designations.
 
-**New published (were missing from the evening board):** Worthy **12**, Sutton **16**, Pat Bryant **10**, Engram **14**.
-
-**Flat on purpose:** Allen 100, Lamar 96, Maye 88, Burrow 90, Gibbs 93, Bijan 88, CMC 74, Nacua 84, Chase 85, Dart 70, Jeanty 70, Brown 32, McConkey 32, Flowers 40, Lock 22, Wentz 20, Love (RB) 34, Allgeier 36, Lloyd 32, Kyler 36, Henderson 14, Bowers 48, Tua 10, Rush 12.
+**Flat on purpose:** Allen 100, Lamar 96, Maye 88, Burrow 90, Gibbs 93, Bijan 88, CMC 74, Nacua 84, Chase 85, Dart 70, Jeanty 70, Walker 60, Mahomes 72, Brown 32, McConkey 32, Flowers 40, Lock 22, Wentz 20, Love (RB) 34, Allgeier 36, Lloyd 32, Kyler 36, Henderson 14, Bowers 48, Tua 10, Rush 12, Dobbins 22, Nix 56.
 
 ### C. Fair 1-for-1 examples (equal value)
 
@@ -590,7 +586,8 @@ Trends below are **vs the Monday 6:20 PM ET published board**.
 - Paying Coker as a season-long WR2 — he is an **18**
 - Paying Swift as a locked RB1 — he is a **36**; Monangai tax
 - Paying Wentz or Lock as a season-long QB2 — 1–3 week streams
-- Paying Rush as a ROS QB2 — he is a **12**; starter unnamed
+- Paying Rush as a ROS QB2 — he is a **12**; Wednesday speaker slot is a **placeholder**, not a smash
+- Treating Garafolo “not ruled out” as a Kyler start — protocol is not a clearance; he is a **36** hold / sit
 - Selling Kyler as season-ending — he is a **36**, not a 10
 - Selling Mahomes after 184 yards — he rushed a TD and looked healthy; he is a **72**
 - Selling London because Rush threw 2 INT — 60/61 snaps; he is a **58**
@@ -601,7 +598,7 @@ Trends below are **vs the Monday 6:20 PM ET published board**.
 
 ### F. Position scarcity this week
 
-- **QB is still the scarce piece in Superflex.** Week 2 stream pool: Lock (locked), Wentz (if Murray sits), Shough (BAL tax), Young, Brissett, Geno. Rush/Watson/Ward/Nix-as-smash are not the answer. Falcons starter is **MISSING** until Wednesday.
+- **QB is still the scarce piece in Superflex.** Week 2 stream pool: Lock (locked), Wentz (if Murray sits), Shough (BAL tax), Young, Brissett, Geno. Rush/Watson/Ward/Nix-as-smash are not the answer. Falcons starter is still **unnamed** (Rush is a placeholder).
 - **RB is secondary-scarce** only if you lost Kamara / Jacobs / Henderson. Henderson practicing does **not** make him a must-start. Dobbins is not the answer. Do not overpay a 4th RB.
 - **TE:** McBride separated. Bowers is a Wednesday-practice story. Kincaid / Likely / Goedert are the FAAB TE answers. Mayer is a rental.
 - **WR:** Flowers MRI + McConkey ribs create two Week 2 landmines. Have a pivot. Do not cut either.
@@ -629,17 +626,17 @@ Trends below are **vs the Monday 6:20 PM ET published board**.
 
 ## 9. What a manager should do today
 
-1. **Place FAAB today:** Lock **$8–$14**. Wentz **$6–$12**. Montgomery **$10–$16 if free**. DJ Moore **$5–$9 if free**. Coker **$4–$8**. Kincaid **$4–$8 if TE-needy**. Skattebo **$5–$9 if free**. Emmett Johnson **$4–$8 if you have Walker**. Do **not** pay Lloyd $20 or Dobbins $10+.
-2. **Do not drop Flowers.** MRI still **MISSING**. Rapoport: not serious. Schefter: unrealistic this week. He is a **40**. FAAB Bateman $2–$4 if you own him. Sit until Wednesday.
-3. **Do not drop McConkey.** Ribs, Harbaugh DTD, Week 2 up in the air. He is a **32**. FAAB Tre Harris $2–$4 if you own him.
-4. **Do not start Rush / Tua / Penix / Kyler / Bowers / Kamara / Jacobs / Brown.** Stefanski has not named a Week 2 QB. Drop Rush as a W2 start unless Tua **and** Penix are named out and you are desperate.
-5. **Set TNF early:** Start Allen / Gibbs / Cook / Amon-Ra / Goff / DJ Moore / Kincaid. 36% Buffalo showers are **watch, not sit**.
-6. **Do not smash-sell Maye (88), CMC (74), Nacua (84), Stafford (50), London (58), Lamb (66), Kyler (36), or Mahomes (72).** Walker is a **60**, not a 93.
-7. **Do not lock Love as ARI RB1, Lloyd as GB RB2, Henderson as a Week 2 smash, or Dobbins as a lead.** Allgeier led; Brooks started; Stevenson is still the Patriots lead; Harvey ate DEN passing downs.
-8. **Trades:** Jeanty is a **70**. Dart is a **70**. Walker is a **60**. Pay a QB2 with a skill piece, not two startable QBs.
+1. **FAAB:** If default Tuesday-AM already processed, confirm Lock / Wentz / Montgomery / Moore / Coker. If the room is still open: Lock **$8–$14**. Wentz **$6–$12**. Montgomery **$10–$16 if free**. DJ Moore **$5–$9 if free**. Coker **$4–$8**. Kincaid **$4–$8 if TE-needy**. Do **not** pay Lloyd $20, Dobbins $10+, or Rush as a smash.
+2. **Do not drop Flowers.** MRI still **MISSING** at 6:20 PM ET. He is a **40**. Sit until Wednesday.
+3. **Do not drop McConkey.** No Tuesday update. Ribs, Harbaugh DTD. He is a **32**.
+4. **Do not start Rush / Tua / Penix / Kyler / Bowers / Kamara / Jacobs / Brown.** Rush on the Wednesday speaker list is a **placeholder**, not a start. Garafolo “not ruled out” is not a Kyler clearance.
+5. **Set TNF tonight or tomorrow:** Start Allen / Gibbs / Cook / Amon-Ra / Goff / DJ Moore / Kincaid. 36% Buffalo showers + Lions OL estimates are **watch, not sit**. Ty Johnson Limited is not a Cook sit.
+6. **Do not smash-sell Maye (88), CMC (74), Nacua (84), Stafford (50), London (58), Lamb (66), Kyler (36), or Mahomes (72).** Walker is a **60**, not a 93. Board is **flat** vs this morning.
+7. **Do not lock Love as ARI RB1, Lloyd as GB RB2, Henderson as a Week 2 smash, or Dobbins as a lead.**
+8. **Trades:** Jeanty is a **70**. Dart is a **70**. Walker is a **60**. Pay a QB2 with a skill piece, not two startable QBs. Dickerson IR and Overshown miss do **not** reprice Hurts / Saquon / Dak / Lamb.
 9. **Sit until Wednesday practice:** Flowers, McConkey, Bowers, Kamara, Henderson-as-RB2, Falcons QB. Conservative lineup call when sources conflict.
-10. **Watch:** Wednesday sheets (Tua / Murray / Flowers / McConkey / Bowers / Kamara / Henderson); Keenan Allen court Wed; TNF weather Thu; FAAB results today.
+10. **Watch:** Wednesday sheets (Tua / Murray / Flowers / McConkey / Bowers / Kamara / Henderson); Keenan Allen court Wed; TNF weather / Lions OL Wed; FAAB leftovers if your room is late.
 
 ---
 
-**Sources:** Official NFL.com / team inactives and gamebooks (MNF box CLOSED), Chiefs.com Week 1 inactives, ESPN/CBS/AP MNF recap, Seahawks.com Darnold glute note (Sep 14), Monday coach availability (O’Connell, Harbaugh, Stefanski, Kubiak, Vrabel, Minter, Moore, Macdonald), Ian Rapoport / Adam Schefter / Mike Florio, NBC Sports / ESPN / Ravens.com / Chargers.com / Pats Pulpit / Boston.com, FantasyPros Week 2 waiver (Fitzmaurice Sep 14) + seasonal Superflex ECR last full table Sep 8 + Sep 9 three-expert table, NFLWeather / NWS Buffalo (TNF). Conservative lineup call when sources conflict. No kickers. No DST.
+**Sources:** Official NFL.com / team inactives and gamebooks (MNF box CLOSED), Seahawks.com / Field Level Media Darnold glute note, Monday coach availability (O’Connell, Harbaugh, Stefanski, Kubiak, Vrabel, Minter, Moore, Campbell), Tuesday: Josh Kendall / Steve Wyche / Marc Raimondi (Falcons Rush advisory + placeholder), Mike Garafolo (Murray not ruled out), NBC Sports (Ty Johnson Limited Tue), Jerry Jones / DallasSportsJournal (Overshown), Schefter (Dickerson IR), detroitlions.com Mon estimated TNF sheet (Tue column empty), Bills.com still showing Week 1 sheet at 6:18 ET, Ian Rapoport / Adam Schefter / Mike Florio, FantasyPros Week 2 weekly rankings Sep 15 + seasonal Superflex ECR last full table Sep 8 + Sep 9 three-expert table, NFLWeather TNF (68°F / 3 mph / 36%). Conservative lineup call when sources conflict. No kickers. No DST.
