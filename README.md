@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-15 **evening** file is **Week 2**. Week 1 is **CLOSED**. 1–100 board is **FLAT** vs this morning. **Flowers MRI still MISSING** — sit until Wednesday; do not drop (40). Falcons Rush Wednesday slot is a **placeholder**, not a smash. **Kyler 36** — Garafolo not ruled out; sit until cleared; stream Wentz. TNF DET@BUF Thursday — 36% showers + Lions OL estimates are watch, not sit. Do not drop Brown (32), Flowers, or McConkey. Do not pay Lloyd or Dobbins as RB2s.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-16 **morning** file is **Week 2**. Week 1 is **CLOSED**. Official NFL.com Sunday sheets still empty at 8:02 ET. **Lock 22→24** (Darnold ~4 weeks). **Darnold 18→16**. Rest **FLAT**. **Flowers MRI still MISSING** — sit until he practices; do not drop (40). Falcons Rush speaker slot is a **placeholder**, not a smash. **Kyler 36** — sit until cleared; stream Wentz. TNF DET@BUF Thursday — 66°F / 2 mph / 36% rain + official Lions OL DNPs are watch, not sit. Set TNF today. Do not drop Brown (32), Flowers, or McConkey. Do not pay Lloyd or Dobbins as RB2s.
 
 ## Latest
 
