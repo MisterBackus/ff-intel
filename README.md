@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-17 **evening** file is **Week 2**. TNF is **TONIGHT** (DET@BUF 8:15 ET). Week 1 is **CLOSED**. Official Thursday sheets **LIVE**. TNF inactives **MISSING**. **Nico 56→52** (official DNP + Grade 1 CLOSED — sit). **Olave 56→54** (Limited hamstring, precautionary). McConkey **30→28**. Flowers **38→36**. CMC official **Full**. Falcons starter still **unnamed**. Set TNF tonight. Do not drop Brown (32), Flowers (36), McConkey (28), Nico (52), or Olave (54). Start Burrow (Limited / “ridiculous” to sit). Do not pay Lloyd or Dobbins as RB2s.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-18 **morning** file is **Week 2**. TNF is **CLOSED** (BUF 41–DET 31). Friday designations **MISSING**. **DJ Moore 40→32** (shoulder OUT; X-rays MISSING — do not drop). Cook **62→66**. Amon-Ra **78→80**. Goff **56→58**. Kincaid **30→34**. McBride official **Full**. Kamara Saints.com “will play” (**20→22**) — still wait Friday tag. Falcons starter still **unnamed**. Do not drop Brown (32), Flowers (36), McConkey (28), Nico (52), Olave (54), or Moore (32). Start Burrow (Limited / “ridiculous” to sit). Start CMC. Start McBride. Do not pay Lloyd or Dobbins as RB2s.
 
 ## Latest
 
