@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-18 **morning** file is **Week 2**. TNF is **CLOSED** (BUF 41–DET 31). Friday designations **MISSING**. **DJ Moore 40→32** (shoulder OUT; X-rays MISSING — do not drop). Cook **62→66**. Amon-Ra **78→80**. Goff **56→58**. Kincaid **30→34**. McBride official **Full**. Kamara Saints.com “will play” (**20→22**) — still wait Friday tag. Falcons starter still **unnamed**. Do not drop Brown (32), Flowers (36), McConkey (28), Nico (52), Olave (54), or Moore (32). Start Burrow (Limited / “ridiculous” to sit). Start CMC. Start McBride. Do not pay Lloyd or Dobbins as RB2s.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-18 **evening** file is **Week 2**. TNF is **CLOSED** (BUF 41–DET 31). Friday designations **LIVE**. **DJ Moore AC sprain CLOSED** (**32→34** — not serious; Week 3 chance; do not drop). **Kyler OUT / Wentz starts**. **Nico OUT**. **Rush named** (still a trap). Flowers **D**. Bowers **D**. McConkey **Q**. Olave **Q**. Burrow **Q / starts**. Kamara **plays** (flex only, **22→26**). Henderson **plays** (flex only, **18→20**). Do not drop Brown (32), Flowers (34), McConkey (26), Nico (50), Olave (52), or Moore (34). Start Burrow, CMC, McBride, Swift, Lock, Wentz. Do not pay Lloyd or Dobbins as RB2s.
 
 ## Latest
 
