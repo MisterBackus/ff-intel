@@ -1,66 +1,66 @@
 # FF-Intel — 10-team Superflex Half-PPR (no K / no DST)
 
-- **Generated:** Saturday, September 19, 2026, 8:20 AM ET (America/New_York)
-- **NFL week:** Week 2 (TNF DET@BUF **CLOSED**. Sunday 9/20 + SNF IND@KC remain. MNF NYG@LAR Saturday designations still **MISSING**)
+- **Generated:** Saturday, September 19, 2026, 6:20 PM ET (America/New_York)
+- **NFL week:** Week 2 (TNF DET@BUF **CLOSED**. Sunday 9/20 + SNF IND@KC remain. MNF NYG@LAR Saturday designations **CLOSED**)
 - **Season:** 2026 NFL · Platform: Sleeper · $100 FAAB
 - **Data freshness:**
   - 53-man rosters locked Sunday, Aug 30, 6:00 PM ET
   - **Week 1 CLOSED.** MNF **FINAL: KC 31–10 DEN.** Boxes unchanged.
   - **TNF CLOSED. FINAL: BUF 41–DET 31.** Official boxes unchanged: Allen **20/31, 248, 3 TD + 14–69–2**. Cook **21–135–1 + 1–4**. Kincaid **7–95–1**. Goff **26/38, 327, 4 TD**. Amon-Ra **9–142–2**. Gibbs **16–52 + 6–61–1**. LaPorta **6–52–1**.
-  - **Official NFL.com Friday Week 2 game-status designations re-checked ~8:05 AM ET — UNCHANGED for Sunday slates.** First Sunday inactives still ~11:30 AM ET Sunday.
-  - **MNF Saturday designations still MISSING.** Rams/Giants sheets still show Friday participation only. No game-status tags.
-  - **NEW since Friday 6:20 PM ET: Puka Nacua official Friday DNP.** Beat (Duarte / Atkins / Stu Jackson / LA Times / NY Post): **hip**. NFL.com injury-type column is **blank**. Unclear if it is the camp psoas or new. Saturday practice / McVay / designation **MISSING**. Do not smash-sell (**84→80**). Flex him. Have a Monday escape hatch. Start if active.
-  - **Davante Adams Friday Full** after Thursday rest. Rest closed. Volume hedge if Nacua sits (**28→30**). Not a sit.
-  - Sunday landmines **UNCHANGED:** Kyler **OUT** / Wentz starts. Nico **OUT**. Rush **named** (still a trap). Flowers **D**. Bowers **D**. McConkey **Q**. Olave **Q**. Burrow **Q / Friday Full / Taylor start**. Kamara **Full / plays** (flex only). Henderson **official Full** (flex only; Stevenson lead). Swift **Full**. CMC / McBride / Mahomes **Full / not tagged**.
-  - **Flowers MRI result still MISSING.** Conservative sit. Do not drop (34).
+  - **Official NFL.com Sunday Week 2 designations re-checked ~6:10 PM ET — UNCHANGED.** First Sunday inactives still ~11:30 AM ET Sunday.
+  - **MNF Saturday designations CLOSED.** Official Rams.com / NFL.com: Nacua **hip DNP Fri+Sat / official QUESTIONABLE**. Whittington **quad DNP Fri+Sat / official DOUBTFUL**. Kinchens **OUT**. Adams **Thu rest DNP / Fri+Sat Full / no tag**. Giants: Banks **Q** (calf), McFadden **Q** (neck). Adebo already IR.
+  - **NEW since Saturday 8:20 AM ET: Nacua official Q after a second DNP.** McVay (Atkins / Stu Jackson / Klein): different injury than the camp psoas; felt good Thursday but could not open up at full speed; groin soreness; being smart. Klein tweet said McVay called him **doubtful**; official tag is **Q**. **Conflict. Conservative: flex, wait Monday inactives, start if active.** Do not smash-sell (**80→76**).
+  - **Davante Adams Saturday Full / no tag.** Volume hedge if Nacua sits (**30→32**). Start.
+  - Sunday landmines **UNCHANGED:** Kyler **OUT** / Wentz starts. Nico **OUT**. Rush **named** (still a trap). Flowers **D**. Bowers **D**. McConkey **Q**. Olave **Q**. Burrow **Q / Friday Full / Taylor start**. Kamara **Full / plays** (flex only). Henderson **official Full** (flex only; Stevenson lead). Swift **Full**. CMC / McBride / Mahomes **Full / not tagged**. Pittman **still official Q** (not Out).
+  - **Flowers MRI result still MISSING.** Official tag is still **Doubtful**, not Out. Conservative sit. Do not drop (34).
   - Superflex values: FantasyPros **seasonal** Superflex last full table still **Sep 8** (Maye **QB3**). Sep 9 three-expert table has Maye **QB2**. FP **Week 2 weekly** Flex page dated **Sep 19** (1QB-style; do not smash-sell Maye). Thin spots labeled **GUESS**.
-  - **Risers/fallers vs Friday 6:20 PM ET published board:** Nacua **84→80**. Adams **28→30**. Rest **FLAT** (§7B)
-  - Levis still unsigned Saturday morning. Browning still FA. Hunt still unsigned.
+  - **Risers/fallers vs Saturday 8:20 AM ET published board:** Nacua **80→76**. Adams **30→32**. Rest **FLAT** (§7B)
+  - Levis still unsigned Saturday evening. Browning still FA. Hunt still unsigned.
 
 ---
 
 ## 1. League week context
 
-**Now:** Saturday morning. TNF is scored. Default Sleeper FAAB processed Tuesday. **Leftovers only.** Sunday game-status designations are **CLOSED**. First Sunday lock is 1:00 PM ET Sunday. **MNF Saturday designations still MISSING** — that is today's open item. Set Sunday lineups today. Flex Nacua until a Saturday tag or Monday inactives.
+**Now:** Saturday evening. TNF is scored. Default Sleeper FAAB processed Tuesday. **Leftovers only.** Sunday game-status designations are **CLOSED**. First Sunday lock is 1:00 PM ET Sunday. **MNF Saturday designations CLOSED** — Nacua is official **Q** after two DNPs. Set Sunday lineups tonight. Flex Nacua. Wait Monday inactives. Start if active.
 
 **Week 2 window**
 
 | When (ET) | Game | Note |
 |---|---|---|
 | **Thu 9/17 8:15p Prime** | **DET @ BUF** | **CLOSED. BUF 41–DET 31.** Allen / Cook / Kincaid smash. Gibbs receiving TD. **DJ Moore AC sprain CLOSED** |
-| Sun 9/20 1:00p | CAR@ATL, NO@BAL, MIN@CHI, CIN@HOU, PIT@NE, GB@NYJ, CLE@TB, PHI@TEN | **Wentz starts @ CHI.** **Nico OUT.** **Flowers D / Olave Q landmines.** **Rush named vs CAR — still a trap.** Burrow Q / **starts**. Kamara **plays**, committee. Henderson **Full**, Stevenson lead. Pittman Q. **CHI gusts 25 — watch not sit** |
+| Sun 9/20 1:00p | CAR@ATL, NO@BAL, MIN@CHI, CIN@HOU, PIT@NE, GB@NYJ, CLE@TB, PHI@TEN | **Wentz starts @ CHI.** **Nico OUT.** **Flowers D / Olave Q landmines.** **Rush named vs CAR — still a trap.** Burrow Q / **starts**. Kamara **plays**, committee. Henderson **Full**, Stevenson lead. Pittman Q. **CHI 12–20 mph — watch not sit** |
 | Sun 9/20 4:05p | JAC@DEN, LV@LAC | Tuten / Dobbins / Jeanty / Hampton. **McConkey Q + Bowers D landmines.** Harvey Q |
 | Sun 9/20 4:25p | SEA@ARI, WAS@DAL, MIA@SF | **Lock starts @ ARI.** Darnold **OUT**. Achane @ SF tough. **CMC / McBride Full — start** |
 | Sun 9/20 8:20p NBC | IND @ KC | Jones / Taylor / Mahomes **Full** / Walker. Keenan Full. KC rain **easing** — watch not sit |
-| Mon 9/21 8:15p ESPN/ABC | NYG @ LAR | **Nacua Friday hip DNP is the landmine.** Nabers / Dart vs Adams / Stafford — late lock. **Sat designations MISSING** |
+| Mon 9/21 8:15p ESPN/ABC | NYG @ LAR | **Nacua official Q / Fri+Sat DNP is the landmine.** Adams Full / no tag. Whittington official D — not a 10-team add. Nabers / Dart / Kyren / Skattebo / Likely late lock |
 
 **Byes this week:** None (Week 2). First byes later.
 
 **Short weeks / travel**
 - **DET / BUF already played.** Do not stash a Thursday-only leftover you cannot start this week.
-- **NYG / LAR play Monday.** **Nacua / Adams / Kyren / Stafford / Nabers / Dart / Skattebo / Likely lock late.** If you start Nacua, put him in FLEX and roster a Monday pivot.
+- **NYG / LAR play Monday.** **Nacua official Q / Adams Full / Kyren / Stafford / Nabers / Dart / Skattebo / Likely lock late.** If you start Nacua, put him in FLEX and roster a Monday pivot. Monday inactives ~6:45 PM ET.
 - **NE / SEA / SF / LAR already had extra rest** after early Week 1. Next game Sun 9/20 (NYG@LAR is Mon).
 
 **Weather (only if it changes a start/sit)**
 - **TNF closed.** No leftover sit.
-- **MIN @ CHI (1:00):** NFLWeather **69°F / 14 mph NE / 30% / gusts 25** (“showers and thunderstorms likely,” text 60%, 0.75–1.00") vs CLEATZ **66° / 7 mph / 61%** then **94% later**. **Conflict. Gusts 25 is the new watch.** Still **not a sit** for Jefferson / Swift / Wentz. Have a pivot if the 1:00 window goes monsoon + 25.
-- **PIT @ NE (1:00):** NFLWeather **63°F / 5 mph SE / 41%** vs CLEATZ **58° / 4 mph / 17%**. Friday 41% is the worse read. Watch, not a sit for Maye / Stevenson.
-- **GB @ NYJ (1:00):** NFLWeather **65°F / 7 mph SE / 32%** (“definite rain”) vs CLEATZ **71% / 10 mph / gusts 18**. Rain watch, not a sit for Love / Watson / Hall.
-- **CLE @ TB (1:00):** NFLWeather **86°F / 5 mph / 73%** vs CLEATZ **89–90° / 3–8%**. **Conflict. Friday 73% vs Saturday CLEATZ dry.** Heat watch, not a sit for Mayfield / Egbuka / Irving.
-- **NO @ BAL (1:00):** CLEATZ **77° / 13 mph / 25%**. Breeze watch, not a sit for Lamar / Henry / Shough.
-- **PHI @ TEN (1:00):** **90–94°F / 6 mph / ~10%.** Heat watch, not a sit for Hurts / Saquon.
-- **IND @ KC (SNF):** NFLWeather hourly **74°F / 8 mph / 15% / gusts 11–13** vs NFLWeather text **70%** vs CLEATZ **22–26% / 9–10 mph**. Friday CLEATZ **~60–90% is stale.** Conflict easing toward dry. Wind is not sit-level. **Watch, not sit** for Mahomes / Walker / Taylor.
-- **CAR@ATL / CIN@HOU / LV@LAC / SEA@ARI / WAS@DAL / NYG@LAR:** dome or retractable. No sit.
-- **MIA @ SF:** **71°F / 6 mph / fog.** Clean.
-- **JAC @ DEN:** CLEATZ **72° / 10 mph / 2% / gusts 19**. Altitude + breeze watch, not a sit.
-- No Sunday slate is sit-level as of 8:20 AM ET. **CHI gusts 25 is the closest.**
+- **MIN @ CHI (1:00):** Saturday-evening NFLWeather **66°F / 12 mph NE / 30% / gusts ~19–20**. Morning 14 mph / gusts 25 eased. FantasyAlarm Fri **69° / 20 mph sustained / 72% rain** is a day stale and still the worse read. **Conflict. 12–20 mph + rain watch.** Still **not a sit** for Jefferson / Swift / Wentz. Have a pivot if the 1:00 window goes monsoon + 20.
+- **PIT @ NE (1:00):** NFLWeather **64°F / 4 mph SE / 41%** (“likely rain showers”). Watch, not a sit for Maye / Stevenson.
+- **GB @ NYJ (1:00):** NFLWeather **68°F / 8 mph SE / 32%** (“definite rain”) vs FantasyAlarm Fri **56–84%**. Rain watch, not a sit for Love / Watson / Hall.
+- **CLE @ TB (1:00):** NFLWeather **86°F / 5 mph / 73%** vs FantasyAlarm Fri **8% then 76%**. Heat + late-shower watch, not a sit for Mayfield / Egbuka / Irving.
+- **NO @ BAL (1:00):** NFLWeather **81°F / 10 mph SW / 32%**. Breeze watch, not a sit for Lamar / Henry / Shough.
+- **PHI @ TEN (1:00):** **96°F / 5 mph / clean.** Heat watch, not a sit for Hurts / Saquon.
+- **IND @ KC (SNF):** Saturday-evening NFLWeather **72°F / 7 mph NE / 15%**. FantasyAlarm Fri **59%** is stale. Easing toward dry holds. **Watch, not sit** for Mahomes / Walker / Taylor.
+- **CAR@ATL / CIN@HOU / LV@LAC / SEA@ARI / WAS@DAL / NYG@LAR:** dome, retractable, or SoFi canopy. No sit.
+- **MIA @ SF:** **70°F / 6 mph NW / clean.**
+- **JAC @ DEN:** NFLWeather **73°F / 8 mph NE / 27%**. Altitude + breeze watch, not a sit.
+- No Sunday slate is sit-level as of 6:20 PM ET. **CHI 12–20 mph + rain is the closest.**
 
 **Deadlines that matter**
-- **Sat 9/19 today:** MNF designations (usually afternoon PT). **Nacua / Adams / Nabers / Dart / Kyren lock check.** Set Sunday lineups.
+- **Sat 9/19 tonight:** Set Sunday lineups. MNF designations **CLOSED**. Nacua is official **Q**.
 - **Sun 9/20 ~11:30 AM ET:** First inactives. **McConkey / Olave / Flowers / Bowers / Burrow / Pittman.**
 - **Sun 9/20 1:00 PM ET:** First Sunday lock.
 - **Sun 9/20 8:20 PM ET:** IND@KC lock.
-- **Mon 9/21 ~6:45 PM ET:** MNF inactives. **Nacua.**
+- **Mon 9/21 ~6:45 PM ET:** MNF inactives. **Nacua official Q — this is the lock.**
 - **Mon 9/21 8:15 PM ET:** NYG@LAR lock.
 - **NFL trade deadline:** Tue Nov 10, 4:00 PM ET. League trade deadline: commissioner-set. **MISSING** for this Sleeper room.
 
@@ -68,14 +68,14 @@
 
 ## 2. Injuries and availability (most important)
 
-Statuses use **official NFL.com Friday Week 2 game-status designations** (re-checked Saturday 8:05 AM ET) unless noted. Conservative call when sources conflict.
+Statuses use **official NFL.com Week 2 game-status designations** (Sunday slates re-checked Saturday 6:10 PM ET; MNF Saturday tags **CLOSED**). Conservative call when sources conflict.
 
 ### Must act today (FAAB / fade / landmine)
 
 | Player | Pos | Team | Status | Injury | If they play | If they sit | Handcuff in THIS league | Flag |
 |---|---|---|---|---|---|---|---|---|
-| Puka Nacua | WR | LAR | **Friday DNP / Sat tag MISSING** | Hip per beat. NFL.com type **blank**. Camp psoas vs new **MISSING** | **Start if active (FLEX him)** | Adams / Kyren / Monday flex | Do **not** drop (80). Have a Monday pivot | **MUST ACT** — MNF landmine |
-| Davante Adams | WR | LAR | **Friday Full / rest closed** | Thursday DNP was rest | WR3 / flex. Volume if Nacua sits | Nacua if he plays | Hold (30) | Start until tagged |
+| Puka Nacua | WR | LAR | **Official Q / Fri+Sat DNP** | Hip. McVay: different than camp psoas. Groin soreness. Klein verbal D vs official Q | **Start if active (FLEX him)** | Adams / Kyren / Monday flex | Do **not** drop (76). Have a Monday pivot | **MUST ACT** — MNF landmine |
+| Davante Adams | WR | LAR | **Sat Full / no tag** | Thursday DNP was rest | WR3 / flex. Volume if Nacua sits | Nacua if he plays | Hold (32) | Start |
 | DJ Moore | WR | BUF | **TNF OUT / AC sprain CLOSED** | Left AC-joint. Not serious. Week 3 chance not a lock | N/A this week | Shakir / Coleman / Palmer | Do **not** drop (34). Leftover FAAB Shakir $1–$2 | Hold; Week 3 watch |
 | Drew Lock | QB | SEA | **Healthy / W2–W5 stream** | Darnold official **OUT** / ~4 weeks; no IR | **Start @ ARI** | N/A | Darnold stash | Leftover FAAB / hold |
 | Carson Wentz | QB | MIN | **Healthy / locked W2** | Kyler official **OUT** | **Start @ CHI** | N/A | Murray stash | Leftover FAAB $6–$12 |
@@ -121,8 +121,8 @@ Statuses use **official NFL.com Friday Week 2 game-status designations** (re-che
 | Lamar Jackson | QB | BAL | **Healthy** | **324 + 43 rush, 2 TD** | vs NO | SF 1.01-tier | Hold |
 | Drake London | WR | ATL | **Healthy** | 2–29. 60/61 snaps | vs CAR. **Rush named** | Hold as WR2. Do not smash-sell | Bijan |
 | Bijan Robinson | RB | ATL | **Healthy** | **29–173–1** even with Rush | vs CAR | Every-down RB1 | Hold |
-| Jaxson Dart | QB | NYG | **Healthy** | **230/3 + 54**. **MNF**. Sat tag **MISSING** | @ LAR | Locked SF QB2 | Hold |
-| Malik Nabers | WR | NYG | **Healthy** | **6–69**. **MNF**. Not on Fri sheet | @ LAR | WR2 | Hold |
+| Jaxson Dart | QB | NYG | **Healthy** | **230/3 + 54**. **MNF**. Not tagged Sat | @ LAR | Locked SF QB2 | Hold |
+| Malik Nabers | WR | NYG | **Healthy** | **6–69**. **MNF**. Not tagged Sat | @ LAR | WR2 | Hold |
 | Cam Skattebo | RB | NYG | **Healthy** | **18–81–1**. **MNF** | @ LAR | RB3 / flex | Singletary tax |
 | CeeDee Lamb | WR | DAL | **Healthy** | 5–44–1 muted | vs WAS | WR1. Do not smash-sell one script | Pickens |
 | Javonte Williams | RB | DAL | **Healthy** | 12–41 + 5–31, 2 TD | vs WAS | RB2 | Demercado cuff |
@@ -148,7 +148,7 @@ Statuses use **official NFL.com Friday Week 2 game-status designations** (re-che
 | Bo Nix | QB | DEN | **Healthy** | **131/1/1**. Ugly | vs JAC | Toss-up / fade as smash | Dobbins not a smash |
 | Christian McCaffrey | RB | SF | **Official Full** | Wednesday rest closed | vs MIA | RB1. **Not a sit** | Black official Q — cuff, not a flex |
 | George Kittle | TE | SF | **Official Full** | Achilles earlier in week. Friday Full | vs MIA | Toss-up TE | Hold if rostered |
-| Matthew Stafford | QB | LAR | **Healthy** | 155/0/1. **MNF**. Sat tag **MISSING** | vs NYG | Locked QB2. Hold ROS | Hold |
+| Matthew Stafford | QB | LAR | **Healthy** | 155/0/1. **MNF**. Not tagged Sat. Nacua official Q is a tiny tax, not a sit | vs NYG | Locked QB2. Hold ROS | Hold |
 | Patrick Mahomes | QB | KC | **Official Full** | 184/2 + rush TD | vs IND | Locked QB2 ROS | Fields still **must-roster** |
 | Kenneth Walker III | RB | KC | **Healthy** | 23–173–2 | vs IND | Must-start | Emmett Johnson cuff |
 | Rashee Rice | WR | KC | **Official Full** | 2–19–1 | vs IND | Hold as WR2 | Worthy / Kelce |
@@ -177,8 +177,8 @@ Statuses use **official NFL.com Friday Week 2 game-status designations** (re-che
 | Kaelon Black | RB | SF | **Official Q** | Groin. 14–65. Limited Thu+Fri | vs MIA | CMC cuff, not a flex | Ignore as a start |
 | Marvin Mims Jr. | WR | DEN | **Official OUT** | Foot | vs JAC | Tiny Waddle/Sutton note | Ignore |
 | Josh Simmons | OT | KC | **Official OUT** | Back | vs IND | Tiny Mahomes tax | Not a sit |
-| Jordan Whittington | WR | LAR | **Friday DNP / Sat tag MISSING** | Quad per beat. Not a 10-team add | Depth only | Ignore | Ignore |
-| Paulson Adebo | CB | NYG | **IR Friday** | Knee. Banks also Friday DNP | Tiny Dart/Nabers note | Not a sit | Not a sit |
+| Jordan Whittington | WR | LAR | **Official DOUBTFUL** | Quad. DNP Fri+Sat. Not a 10-team add | Depth only | Ignore | Ignore |
+| Paulson Adebo | CB | NYG | **IR Friday** | Knee. Banks official Q (calf). McFadden official Q (neck) | Tiny Dart/Nabers note | Not a sit | Not a sit |
 
 **Superflex QB-out streamers**
 - **Lock is the locked Week 2–5 stream** (Darnold official OUT / ~4 weeks, maybe sooner; no IR). Start @ ARI. Hold if you already won him Tuesday.
@@ -193,20 +193,18 @@ Statuses use **official NFL.com Friday Week 2 game-status designations** (re-che
 
 ## 3. News that changes value
 
-Only snaps / usage. **Bold = new since Friday 6:20 PM ET packet.**
+Only snaps / usage. **Bold = new since Saturday 8:20 AM ET packet.**
 
-- **Official Sunday designations UNCHANGED** on Saturday 8:05 AM ET re-check. MNF Saturday designations still **MISSING**.
-- **Puka Nacua official Friday DNP / hip (beat).** NFL.com type blank. Saturday practice / McVay / designation **MISSING**. **84→80.** Flex him. Have a Monday pivot. Start if active. Do not smash-sell.
-- **Davante Adams Friday Full.** Thursday rest closed. **28→30.** Start until tagged. Volume hedge if Nacua sits.
-- **Jordan Whittington Friday DNP (quad, beat).** Not a 10-team add.
-- **Paulson Adebo IR Friday.** CB. Tiny Dart/Nabers note. Not a sit.
-- Sunday landmines **unchanged** (Nico OUT, Flowers D, Bowers D, McConkey Q, Olave Q, Kyler OUT, Rush named/trap, Burrow Q/starts, Kamara Full/flex, Henderson Full/flex).
-- **Flowers MRI still MISSING.**
-- **CHI weather upgraded to gusts 25** + rain conflict. Watch, not sit.
-- **KC rain conflict easing** (Friday CLEATZ ~60–90% stale; Saturday CLEATZ 22–26% / NFLWeather hourly 15%). Watch, not sit.
-- **TB 73% vs CLEATZ 3–8% conflict remains.** Heat watch, not a sit.
+- **MNF Saturday designations CLOSED.** Official Rams.com / NFL.com: Nacua **Q**, Whittington **D**, Kinchens **OUT**, Adams **Full / no tag**. Giants: Banks **Q**, McFadden **Q**.
+- **Puka Nacua official Q after Fri+Sat DNP.** McVay: different injury than camp psoas; Thursday he felt good but could not open up; groin soreness; being smart. Klein tweet = verbal **doubtful**; official tag = **Q**. **Conflict.** **80→76.** Flex him. Have a Monday pivot. Start if active. Do not smash-sell.
+- **Davante Adams Saturday Full / no tag.** **30→32.** Start. Volume hedge if Nacua sits.
+- **Jordan Whittington official DOUBTFUL.** Not a 10-team add or Nacua replacement.
+- Sunday designations **UNCHANGED** (Nico OUT, Flowers D, Bowers D, McConkey Q, Olave Q, Kyler OUT, Rush named/trap, Burrow Q/starts, Kamara Full/flex, Henderson Full/flex, Pittman still Q).
+- **Flowers MRI still MISSING.** Official tag is still **D**, not Out. Do not invent an Out flip from a summary page.
+- **CHI weather eased** (morning gusts 25 → evening NFLWeather 12 mph / 30% / gusts ~19–20). FantasyAlarm Fri 20 mph / 72% is stale-or-conflict. Watch, not sit.
+- **KC rain easing holds** (evening NFLWeather 15% / 7 mph). Friday/FantasyAlarm 59% is stale. Watch, not sit.
 - FantasyPros seasonal Superflex last full table still **Sep 8** (Maye QB3). Sep 9 three-expert table Maye **QB2**. FP Week 2 Flex page dated **Sep 19**. Do not smash-sell Maye.
-- Levis still unsigned Saturday morning. $0.
+- Levis still unsigned Saturday evening. $0.
 
 **Coaching / OC:** No Saturday OC firings. Stefanski **named Rush**. A named start is not a smash after 2 INT + a pick-six.
 
@@ -214,7 +212,7 @@ Only snaps / usage. **Bold = new since Friday 6:20 PM ET packet.**
 
 ## 4. Waiver / FAAB board ($100)
 
-**Default Sleeper FAAB processed Tuesday.** Confirm Lock / Wentz / Montgomery / Moore / Coker. Leftover FA / $1–$2 only on misses. **Nico owners:** leftover **Boutte $3–$6**. **Olave owners:** leftover **Vele $2–$4**. **McConkey owners:** leftover **Harris $2–$4**. **Flowers owners:** leftover **Bateman $2–$4**. **Moore owners:** leftover **Shakir $1–$2** (path shrinks). **Nacua owners:** do **not** FAAB a random Sunday WR hoping to cover Monday — flex Nacua and use a Monday piece you already have (Adams / Kyren / Nabers / Dart / Skattebo / Likely). 10-team benches are short — do not roster a 4th RB or IR stash unless the path is 15+ touches in the next 1–4 weeks.
+**Default Sleeper FAAB processed Tuesday.** Confirm Lock / Wentz / Montgomery / Moore / Coker. Leftover FA / $1–$2 only on misses. **Nico owners:** leftover **Boutte $3–$6**. **Olave owners:** leftover **Vele $2–$4**. **McConkey owners:** leftover **Harris $2–$4**. **Flowers owners:** leftover **Bateman $2–$4**. **Moore owners:** leftover **Shakir $1–$2** (path shrinks). **Nacua owners:** official **Q** after two DNPs. Do **not** FAAB Whittington. Flex Nacua and use a Monday piece you already have (Adams / Kyren / Nabers / Dart / Skattebo / Likely). 10-team benches are short — do not roster a 4th RB or IR stash unless the path is 15+ touches in the next 1–4 weeks.
 
 Bids are **% of $100 and dollars**.
 
@@ -317,7 +315,7 @@ Conservative call when sources conflict. **Week 2 is live.** TNF is **CLOSED**. 
 **Sit / trap / stream only:** Geno (floor vs GB), Jones (@ KC), Ward (vs PHI), Darnold (**official OUT**), **Nix (131-yard fade as a smash)**, Willis (@ SF), **Kyler (official OUT)**, Watson (@ TB), **Tua (official D)**, **Penix (official OUT)**, **Rush (named starter, trap tape)**, Rodgers (only if thin), Milton, Levis, Strand.
 
 **Blind-start traps**
-- **Locking Nacua in a dedicated WR slot** with no Monday pivot after a Friday hip DNP. Flex him. Start if active. Do not smash-sell.
+- **Locking Nacua in a dedicated WR slot** with no Monday pivot after official Q + two DNPs. Flex him. Start if active. Do not smash-sell.
 - **Starting Nico** after official OUT + Grade 1.
 - **Starting Rush Week 2** because he is named. Tape is 2 INT + a pick-six. Young is the better stream.
 - **Starting Kyler** after official OUT.
@@ -333,7 +331,7 @@ Conservative call when sources conflict. **Week 2 is live.** TNF is **CLOSED**. 
 - **Sitting Adams** on a Thursday rest DNP. Friday Full. Start until tagged.
 - **Starting Olave blindly** after two Limiteds + official Q. Have Vele. Wait inactives.
 - **Dropping DJ Moore** after an AC sprain that is not serious. He is a **34**, not a 10.
-- **Dropping Nacua** after one Friday DNP. He is an **80**, not a 40.
+- **Dropping Nacua** after official Q + two DNPs. He is a **76**, not a 40.
 - **Paying / starting Dobbins as a locked RB2.** 8–36. Harvey Q does not make him a lead.
 - **Smash-selling Maye** after 3 INTs + Brown IR. Seasonal ECR still QB1-tier.
 - **Smash-selling Mahomes** after 184 yards. Official Full. He is a **72**.
@@ -356,9 +354,9 @@ Conservative call when sources conflict. **Week 2 is live.** TNF is **CLOSED**. 
 
 ### WR
 
-**Must-start:** Chase (@ HOU), **Nacua if active (MNF — FLEX him; Friday hip DNP)**, JSN (@ ARI), Jefferson (@ CHI — gusts 25, not a sit). **Amon-Ra already played.**
+**Must-start:** Chase (@ HOU), **Nacua if active (MNF — FLEX him; official Q / Fri+Sat DNP)**, JSN (@ ARI), Jefferson (@ CHI — 12–20 mph watch, not a sit). **Amon-Ra already played.**
 
-**Strong:** Nabers (**MNF Monday pivot**), London (vs CAR — hold through Rush), Rice (vs IND), DeVonta (@ TEN), Higgins (@ HOU), Egbuka (vs CLE), Evans (vs MIA), Deebo (vs MIA), Christian Watson (@ NYJ — rain watch), **Adams (MNF — Friday Full; start; volume if Nacua sits)**, **Coker (@ ATL — Friday Full)**.
+**Strong:** Nabers (**MNF Monday pivot**), London (vs CAR — hold through Rush), Rice (vs IND), DeVonta (@ TEN), Higgins (@ HOU), Egbuka (vs CLE), Evans (vs MIA), Deebo (vs MIA), Christian Watson (@ NYJ — rain watch), **Adams (MNF — Sat Full / no tag; start; volume if Nacua sits)**, **Coker (@ ATL — Friday Full)**.
 
 **Toss-up:** Lamb (vs WAS — muted W1, hold), Pickens (vs WAS), McMillan (CAR), Waddle (vs JAC — **ugly DEN tape, not a panic-sit if you have no one else, but not a smash**), Garrett Wilson (vs GB), **McConkey (official Q — conservative sit)**, **Flowers (official D — sit)**, **Nico (official OUT)**, **Olave (official Q — conservative sit)**, McLaurin (@ DAL), Hollins / Doubs (only if thin), Bourne (thin), Pittman (official Q / DNP Thu+Fri — not a lock).
 
@@ -379,9 +377,9 @@ Conservative call when sources conflict. **Week 2 is live.** TNF is **CLOSED**. 
 ## 6. Matchups that matter
 
 - **DET @ BUF (TNF CLOSED):** Smash confirmed. Allen 5 TDs. Cook 21–135–1. Amon-Ra 9–142–2. Gibbs receiving TD. **DJ Moore AC sprain is the leftover story — Week 3 watch, not a drop.**
-- **NYG @ LAR (Mon):** **Nacua Friday hip DNP is the decision.** Flex him. Start if active. Adams Friday Full — start. Sat designations **MISSING**. Nabers / Dart / Skattebo / Likely are the Monday pivots. Dome.
+- **NYG @ LAR (Mon):** **Nacua official Q / Fri+Sat DNP is the decision.** Flex him. Start if active. Adams Sat Full / no tag — start. Whittington official D — ignore. Nabers / Dart / Skattebo / Likely / Kyren are the Monday pivots. SoFi canopy.
 - **Lock @ ARI (Sun 4:25):** smash Superflex stream + JSN stack. Darnold **official OUT**. Allgeier/Love vs a good front — committee fade as a smash. **McBride official Full — start.**
-- **Wentz @ CHI (Sun 1:00).** Murray **official OUT**. Jefferson still a must-start. Swift still a strong start (official Full). **CHI 14 mph / gusts 25 / 30% vs CLEATZ 61–94% — watch not sit.**
+- **Wentz @ CHI (Sun 1:00).** Murray **official OUT**. Jefferson still a must-start. Swift still a strong start (official Full). **CHI evening NFLWeather 12 mph / 30% / gusts ~19–20 vs FantasyAlarm Fri 20 mph / 72% — watch not sit.**
 - **NO @ BAL:** Flowers official D decides Bateman / Henry stacks. **Olave official Q** — have Vele. Shough volume meets a real defense — toss-up, not a smash. **Kamara Full — committee flex, not a smash.** 13 mph breeze — watch not sit.
 - **LV @ LAC:** McConkey official Q. Bowers official D. Jeanty must-start. Hampton strong. Dome.
 - **CAR @ ATL:** **Rush named.** Start Bijan. Hold London. Do not smash-start Rush. Young is the better stream-up. Coker Friday Full — start if rostered. Dome.
@@ -391,7 +389,7 @@ Conservative call when sources conflict. **Week 2 is live.** TNF is **CLOSED**. 
 - **PIT @ NE:** Stevenson is the chip. Henderson is a flex, not an RB2. Maye is still a must-start. Do not start Brown. Pittman official Q / DNP Thu+Fri — not a 10-team lock. **41% vs CLEATZ 17%** — watch not sit.
 - **DEN vs JAC:** Dobbins is a committee flex, not a smash. Harvey official Q. Tuten is an RB3. Nix is not a stream-up after 131 yards. Mims official OUT. Gusts 19 / altitude — watch not sit.
 
-No Week 2 byes. No sit-level weather as of 8:20 AM ET. **CHI gusts 25 is the closest.**
+No Week 2 byes. No sit-level weather as of 6:20 PM ET. **CHI 12–20 mph + rain is the closest.**
 
 ---
 
@@ -401,7 +399,7 @@ No Week 2 byes. No sit-level weather as of 8:20 AM ET. **CHI gusts 25 is the clo
 
 Superflex: starting QBs are premium. QB2s still matter. Half-PPR: WRs hold; committee RBs discounted unless 15+ touch path. 10-team: do not pay up for a 4th RB.
 
-Trends below are **vs the Friday 6:20 PM ET published board**.
+Trends below are **vs the Saturday 8:20 AM ET published board**.
 
 ### A. Tier list by position
 
@@ -516,7 +514,7 @@ Trends below are **vs the Friday 6:20 PM ET published board**.
 | Ja’Marr Chase | 85 | flat | Hold |
 | Jaxon Smith-Njigba | 82 | flat | 8–122–1. Lock stack |
 | Amon-Ra St. Brown | 80 | flat | TNF 9–142–2 |
-| Puka Nacua | 80 | down | Friday hip DNP. Sat tag MISSING. Start if active. Do not smash-sell |
+| Puka Nacua | 76 | down | Official Q. Fri+Sat DNP. McVay different than psoas. Start if active. Do not smash-sell |
 | Justin Jefferson | 72 | flat | 8–92–2. CHI gusts 25 — not a sit |
 | CeeDee Lamb | 66 | flat | 5–44–1. One script. Hold |
 | Drake London | 58 | flat | 2–29. Rush named. Hold |
@@ -535,7 +533,7 @@ Trends below are **vs the Friday 6:20 PM ET published board**.
 | DJ Moore | 34 | flat | AC sprain CLOSED. Not serious. Week 3 chance. Do not drop |
 | Zay Flowers | 34 | flat | Official D. Friday Limited. MRI still MISSING. Do not drop |
 | A.J. Brown | 32 | flat | Official IR. Min Weeks 2–5. Do not drop |
-| Davante Adams | 30 | up | Friday Full. Thursday rest closed. Volume if Nacua sits. MNF |
+| Davante Adams | 32 | up | Sat Full / no tag. Volume if Nacua sits. MNF |
 | Luther Burden III | 30 | flat | Odunze played |
 | Deebo Samuel | 30 | flat | 6–48–1 + 12 rush |
 | Jaylen Waddle | 28 | flat | 1–2. Nix wrecked. Do not smash-sell to a 12 |
@@ -593,14 +591,16 @@ Trends below are **vs the Friday 6:20 PM ET published board**.
 | Evan Engram | 14 | flat | 4–43–1. Only usable DEN skill tape |
 | Mike Gesicki | 12 | flat | 5–78–1. Not a 10-team TE1 |
 
-### B. Biggest risers / fallers since Friday 6:20 PM ET
+### B. Biggest risers / fallers since Saturday 8:20 AM ET
 
-**Puka Nacua 84→80** — Official Friday DNP. Hip per beat. Sat designation MISSING. Start if active. Do not smash-sell.
-**Davante Adams 28→30** — Friday Full. Thursday rest closed. Volume hedge if Nacua sits.
+**Puka Nacua 80→76** — Official Q after Fri+Sat DNP. McVay: different than camp psoas. Klein verbal D vs official Q. Start if active. Do not smash-sell.
+**Davante Adams 30→32** — Saturday Full / no tag. Volume hedge if Nacua sits.
 
-Rest of the 1–100 board is **FLAT**. Friday evening movers (Wentz 22, Rush 14, Boutte 24, Nico 50, Flowers 34, etc.) stay put. Sunday designations unchanged. Burrow official Q does not reprice 90. CHI gusts 25 do not reprice Jefferson / Swift / Wentz.
+Rest of the 1–100 board is **FLAT**. Sunday designations unchanged. Burrow official Q does not reprice 90. CHI easing from gusts 25 to 12–20 mph does not reprice Jefferson / Swift / Wentz. Flowers official tag is still D — do not reprice him as Out.
 
-**Still MISSING:** Flowers MRI result. Sunday inactives (McConkey / Olave / Flowers / Bowers / Burrow / Pittman). **MNF Saturday designations (Nacua hip / Adams / Nabers / Dart).** Kyler Week 3 clearance. Nacua injury type on the official NFL.com table.
+**Still MISSING:** Flowers MRI result. Sunday inactives (McConkey / Olave / Flowers / Bowers / Burrow / Pittman). Monday inactives (Nacua). Kyler Week 3 clearance.
+
+**Closed this packet:** MNF Saturday designations. Nacua official Q. Adams no tag. Whittington official D.
 
 **Flat on purpose:** Allen 100, Lamar 96, Maye 88, Burrow 90, Gibbs 93, Bijan 88, CMC 74, Chase 85, Dart 70, Jeanty 70, Walker 60, Mahomes 72, Cook 66, Amon-Ra 80, Goff 58, Kincaid 34, LaPorta 28, Brown 32, Lock 24, Love (RB) 34, Allgeier 36, Lloyd 32, Dobbins 22, Nix 56, Darnold 16, McBride 56, Swift 36, Kamara 26, Henderson 20, Olave 52, Nico 50, Flowers 34, McConkey 26, Moore 34, Wentz 22, Rush 14.
 
@@ -610,12 +610,12 @@ Rest of the 1–100 board is **FLAT**. Friday evening movers (Wentz 22, Rush 14,
 - Dart (70) ≈ Jeanty (70)
 - Walker (60) ≈ Jordan Love (60) ≈ Nabers (58) ≈ London (58) ≈ Saquon (58) ≈ Goff (58)
 - Cook (66) ≈ Dak (64) ≈ Lamb (66)
-- Nacua (80) ≈ Amon-Ra (80) ≈ Caleb (80) — **do not smash-sell Nacua for a 50 on one DNP**
+- Nacua (76) ≈ Amon-Ra (80) ≈ Caleb (80) — **close; do not smash-sell Nacua for a 50 on official Q**
 - McBride (56) ≈ Henry (56) ≈ Nix (56)
 - Olave (52) ≈ Nico (50)
 - Hall (48) ≈ Achane (48) ≈ Bowers (46)
 - Montgomery (38) ≈ Watson (38) ≈ Etienne (36) ≈ Swift (36) ≈ Flowers (34) ≈ Moore (34)
-- Adams (30) ≈ Brown (32) ≈ McConkey (26)
+- Adams (32) ≈ Brown (32) ≈ McConkey (26)
 - Lock (24) ≈ Fields (24) ≈ Boutte (24) ≈ Wentz (22) ≈ Dobbins (22) ≈ Kamara (26)
 - Henderson (20) ≈ Kamara (26) — ramp / committee, not a flex-for-flex smash
 
@@ -625,14 +625,14 @@ Rest of the 1–100 board is **FLAT**. Friday evening movers (Wentz 22, Rush 14,
 - Example: Jeanty (70) for Hall (48) + Lock (24).
 - Example: Cook (66) for Hampton (50) + Harvey (12) is close; Cook buyer can add a dart.
 - Example: Dart (70) for Shough (44) + Coker (20) + a dart.
-- Example: Nacua (80) for London (58) + Adams (30) is the injury hedge — **do not smash-sell Nacua for Adams alone**.
+- Example: Nacua (76) for London (58) + Adams (32) is the injury hedge — **do not smash-sell Nacua for Adams alone**.
 - Example: Nico (50) for Flowers (34) + Boutte (24) is close if you are fading the hamstring — **do not smash-sell Nico for a 24**.
 - Example: DJ Moore (34) for Shakir (10) + Coleman (8) + a dart is the injury hedge — **do not smash-sell Moore for a 10**.
 - **3-for-1s usually lose in 10-team** unless you are dumping IR dead (Brown) to upgrade a starter.
 
 ### E. Ripoff flags
 
-- **Dropping / smash-selling Nacua on one Friday DNP** — Sat tag MISSING; he is an **80**, not a 40
+- **Dropping / smash-selling Nacua on official Q + two DNPs** — he is a **76**, not a 40
 - Selling Maye as if 3 INTs + Brown IR killed him — he is still an **88**
 - Dropping Brown — official IR 4 games is not cuttable; he is a **32**
 - Dropping Flowers — official D + MRI still **MISSING**; he is a **34**
@@ -673,7 +673,7 @@ Rest of the 1–100 board is **FLAT**. Friday evening movers (Wentz 22, Rush 14,
 - **QB is still the scarce piece in Superflex.** Week 2 stream pool: Lock (locked 2–4 weeks), Wentz (locked W2), Shough (BAL tax), Young, Brissett, Geno. Rush is named and still not the answer unless you are desperate. Tua D / Penix OUT / Kyler OUT.
 - **RB is secondary-scarce** only if you lost Jacobs. Kamara plays as a committee flex, not a must-start. Henderson is a flex, not an RB2. Dobbins is not the answer. Do not overpay a 4th RB.
 - **TE:** McBride still separated (official Full). Bowers official D. Kincaid already played. Likely / Goedert are the FAAB TE answers. Mayer is a rental.
-- **WR:** **Nacua MNF hip DNP** + Flowers D + McConkey Q + **Nico OUT** + **Olave Q** + **Moore Week 3 watch** create six landmines. Flex Nacua. Have a pivot. Do not cut any of them.
+- **WR:** **Nacua official Q** + Flowers D + McConkey Q + **Nico OUT** + **Olave Q** + **Moore Week 3 watch** create six landmines. Flex Nacua. Have a pivot. Do not cut any of them.
 
 ---
 
@@ -702,17 +702,17 @@ Rest of the 1–100 board is **FLAT**. Friday evening movers (Wentz 22, Rush 14,
 
 ## 9. What a manager should do today
 
-1. **Nacua Friday hip DNP is the new landmine.** Official DNP. Sat designation **MISSING**. Flex him. Have a Monday pivot (Adams / Kyren / Nabers / Dart / Skattebo / Likely). Start if active. Do not smash-sell (80). Do not drop.
-2. **Set Sunday lineups today.** First lock 1:00 PM ET Sunday. Inactives ~11:30 AM. MNF designations still **MISSING** — usually afternoon PT.
+1. **Nacua official Q after Fri+Sat DNP is the landmine.** McVay: different than camp psoas. Klein verbal D vs official Q. Flex him. Have a Monday pivot (Adams / Kyren / Nabers / Dart / Skattebo / Likely). Start if active. Do not smash-sell (76). Do not drop. Do not FAAB Whittington.
+2. **Set Sunday lineups tonight.** First lock 1:00 PM ET Sunday. Inactives ~11:30 AM. MNF Saturday designations **CLOSED**.
 3. **Nico official OUT.** Sit. Do not drop (50). Leftover FAAB Boutte **$3–$6** if you own him. Start Boutte this week if you lost Nico.
-4. **Olave official Q / Flowers official D / McConkey official Q / Bowers official D.** Conservative sits. Do not drop (52 / 34 / 26 / 46). Have Vele / Bateman / Harris / Mayer. Flowers MRI **still MISSING**.
+4. **Olave official Q / Flowers official D / McConkey official Q / Bowers official D.** Conservative sits. Do not drop (52 / 34 / 26 / 46). Have Vele / Bateman / Harris / Mayer. Flowers MRI **still MISSING**. Official Flowers tag is still D, not Out.
 5. **FAAB leftovers only:** Confirm you got Lock / Wentz / Montgomery / Moore / Coker. Else leftover FA **$1–$3** on misses. Do **not** pay Lloyd $20, Dobbins $10+, Rush as a smash, or Whittington as a Nacua replacement.
-6. **Start Lock and Wentz if you rostered them.** Darnold official OUT / ~4 weeks, no IR. Murray official OUT. Lock is a **24**. Wentz is a **22**. CHI gusts 25 — watch, still a start.
-7. **Do not drop Flowers, McConkey, Brown, Nico, Olave, Moore, or Nacua.** Official D + MRI **MISSING** (34). Official Q (26). Official IR through Week 5 (32). Official OUT Grade 1 (50). Official Q (52). AC sprain / Week 3 chance (34). Friday hip DNP / Sat tag **MISSING** (80).
+6. **Start Lock and Wentz if you rostered them.** Darnold official OUT / ~4 weeks, no IR. Murray official OUT. Lock is a **24**. Wentz is a **22**. CHI 12–20 mph — watch, still a start.
+7. **Do not drop Flowers, McConkey, Brown, Nico, Olave, Moore, or Nacua.** Official D + MRI **MISSING** (34). Official Q (26). Official IR through Week 5 (32). Official OUT Grade 1 (50). Official Q (52). AC sprain / Week 3 chance (34). Official Q / two DNPs (76).
 8. **Do not start Rush as a smash / Tua / Penix / Kyler / Bowers / Jacobs / Brown / Nico / Flowers.** Rush is **named** and still trap tape. Young is the better ATL-game stream. Kamara is a **flex only**. Henderson is a **flex only**.
-9. **Start Burrow.** Official Q / Friday Full / Taylor start. Do not smash-sell (90). **CMC / McBride / Swift / Mahomes official Full — start.** Adams Friday Full — start. CHI gusts 25 do not sit Jefferson / Swift / Wentz.
-10. **Do not smash-sell Maye (88), CMC (74), Nacua (80), Stafford (50), London (58), Lamb (66), Kyler (36), Mahomes (72), Darnold (16), Nico (50), Olave (52), or Moore (34).** Walker is a **60**, not a 93. Cook is a **66**, not a 93. Board movers vs Friday 6:20 PM ET: **Nacua 84→80, Adams 28→30.** Rest **FLAT**. Do not invent Flowers MRI, a Saturday MNF designation, or Sunday inactives.
+9. **Start Burrow.** Official Q / Friday Full / Taylor start. Do not smash-sell (90). **CMC / McBride / Swift / Mahomes official Full — start.** Adams Sat Full / no tag — start. CHI 12–20 mph do not sit Jefferson / Swift / Wentz.
+10. **Do not smash-sell Maye (88), CMC (74), Nacua (76), Stafford (50), London (58), Lamb (66), Kyler (36), Mahomes (72), Darnold (16), Nico (50), Olave (52), or Moore (34).** Walker is a **60**, not a 93. Cook is a **66**, not a 93. Board movers vs Saturday 8:20 AM ET: **Nacua 80→76, Adams 30→32.** Rest **FLAT**. Do not invent Flowers MRI, Flowers Out, or Sunday inactives.
 
 ---
 
-**Sources:** Official NFL.com Week 2 injury page re-checked ~8:05 AM ET Sat (Sunday designations UNCHANGED: Kyler/Nico/Penix/Darnold OUT; Flowers/Bowers/Tua D; Burrow/McConkey/Olave/Pittman/Harvey/Black Q; Kamara/Henderson/Swift/CMC/McBride/Mahomes Full or untagged). Rams Friday sheet: Nacua DNP / Adams Full / Whittington DNP; MNF Saturday designations MISSING. CBS Sports Week 2 injury report (Pereles/Podell Fri 7:00 PM ET). LA Times / NY Post / FantasyPros / FullTime Fantasy Sat: Nacua hip DNP, start if active, have Monday pivot. Falcons Wire / Stefanski Rush named + Penix OUT + Tua D. SI/Bears Murray OUT / Wentz starts. NFL.com / Bengals.com Burrow Friday Full + Taylor start. Saints.com / PFT Kamara plays + Olave Q. Patriots.com / official sheet Henderson Full. Rapoport/Schefter DJ Moore AC sprain not serious / Week 3 chance. FOX Baltimore / Schefter Flowers D + Friday Limited; MRI still MISSING. Review-Journal / AP / Kubiak Bowers D / likely Week 3. PFT McConkey Q Friday Limited. NFLWeather Week 2 (CHI 69°/14 mph/30%/gusts 25 vs CLEATZ 61–94%; NE 41% vs CLEATZ 17%; NYJ 32% vs CLEATZ 71%; TB 73% vs CLEATZ 3–8%; KC hourly 15%/8 mph vs text 70% vs CLEATZ 22–26%). FantasyPros Week 2 Flex page Sep 19 + seasonal Superflex ECR last full table Sep 8 + Sep 9 three-expert table. Conservative lineup call when sources conflict. No kickers. No DST.
+**Sources:** Official NFL.com Week 2 injury table re-checked ~6:10 PM ET Sat (Sunday designations UNCHANGED: Kyler/Nico/Penix/Darnold OUT; Flowers/Bowers/Tua D; Burrow/McConkey/Olave/Pittman/Harvey/Black Q; Kamara/Henderson/Swift/CMC/McBride/Mahomes Full or untagged). Official Rams.com Saturday sheet CLOSED: Nacua hip DNP Fri+Sat / Q; Whittington quad DNP Fri+Sat / D; Kinchens OUT; Adams FP Fri+Sat / no tag; Donald/Higbee/Jackson/Young Sat rest DNP / no tag. Official Giants Saturday sheet: Banks Q, McFadden Q. McVay via Atkins / Stu Jackson / Klein (Sat ~2:34–3:01 PM): Nacua different than camp psoas; Thursday could not open up; groin soreness; being smart; Klein verbal D vs official Q. NFL.com Week 2 status recap listed Flowers OUT — **conflict vs official table D; use the table**. Flowers MRI still MISSING. NFLWeather Sat evening (CHI 66°/12 mph/30%/gusts ~19–20 vs FantasyAlarm Fri 20 mph/72%; NE 64°/4 mph/41%; NYJ 68°/8 mph/32%; TB 86°/5 mph/73%; KC 72°/7 mph/15%; BAL 81°/10 mph/32%). FantasyPros Week 2 Flex page Sep 19 + seasonal Superflex ECR last full table Sep 8 + Sep 9 three-expert table. Conservative lineup call when sources conflict. No kickers. No DST.
