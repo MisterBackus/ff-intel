@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-18 **evening** file is **Week 2**. TNF is **CLOSED** (BUF 41–DET 31). Friday designations **LIVE**. **DJ Moore AC sprain CLOSED** (**32→34** — not serious; Week 3 chance; do not drop). **Kyler OUT / Wentz starts**. **Nico OUT**. **Rush named** (still a trap). Flowers **D**. Bowers **D**. McConkey **Q**. Olave **Q**. Burrow **Q / starts**. Kamara **plays** (flex only, **22→26**). Henderson **plays** (flex only, **18→20**). Do not drop Brown (32), Flowers (34), McConkey (26), Nico (50), Olave (52), or Moore (34). Start Burrow, CMC, McBride, Swift, Lock, Wentz. Do not pay Lloyd or Dobbins as RB2s.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-19 **morning** file is **Week 2**. TNF is **CLOSED** (BUF 41–DET 31). Sunday designations **UNCHANGED**. **MNF Saturday designations still MISSING.** **Nacua Friday hip DNP** (**84→80** — flex him; start if active; do not smash-sell). Adams Friday Full (**28→30**). **Kyler OUT / Wentz starts**. **Nico OUT**. **Rush named** (still a trap). Flowers **D**. Bowers **D**. McConkey **Q**. Olave **Q**. Burrow **Q / starts**. Kamara **Full** (flex only, 26). Henderson **Full** (flex only, 20). CHI **gusts 25** — watch not sit. Do not drop Brown (32), Flowers (34), McConkey (26), Nico (50), Olave (52), Moore (34), or Nacua (80). Start Burrow, CMC, McBride, Swift, Lock, Wentz, Adams. Do not pay Lloyd or Dobbins as RB2s.
 
 ## Latest
 
