@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-20 **evening** file is **Week 2**. 1:00 Sunday is **CLOSED**. 4:05/4:25 boxes **MISSING**. **Set SNF** (Mahomes / Walker / Taylor). **Caleb hamstring** (**80→62**) — hold; roster Bagent. **Henderson 16–76–1** (**20→28**). **Saquon stinger** (**58→52**). **Olave 8–86–1** (**54→58**). **Young 287/3** (**26→32**). **Rush trap closed** (**14→10**). **Nacua official Q** (76 — flex; start if active). Do not drop Brown (32), Flowers (32), McConkey (28), Nico (50), Olave (58), Moore (34), or Nacua (76). Do not smash-sell Caleb, Maye, Burrow, Lamar, Jefferson, or Bijan.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-09-21 **morning** file is **Week 2** with MNF remaining. Sunday + SNF are **CLOSED** (KC 33–IND 30 OT). **Set MNF** — flex Nacua (official Q / Schefter wrong way; 76→72). **Daniels left-elbow dislocation** (**84→50**) — hold; roster Mariota $8–$15. **Caleb MRI today** (62) — hold; roster Bagent $6–$10. **Mahomes 382/3** (**72→78**). **Walker 24–117 + 6–61** (**60→68**). **JSN 9–155–3** (**82→88**). Do not drop Brown (32), Flowers (32), McConkey (24), Nico (50), Olave (58), Moore (34), Nacua (72), Darnold (16), Caleb (62), or Daniels (50). Do not smash-sell Daniels, Caleb, Maye, Burrow, Lamar, Jefferson, or Bijan. Do not lock Rush Thursday.
 
 ## Latest
 
