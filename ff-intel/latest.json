@@ -1,6 +1,6 @@
 {
-  "generated_at_et": "2026-09-21 18:20 ET",
-  "nfl_week": "2",
+  "generated_at_et": "2026-09-22 08:20 ET",
+  "nfl_week": "3",
   "league": {
     "teams": 10,
     "format": "superflex",
@@ -14,44 +14,58 @@
   "data_freshness": [
     "53-man rosters locked 2026-08-30 18:00 ET",
     "Week 1 CLOSED. MNF FINAL KC 31-10 DEN",
-    "TNF CLOSED. FINAL BUF 41-DET 31",
-    "Sunday 13:00 / 16:05 / 16:25 / SNF all CLOSED. CLE 23-TB 19. DEN 20-JAC 13. LV 26-LAC 14. SEA 31-ARI 7. DAL 37-WAS 20. SF 35-MIA 13. KC 33-IND 30 OT",
-    "NEW since Monday 08:20 ET: Ben Johnson \u2014 Caleb week-to-week, will miss some time. OutKick source Grade 1 / no tear. Official team grade MISSING. 62->56. Bagent 18->22",
-    "Daniels CLOSED Monday: imaging done; specialists Tue/Wed; Quinn no major update until then; not adding a QB. Ligaments / surgery MISSING. OUT vs SEA. Mariota starts. 50->46 / 20->24",
-    "Kyler CLOSED: O'Connell Monday \u2014 cleared concussion protocol, starts vs TB. 36->42. Drop Wentz",
-    "Penix CLOSED named TNF starter (team / NFL.com / CBS 17:07 ET). Monday Full. First start in 10 months. 10->16. Rush 10->6",
-    "Goedert CLOSED MCL sprain (Schefter/Rapoport ESPN 17:14 ET). Miss a few weeks. 20->14",
-    "Saquon MRI result still MISSING. Rapoport hopeful minor. 52 flat",
-    "Nacua still official Q. Schefter McAfee Monday trending toward not playing. Inactives MISSING ~18:45 ET. 72->68",
-    "Price CLOSED shoulder not chest (Macdonald). Intact; nothing serious. 32->34",
-    "Dobbins Pelissero good. Wednesday practice watch. 16->18",
-    "Flowers MRI still MISSING",
-    "Values anchored to FantasyPros seasonal Superflex ECR last full table Sep 8 (Maye QB3) plus Sep 9 three-expert table (Maye QB2) plus FP Week 3 injury / waiver pages dated Sep 21",
-    "Trends vs Monday 08:20 ET published 1-100 board: Caleb 62->56, Bagent 18->22, Daniels 50->46, Mariota 20->24, Kyler 36->42, Wentz 16->12, Penix 10->16, Rush 10->6, Nacua 72->68, Adams 34->36, Goedert 20->14, Dobbins 16->18, Price 32->34, Coleman 14->16, London 54->56",
-    "Levis still unsigned Monday evening. Browning still FA. Hunt still unsigned"
+    "Week 2 CLOSED. TNF BUF 41-DET 31. Sunday finals unchanged. MNF FINAL LAR 28-NYG 6",
+    "NEW since Monday 18:20 ET: Official inactives CLOSED. Nacua INACTIVE hip / McVay groin. Week 3 SNF tag MISSING. 68->64",
+    "MNF box CLOSED official gamebook: Stafford 22/31 327 4 TD 1 INT. Adams 8-195-2. Kyren 12-85 + 2-12-1. Corum 12-79 + 1-13. Dart 3/5 20 then left. Winston 11/27 111 0/1. Nabers 1-1 on 4. Skattebo 12-36 + 4-19 fumble. Likely 5-33 on 10. Terrance Ferguson 6-54-1",
+    "Dart CLOSED prelim MCL sprain (Rapoport/Garafolo). X-rays negative. MRI TODAY. Official grade MISSING. Unofficial 4-6 weeks is GUESS. 70->52. Roster Winston",
+    "McVay postgame podium recap does not give a Nacua Week 3 designation. Do not lock SNF",
+    "Daniels specialists TODAY / Wednesday. Ligaments / surgery still MISSING. Mariota starts vs SEA. 46 / 24 flat",
+    "Official Caleb MRI grade still MISSING. Johnson week-to-week, not expected to practice this week, not ruled out MNF. 56 flat. Roster Bagent",
+    "Saquon MRI result still MISSING. 52 flat",
+    "Flowers MRI still MISSING. Sit until Wednesday. 32 flat",
+    "Reed CLOSED back not neck (Schefter). Timeline MISSING. Sit TNF",
+    "Values anchored to FantasyPros seasonal Superflex ECR last full table Sep 8 (Maye QB3) plus Sep 9 three-expert table (Maye QB2) plus FP Week 3 injury / waiver / ROS pages dated Sep 21",
+    "Trends vs Monday 18:20 ET published 1-100 board: Dart 70->52, Nacua 68->64, Nabers 58->50, Adams 36->44, Stafford 50->56, Kyren 42->44, Skattebo 34->30, Likely 24->26, NEW Winston 18, NEW Corum 16, NEW Terrance Ferguson 18",
+    "Levis still unsigned Tuesday morning. Browning still FA. Hunt still unsigned"
   ],
   "must_act_today": [
-    "Set MNF now. Flex Nacua (official Q; Schefter McAfee trending toward not playing). Have a Monday pivot (Adams / Kyren / Nabers / Dart / Skattebo / Likely). Start if active. Do not smash-sell (68). Do not FAAB Whittington",
-    "Jayden Daniels specialists Tue/Wed. Hold (46). Roster Mariota $8-15 Tuesday. OUT vs SEA. Ligaments / surgery MISSING. Do not smash-sell to a 24",
-    "Caleb Williams week-to-week, will miss some time. Hold (56). Roster Bagent $8-12 Tuesday. Official grade MISSING. Do not invent it",
+    "Tuesday FAAB TODAY. Superflex order: Mariota $8-15, Bagent $8-12, Winston $6-10, Young $5-8, Jones $8-12, Henderson $8-12. Drop Rush / Wentz / Rodgers / Brissett / a 4th RB",
+    "Jaxson Dart prelim MCL. Hold (52). Roster Winston $6-10. MRI TODAY. Official grade MISSING. Do not smash-sell to an 18",
+    "Jayden Daniels specialists today/Wed. Hold (46). Roster Mariota $8-15. OUT vs SEA. Ligaments / surgery MISSING. Do not smash-sell to a 24",
+    "Caleb Williams week-to-week, not expected to practice this week. Hold (56). Roster Bagent $8-12. Official grade MISSING. Do not invent it",
     "Kyler Murray CLEARED. Starts vs TB. Start him Week 3. Drop Wentz",
-    "Penix NAMED TNF starter. Desperate stream only. Do not smash-start. Do not stream Rush",
+    "Penix NAMED TNF starter. Desperate stream only. Do not smash-start. Do not stream Rush. Sit Reed TNF (back not neck)",
+    "Nacua W2 INACTIVE. Hold (64). Week 3 SNF tag MISSING. Start Adams (44). Do not FAAB Whittington",
     "Saquon MRI result MISSING. Hold (52). Bigsby 13-33-1. Do not smash-sell",
-    "Goedert MCL sprain. Miss a few weeks (14). Waller / Likely are the fills",
+    "Goedert MCL sprain. Miss a few weeks (14). Waller / Likely / Ferguson are the fills",
     "Dobbins Pelissero good. Sit until Wednesday (18). Coleman is the DEN dart if you own him",
-    "Price shoulder intact, nothing serious. Hold (34). Wilson 21-92 was blowout clock \u2014 $2-5 cuff not a $20 RB2",
     "Do not start Rush / Tua / Flowers / Nico / Pittman / Brown / Harvey / Dobbins / Reed. Do not smash-start Penix Thursday",
-    "Do not drop Flowers (32), Nico (50), Brown (32), Moore (34), McConkey (24), Olave (58), Nacua (68), Darnold (16), Caleb (56), or Daniels (46)",
-    "Tuesday FAAB: Mariota, Bagent, Young, Jones, Henderson, Tucker. Drop Rush / Wentz / Rodgers / Brissett / a 4th RB",
-    "Monday inactives still MISSING. Do not invent official Caleb grade, Daniels ligaments, Saquon MRI, Flowers MRI, or a Nacua Monday inactive"
+    "Do not drop Flowers (32), Nico (50), Brown (32), Moore (34), McConkey (24), Olave (58), Nacua (64), Nabers (50), Darnold (16), Caleb (56), Daniels (46), or Dart (52)",
+    "Do not invent Dart MRI grade, official Caleb grade, Daniels ligaments, Saquon MRI, Flowers MRI, or a Nacua Week 3 designation"
   ],
   "injuries": [
+    {
+      "player": "Jaxson Dart",
+      "pos": "QB",
+      "team": "NYG",
+      "status": "Prelim MCL sprain / MRI TODAY",
+      "note": "Left knee. X-rays negative. Wanted back in. Harbaugh: not the devastating outcome. Official grade MISSING. 70->52. Do not smash-sell.",
+      "replacement": "Jameis Winston 11/27, 111, 0 TD, 1 INT. Likely Week 3 vs TEN. FAAB $6-$10."
+    },
+    {
+      "player": "Jameis Winston",
+      "pos": "QB",
+      "team": "NYG",
+      "status": "Healthy / likely Week 3 start",
+      "note": "Ugly 111/0/1 after Dart left. TEN is easier than LAR. NEW 18.",
+      "replacement": "Dart stash. Winston is the add."
+    },
     {
       "player": "Jayden Daniels",
       "pos": "QB",
       "team": "WAS",
       "status": "Out vs SEA / elbow dislocation",
-      "note": "Left non-throwing elbow. Imaging done. Specialists Tue/Wed. Ligaments / surgery MISSING. 50->46. Do not smash-sell.",
+      "note": "Left non-throwing elbow. Specialists today/Wed. Ligaments / surgery MISSING. 46 flat. Do not smash-sell.",
       "replacement": "Marcus Mariota named Week 3 starter vs SEA. 11/16, 111, 1 TD. FAAB $8-$15."
     },
     {
@@ -67,7 +81,7 @@
       "pos": "QB",
       "team": "CHI",
       "status": "Hamstring / week-to-week",
-      "note": "Johnson: miss some time. OutKick Grade 1 / no tear. Official grade MISSING. 62->56. Do not smash-sell.",
+      "note": "Johnson: miss some time; not expected to practice this week; not ruled out MNF. Official grade MISSING. 56 flat. Do not smash-sell.",
       "replacement": "Tyson Bagent 5/9, 54. Likely Week 3 MNF vs PHI if Caleb sits. FAAB $8-$12."
     },
     {
@@ -77,6 +91,22 @@
       "status": "Healthy / likely Week 3 start",
       "note": "Johnson: top-32 confidence. Finished W2 after Caleb hamstring. 5/9, 54.",
       "replacement": "Caleb stash. Bagent is the add."
+    },
+    {
+      "player": "Puka Nacua",
+      "pos": "WR",
+      "team": "LAR",
+      "status": "Out Week 2 / Week 3 MISSING",
+      "note": "W2 INACTIVE hip / McVay groin. McVay postgame no Week 3 tag. 68->64. Do not smash-sell. Do not lock SNF.",
+      "replacement": "Davante Adams 8-195-2. Do not FAAB Whittington."
+    },
+    {
+      "player": "Davante Adams",
+      "pos": "WR",
+      "team": "LAR",
+      "status": "Healthy",
+      "note": "MNF 8-195-2 with Nacua out. 36->44. Start Week 3. Not a locked WR1 if Nacua returns.",
+      "replacement": "Hold as WR2 this week / WR3 if Nacua is back."
     },
     {
       "player": "Saquon Barkley",
@@ -91,31 +121,15 @@
       "pos": "TE",
       "team": "PHI",
       "status": "MCL sprain / miss a few weeks",
-      "note": "Schefter/Rapoport. Unlikely Week 3. 20->14. Sit.",
-      "replacement": "Waller already played 3-33-2. Likely MNF if TE-needy."
-    },
-    {
-      "player": "Puka Nacua",
-      "pos": "WR",
-      "team": "LAR",
-      "status": "Questionable",
-      "note": "Official Q. Schefter McAfee trending toward not playing. Hip / McVay groin. Flex. Start if active. Do not smash-sell (68).",
-      "replacement": "Davante Adams Saturday Full / no tag. Kyren / Nabers / Dart / Skattebo / Likely Monday pivots. Whittington official D \u2014 not a 10-team add."
-    },
-    {
-      "player": "Davante Adams",
-      "pos": "WR",
-      "team": "LAR",
-      "status": "Healthy",
-      "note": "Saturday Full / no tag. Start. Volume if Nacua sits. 34->36.",
-      "replacement": "Hold as WR3 / flex. Monday pivot if you flexed Nacua."
+      "note": "Schefter/Rapoport. Unlikely Week 3. 14 flat. Sit.",
+      "replacement": "Waller already played 3-33-2. Likely 5-33. Ferguson 6-54-1."
     },
     {
       "player": "J.K. Dobbins",
       "pos": "RB",
       "team": "DEN",
       "status": "Hamstring / Pelissero good",
-      "note": "Left vs JAC. 10-36. Pelissero good. 16->18. Sit until Wednesday.",
+      "note": "Left vs JAC. 10-36. Pelissero good. 18 flat. Sit until Wednesday.",
       "replacement": "Jonah Coleman 10-39-1 + 3-19. Harvey already inactive. Committee dart."
     },
     {
@@ -123,7 +137,7 @@
       "pos": "RB",
       "team": "SEA",
       "status": "Shoulder / intact",
-      "note": "Was called chest. Macdonald: intact, nothing serious. X-ray negative. 32->34.",
+      "note": "Was called chest. Macdonald: intact, nothing serious. X-ray negative. 34 flat.",
       "replacement": "Emanuel Wilson 21-92 in the blowout. Cuff $2-$5, not a locked RB2."
     },
     {
@@ -147,14 +161,14 @@
       "pos": "QB",
       "team": "MIN",
       "status": "Cleared / starts vs TB",
-      "note": "O'Connell Monday: cleared concussion protocol. Starts Week 3. 36->42.",
+      "note": "O'Connell Monday: cleared concussion protocol. Starts Week 3. 42 flat.",
       "replacement": "Carson Wentz is a drop."
     },
     {
       "player": "Brock Bowers",
       "pos": "TE",
       "team": "LV",
-      "status": "Out",
+      "status": "Out Week 2",
       "note": "W2 INACTIVE. Meniscus. Rapoport/Kubiak Week 3 expected if Friday Full. Sit. Do not drop (46).",
       "replacement": "Michael Mayer 3-23 rental. Drop Mayer if Bowers is back."
     },
@@ -165,6 +179,14 @@
       "status": "Out",
       "note": "TNF OUT. AC sprain. Not serious. Week 3 chance. Do not drop (34).",
       "replacement": "Shakir / Coleman / Palmer."
+    },
+    {
+      "player": "Jayden Reed",
+      "pos": "WR",
+      "team": "GB",
+      "status": "Back / sit TNF",
+      "note": "Schefter: back not neck. Timeline MISSING. Unlikely Thursday.",
+      "replacement": "Christian Watson / Romeo Doubs already played. Sit TNF."
     },
     {
       "player": "A.J. Brown",
@@ -187,7 +209,7 @@
       "pos": "QB",
       "team": "SEA",
       "status": "Healthy",
-      "note": "19/26, 235, 3 TD. Locked W2-W5 stream. 24->32.",
+      "note": "19/26, 235, 3 TD. Locked W2-W5 stream. 32 flat.",
       "replacement": "Darnold stash. Lock is the hold."
     },
     {
@@ -195,7 +217,7 @@
       "pos": "QB",
       "team": "ATL",
       "status": "Benched / drop",
-      "note": "Started. 10/17, 86, 2 INT. 3 points. Penix named TNF starter. 10->6.",
+      "note": "Started. 10/17, 86, 2 INT. 3 points. Penix named TNF starter. 6 flat.",
       "replacement": "Do not lock Rush Thursday. Penix is the named stream, not a smash."
     },
     {
@@ -211,8 +233,32 @@
       "pos": "QB",
       "team": "ATL",
       "status": "Named TNF starter",
-      "note": "Monday Full. First start in 10 months after ACL. 10->16. Desperate stream only.",
+      "note": "Monday Full. First start in 10 months after ACL. 16 flat. Desperate stream only.",
       "replacement": "Do not smash-start Thursday. Do not start Rush."
+    },
+    {
+      "player": "Matthew Stafford",
+      "pos": "QB",
+      "team": "LAR",
+      "status": "Healthy",
+      "note": "MNF CLOSED. 22/31, 327, 4 TD, 1 INT. 50->56.",
+      "replacement": "Hold as locked QB2."
+    },
+    {
+      "player": "Malik Nabers",
+      "pos": "WR",
+      "team": "NYG",
+      "status": "Healthy",
+      "note": "MNF 1-1 on 4. Winston tax. 58->50. Do not smash-sell.",
+      "replacement": "Hold. Start if you have no better WR2."
+    },
+    {
+      "player": "Kyren Williams",
+      "pos": "RB",
+      "team": "LAR",
+      "status": "Healthy",
+      "note": "12-85 + 2-12-1. Fumble on the 11. 42->44.",
+      "replacement": "Blake Corum 12-79. Cuff $2-$4."
     },
     {
       "player": "TreVeyon Henderson",
@@ -235,7 +281,7 @@
       "pos": "RB",
       "team": "LV",
       "status": "Healthy / late scare",
-      "note": "21-48 + 4-15. 3 drops. Returned after late look. 70->66. Do not smash-sell.",
+      "note": "21-48 + 4-15. 3 drops. Returned after late look. 66 flat. Do not smash-sell.",
       "replacement": "Workhorse. May hit Wednesday report. Hold."
     },
     {
@@ -243,7 +289,7 @@
       "pos": "WR",
       "team": "LAC",
       "status": "Healthy",
-      "note": "ACTIVE. 3-35. Ribs. 28->24. Do not drop.",
+      "note": "ACTIVE. 3-35. Ribs. 24 flat. Do not drop.",
       "replacement": "Tre Harris / Quentin Johnston."
     },
     {
@@ -251,7 +297,7 @@
       "pos": "QB",
       "team": "KC",
       "status": "Healthy",
-      "note": "SNF CLOSED. 32/47, 382, 3 TD + 2-17. 72->78.",
+      "note": "SNF CLOSED. 32/47, 382, 3 TD + 2-17. 78 flat.",
       "replacement": "Justin Fields remains the required Superflex cuff."
     },
     {
@@ -259,7 +305,7 @@
       "pos": "RB",
       "team": "KC",
       "status": "Healthy",
-      "note": "24-117 + 6-61 on 10 targets. 60->68.",
+      "note": "24-117 + 6-61 on 10 targets. 68 flat.",
       "replacement": "Emmett Johnson leftover tax. Walker ate the work."
     },
     {
@@ -275,74 +321,74 @@
       "pos": "QB",
       "team": "FA",
       "status": "Unsigned",
-      "note": "Still unsigned Monday evening. $0.",
+      "note": "Still unsigned Tuesday morning. $0.",
       "replacement": "Ignore until a 53-man job."
     }
   ],
   "news": [
     {
       "player": "League",
-      "note": "Monday evening. Sunday + SNF CLOSED. MNF remaining. Week 3 TNF ATL@GB Thursday \u2014 Penix starts. Rio BAL vs DAL Sunday. MNF PHI@CHI next Monday.",
-      "impact": "Set MNF now. Flex Nacua. Tuesday FAAB is the first useful post-Week-2 board."
+      "note": "Tuesday morning. Week 2 CLOSED including MNF LAR 28-NYG 6. Week 3 TNF ATL@GB Thursday. Rio BAL vs DAL Sunday. MNF PHI@CHI next Monday.",
+      "impact": "Tuesday FAAB is today. First lock Thursday 8:15 PM ET."
+    },
+    {
+      "player": "Jaxson Dart",
+      "note": "Prelim MCL sprain. X-rays negative. MRI TODAY. Official grade MISSING. Harbaugh: not the devastating outcome.",
+      "impact": "70->52. Hold. Roster Winston $6-10. Do not invent MRI grade."
+    },
+    {
+      "player": "Jameis Winston",
+      "note": "11/27, 111, 0/1 in relief. Likely Week 3 vs TEN if Dart sits.",
+      "impact": "NEW 18. Must-add $6-10 in Superflex."
+    },
+    {
+      "player": "Puka Nacua",
+      "note": "W2 INACTIVE hip / McVay groin. McVay postgame no Week 3 tag.",
+      "impact": "68->64. Hold. Do not lock SNF. Do not smash-sell."
+    },
+    {
+      "player": "Davante Adams",
+      "note": "MNF 8-195-2 with Nacua out.",
+      "impact": "36->44. Start Week 3. Not a locked WR1 if Nacua returns."
+    },
+    {
+      "player": "Matthew Stafford",
+      "note": "MNF 22/31, 327, 4 TD, 1 INT.",
+      "impact": "50->56. Locked QB2."
+    },
+    {
+      "player": "Malik Nabers",
+      "note": "1-1 on 4. Winston INT at him. Dart MCL tax.",
+      "impact": "58->50. Hold. Do not smash-sell."
     },
     {
       "player": "Caleb Williams",
-      "note": "Johnson week-to-week, will miss some time. OutKick Grade 1 / no tear. Official grade MISSING.",
-      "impact": "62->56. Hold. Roster Bagent $8-12. Do not invent official grade."
+      "note": "Johnson week-to-week, not expected to practice this week, not ruled out MNF. Official grade MISSING.",
+      "impact": "56 flat. Hold. Roster Bagent $8-12. Do not invent official grade."
     },
     {
       "player": "Jayden Daniels",
-      "note": "Imaging done. Specialists Tue/Wed. OUT vs SEA. Ligaments / surgery MISSING. Quinn not adding a QB.",
-      "impact": "50->46. Hold. Roster Mariota. Do not smash-sell."
+      "note": "Specialists today/Wed. OUT vs SEA. Ligaments / surgery MISSING. Quinn not adding a QB.",
+      "impact": "46 flat. Hold. Roster Mariota. Do not smash-sell."
+    },
+    {
+      "player": "Jayden Reed",
+      "note": "Schefter: back not neck. Timeline MISSING. Unlikely Thursday.",
+      "impact": "Sit TNF. Not a smash-drop if you can stash."
     },
     {
       "player": "Kyler Murray",
       "note": "O'Connell: cleared concussion protocol. Starts vs TB.",
-      "impact": "36->42. Start Week 3. Drop Wentz."
+      "impact": "42 flat. Start Week 3. Drop Wentz."
     },
     {
       "player": "Michael Penix Jr.",
-      "note": "Named TNF starter. Monday Full. First start in 10 months.",
-      "impact": "10->16. Desperate stream only. Do not smash-start. Rush 10->6."
-    },
-    {
-      "player": "Dallas Goedert",
-      "note": "MCL sprain. Miss a few weeks.",
-      "impact": "20->14. Sit. Waller / Likely fills."
-    },
-    {
-      "player": "Puka Nacua",
-      "note": "Still official Q. Schefter McAfee trending toward not playing.",
-      "impact": "72->68. Flex. Start if active. Do not smash-sell."
-    },
-    {
-      "player": "Jadarian Price",
-      "note": "Shoulder not chest. Intact. Nothing serious.",
-      "impact": "32->34. Hold Price. Wilson is a cuff."
-    },
-    {
-      "player": "J.K. Dobbins",
-      "note": "Pelissero good after hamstring. Coleman 10-39-1 + 3-19.",
-      "impact": "16->18. Sit until Wednesday."
-    },
-    {
-      "player": "Saquon Barkley",
-      "note": "MRI result still MISSING. Rapoport hopeful minor.",
-      "impact": "52 flat. Hold."
-    },
-    {
-      "player": "Marcus Mariota",
-      "note": "Named Week 3 starter vs SEA.",
-      "impact": "20->24. Must-add $8-15."
-    },
-    {
-      "player": "Tyson Bagent",
-      "note": "Likely Week 3 MNF start if Caleb sits.",
-      "impact": "18->22. Must-add $8-12."
+      "note": "Named TNF starter. First start in 10 months.",
+      "impact": "16 flat. Desperate stream only. Do not smash-start. Rush is a drop."
     },
     {
       "player": "Will Levis",
-      "note": "Still unsigned Monday evening.",
+      "note": "Still unsigned Tuesday morning.",
       "impact": "$0 in 10-team until a 53-man job."
     }
   ],
@@ -353,7 +399,7 @@
       "priority": "Must-add",
       "bid_low": 8,
       "bid_high": 15,
-      "why": "Named Week 3 starter vs SEA. Multi-week. Tough matchup. Specialists Tue/Wed. Ligaments / surgery MISSING."
+      "why": "Named Week 3 starter vs SEA. Multi-week. Tough matchup. Specialists today/Wed. Ligaments / surgery MISSING."
     },
     {
       "player": "Tyson Bagent",
@@ -361,7 +407,15 @@
       "priority": "Must-add",
       "bid_low": 8,
       "bid_high": 12,
-      "why": "Johnson: week-to-week, miss some time. Likely Week 3 MNF vs PHI if Caleb sits. Official grade MISSING."
+      "why": "Johnson: week-to-week, not expected to practice this week. Likely Week 3 MNF vs PHI if Caleb sits. Official grade MISSING."
+    },
+    {
+      "player": "Jameis Winston",
+      "pos": "QB",
+      "priority": "Must-add",
+      "bid_low": 6,
+      "bid_high": 10,
+      "why": "Dart prelim MCL. MRI today. Ugly 111/0/1. TEN is easier. Superflex stream only."
     },
     {
       "player": "Bryce Young",
@@ -369,7 +423,7 @@
       "priority": "Must-add",
       "bid_low": 5,
       "bid_high": 8,
-      "why": "23/36, 287, 3 TD. Real stream-up if free."
+      "why": "23/36, 287, 3 TD. Real stream-up if free. @CLE then DET."
     },
     {
       "player": "Aaron Jones",
@@ -377,7 +431,7 @@
       "priority": "Must-add",
       "bid_low": 8,
       "bid_high": 12,
-      "why": "23-105 with Wentz. Workhorse if free."
+      "why": "23-105 with Wentz. Workhorse if free. Sore. Mason IR."
     },
     {
       "player": "TreVeyon Henderson",
@@ -457,7 +511,7 @@
       "priority": "Strong",
       "bid_low": 4,
       "bid_high": 8,
-      "why": "10-39-1 + 3-19 after Dobbins hamstring plus Harvey out. Only if you own DEN backs."
+      "why": "10-39-1 + 3-19 after Dobbins hamstring plus Harvey out. Only if you own DEN backs. FP $16 is 12-team 1QB."
     },
     {
       "player": "Tank Bigsby",
@@ -495,17 +549,25 @@
       "player": "Isaiah Likely",
       "pos": "TE",
       "priority": "Strong",
-      "bid_low": 1,
-      "bid_high": 3,
-      "why": "MNF tonight pivot if you lost Goedert/Bowers."
+      "bid_low": 2,
+      "bid_high": 5,
+      "why": "5-33 on 10. Winston volume if you lost Goedert/Bowers."
     },
     {
-      "player": "Cam Skattebo",
+      "player": "Terrance Ferguson",
+      "pos": "TE",
+      "priority": "Strong",
+      "bid_low": 2,
+      "bid_high": 5,
+      "why": "6-54-1 with Nacua out. Path shrinks if Nacua is back SNF."
+    },
+    {
+      "player": "Blake Corum",
       "pos": "RB",
       "priority": "Strong",
-      "bid_low": 1,
-      "bid_high": 3,
-      "why": "MNF tonight pivot if you flexed Nacua."
+      "bid_low": 2,
+      "bid_high": 4,
+      "why": "12-79 in the blowout. Kyren tax only."
     },
     {
       "player": "Justin Fields",
@@ -514,6 +576,14 @@
       "bid_low": 3,
       "bid_high": 6,
       "why": "Mahomes cuff. Still required in Superflex."
+    },
+    {
+      "player": "Denzel Boston",
+      "pos": "WR",
+      "priority": "Speculative",
+      "bid_low": 3,
+      "bid_high": 6,
+      "why": "5-95-1. Watson is a fade. Only if thin."
     },
     {
       "player": "Jacoby Brissett",
@@ -542,82 +612,76 @@
   ],
   "start_sit": [
     {
-      "player": "Jaxson Dart",
+      "player": "Kyler Murray",
       "pos": "QB",
-      "call": "Must-start",
-      "note": "MNF at LAR. Last locked QB tonight"
+      "call": "Start Week 3",
+      "note": "Cleared concussion protocol. Starts vs TB"
     },
     {
       "player": "Matthew Stafford",
       "pos": "QB",
-      "call": "Strong start",
-      "note": "MNF vs NYG. Nacua trending toward out is a tiny tax not a sit"
-    },
-    {
-      "player": "Puka Nacua",
-      "pos": "WR",
-      "call": "Must-start if active / FLEX him",
-      "note": "Official Q. Schefter McAfee trending toward not playing. Have a Monday pivot. Do not smash-sell"
+      "call": "Must-start",
+      "note": "MNF 327/4. Locked QB2"
     },
     {
       "player": "Davante Adams",
       "pos": "WR",
       "call": "Strong start",
-      "note": "MNF. Saturday Full. Volume if Nacua sits"
+      "note": "8-195-2 with Nacua out. Start Week 3"
+    },
+    {
+      "player": "Puka Nacua",
+      "pos": "WR",
+      "call": "Wait Wednesday / do not lock SNF",
+      "note": "W2 INACTIVE. Week 3 tag MISSING. Hold 64"
     },
     {
       "player": "Malik Nabers",
       "pos": "WR",
-      "call": "Strong start",
-      "note": "MNF Monday pivot"
+      "call": "Strong start / hold",
+      "note": "1-1 is a Winston tax not a sit. Do not smash-sell (50)"
     },
     {
       "player": "Kyren Williams",
       "pos": "RB",
       "call": "Must-start",
-      "note": "MNF"
+      "note": "12-85 + rec TD. Corum tax is not a sit"
     },
     {
-      "player": "Cam Skattebo",
-      "pos": "RB",
-      "call": "Toss-up / Monday pivot",
-      "note": "Only if you flexed Nacua and need a swap"
-    },
-    {
-      "player": "Isaiah Likely",
-      "pos": "TE",
-      "call": "Stream if you lost Goedert",
-      "note": "MNF"
-    },
-    {
-      "player": "Patrick Mahomes",
+      "player": "Jaxson Dart",
       "pos": "QB",
-      "call": "Already played",
-      "note": "32/47 382 3 TD"
+      "call": "Sit / hold ROS",
+      "note": "Prelim MCL. MRI TODAY. Do not smash-sell"
     },
     {
-      "player": "Kenneth Walker III",
-      "pos": "RB",
-      "call": "Already played",
-      "note": "24-117 + 6-61"
-    },
-    {
-      "player": "Jaxon Smith-Njigba",
-      "pos": "WR",
-      "call": "Already played",
-      "note": "9-155-3"
+      "player": "Jameis Winston",
+      "pos": "QB",
+      "call": "Desperate stream if Dart sits",
+      "note": "vs TEN. Ugly 111/0/1. Not a smash"
     },
     {
       "player": "Jayden Daniels",
       "pos": "QB",
       "call": "Sit / hold ROS",
-      "note": "Elbow. Specialists Tue/Wed. OUT vs SEA. Do not smash-sell"
+      "note": "Elbow. Specialists today/Wed. OUT vs SEA. Do not smash-sell"
     },
     {
       "player": "Caleb Williams",
       "pos": "QB",
       "call": "Sit / hold ROS",
-      "note": "Week-to-week. Miss some time. Official grade MISSING. Do not smash-sell"
+      "note": "Week-to-week. Not expected to practice this week. Official grade MISSING. Do not smash-sell"
+    },
+    {
+      "player": "Marcus Mariota",
+      "pos": "QB",
+      "call": "Desperate stream / named start",
+      "note": "vs SEA. Tough. Better later"
+    },
+    {
+      "player": "Tyson Bagent",
+      "pos": "QB",
+      "call": "Desperate MNF stream if Caleb sits",
+      "note": "vs PHI. Official Caleb grade MISSING"
     },
     {
       "player": "Cooper Rush",
@@ -626,15 +690,21 @@
       "note": "Penix named TNF starter. 10/17 86 2 INT 3 points"
     },
     {
-      "player": "Kyler Murray",
+      "player": "Michael Penix Jr.",
       "pos": "QB",
-      "call": "Start Week 3",
-      "note": "Cleared concussion protocol. Starts vs TB"
+      "call": "Desperate TNF stream / not a smash",
+      "note": "Named starter. First start in 10 months. Short week. Lambeau"
+    },
+    {
+      "player": "Jayden Reed",
+      "pos": "WR",
+      "call": "Sit TNF",
+      "note": "Back not neck. Timeline MISSING"
     },
     {
       "player": "Brock Bowers",
       "pos": "TE",
-      "call": "Sit",
+      "call": "Sit until Friday Full",
       "note": "W2 INACTIVE. Week 3 expected. Do not drop"
     },
     {
@@ -658,64 +728,60 @@
     {
       "player": "Dallas Goedert",
       "pos": "TE",
-      "call": "Sit until Wednesday",
-      "note": "Knee mid-Q2"
+      "call": "Sit",
+      "note": "MCL sprain. Miss a few weeks"
     },
     {
       "player": "Saquon Barkley",
       "pos": "RB",
-      "call": "Already played / hold",
-      "note": "Stinger. MRI today. Do not smash-sell"
+      "call": "Flex only / hold",
+      "note": "Stinger. MRI result MISSING. Do not smash-sell"
     },
     {
       "player": "TreVeyon Henderson",
       "pos": "RB",
-      "call": "Already played / flex Week 3",
+      "call": "Flex Week 3",
       "note": "16-76-1. Lead after Stevenson fumble"
     },
     {
       "player": "Alvin Kamara",
       "pos": "RB",
-      "call": "Already played / flex only",
+      "call": "Flex only",
       "note": "9-15 plus 5-7. Not a locked RB2"
-    },
-    {
-      "player": "Michael Penix Jr.",
-      "pos": "QB",
-      "call": "Desperate TNF stream / not a smash",
-      "note": "Named starter. First start in 10 months. Short week. Lambeau"
     }
   ],
   "streamers_qb": [
-    "Marcus Mariota (WAS) \u2014 named Week 3 starter vs SEA; multi-week; 11/16, 111, 1 TD already; specialists Tue/Wed; ligaments / surgery MISSING",
-    "Tyson Bagent (CHI) \u2014 Johnson week-to-week, miss some time; likely Week 3 MNF vs PHI if Caleb sits; 5/9, 54 already; official grade MISSING",
-    "Michael Penix Jr. (ATL) \u2014 named TNF starter; first start in 10 months; rust + short week + Lambeau; not a smash",
-    "Kyler Murray (MIN) \u2014 cleared; starts vs TB; start him",
-    "Drew Lock (SEA) \u2014 19/26, 235, 3 TD; locked Week 2-5; Darnold official OUT",
-    "Bryce Young (CAR) \u2014 23/36, 287, 3 TD; stream-up confirmed; better than Rush",
-    "Kirk Cousins (LV) \u2014 19/29, 253, 3 TD; floor QB2",
-    "Tyler Shough (NO) \u2014 27/34, 252, 1 TD plus sneak TD at BAL; volume confirmed",
-    "Jacoby Brissett (ARI) \u2014 17/28, 95, 1/1; stream over",
-    "Carson Wentz (MIN) \u2014 Kyler starts; drop for Mariota/Bagent",
-    "Geno Smith (NYJ) \u2014 OT loss; floor only",
-    "Daniel Jones (IND) \u2014 210/1/1; volume only",
-    "Justin Fields (KC) \u2014 Mahomes insurance; Mahomes 382/3",
-    "Cooper Rush (ATL) \u2014 trap confirmed; Penix named; drop",
-    "Aaron Rodgers (PIT) \u2014 23/39, 187, 0 TD, 1 INT, 2 fumbles; fade",
-    "Cam Ward (TEN) \u2014 sneak TDs; fade ROS",
-    "Jayden Daniels (WAS) \u2014 elbow; specialists Tue/Wed; sit; do not drop"
+    "Marcus Mariota (WAS) — named Week 3 starter vs SEA; multi-week; 11/16, 111, 1 TD already; specialists today/Wed; ligaments / surgery MISSING",
+    "Tyson Bagent (CHI) — Johnson week-to-week, not expected to practice this week; likely Week 3 MNF vs PHI if Caleb sits; 5/9, 54 already; official grade MISSING",
+    "Jameis Winston (NYG) — Dart prelim MCL; MRI today; 11/27, 111, 0/1; TEN is easier; not a smash",
+    "Michael Penix Jr. (ATL) — named TNF starter; first start in 10 months; rust + short week + Lambeau; not a smash",
+    "Kyler Murray (MIN) — cleared; starts vs TB; start him",
+    "Drew Lock (SEA) — 19/26, 235, 3 TD; locked Week 2-5; Darnold official OUT",
+    "Bryce Young (CAR) — 23/36, 287, 3 TD; stream-up confirmed; better than Rush",
+    "Kirk Cousins (LV) — 19/29, 253, 3 TD; floor QB2",
+    "Tyler Shough (NO) — 27/34, 252, 1 TD plus sneak TD at BAL; volume confirmed",
+    "Jacoby Brissett (ARI) — 17/28, 95, 1/1; stream over",
+    "Carson Wentz (MIN) — Kyler starts; drop for Mariota/Bagent/Winston",
+    "Geno Smith (NYJ) — OT loss; floor only",
+    "Daniel Jones (IND) — 210/1/1; volume only",
+    "Justin Fields (KC) — Mahomes insurance; Mahomes 382/3",
+    "Cooper Rush (ATL) — trap confirmed; Penix named; drop",
+    "Aaron Rodgers (PIT) — 23/39, 187, 0 TD, 1 INT, 2 fumbles; fade",
+    "Cam Ward (TEN) — sneak TDs; fade ROS",
+    "Jayden Daniels (WAS) — elbow; specialists today/Wed; sit; do not drop",
+    "Jaxson Dart (NYG) — prelim MCL; MRI today; sit; do not drop"
   ],
   "actions_today": [
-    "Set MNF now. Flex Nacua; official Q; Schefter McAfee trending toward not playing; have a Monday pivot; start if active; do not smash-sell (68); do not FAAB Whittington",
-    "Daniels specialists Tue/Wed; hold (46); roster Mariota $8-15 Tuesday; OUT vs SEA; do not smash-sell Daniels to a 24; ligaments / surgery MISSING",
-    "Caleb week-to-week; hold (56); roster Bagent $8-12 Tuesday; miss some time; do not invent official grade",
+    "Tuesday FAAB TODAY. Superflex order: Mariota $8-15, Bagent $8-12, Winston $6-10, Young $5-8, Jones $8-12, Henderson $8-12. Drop Rush / Wentz / Rodgers / Brissett / a 4th RB",
+    "Dart prelim MCL; hold (52); roster Winston $6-10; MRI TODAY; official grade MISSING; do not smash-sell Dart to an 18",
+    "Daniels specialists today/Wed; hold (46); roster Mariota $8-15; OUT vs SEA; do not smash-sell Daniels to a 24; ligaments / surgery MISSING",
+    "Caleb week-to-week; hold (56); roster Bagent $8-12; not expected to practice this week; do not invent official grade",
     "Kyler CLEARED; start Week 3 vs TB; drop Wentz",
-    "Penix named TNF starter; desperate stream only; do not smash-start; do not stream Rush",
-    "Saquon MRI result MISSING; hold (52). Goedert MCL; sit a few weeks (14); add Waller / Likely if you lost a TE. Bigsby if you own Saquon",
-    "Dobbins Pelissero good; sit until Wednesday (18); Coleman is the DEN dart. Price shoulder intact; hold (34); Wilson is a $2-5 cuff",
+    "Penix named TNF starter; desperate stream only; do not smash-start; do not stream Rush; sit Reed TNF (back not neck)",
+    "Nacua W2 INACTIVE; hold (64); Week 3 SNF tag MISSING; start Adams (44); do not FAAB Whittington",
+    "Saquon MRI result MISSING; hold (52). Goedert MCL; sit a few weeks (14); add Waller / Likely / Ferguson if you lost a TE. Bigsby if you own Saquon",
     "Do not start Rush / Tua / Flowers / Nico / Pittman / Brown / Harvey / Dobbins / Reed. Do not smash-start Penix Thursday",
-    "Do not drop Flowers, Nico, Brown, Moore, McConkey, Olave, Nacua, Darnold, Caleb, or Daniels",
-    "Tuesday FAAB: Mariota, Bagent, Young, Jones, Henderson, Tucker. Drop Rush / Wentz / Rodgers / Brissett / a 4th RB. Do not smash-sell Maye (88), Burrow (90), Lamar (96), Jefferson (72), Bijan (88), London (56), Mahomes (78), Caleb (56), or Daniels (46). Board movers vs 08:20: Caleb 62->56, Daniels 50->46, Kyler 36->42, Penix 10->16, Nacua 72->68, Goedert 20->14. Do not invent official Caleb grade, Daniels ligaments, Saquon MRI, Flowers MRI, or a Nacua Monday inactive"
+    "Do not drop Flowers, Nico, Brown, Moore, McConkey, Olave, Nacua, Nabers, Darnold, Caleb, Daniels, or Dart. Do not smash-sell Maye (88), Burrow (90), Lamar (96), Jefferson (72), Bijan (88), London (56), Mahomes (78), Caleb (56), Daniels (46), Dart (52), Nacua (64), or Nabers (50). Board movers vs 18:20: Dart 70->52, Nacua 68->64, Nabers 58->50, Adams 36->44, Stafford 50->56. Do not invent Dart MRI grade, official Caleb grade, Daniels ligaments, Saquon MRI, Flowers MRI, or a Nacua Week 3 designation"
   ],
   "trade_board": [
     {
@@ -827,7 +893,7 @@
       "pos": "RB",
       "value": 72,
       "tier": "RB1",
-      "trend": "down",
+      "trend": "flat",
       "note": "10-23-2 + 4-43; inefficient TDs"
     },
     {
@@ -847,14 +913,6 @@
       "note": "8-153-2"
     },
     {
-      "player": "Puka Nacua",
-      "pos": "WR",
-      "value": 68,
-      "tier": "WR1",
-      "trend": "down",
-      "note": "Official Q; Schefter McAfee toward out; start if active; do not smash-sell"
-    },
-    {
       "player": "Dak Prescott",
       "pos": "QB",
       "value": 70,
@@ -863,19 +921,11 @@
       "note": "26/31 279 4 TD"
     },
     {
-      "player": "Jaxson Dart",
-      "pos": "QB",
-      "value": 70,
-      "tier": "QB2",
-      "trend": "flat",
-      "note": "MNF remaining"
-    },
-    {
       "player": "Justin Herbert",
       "pos": "QB",
       "value": 68,
       "tier": "QB2",
-      "trend": "down",
+      "trend": "flat",
       "note": "15/27 192/1/2"
     },
     {
@@ -883,7 +933,7 @@
       "pos": "QB",
       "value": 68,
       "tier": "QB2",
-      "trend": "down",
+      "trend": "flat",
       "note": "17/29 189/0/1"
     },
     {
@@ -907,32 +957,16 @@
       "pos": "RB",
       "value": 66,
       "tier": "RB1",
-      "trend": "down",
-      "note": "21-48 + 4-15; workhorse; 3 drops; late scare; hold"
-    },
-    {
-      "player": "Caleb Williams",
-      "pos": "QB",
-      "value": 56,
-      "tier": "QB2",
-      "trend": "down",
-      "note": "Johnson week-to-week, miss some time; official grade MISSING; do not smash-sell"
-    },
-    {
-      "player": "Malik Nabers",
-      "pos": "WR",
-      "value": 58,
-      "tier": "WR2",
       "trend": "flat",
-      "note": "MNF Monday pivot"
+      "note": "21-48 + 4-15; workhorse; late scare; hold"
     },
     {
-      "player": "Chris Olave",
+      "player": "Puka Nacua",
       "pos": "WR",
-      "value": 58,
-      "tier": "WR2",
-      "trend": "flat",
-      "note": "8-86-1; do not drop"
+      "value": 64,
+      "tier": "WR1",
+      "trend": "down",
+      "note": "W2 INACTIVE hip/groin; Week 3 tag MISSING; do not smash-sell"
     },
     {
       "player": "Jordan Love",
@@ -940,7 +974,7 @@
       "value": 58,
       "tier": "QB2",
       "trend": "flat",
-      "note": "16/29 145 2 TD; ugly OT win"
+      "note": "16/29 145 2 TD; TNF home"
     },
     {
       "player": "Jared Goff",
@@ -951,11 +985,35 @@
       "note": "TNF 327/4"
     },
     {
+      "player": "Chris Olave",
+      "pos": "WR",
+      "value": 58,
+      "tier": "WR2",
+      "trend": "flat",
+      "note": "8-86-1; do not drop"
+    },
+    {
+      "player": "Caleb Williams",
+      "pos": "QB",
+      "value": 56,
+      "tier": "QB2",
+      "trend": "flat",
+      "note": "Johnson week-to-week; official grade MISSING; do not smash-sell"
+    },
+    {
+      "player": "Matthew Stafford",
+      "pos": "QB",
+      "value": 56,
+      "tier": "QB2",
+      "trend": "up",
+      "note": "MNF 22/31 327 4 TD"
+    },
+    {
       "player": "Bo Nix",
       "pos": "QB",
       "value": 56,
       "tier": "QB2",
-      "trend": "down",
+      "trend": "flat",
       "note": "22/31 288/1/1"
     },
     {
@@ -975,11 +1033,19 @@
       "note": "8-41-1 in a dead passing game; volume"
     },
     {
+      "player": "Drake London",
+      "pos": "WR",
+      "value": 56,
+      "tier": "WR2",
+      "trend": "flat",
+      "note": "Penix named; hold, not a smash TNF"
+    },
+    {
       "player": "Omarion Hampton",
       "pos": "RB",
       "value": 54,
       "tier": "RB2",
-      "trend": "up",
+      "trend": "flat",
       "note": "23-94-1 + 2-21; late fumble"
     },
     {
@@ -991,12 +1057,12 @@
       "note": "16-68-1 + 3-19"
     },
     {
-      "player": "Drake London",
-      "pos": "WR",
-      "value": 56,
-      "tier": "WR2",
-      "trend": "up",
-      "note": "Penix named; hold, not a smash TNF"
+      "player": "Jaxson Dart",
+      "pos": "QB",
+      "value": 52,
+      "tier": "QB3",
+      "trend": "down",
+      "note": "Prelim MCL; MRI TODAY; official grade MISSING; hold"
     },
     {
       "player": "Saquon Barkley",
@@ -1004,15 +1070,15 @@
       "value": 52,
       "tier": "RB2",
       "trend": "flat",
-      "note": "MRI TODAY; 4-9 + 1-11; hold"
+      "note": "MRI result MISSING; 4-9 + 1-11; hold"
     },
     {
-      "player": "Jayden Daniels",
-      "pos": "QB",
-      "value": 46,
-      "tier": "QB3",
+      "player": "Malik Nabers",
+      "pos": "WR",
+      "value": 50,
+      "tier": "WR2",
       "trend": "down",
-      "note": "Specialists Tue/Wed; OUT vs SEA; ligaments / surgery MISSING; hold"
+      "note": "1-1; Dart MCL / Winston tax; hold"
     },
     {
       "player": "Nico Collins",
@@ -1031,19 +1097,19 @@
       "note": "10-117"
     },
     {
-      "player": "Matthew Stafford",
+      "player": "Jayden Daniels",
       "pos": "QB",
-      "value": 50,
+      "value": 46,
       "tier": "QB3",
       "trend": "flat",
-      "note": "MNF; Nacua official Q is a tiny tax"
+      "note": "Specialists today/Wed; OUT vs SEA; ligaments / surgery MISSING; hold"
     },
     {
       "player": "Rashee Rice",
       "pos": "WR",
       "value": 46,
       "tier": "WR2",
-      "trend": "up",
+      "trend": "flat",
       "note": "4-83 on 6"
     },
     {
@@ -1063,11 +1129,19 @@
       "note": "27/34 252/1 plus sneak TD at BAL"
     },
     {
+      "player": "Davante Adams",
+      "pos": "WR",
+      "value": 44,
+      "tier": "WR2",
+      "trend": "up",
+      "note": "8-195-2 with Nacua out; not a locked WR1 if Nacua returns"
+    },
+    {
       "player": "De'Von Achane",
       "pos": "RB",
       "value": 44,
       "tier": "RB2",
-      "trend": "down",
+      "trend": "flat",
       "note": "20-74 + 3-19; no TD"
     },
     {
@@ -1083,16 +1157,32 @@
       "pos": "QB",
       "value": 44,
       "tier": "QB3",
-      "trend": "down",
+      "trend": "flat",
       "note": "20/31 182/1/1"
+    },
+    {
+      "player": "Kyren Williams",
+      "pos": "RB",
+      "value": 44,
+      "tier": "RB2",
+      "trend": "up",
+      "note": "12-85 + rec TD; Corum tax"
     },
     {
       "player": "Breece Hall",
       "pos": "RB",
       "value": 42,
       "tier": "RB2",
-      "trend": "down",
+      "trend": "flat",
       "note": "16-29 + 5-63; Allen GL TD"
+    },
+    {
+      "player": "Kyler Murray",
+      "pos": "QB",
+      "value": 42,
+      "tier": "QB3",
+      "trend": "flat",
+      "note": "Cleared concussion protocol; starts vs TB"
     },
     {
       "player": "Tetairoa McMillan",
@@ -1103,19 +1193,11 @@
       "note": "5-101 on 10"
     },
     {
-      "player": "Kyren Williams",
-      "pos": "RB",
-      "value": 42,
-      "tier": "RB3",
-      "trend": "flat",
-      "note": "MNF"
-    },
-    {
       "player": "Emeka Egbuka",
       "pos": "WR",
       "value": 40,
       "tier": "WR3",
-      "trend": "down",
+      "trend": "flat",
       "note": "3-16-1"
     },
     {
@@ -1123,7 +1205,7 @@
       "pos": "WR",
       "value": 40,
       "tier": "WR3",
-      "trend": "down",
+      "trend": "flat",
       "note": "6-40 on 8"
     },
     {
@@ -1131,7 +1213,7 @@
       "pos": "WR",
       "value": 40,
       "tier": "WR3",
-      "trend": "up",
+      "trend": "flat",
       "note": "3-54"
     },
     {
@@ -1139,7 +1221,7 @@
       "pos": "TE",
       "value": 38,
       "tier": "TE2",
-      "trend": "down",
+      "trend": "flat",
       "note": "Scoring reception; not a smash tape"
     },
     {
@@ -1147,7 +1229,7 @@
       "pos": "QB",
       "value": 38,
       "tier": "QB3",
-      "trend": "up",
+      "trend": "flat",
       "note": "19/29 253/3"
     },
     {
@@ -1163,7 +1245,7 @@
       "pos": "RB",
       "value": 38,
       "tier": "RB3",
-      "trend": "down",
+      "trend": "flat",
       "note": "12-30 + 3-20; stuffed"
     },
     {
@@ -1195,7 +1277,7 @@
       "pos": "RB",
       "value": 38,
       "tier": "RB3",
-      "trend": "up",
+      "trend": "flat",
       "note": "Bucs.com 17-89"
     },
     {
@@ -1204,7 +1286,7 @@
       "value": 38,
       "tier": "WR3",
       "trend": "flat",
-      "note": "TD"
+      "note": "TD; Reed sit TNF helps a little"
     },
     {
       "player": "Garrett Wilson",
@@ -1215,19 +1297,11 @@
       "note": "5-57-1"
     },
     {
-      "player": "Kyler Murray",
-      "pos": "QB",
-      "value": 42,
-      "tier": "QB3",
-      "trend": "up",
-      "note": "Cleared concussion protocol; starts vs TB"
-    },
-    {
       "player": "Malik Willis",
       "pos": "QB",
       "value": 36,
       "tier": "QB3",
-      "trend": "down",
+      "trend": "flat",
       "note": "MIA 13; Achane no score"
     },
     {
@@ -1235,7 +1309,7 @@
       "pos": "TE",
       "value": 36,
       "tier": "TE2",
-      "trend": "up",
+      "trend": "flat",
       "note": "4-80-1"
     },
     {
@@ -1251,7 +1325,7 @@
       "pos": "RB",
       "value": 36,
       "tier": "RB3",
-      "trend": "up",
+      "trend": "flat",
       "note": "13-65-1"
     },
     {
@@ -1261,14 +1335,6 @@
       "tier": "RB3",
       "trend": "flat",
       "note": "12-53 plus rec TD"
-    },
-    {
-      "player": "Cam Skattebo",
-      "pos": "RB",
-      "value": 34,
-      "tier": "RB3",
-      "trend": "flat",
-      "note": "MNF"
     },
     {
       "player": "Travis Etienne Jr.",
@@ -1295,19 +1361,19 @@
       "note": "AC sprain; Week 3 chance; do not drop"
     },
     {
-      "player": "Davante Adams",
-      "pos": "WR",
-      "value": 36,
-      "tier": "WR4",
-      "trend": "up",
-      "note": "MNF; Saturday Full; volume if Nacua sits"
+      "player": "Jadarian Price",
+      "pos": "RB",
+      "value": 34,
+      "tier": "RB3",
+      "trend": "flat",
+      "note": "Shoulder intact; nothing serious; hold"
     },
     {
       "player": "Drew Lock",
       "pos": "QB",
       "value": 32,
       "tier": "QB4",
-      "trend": "up",
+      "trend": "flat",
       "note": "19/26 235 3 TD"
     },
     {
@@ -1317,14 +1383,6 @@
       "tier": "QB4",
       "trend": "flat",
       "note": "23/36 287 3 TD"
-    },
-    {
-      "player": "Jadarian Price",
-      "pos": "RB",
-      "value": 34,
-      "tier": "RB3",
-      "trend": "up",
-      "note": "Shoulder intact; nothing serious; hold"
     },
     {
       "player": "D'Andre Swift",
@@ -1359,11 +1417,19 @@
       "note": "Official IR; min Weeks 2-5; do not drop"
     },
     {
+      "player": "Cam Skattebo",
+      "pos": "RB",
+      "value": 30,
+      "tier": "RB3",
+      "trend": "down",
+      "note": "12-36 + 4-19; fumble"
+    },
+    {
       "player": "Travis Kelce",
       "pos": "TE",
       "value": 30,
       "tier": "TE2",
-      "trend": "up",
+      "trend": "flat",
       "note": "9-101-1"
     },
     {
@@ -1372,7 +1438,7 @@
       "value": 30,
       "tier": "RB4",
       "trend": "flat",
-      "note": "23-105"
+      "note": "23-105; pretty sore"
     },
     {
       "player": "Geno Smith",
@@ -1395,7 +1461,7 @@
       "pos": "RB",
       "value": 28,
       "tier": "RB4",
-      "trend": "down",
+      "trend": "flat",
       "note": "5-10 + 2-9"
     },
     {
@@ -1403,7 +1469,7 @@
       "pos": "RB",
       "value": 28,
       "tier": "RB4",
-      "trend": "down",
+      "trend": "flat",
       "note": "9-29 + 3-16"
     },
     {
@@ -1419,8 +1485,8 @@
       "pos": "WR",
       "value": 28,
       "tier": "WR4",
-      "trend": "up",
-      "note": "NEW published; 5-47-2"
+      "trend": "flat",
+      "note": "5-47-2"
     },
     {
       "player": "Jaylen Waddle",
@@ -1439,11 +1505,19 @@
       "note": "Caleb injury tax"
     },
     {
+      "player": "Isaiah Likely",
+      "pos": "TE",
+      "value": 26,
+      "tier": "TE3",
+      "trend": "up",
+      "note": "5-33 on 10"
+    },
+    {
       "player": "Daniel Jones",
       "pos": "QB",
       "value": 26,
       "tier": "QB4",
-      "trend": "down",
+      "trend": "flat",
       "note": "210/1/1; volume only"
     },
     {
@@ -1451,7 +1525,7 @@
       "pos": "WR",
       "value": 24,
       "tier": "WR4",
-      "trend": "down",
+      "trend": "flat",
       "note": "ACTIVE 3-35; do not drop"
     },
     {
@@ -1467,7 +1541,7 @@
       "pos": "WR",
       "value": 24,
       "tier": "WR4",
-      "trend": "down",
+      "trend": "flat",
       "note": "2-50 on 9; Mariota tax"
     },
     {
@@ -1479,14 +1553,6 @@
       "note": "Nico out"
     },
     {
-      "player": "Isaiah Likely",
-      "pos": "TE",
-      "value": 24,
-      "tier": "TE3",
-      "trend": "flat",
-      "note": "MNF"
-    },
-    {
       "player": "Justin Fields",
       "pos": "QB",
       "value": 24,
@@ -1495,11 +1561,19 @@
       "note": "Mahomes cuff; required"
     },
     {
+      "player": "Marcus Mariota",
+      "pos": "QB",
+      "value": 24,
+      "tier": "QB4",
+      "trend": "flat",
+      "note": "Named Week 3 starter vs SEA; multi-week stream"
+    },
+    {
       "player": "Parker Washington",
       "pos": "WR",
       "value": 22,
       "tier": "WR4",
-      "trend": "up",
+      "trend": "flat",
       "note": "7-98"
     },
     {
@@ -1551,44 +1625,36 @@
       "note": "3-29"
     },
     {
+      "player": "Tyson Bagent",
+      "pos": "QB",
+      "value": 22,
+      "tier": "QB5",
+      "trend": "flat",
+      "note": "Likely Week 3 MNF start; Johnson miss some time"
+    },
+    {
       "player": "Tre Tucker",
       "pos": "WR",
       "value": 20,
       "tier": "WR4",
-      "trend": "up",
-      "note": "NEW; 5-119-1"
-    },
-    {
-      "player": "Marcus Mariota",
-      "pos": "QB",
-      "value": 24,
-      "tier": "QB4",
-      "trend": "up",
-      "note": "Named Week 3 starter vs SEA; multi-week stream"
+      "trend": "flat",
+      "note": "5-119-1"
     },
     {
       "player": "Emmett Johnson",
       "pos": "RB",
       "value": 20,
       "tier": "RB4",
-      "trend": "down",
+      "trend": "flat",
       "note": "Walker ate the work"
-    },
-    {
-      "player": "Dallas Goedert",
-      "pos": "TE",
-      "value": 14,
-      "tier": "TE3",
-      "trend": "down",
-      "note": "MCL sprain; miss a few weeks"
     },
     {
       "player": "Jake Ferguson",
       "pos": "TE",
       "value": 20,
       "tier": "TE3",
-      "trend": "up",
-      "note": "NEW; 4-43-2"
+      "trend": "flat",
+      "note": "4-43-2"
     },
     {
       "player": "Devaughn Vele",
@@ -1599,19 +1665,19 @@
       "note": "5-64 behind Olave"
     },
     {
-      "player": "Tyson Bagent",
+      "player": "Jameis Winston",
       "pos": "QB",
-      "value": 22,
+      "value": 18,
       "tier": "QB5",
       "trend": "up",
-      "note": "Likely Week 3 MNF start; Johnson miss some time"
+      "note": "NEW; likely Week 3 vs TEN; ugly 111/0/1"
     },
     {
       "player": "Jacoby Brissett",
       "pos": "QB",
       "value": 18,
       "tier": "QB5",
-      "trend": "down",
+      "trend": "flat",
       "note": "17/28 95/1/1"
     },
     {
@@ -1639,11 +1705,27 @@
       "note": "Doubs won the week"
     },
     {
+      "player": "Terrance Ferguson",
+      "pos": "TE",
+      "value": 18,
+      "tier": "TE4",
+      "trend": "up",
+      "note": "NEW; 6-54-1 with Nacua out"
+    },
+    {
+      "player": "J.K. Dobbins",
+      "pos": "RB",
+      "value": 18,
+      "tier": "RB5",
+      "trend": "flat",
+      "note": "Pelissero good; Wednesday practice watch"
+    },
+    {
       "player": "Tank Bigsby",
       "pos": "RB",
       "value": 16,
       "tier": "RB5",
-      "trend": "up",
+      "trend": "flat",
       "note": "13-33-1"
     },
     {
@@ -1651,16 +1733,24 @@
       "pos": "RB",
       "value": 16,
       "tier": "RB5",
-      "trend": "up",
-      "note": "NEW; 21-92 after Price left; blowout clock"
+      "trend": "flat",
+      "note": "21-92 after Price left; blowout clock"
     },
     {
-      "player": "J.K. Dobbins",
+      "player": "Blake Corum",
       "pos": "RB",
-      "value": 18,
+      "value": 16,
       "tier": "RB5",
       "trend": "up",
-      "note": "Pelissero good; Wednesday practice watch"
+      "note": "NEW; 12-79 in the blowout"
+    },
+    {
+      "player": "Jonah Coleman",
+      "pos": "RB",
+      "value": 16,
+      "tier": "RB5",
+      "trend": "flat",
+      "note": "10-39-1 + 3-19 after Dobbins left"
     },
     {
       "player": "Sam Darnold",
@@ -1683,7 +1773,7 @@
       "pos": "WR",
       "value": 16,
       "tier": "WR5",
-      "trend": "up",
+      "trend": "flat",
       "note": "SNF TD"
     },
     {
@@ -1691,16 +1781,24 @@
       "pos": "TE",
       "value": 16,
       "tier": "TE4",
-      "trend": "down",
+      "trend": "flat",
       "note": "3-23; Bowers W3"
     },
     {
-      "player": "Jonah Coleman",
-      "pos": "RB",
+      "player": "Michael Penix Jr.",
+      "pos": "QB",
       "value": 16,
-      "tier": "RB5",
-      "trend": "up",
-      "note": "10-39-1 + 3-19 after Dobbins left"
+      "tier": "QB5",
+      "trend": "flat",
+      "note": "Named TNF starter; rust + short week; not a smash"
+    },
+    {
+      "player": "Dallas Goedert",
+      "pos": "TE",
+      "value": 14,
+      "tier": "TE3",
+      "trend": "flat",
+      "note": "MCL sprain; miss a few weeks"
     },
     {
       "player": "Rashod Bateman",
@@ -1719,20 +1817,12 @@
       "note": "Played"
     },
     {
-      "player": "Cooper Rush",
+      "player": "Carson Wentz",
       "pos": "QB",
-      "value": 6,
+      "value": 12,
       "tier": "QB5",
-      "trend": "down",
-      "note": "Penix named; trap confirmed; drop"
-    },
-    {
-      "player": "Michael Penix Jr.",
-      "pos": "QB",
-      "value": 16,
-      "tier": "QB5",
-      "trend": "up",
-      "note": "Named TNF starter; rust + short week; not a smash"
+      "trend": "flat",
+      "note": "Kyler starts; drop"
     },
     {
       "player": "Khalil Shakir",
@@ -1751,6 +1841,14 @@
       "note": "Inactive again"
     },
     {
+      "player": "Cooper Rush",
+      "pos": "QB",
+      "value": 6,
+      "tier": "QB5",
+      "trend": "flat",
+      "note": "Penix named; trap confirmed; drop"
+    },
+    {
       "player": "Isiah Pacheco",
       "pos": "RB",
       "value": 5,
@@ -1764,7 +1862,7 @@
       "value": 2,
       "tier": "QB5",
       "trend": "flat",
-      "note": "Unsigned Monday evening; $0"
+      "note": "Unsigned Tuesday morning; $0"
     }
   ],
   "trade_rules_of_thumb": [
@@ -1774,51 +1872,59 @@
     "Half-PPR: WRs hold value. Committee RBs are discounted unless they have a path to 15+ touches as the lead.",
     "10-team benches are shallow. A 4th RB is worth less than in 12-team. Do not overpay for depth.",
     "Side getting the best player in a 2-for-1 sends extra. 3-for-1s usually lose in 10-team unless you are dumping IR dead.",
-    "Never invent a value from vibes. Thin spots (official Caleb grade, Daniels ligaments, Saquon MRI result, Flowers MRI, Nacua Monday inactives) are labeled GUESS or MISSING.",
+    "Never invent a value from vibes. Thin spots (Dart MRI grade, official Caleb grade, Daniels ligaments, Saquon MRI result, Flowers MRI, Nacua Week 3 tag) are labeled GUESS or MISSING.",
+    "Do not smash-sell Dart on a prelim MCL. He is a 52, not an 18.",
     "Do not smash-sell Daniels on an elbow. He is a 46, not a 24.",
     "Do not smash-sell Caleb on a hamstring. He is a 56, not a 22.",
-    "Do not smash-sell Nacua on official Q. He is a 68, not a 40.",
+    "Do not smash-sell Nacua on a Week 2 inactive. He is a 64, not a 40.",
+    "Do not smash-sell Nabers after 1-1. He is a 50.",
     "Do not smash-sell Maye after 208/0/1. He is still an 88.",
-    "Do not drop Flowers, Nico, Brown, Moore, McConkey, Olave, Nacua, Darnold, Caleb, or Daniels.",
+    "Do not drop Flowers, Nico, Brown, Moore, McConkey, Olave, Nacua, Nabers, Darnold, Caleb, Daniels, or Dart.",
     "Kyler is cleared and starts vs TB. He is a 42. Drop Wentz (12).",
     "Penix is a named 16, not a locked QB1. Do not smash-start Thursday.",
+    "Winston is an 18 stream, not a locked QB1.",
     "Henderson 16-76-1 makes him a 28, not a 93. Stevenson lost the lead (38).",
+    "Adams 8-195-2 makes him a 44, not a locked WR1 if Nacua is back.",
     "Rush trap is closed. He is a 6. Penix is named.",
     "Mariota is a 24 named multi-week stream, not a season-long QB1.",
     "Bagent is a 22 one-to-three week stream GUESS, not a season-long QB2.",
-    "Monday evening board vs Monday 08:20: Caleb 62->56, Daniels 50->46, Kyler 36->42, Penix 10->16, Nacua 72->68, Goedert 20->14.",
+    "Tuesday morning board vs Monday 18:20: Dart 70->52, Nacua 68->64, Nabers 58->50, Adams 36->44, Stafford 50->56.",
     "Bowers inactive Week 2 (46). Week 3 expected. Do not sell him for a streamer.",
     "Price shoulder makes him a 34, not a cut. Wilson is a 16 cuff.",
     "Goedert MCL makes him a 14 for a few weeks. Do not drop if you can stash."
   ],
   "ripoff_flags": [
-    "Smash-selling Daniels on an elbow \u2014 he is a 46 not a 24",
-    "Smash-selling Caleb on a hamstring \u2014 he is a 56 not a 22",
-    "Starting Rush Thursday after Penix was named \u2014 Rush is a 6",
-    "Smash-starting Penix Thursday as a locked QB1 \u2014 he is a 16",
-    "Sitting Kyler after O'Connell named him \u2014 he is a 42",
-    "Dropping Flowers / Nico / Brown / Moore / McConkey / Olave / Nacua / Darnold / Daniels / Caleb",
-    "Locking Nacua in a dedicated WR slot with no Monday pivot",
+    "Smash-selling Dart on a prelim MCL — he is a 52 not an 18",
+    "Smash-selling Daniels on an elbow — he is a 46 not a 24",
+    "Smash-selling Caleb on a hamstring — he is a 56 not a 22",
+    "Starting Rush Thursday after Penix was named — Rush is a 6",
+    "Smash-starting Penix Thursday as a locked QB1 — he is a 16",
+    "Sitting Kyler after O'Connell named him — he is a 42",
+    "Dropping Flowers / Nico / Brown / Moore / McConkey / Olave / Nacua / Nabers / Darnold / Daniels / Caleb / Dart",
+    "Locking Nacua for SNF before Wednesday practice",
     "Paying Whittington as a Nacua replacement",
-    "Paying Henderson as Gibbs \u2014 he is a 28",
-    "Paying Wilson as Price \u2014 he is a 16",
-    "Paying Coleman as Dobbins \u2014 he is a 16",
-    "Paying Tucker as a season-long WR2 \u2014 he is a 20",
-    "Paying Mariota as a locked QB1 \u2014 he is a 24",
-    "Paying Bagent as a season-long QB2 \u2014 he is a 22 stream GUESS",
-    "Paying Young as a locked QB1 \u2014 he is a 32",
-    "Paying Aaron Jones as a locked RB1 \u2014 he is a 30",
-    "Paying Kamara as a locked RB2 \u2014 he is a 22",
-    "Paying Stevenson as the locked NE RB1 after the fumble \u2014 he is a 38",
-    "Selling JSN after 9-155-3 as if he is a sell-high WR3 \u2014 he is an 88",
-    "Selling Jeanty after 21-48 \u2014 he is a 66",
-    "Selling Hall after 16-29 \u2014 he is a 42 not a cut",
-    "Selling Jefferson after 3-55 \u2014 he is a 72",
-    "Selling London because Rush is bad \u2014 Penix is named; London is a 56",
-    "Selling Bijan because Rush is bad \u2014 he is an 88",
-    "Selling Maye after 208/0/1 \u2014 he is an 88",
-    "Selling Saquon for Bigsby \u2014 Saquon is a 52",
+    "Paying Henderson as Gibbs — he is a 28",
+    "Paying Wilson as Price — he is a 16",
+    "Paying Coleman as Dobbins — he is a 16",
+    "Paying Adams as a locked WR1 if Nacua is back — he is a 44",
+    "Paying Winston as a locked QB1 — he is an 18",
+    "Paying Tucker as a season-long WR2 — he is a 20",
+    "Paying Mariota as a locked QB1 — he is a 24",
+    "Paying Bagent as a season-long QB2 — he is a 22 stream GUESS",
+    "Paying Young as a locked QB1 — he is a 32",
+    "Paying Aaron Jones as a locked RB1 — he is a 30",
+    "Paying Kamara as a locked RB2 — he is a 22",
+    "Paying Stevenson as the locked NE RB1 after the fumble — he is a 38",
+    "Selling JSN after 9-155-3 as if he is a sell-high WR3 — he is an 88",
+    "Selling Nabers after 1-1 — he is a 50",
+    "Selling Jeanty after 21-48 — he is a 66",
+    "Selling Hall after 16-29 — he is a 42 not a cut",
+    "Selling Jefferson after 3-55 — he is a 72",
+    "Selling London because Rush is bad — Penix is named; London is a 56",
+    "Selling Bijan because Rush is bad — he is an 88",
+    "Selling Maye after 208/0/1 — he is an 88",
+    "Selling Saquon for Bigsby — Saquon is a 52",
     "Sending two startable QBs for one elite skill player",
-    "Any kicker or DST package \u2014 this league does not start them"
+    "Any kicker or DST package — this league does not start them"
   ]
 }
