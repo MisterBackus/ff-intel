@@ -1,163 +1,153 @@
 # FF-Intel — 10-team Superflex Half-PPR (no K / no DST)
 
-- **Generated:** Wednesday, September 23, 2026, 8:20 AM ET (America/New_York)
+- **Generated:** Wednesday, September 23, 2026, 6:20 PM ET (America/New_York)
 - **NFL week:** Week 3 (Week 2 **CLOSED** including MNF. First lock: TNF ATL@GB Thu 8:15 PM ET)
 - **Season:** 2026 NFL · Platform: Sleeper · $100 FAAB
 - **Data freshness:**
   - 53-man rosters locked Sunday, Aug 30, 6:00 PM ET
   - **Week 1 CLOSED.** MNF **FINAL: KC 31–10 DEN.**
   - **Week 2 CLOSED.** TNF **BUF 41–DET 31.** Sunday finals unchanged. **MNF FINAL: LAR 28–NYG 6.**
-  - Official NFL.com Week 3 page re-checked **~8:02 AM ET**. **TNF Tuesday sheets LIVE.** Wednesday TNF columns **empty**. Sunday / SNF / MNF still **No Injuries Reported**.
-  - **NEW vs Tuesday 6:20 PM ET:** LaFleur **CLOSED Reed as neck**, not back (Schefter back report is stale). Reed is back in Green Bay, still testing. LaFleur: **“way too early”** if he plays again this season. Official DNP Mon+Tue (neck). Wednesday designation / official Out **MISSING**. Sit TNF. **NEW 12.**
-  - **NEW:** Njoku (fibula) + Kolar (forearm) **CLOSED official IR** with designation to return (Chargers.com / USA TODAY Sep 21). Earliest Week 8. Tuesday “expected IR” is stale. **Gadsden 16 flat.**
-  - **TNF Tuesday CLOSED:** Penix **Full** (named starter). Tua **Full** (depth-chart backup — sit). Reed **DNP / neck**. Terrell **IR**. Wednesday TNF designations later today.
-  - **Darnold practice is TODAY.** Macdonald plan: “in some capacity.” Participation **MISSING** this morning. Start Lock until Darnold is **named**.
-  - **Daniels specialists still Wed** (Tue/Wed window). Result **MISSING**. **46 flat.**
-  - Dart official structural grade / surgery / IR **still MISSING**. Harbaugh Tuesday: no decision. **34 flat.**
-  - Saquon MRI **still MISSING**. Flowers MRI **still MISSING**. Nabers X-ray / MRI **still MISSING**. Bagent protocol clearance **still MISSING**. Official Caleb grade **still MISSING**. Nacua Week 3 designation **still MISSING**.
-  - Superflex values: FantasyPros **seasonal** Superflex last full table still **Sep 8** (Maye **QB3**). Sep 9 three-expert Superflex table still live (Maye **QB2**). FP Week 3 waiver page dated **Sep 21** (1QB dollars are not this league). FP Week 3 rankings page dated **Sep 22**. Thin spots labeled **GUESS**.
-  - **Risers/fallers vs Tuesday 6:20 PM ET published board:** **Jayden Reed NEW 12**. Rest **FLAT.**
+  - Official NFL.com Week 3 page re-checked **~6:05 PM ET**. **TNF designations CLOSED.** Sunday / SNF Wednesday practice sheets **LIVE**. CHI/PHI (MNF) still **No Injuries Reported** — first report Thursday.
+  - **NEW vs Wednesday 8:20 AM ET:** Giants.com 5:22 PM + Harbaugh after practice — **Dart CLOSED out for the rest of the 2026 regular season.** NFL.com / Rapoport / Garafolo / Schefter: season-ending knee surgery; MCL + PCL + meniscus; **ACL intact**. Official IR transaction wire **still MISSING**. **34→12.** Winston is the locked ROS starter (**22→26**).
+  - **NEW:** Reed **CLOSED official OUT** TNF (NFL.com + PackersWire). DNP Mon–Wed (neck). Timeline still open; do not invent season-ending. **12 flat.**
+  - **NEW:** Darnold **practiced Wednesday** (first since Week 1). Macdonald/Henderson: not every rep; ramp-up; **“good track”**; decision **by Friday**. Not named. Start Lock until named. **20→24.**
+  - **NEW:** Charbonnet PUP window **NOT opened** this week (Macdonald / Boyle). Cannot play until Week 5. **$0.**
+  - **NEW Wednesday sheets:** Nacua **DNP** (64→60). Bowers **Limited** (46→48). DJ Moore **Limited** (34→36). Nico **DNP**. Flowers **DNP**. Dobbins **Limited** / Coleman **DNP ankle** / Harvey **Limited**. Aaron Jones **DNP knee** (30→26). Nabers **not listed** after being spotted at the Giants walkthrough (46→48). Iosivas **CLOSED IR** (thumb surgery, min 4). Jeanty **not listed**.
+  - **Still MISSING:** Official Dart IR wire. Daniels specialist result (Quinn: seeing another specialist today; no timeline). Official Caleb grade. Saquon MRI. Flowers MRI. Nabers imaging result. Bagent protocol clearance. Darnold **named**. Nacua Week 3 lock. Official SEA Price designation. Thursday CHI/PHI reports.
+  - Superflex values: FantasyPros **seasonal** Superflex last full table still **Sep 8** (Maye **QB3**). Sep 9 three-expert Superflex table still live (Maye **QB2**). FP Week 3 waiver page dated **Sep 21**. FP Week 3 QB rankings page dated **Sep 23**. Thin spots labeled **GUESS**.
+  - **Risers/fallers vs Wednesday 8:20 AM ET published board:** Dart **34→12**. Winston **22→26**. Darnold **20→24**. Nacua **64→60**. Bowers **46→48**. Moore **34→36**. Nabers **46→48**. Dobbins **18→20**. Jones **30→26**. Coleman **16→14**. Waller **22→20**. Rest **FLAT.**
 
 ---
 
 ## 1. League week context
 
-**Now:** Wednesday morning. **Week 2 is scored.** Default Sleeper FAAB typically processed Tuesday — leftover FA only. First remaining lock is **Thursday 8:15 PM ET**. Official Sunday Week 3 practice reports start **later today**. CHI/PHI first report is **Thursday** (MNF).
+**Now:** Wednesday evening. **Week 2 is scored.** Default Sleeper FAAB typically processed Tuesday — leftover FA only. **TNF lock is tomorrow 8:15 PM ET.** TNF designations are **CLOSED**. Sunday practice reports are live; Friday 1s still open. CHI/PHI first report is **Thursday**.
 
 **Week 3 window**
 
 | When (ET) | Game | Note |
 |---|---|---|
-| **Thu 9/24 8:15p Prime** | **ATL @ GB** | **Penix starts** (Tue Full). First start in 10 months. **Reed sit TNF** (neck; too early for season). Tua Full = backup, **sit**. Cool/dry Lambeau — **watch, not a sit.** Do **not** stream Rush. |
-| Sun 9/27 1:00p | LAC@BUF, CAR@CLE, NYJ@DET, HOU@IND, NE@JAC, **KC@MIA**, **TEN@NYG**, CIN@PIT, **SEA@WAS** | **Winston starts vs TEN.** **Mariota starts vs SEA.** Darnold practice **today** — start Lock until named. Henderson @ JAC. Nico sit until practice. **Gadsden** @ BUF if TE-needy (Njoku/Kolar **official IR**). |
-| Sun 9/27 4:05p | ARI@SF, **MIN@TB** | **Kyler starts.** Evans “managed.” |
-| Sun 9/27 4:25p | **BAL vs DAL (Rio de Janeiro)**, LV@NO | International slate. Flowers + travel — sit until practice. Bowers expected vs NO **if** Friday Full. |
-| Sun 9/27 8:20p NBC | **LAR @ DEN** | McVay hopeful, not sure. Dobbins Pelissero “good” / Harvey already out. Extra day after MNF. |
-| Mon 9/28 8:15p ESPN | **PHI @ CHI** | Caleb unlikely / Bagent protocol / **Keenum in line**. Saquon MRI **MISSING**. Goedert out a few weeks. Extra day. First CHI/PHI report Thursday. |
+| **Thu 9/24 8:15p Prime** | **ATL @ GB** | **Penix starts** (Wed Full). First start in 10 months. **Reed official OUT.** Tua Full / no tag = backup, **sit**. Cool/dry Lambeau — **watch, not a sit.** Do **not** stream Rush. |
+| Sun 9/27 1:00p | LAC@BUF, CAR@CLE, NYJ@DET, HOU@IND, NE@JAC, **KC@MIA**, **TEN@NYG**, CIN@PIT, **SEA@WAS** | **Winston starts vs TEN (ROS).** **Mariota starts vs SEA.** Start Lock until Darnold is **named Friday**. Henderson @ JAC. Nico / Flowers sit until more practice. **Gadsden** @ BUF if TE-needy. Moore Limited vs LAC. |
+| Sun 9/27 4:05p | ARI@SF, **MIN@TB** | **Kyler starts.** Jones **Wed DNP knee** — wait Thursday. Evans not listed. |
+| Sun 9/27 4:25p | **BAL vs DAL (Rio de Janeiro)**, LV@NO | International slate. Flowers **Wed DNP**. Bowers **Wed Limited** — Friday Full is the start gate. |
+| Sun 9/27 8:20p NBC | **LAR @ DEN** | Nacua **Wed DNP**. Adams start. Dobbins Limited / Coleman DNP / Harvey Limited. Extra day after MNF. |
+| Mon 9/28 8:15p ESPN | **PHI @ CHI** | Caleb unlikely / Bagent protocol / **Keenum in line**. Saquon MRI **MISSING**. Goedert out a few weeks. First report **Thursday**. |
 
 **Byes this week:** None (Week 3). First byes Week 5 (CAR, KC).
 
 **Short weeks / travel**
-- **ATL / GB play Thursday.** Penix is the named stream, not a smash. Reed sit (neck). Do not stream Rush. Tua is the backup, not a stream.
-- **NYG / LAR played Monday.** Extra day into Week 3. Dart MRI is **worse**; surgery/IR still open. Nacua SNF tag later today / Friday.
-- **BAL / DAL fly to Rio.** Flowers + travel is a sit-until-practice, not a drop.
+- **ATL / GB play Thursday.** Penix is the named stream, not a smash. Reed **OUT**. Do not stream Rush or Tua. Banks / Bako-Bewele **OUT** is a tiny GB OL tax, not a Love sit.
+- **NYG / LAR played Monday.** Extra day. Dart is **done for the regular season**. Nacua still a Friday/SNF watch.
+- **BAL / DAL fly to Rio.** Flowers + travel + Wed DNP = sit until Thursday+ practice, not a drop.
 - **PHI / CHI play Monday.** Extra day for Saquon / Bagent protocol / Caleb. First report Thursday.
 
 **Weather (only if it changes a start/sit)**
-- **TNF ATL@GB:** NWS Green Bay — Thursday **mostly sunny, high ~65, ESE 2–6 mph**. Thursday night **mostly cloudy, low ~52, wind 0–3**. AccuWeather ~12% rain. Kickoff mid-50s, dry, light wind. **Watch, not a sit.** The Penix fade is rust + short week, not weather.
+- **TNF ATL@GB:** AccuWeather / Falcons.com — kickoff **~56°F, ESE 4 mph, 6% rain**, decreasing clouds. LineTerminal ~55° / 3 mph / 4%. NBC26 local: upper 50s–low 60s, mix of sun/clouds. **Watch, not a sit.** The Penix fade is rust + short week, not weather.
 - No other Week 3 forecast currently changes a start/sit. Re-check Sunday.
 
 **Deadlines that matter**
-- **Leftover FA only** if Tuesday FAAB already processed: **Winston $8–$12**, **Mariota $8–$15**, **Keenum $4–$8**, Young / Jones / Henderson / Gadsden.
-- **Today (Wed):** First official Sunday Week 3 practice reports. Flowers / Nico / Moore / Nacua / Dobbins / Price / Bowers / Darnold / Nabers shoulder. TNF Wednesday designations later today (final TNF report).
-- **Today leftover:** Daniels specialists. Quinn update possible **Thu/Fri**. No smash-sell before that.
-- **Thu 9/24 8:15 PM ET:** TNF ATL@GB lock. **Penix starts.** Reed sit. CHI/PHI first report due Thursday.
+- **Leftover FA only** if Tuesday FAAB already processed: **Winston $10–$15**, **Mariota $8–$15**, **Keenum $4–$8**, Young / Henderson / Gadsden. Jones is a **Thursday watch**, not a smash leftover add after the DNP.
+- **Tonight:** Set TNF. Reed **OUT**. Penix desperate only.
+- **Thu 9/24:** TNF lock 8:15 PM ET. CHI/PHI first report. Daniels Quinn update possible Thu/Fri.
+- **Fri:** Darnold start/sit decision. Bowers Friday Full is the TE start gate.
 - **NFL trade deadline:** Tue Nov 10, 4:00 PM ET. League trade deadline: commissioner-set. **MISSING**.
 
 ---
 
 ## 2. Injuries and availability (most important)
 
-Statuses use **closed Week 2 boxes**, Tuesday-evening reporting, and **official NFL.com Tuesday TNF sheets**. Conservative call when sources conflict. Sunday practice designations are **MISSING** this morning — do not invent them.
+Statuses use **closed Week 2 boxes**, **official NFL.com Wednesday sheets**, and **Giants.com / Harbaugh 5:22 PM ET**. Conservative call when sources conflict.
 
-### Must act today (leftover FA / fade / landmine)
+### Must act today (TNF lock / leftover FA / fade / landmine)
 
 | Player | Pos | Team | Status | Injury | If they play | If they sit | Handcuff in THIS league | Flag |
 |---|---|---|---|---|---|---|---|---|
-| Jaxson Dart | QB | NYG | **MRI worse / extended / possibly season** | Left knee. X-rays negative. Rapoport/Garafolo worse than anticipated. Schefter: possible season-ending surgery. Harbaugh Tue: no decision. **Official grade MISSING** | N/A Week 3+ | **Winston starts vs TEN** and beyond | Roster Winston | **MUST ACT** — hold 34 pending IR/surgery; do not smash-sell to a 22 |
-| Jameis Winston | QB | NYG | **Healthy / locked W3+ stream** | 11/27, 111, 0/1. Ugly. TEN is easier | Stream if desperate; volume-only | Dart if miracle | Dart stash | Leftover FAAB **$8–$12** |
-| Jayden Reed | WR | GB | **Neck / DNP Mon+Tue / sit TNF** | LaFleur **CLOSED neck**, not back. Back in GB. “Way too early” if he plays this season. Tests ongoing. Wed tag **MISSING** | N/A TNF | Watson / Doubs already played | Hold 12 if IR; sit | **MUST ACT — TNF landmine.** Do not invent season-ending |
-| Tyson Bagent | QB | CHI | **Concussion protocol** | Rapoport Tue. Clearance **MISSING**. Extra MNF day helps | MNF stream if he clears **and** Caleb sits | **Keenum** | Roster Keenum | **MUST ACT** — do not smash-bid Bagent as a locked starter |
+| Jaxson Dart | QB | NYG | **Out rest of regular season** | Left knee. Giants.com / Harbaugh: miss rest of 2026 regular season. NFL.com: season-ending surgery; MCL+PCL+meniscus; ACL intact. **Official IR wire MISSING** | N/A regular season | **Winston starts ROS** | Roster Winston. Drop Dart if you need the roster spot | **MUST ACT** — he is a **12**, not a 34. Official IR still open |
+| Jameis Winston | QB | NYG | **Healthy / locked ROS start** | 11/27, 111, 0/1. Ugly. TEN is easier | Stream if desperate; volume-only | N/A | Dart is an IR stash | Leftover **$10–$15** |
+| Jayden Reed | WR | GB | **Official OUT TNF** | Neck. DNP Mon–Wed. Timeline open. LaFleur “way too early” if he plays this season | N/A TNF | Watson / Melton / Skyy Moore | Hold 12 if IR; sit | **MUST ACT — TNF landmine CLOSED.** Do not invent season-ending |
+| Michael Penix Jr. | QB | ATL | **Named TNF starter / Wed Full** | ACL rehab. First start in 10 months | Stream only if desperate | Rush is a drop | London / Bijan get a real QB | **Do not smash-start TNF** |
+| Tua Tagovailoa | QB | ATL | **Wed Full / no tag / backup** | Oblique. Available as Penix’s backup | N/A — Penix starts | Penix | Sit. Value 8 | **Do not stream TNF** |
+| Tyson Bagent | QB | CHI | **Concussion protocol** | Rapoport Tue. Clearance **MISSING**. Extra MNF day. First report Thursday | MNF stream if he clears **and** Caleb sits | **Keenum** | Roster Keenum | **MUST ACT** — do not smash-bid as a locked starter |
 | Case Keenum | QB | CHI | **Healthy / in line MNF** | Last starts 2023 (HOU). 38. vs PHI | Desperate MNF stream only | Bagent if cleared | Bagent / Caleb stash | Leftover **$4–$8** |
 | Caleb Williams | QB | CHI | **Hamstring / week-to-week** | Johnson: miss some time; not practicing; not ruled out. Rapoport: unlikely MNF. Official grade **MISSING** | N/A until practice | Keenum / Bagent | Roster the healthy backup | **MUST ACT** — hold 54; do not invent official grade |
-| Jayden Daniels | QB | WAS | **Elbow dislocation / OUT vs SEA** | Left (non-throwing). Specialists **still Wed**. Ligaments / surgery **MISSING** | N/A Week 3 | **Mariota starts vs SEA** | Roster Mariota | **MUST ACT** — hold 46; do not smash-sell to a 24 |
-| Marcus Mariota | QB | WAS | **Healthy / named W3 start** | Finished 11/16, 111, 1 TD. Quinn: not adding a QB | Stream W3 if desperate; better later | N/A | Daniels stash | Leftover **$8–$15** |
-| Malik Nabers | WR | NYG | **Played / shoulder popped / imaging MISSING** | Right shoulder popped out and back in. Player: “OK.” X-ray / MRI **MISSING**. 1–1 on 4 | Start if no better WR2 **and** Wed practice is clean | Winston tax already | Hold 46 | Hold. Do not smash-sell. Wait today’s report |
-| Puka Nacua | WR | LAR | **W2 INACTIVE / W3 hopeful-not-sure** | Hip / McVay groin. McVay Tue: not sure / hopeful. First report later today | Start only if Wed+ practice is clean | Adams already smashed | Do **not** drop (64). Do **not** FAAB Whittington | Hold. Do not lock SNF |
+| Jayden Daniels | QB | WAS | **Elbow dislocation / OUT vs SEA** | Left (non-throwing). Quinn Wed: **no update**; seeing another specialist today. Ligaments / surgery **MISSING** | N/A Week 3 | **Mariota starts vs SEA** | Roster Mariota | **MUST ACT** — hold 46; do not smash-sell to a 24 |
+| Marcus Mariota | QB | WAS | **Healthy / named W3 start** | Finished 11/16, 111, 1 TD. Quinn: not adding a QB yet | Stream W3 if desperate; better later | N/A | Daniels stash | Leftover **$8–$15** |
+| Sam Darnold | QB | SEA | **Practiced Wed / good track / not named** | Unique glute. Macdonald: not every rep; Friday decision. Official SEA sheet lagged empty | Only if **named Friday** | Lock 19/26, 235, 3 TD | Start Lock until named | Hold 24. Do not sit Lock tonight |
+| Puka Nacua | WR | LAR | **Wed DNP / W3 not a lock** | Hip / McVay groin. McVay hopeful he practices later. W2 INACTIVE | Start only if Thu+ practice is clean | Adams already smashed | Do **not** drop (60). Do **not** FAAB Whittington | Hold. Do not lock SNF |
 | Davante Adams | WR | LAR | **Healthy / W2 smash** | Official **8–195–2** with Nacua out | Locked WR2 this week; WR3 if Nacua returns | Nacua if he plays | Hold (44) | Start Week 3 |
-| Saquon Barkley | RB | PHI | **Stinger / MRI result MISSING** | Left-arm / shoulder. 4–9 + 1–11. Returned Q3. Rapoport hopeful minor. First report **Thursday** | Flex only until volume returns | Bigsby 13–33–1 / Shipley 7–24 | Roster Bigsby if you own Saquon | Hold 52. Do not smash-sell |
-| Dallas Goedert | TE | PHI | **MCL sprain / miss a few weeks** | Schefter/Rapoport. Unlikely W3. Ertz signed PS | N/A | Waller already played; Likely / Gadsden / Ferguson | Have a TE | Sit. Do not drop 14 |
-| Kyler Murray | QB | MIN | **Cleared / starts vs TB** | Concussion protocol **CLOSED** | Start Week 3 | Wentz is a drop | Do not drop Kyler (42) | **MUST ACT** — start him; drop Wentz |
-| Michael Penix Jr. | QB | ATL | **Named TNF starter / Tue Full** | ACL rehab. First start in 10 months | Stream only if desperate | Rush is a drop | London / Bijan get a real QB | **Do not smash-start TNF** |
-| Tua Tagovailoa | QB | ATL | **Tue Full / backup** | Oblique. Depth-chart QB2 behind Penix | N/A — Penix starts | Penix | Sit. Value 8 | **Do not stream TNF** |
-| J.K. Dobbins | RB | DEN | **Hamstring / Pelissero “good”** | Left vs JAC. Coleman 10–39–1 + 3–19. First report later today | N/A until practice | Coleman / Harvey still out | Coleman if you own Dobbins | Sit until practice; **18** |
-| Jadarian Price | RB | SEA | **Shoulder / intact** | Was called chest. Macdonald: nothing serious. X-ray negative | Lead if Wed practice is clean | Wilson 21–92 was blowout clock | Wilson cuff, not a locked RB2 | Hold 34. Do not drop |
-| Zay Flowers | WR | BAL | **Hamstring / W2 OUT** | MRI still **MISSING**. Minter “good shot.” Rio in Week 3 | Start only if Wed+ practice is clean | Bateman 7–88–1 | Do **not** drop (32) | Sit until practice |
-| Nico Collins | WR | HOU | **Grade 1 hamstring / W2 OUT** | Wilson / FantasyAlarm lean miss Week 3. Ryans: still progressing | Start only if cleared | Boutte | Do **not** drop (50) | Sit until practice |
-| Brock Bowers | TE | LV | **W2 INACTIVE** | Meniscus. Kubiak “very close” if Friday Full. Schefter would be surprised if he sits | TE1 if active | Mayer 3–23 rental | Do not drop (46) | Sit until Friday; hold |
-| DJ Moore | WR | BUF | **TNF OUT / AC sprain** | Not serious. Week 3 chance vs LAC | Flex if cleared | Shakir / Coleman | Do **not** drop (34) | Sit until practice |
-| A.J. Brown | WR | NE | **IR** | High-ankle. Earliest Week 6. No surgery reports | N/A | Doubs 3–96 | Do not drop (32) | Sit Weeks 2–5 |
-| Sam Darnold | QB | SEA | **Practice plan TODAY / chance W3** | Unique glute. No IR. Macdonald: timeline shifted; “if Sam can play, he’s going to play.” Participation **MISSING** | Only if **named** | Lock 19/26, 235, 3 TD | Start Lock until named | Hold Darnold (20); start Lock |
+| Saquon Barkley | RB | PHI | **Stinger / MRI result MISSING** | Left-arm / shoulder. 4–9 + 1–11. First report **Thursday** | Flex only until volume returns | Bigsby 13–33–1 / Shipley 7–24 | Roster Bigsby if you own Saquon | Hold 52. Do not smash-sell |
+| Kyler Murray | QB | MIN | **Cleared / starts vs TB** | Concussion protocol **CLOSED**. Not listed Wednesday | Start Week 3 | Wentz is a drop | Do not drop Kyler (42) | **MUST ACT** — start him; drop Wentz |
 | Cooper Rush | QB | ATL | **Benched / drop** | 10/17, 86, 2 INT, 3 points. Penix named | N/A | Penix / Strand | Drop for Winston/Mariota/Keenum | **Do not lock TNF** |
 
 ### Other relevant names (not just stars)
 
 | Player | Pos | Team | Status | One-line | Practice / result | Role if play / sit | Replacement startable here? |
 |---|---|---|---|---|---|---|---|
-| Matthew Stafford | QB | LAR | **Healthy / MNF CLOSED** | **22/31, 327, 4 TD, 1 INT** | Played | Locked QB2 | Hold 56 |
-| Kyren Williams | RB | LAR | **Healthy / MNF CLOSED** | **12–85 + 2–12–1.** Fumble on the 11 | Played | Locked RB2. Corum tax | Corum 12–79 |
-| Blake Corum | RB | LAR | **Healthy / MNF CLOSED** | **12–79 + 1–13.** Blowout split | Played | Kyren cuff, not a locked RB2 | $2–$4 if you own Kyren |
-| Cam Skattebo | RB | NYG | **Healthy / MNF CLOSED** | **12–36 + 4–19.** 1 fumble | Played | Flex only. Ugly. Winston tax | Hold 30 |
-| Isaiah Likely | TE | NYG | **Healthy / MNF CLOSED** | **5–33 on 10** | Played | TE stream if you lost Goedert | Hold 26 |
-| Terrance Ferguson | TE | LAR | **Healthy / MNF CLOSED** | **6–54–1** with Nacua out | Played | Temporary TE stream | Leftover FAAB if TE-needy |
-| Oronde Gadsden | TE | LAC | **Healthy / TE1 path** | Njoku + Kolar **official IR**, designation to return. Earliest Week 8 | Next report later today | TE stream @ BUF | Leftover **$4–$8** |
-| Zach Ertz | TE | PHI | **PS / ACL rehab** | Signed PS after Goedert. Elevation **MISSING** | N/A until elevated | Speculative TE only | $1–$3 if desperate |
-| Patrick Mahomes | QB | KC | **Healthy / SNF CLOSED** | **32/47, 382, 3 TD + 2–17** | Played | Locked QB1 | Fields cuff |
-| Kenneth Walker III | RB | KC | **Healthy / SNF CLOSED** | **24–117 + 6–61** on 10 targets | Played | Locked RB1 | Emmett leftover tax |
-| Jonathan Taylor | RB | IND | **Healthy / SNF CLOSED** | **24–92–2 + 4–40** | Played | Locked RB1 | Hold |
-| Travis Kelce | TE | KC | **Healthy / SNF CLOSED** | **9–101–1** | Played | TE1 this week; still a TE2 ROS | Hold 30 |
-| Jaxon Smith-Njigba | WR | SEA | **Healthy** | **9–155–3** | Played | Locked WR1 | Hold 88 |
-| Drew Lock | QB | SEA | **Healthy / starts until named otherwise** | **19/26, 235, 3 TD** | Played | Start until Darnold is named | Darnold stash |
-| Trey McBride | TE | ARI | **Healthy** | **8–41–1** | Played | Locked TE1 | Hold 56 |
-| Christian McCaffrey | RB | SF | **Healthy** | **10–23–2 + 4–43** | Played | Locked RB1. Inefficient, two scores | Black cuff |
-| Brock Purdy | QB | SF | **Healthy** | **20/22, 287, 2 TD + 3–30–1** | Played | Locked QB2 | Hold 72 |
-| Mike Evans | WR | SF | **Hip / managed** | Shanahan: managed this week. 3–54 | Played | WR3. Watch today’s report | Hold 40 |
-| Dak Prescott | QB | DAL | **Healthy** | **26/31, 279, 4 TD** | Played | Locked QB2 | Hold 70 |
-| CeeDee Lamb | WR | DAL | **Healthy** | **8–153–2** | Played | Locked WR1 | Hold 72 |
-| Stefon Diggs | WR | WAS | **Healthy** | **5–47–2** | Played | WR3 if Mariota starts | Hold 28 |
-| Terry McLaurin | WR | WAS | **Healthy** | **2–50 on 9** | Played | Mariota tax | Hold 24 |
-| Ashton Jeanty | RB | LV | **Played / late scare** | **21–48 + 4–15**. Ankle tweak, returned | Played | Workhorse RB1. Ugly box | Hold 66. May hit today’s report |
-| Kirk Cousins | QB | LV | **Healthy** | **19/29, 253, 3 TD, 1 INT** | Played | Floor QB2 / stream | Hold 38 |
-| Tre Tucker | WR | LV | **Healthy** | **5–119–1** | Played | Temporary WR3. Shrinks if Bowers plays | Leftover FAAB |
-| Ladd McConkey | WR | LAC | **Played / ribs** | **3–35**. ACTIVE | Played | Hold, not a smash | Do **not** drop (24) |
-| Justin Herbert | QB | LAC | **Healthy** | **15/27, 192, 1 TD, 2 INT** | Played | QB2. Ugly | Hold 68 |
-| Omarion Hampton | RB | LAC | **Healthy** | **23–94–1 + 2–21**. Late fumble | Played | Locked RB2 | Hold 54 |
-| Aaron Jones | RB | MIN | **Healthy / sore** | **23–105**. O’Connell: pretty sore. Mason IR | Played | Workhorse if he holds | Leftover FAAB. Watch today’s report |
-| Alec Pierce | WR | IND | **Heel / left SNF** | Same area as offseason surgery. Extended rehab, no extra surgery | N/A if sits | Downs | Sit until practice |
-| Christian Watson | WR | GB | **Healthy** | TD. Reed neck absence helps a little | Played | Strong TNF start | Hold 38 |
-| Zach Charbonnet | RB | SEA | **PUP** | ACL. Cannot play until Week 5. 21-day window **could** open this week. Announcement **MISSING** | N/A Weeks 3–4 | Price / Wilson | **$0 today.** Not a 10-team add |
-| Will Levis | QB | NYJ | **Jets PS** | Signed Tuesday. Zappe released. Geno starts | N/A | N/A | **$0** |
+| Malik Nabers | WR | NYG | **Not listed / walkthrough** | Shoulder popped out/in Mon. Imaging result **MISSING**. Spotted at Wed walkthrough. Giants sheet clean | Walkthrough ≠ Full | Start if no better WR2; Winston tax | Hold 48 |
+| Brock Bowers | TE | LV | **Wed Limited** | Meniscus. Kubiak day-to-day. Friday Full is the start gate | Limited | TE1 if Friday Full | Mayer rental if he sits |
+| DJ Moore | WR | BUF | **Wed Limited** | AC sprain. Red non-contact jersey. Brady: chance Sunday | Limited / no contact | Flex if cleared Friday | Shakir / Coleman. Do not drop (36) |
+| Nico Collins | WR | HOU | **Wed DNP** | Grade 1 hamstring. Wilson lean miss Week 3 | DNP | Sit. Do not drop (50) | Boutte |
+| Zay Flowers | WR | BAL | **Wed DNP** | Hamstring. MRI still **MISSING**. Rio | DNP | Sit until Thu+ practice. Do not drop (32) | Bateman 7–88–1 |
+| J.K. Dobbins | RB | DEN | **Wed Limited** | Hamstring / cramp. Pelissero “good” | Limited | Flex only if he holds | Coleman **Wed DNP ankle** / Harvey Limited |
+| Jonah Coleman | RB | DEN | **Wed DNP / ankle** | Schefter: sprained ankle Sunday. 10–39–1 + 3–19 | DNP | Path shrinks if Dobbins plays | Committee dart. **14** |
+| RJ Harvey | RB | DEN | **Wed Limited** | Hamstring. Inactive Week 2 | Limited | Cuff only | Sit until more practice |
+| Aaron Jones | RB | MIN | **Wed DNP / knee** | 23–105. Official knee, not just “sore.” Mason IR | DNP | Workhorse **if** he practices Thu+ | Dallas / Claiborne. Wait Thursday |
+| Jadarian Price | RB | SEA | **Shoulder / official tag MISSING** | Intact. Macdonald: will practice; Wed level **MISSING** | Official sheet lagged | Lead if he practices clean | Wilson cuff, not a locked RB2 |
+| Dallas Goedert | TE | PHI | **MCL sprain / miss a few weeks** | Schefter/Rapoport. Unlikely W3 | First report Thursday | N/A | Waller / Gadsden / Likely / Ferguson |
+| A.J. Brown | WR | NE | **IR** | High-ankle. Earliest Week 6 | N/A | Doubs 3–96 | Do not drop (32) |
+| Ladd McConkey | WR | LAC | **Not listed** | Chargers sheet clean. Ribs last week 3–35 | Not listed | Hold, not a smash | Do **not** drop (24) |
+| Jonathan Taylor | RB | IND | **Wed Limited** | 24–92–2. Watch, **not a sit** | Limited | Locked RB1 | Hold 76 |
+| Michael Pittman Jr. | WR | PIT | **Wed Limited / foot** | Missed Week 2. Different injury than camp | Limited | Sit until Friday Full | Not a 10-team smash |
+| Andrei Iosivas | WR | CIN | **IR** | Thumb ligament surgery. Min 4. Taylor: not season-ending | N/A | Chase / Higgins already owned | **$0** replacements |
+| Zach Charbonnet | RB | SEA | **PUP / window closed this week** | Macdonald: will not open 21-day window this week | N/A Weeks 3–4 | Price / Wilson | **$0 today** |
+| Drew Lock | QB | SEA | **Healthy / starts until named otherwise** | 19/26, 235, 3 TD | Played | Start until Darnold is named Friday | Darnold stash |
+| Christian Watson | WR | GB | **Healthy** | TD. Reed **OUT** helps | Played | Strong TNF start | Hold 38 |
+| Jordan Love | QB | GB | **Healthy** | 16/29, 145, 2 TD. TNF home | Not listed | Strong TNF start | Banks / Bako-Bewele OUT is a tiny tax |
+| Travis Kelce | TE | KC | **Healthy** | 9–101–1. Mahomes / Rice Full | Not listed | TE1 this week | Hold 30 |
+| Ashton Jeanty | RB | LV | **Not listed** | Late Week 2 ankle scare closed. 21–48 + 4–15 | Not listed | Workhorse RB1 | Hold 66 |
+| Oronde Gadsden | TE | LAC | **Healthy / TE1 path** | Njoku + Kolar official IR. Chargers sheet clean | Not listed | TE stream @ BUF | Leftover **$4–$8** |
+| Darren Waller | TE | CAR | **Wed DNP** | 3–33–2. Watch Thursday | DNP | Stream if he practices | Hold 20 |
+| Mike Evans | WR | SF | **Not listed** | Shanahan “managed” is stale vs a clean sheet | Not listed | WR3 | Hold 40 |
+| Will Levis | QB | NYJ | **Jets PS** | Signed Tuesday. Geno starts | N/A | N/A | **$0** |
 
 **Superflex QB-out streamers**
-- **Winston is the locked multi-week NYG stream.** Ugly 111/0/1. TEN is easier. Dart is extended / possibly season. Leftover **$8–$12**.
-- **Mariota is the named multi-week WAS stream.** Tough vs SEA Week 3. Specialists still today. Leftover **$8–$15**.
-- **Keenum is the CHI MNF dart** if Caleb sits and Bagent stays in protocol. Not a smash. **$4–$8**.
-- **Bagent is protocol-taxed.** Extra day. Do not smash-bid as a locked starter. **$3–$6** leftover only.
-- **Penix is the named TNF stream**, not a smash. Rust + short week + Lambeau. Tue Full. **$3–$6** leftover.
-- **Tua is Full and the backup.** Do not stream him Thursday.
+- **Winston is the locked ROS NYG starter.** Harbaugh / Giants.com. TEN is the spot. Leftover **$10–$15**.
+- **Mariota is the named multi-week WAS stream.** Tough vs SEA. Specialists still open. Leftover **$8–$15**.
+- **Keenum is the CHI MNF dart** if Caleb sits and Bagent stays in protocol. **$4–$8**.
+- **Bagent is protocol-taxed.** First report Thursday. Do not smash-bid. **$3–$6** leftover only.
+- **Penix is the named TNF stream**, not a smash. Wed Full. **$3–$6** leftover.
+- **Tua is Full, no tag, and the backup.** Do not stream Thursday.
 - **Kyler is back.** Start him. Wentz is a drop.
-- **Lock starts until Darnold is named.** Darnold practices today “in some capacity” — do not sit Lock this morning.
+- **Lock starts until Darnold is named Friday.** Good track ≠ named.
 - **Cousins 253/3** is a real QB2 floor. Hold over Rush/Wentz.
 - **Young 287/3** still the best available stream-up if free.
 - **Shough volume holds.** Rush/Wentz/Rodgers/Brissett/Watson are drops or $0.
 - **Do not stream Rush into TNF GB.** Penix is named.
-- Levis is **Jets PS / $0**. Browning / Milton still **$0**.
+- Levis is **Jets PS / $0**. Garoppolo is a Giants candidate **not signed** — **$0** until he is. Browning / Milton still **$0**.
 
 ---
 
 ## 3. News that changes value
 
-Only snaps / usage. **Bold = new since Tuesday 6:20 PM ET packet.**
+Only snaps / usage. **Bold = new since Wednesday 8:20 AM ET packet.**
 
-- **Reed CLOSED as neck (LaFleur), not back.** Back in GB. “Way too early” if he plays this season. DNP Mon+Tue. Sit TNF. **NEW 12.**
-- **Njoku + Kolar CLOSED official IR** (designation to return). Earliest Week 8. **Gadsden 16 flat.**
-- **TNF Tuesday sheets CLOSED.** Penix Full / named. Tua Full = backup. Reed DNP neck. Wednesday TNF designations **MISSING**.
-- **Sunday / SNF / MNF official sheets still empty** at 8:02 AM ET. First reports later today.
-- **Darnold practice is TODAY.** Participation **MISSING**. Start Lock until named. **20 flat.**
-- **Daniels specialists still open today.** Ligaments / surgery **MISSING.** **46 flat.**
-- Dart official grade / surgery / IR **still MISSING.** **34 flat.**
-- Saquon MRI / Flowers MRI / Nabers imaging **still MISSING.**
-- Charbonnet PUP window **could** open this week. Cannot play until Week 5. Announcement **MISSING**. **$0.**
+- **Dart CLOSED out for the rest of the regular season** (Giants.com 5:22 PM / Harbaugh). NFL.com: season-ending surgery; ACL intact. Official IR wire **MISSING**. **34→12.** Winston locked ROS (**22→26**).
+- **Reed CLOSED official OUT TNF.** DNP Mon–Wed (neck). **12 flat.**
+- **Darnold practiced Wednesday.** Good track. Friday decision. Not named. **20→24.**
+- **Charbonnet PUP window NOT opened this week.** $0.
+- **Nacua official Wed DNP.** McVay hopes later this week. **64→60.**
+- **Bowers official Wed Limited.** Friday Full is the start. **46→48.**
+- **DJ Moore official Wed Limited** (no contact). Chance Sunday. **34→36.**
+- **Nico official Wed DNP.** Sit. **50 flat.**
+- **Flowers official Wed DNP.** MRI still **MISSING**. **32 flat.**
+- **Dobbins Limited / Coleman DNP ankle / Harvey Limited.** Committee. Dobbins **18→20**. Coleman **16→14**.
+- **Aaron Jones official Wed DNP (knee).** **30→26.**
+- **Nabers not listed** after walkthrough. Imaging result **MISSING**. **46→48.**
+- **Iosivas CLOSED IR** (thumb surgery, min 4). Not a 10-team add.
+- **Jeanty not listed.** Late scare closed. **66 flat.**
+- **Chargers / Cardinals / 49ers / Giants sheets clean** for the skill names that matter (McConkey, Kyler, Evans/CMC, Nabers).
+- Daniels specialist result **still MISSING** after Quinn’s “no update / specialist today.”
 - FantasyPros seasonal Superflex last full table still **Sep 8** (Maye QB3). Do not smash-sell Maye.
 - **No Wednesday OC firings.**
 
@@ -165,51 +155,48 @@ Only snaps / usage. **Bold = new since Tuesday 6:20 PM ET packet.**
 
 ## 4. Waiver / FAAB board ($100)
 
-**Tuesday FAAB typically processed.** Leftover FA only. **Dart owners:** leftover **Winston $8–$12**. **Daniels owners:** leftover **Mariota $8–$15**. **Caleb owners:** leftover **Keenum $4–$8** (Bagent is protocol-taxed). **Saquon owners:** leftover **Bigsby $3–$6**. **Dobbins owners:** leftover **Coleman $4–$8**. **Price owners:** leftover **Wilson $2–$5**. **Kyren owners:** leftover **Corum $2–$4**. **Goedert / Bowers owners:** leftover **Gadsden $4–$8**, Waller $3–$6, Likely / Ferguson. **Nacua owners:** do **not** FAAB Whittington. **Reed owners:** do not panic-drop for a dart until more tests — he is a **12**. 10-team benches are short — do not roster a 4th RB unless the path is 15+ touches.
+**Tuesday FAAB typically processed.** Leftover FA only. **Dart owners:** leftover **Winston $10–$15** is now a ROS add, not a one-week dart. **Daniels owners:** leftover **Mariota $8–$15**. **Caleb owners:** leftover **Keenum $4–$8**. **Saquon owners:** leftover **Bigsby $3–$6**. **Dobbins owners:** leftover **Coleman $3–$6** (ankle tax). **Price owners:** leftover **Wilson $2–$5**. **Kyren owners:** leftover **Corum $2–$4**. **Goedert / Bowers owners:** leftover **Gadsden $4–$8**, Waller (DNP watch), Likely / Ferguson. **Nacua owners:** do **not** FAAB Whittington. **Reed owners:** hold 12; sit TNF. 10-team benches are short — **drop Dart** if you need the roster spot and have no IR slot.
 
-Bids are **% of $100 and dollars**. Fitz / Big Lead 1QB $1–$6 on Mariota is **not** this league. FP True Value $16 on Coleman / $1 on Young is 12-team 1QB — cap Coleman at **$4–$8** here unless Dobbins/Harvey both sit; Young is **$5–$8** in Superflex.
+Bids are **% of $100 and dollars**. Fitz / Big Lead 1QB dollars are **not** this league. FP True Value on Coleman / Young is 12-team 1QB — cap Coleman at **$3–$6** here after the ankle DNP; Young is **$5–$8** in Superflex.
 
 ### Week-winning streamers (esp. QB)
 
 | Player | Pos | Team | Why this week / ROS | Bid | Priority | Typical drops |
 |---|---|---|---|---|---|---|
-| Jameis Winston | QB | NYG | **Dart MRI worse. Extended / possibly season. TEN is easier** | 8–12% / $8–$12 | **Must-add** if you own Dart or need a QB3 | Rush, Wentz, Rodgers, Brissett, 4th RB |
+| Jameis Winston | QB | NYG | **Dart done for the regular season. Locked ROS. TEN is easier** | 10–15% / $10–$15 | **Must-add** if you own Dart or need a QB3 | Rush, Wentz, Rodgers, Brissett, **Dart if no IR** |
 | Marcus Mariota | QB | WAS | **Named W3 start. Multi-week. Tough vs SEA, better later** | 8–15% / $8–$15 | **Must-add** if you own Daniels or need a QB2 | Same |
 | Case Keenum | QB | CHI | **Bagent protocol + Caleb unlikely. MNF vs PHI if both sit** | 4–8% / $4–$8 | **Must-add** if you own Caleb and need a body | Same |
 | Bryce Young | QB | CAR | **23/36, 287, 3 TD.** Real stream-up. @CLE then DET | 5–8% / $5–$8 if free | **Must-add** if free | Rush, Watson, Wentz |
-| Drew Lock | QB | SEA | **19/26, 235, 3 TD.** Start until Darnold is named | leftover $1–$3 if somehow free | **Must-add** | Same |
+| Drew Lock | QB | SEA | **19/26, 235, 3 TD.** Start until Darnold is named Friday | leftover $1–$3 if somehow free | **Must-add** | Same |
 | Kirk Cousins | QB | LV | **253/3.** Floor QB2 | 3–6% / $3–$6 | Strong | Backup WR |
 | Tyler Shough | QB | NO | Volume confirmed @ BAL; home vs LV | 3–6% / $3–$6 | Strong | Same |
-| Michael Penix Jr. | QB | ATL | **Named TNF starter / Tue Full.** Rust + short week + Lambeau | 3–6% / $3–$6 leftover | Strong if desperate | Rush |
+| Michael Penix Jr. | QB | ATL | **Named TNF starter / Wed Full.** Rust + short week + Lambeau | 3–6% / $3–$6 leftover | Strong if desperate | Rush |
 | Tyson Bagent | QB | CHI | Protocol. Extra day. Not a locked starter | 3–6% / $3–$6 leftover | Speculative | N/A |
-| Jacoby Brissett | QB | ARI | 95 yards. Stream is over | 0–2% / $0–$2 | Speculative — usually a **drop** | N/A |
 | Cooper Rush | QB | ATL | Trap confirmed. Penix named | $0 | **Ignore / drop** | N/A |
-| Tua Tagovailoa | QB | ATL | Tue Full = backup | $0 | **Ignore / sit TNF** | N/A |
+| Tua Tagovailoa | QB | ATL | Full / no tag = backup | $0 | **Ignore / sit TNF** | N/A |
 | Carson Wentz | QB | MIN | Kyler starts. Drop | $0 | Drop | N/A |
-| Aaron Rodgers | QB | PIT | 187/0/1, 2 fumbles | $0 | Ignore | N/A |
 | Will Levis | QB | NYJ | Jets PS. Geno starts | $0 | Ignore | N/A |
+| Jimmy Garoppolo | QB | FA | Giants candidate. **Not signed** | $0 until signed | Ignore | N/A |
 
 ### Season-long / next-4-weeks stashes
 
 | Player | Pos | Team | Why | Bid | Priority |
 |---|---|---|---|---|---|
-| Aaron Jones | RB | MIN | **23–105** if free. Sore. Mason IR | 8–12% / $8–$12 | **Must-add** if free |
 | TreVeyon Henderson | RB | NE | **16–76–1.** Lead after the fumble | 8–12% / $8–$12 if free | **Must-add** |
-| Oronde Gadsden | TE | LAC | **Official IR** for Njoku + Kolar. @ BUF | 4–8% / $4–$8 | Strong if TE-needy |
-| Tre Tucker | WR | LV | **5–119–1** with Bowers out | 4–8% / $4–$8 | Strong |
+| Aaron Jones | RB | MIN | **23–105** if free. **Wed DNP knee.** Mason IR | 6–10% / $6–$10 | Strong — **wait Thursday** if you can |
+| Oronde Gadsden | TE | LAC | Official IR for Njoku + Kolar. @ BUF. Chargers sheet clean | 4–8% / $4–$8 | Strong if TE-needy |
+| Tre Tucker | WR | LV | **5–119–1** with Bowers out. Shrinks if Bowers plays | 4–8% / $4–$8 | Strong |
 | Romeo Doubs | WR | NE | **3–96.** Brown IR through Week 5 | 4–8% / $4–$8 | Strong — roster **one** of Doubs/Hollins |
 | Stefon Diggs | WR | WAS | **5–47–2.** Mariota bridge | 4–8% / $4–$8 if free | Strong |
 | Parker Washington | WR | JAC | **7–98** | 3–6% / $3–$6 | Strong |
-| Darren Waller | TE | CAR | **3–33–2.** TE stream | 3–6% / $3–$6 | Strong if TE-needy |
+| Darren Waller | TE | CAR | **3–33–2.** **Wed DNP** — wait Thursday | 2–5% / $2–$5 | Strong if TE-needy |
 | Rashod Bateman | WR | BAL | **7–88–1** with Flowers out | 3–6% / $3–$6 | Strong if you own Flowers / thin |
 | Tetairoa McMillan | WR | CAR | **5–101.** Young alive | 4–8% / $4–$8 if free | Strong |
-| Jonah Coleman | RB | DEN | **10–39–1 + 3–19.** Dobbins/Harvey hamstrings | 4–8% / $4–$8 | Strong if you own Dobbins / DEN |
+| Jonah Coleman | RB | DEN | **Wed DNP ankle.** Path shrinks if Dobbins holds | 3–6% / $3–$6 | Strong if you own DEN |
 | Tank Bigsby | RB | PHI | Saquon MRI **MISSING** + 13–33–1 | 3–6% / $3–$6 | Strong if you own Saquon |
 | Emanuel Wilson | RB | SEA | **21–92** after Price left | 2–5% / $2–$5 | Strong if you own Price |
-| Terrance Ferguson | TE | LAR | **6–54–1** with Nacua out | 2–5% / $2–$5 | Strong if TE-needy |
+| Terrance Ferguson | TE | LAR | **6–54–1** with Nacua out. Wed Limited | 2–5% / $2–$5 | Strong if TE-needy |
 | Isaiah Likely | TE | NYG | **5–33 on 10.** Winston volume | 2–5% / $2–$5 | Strong if you lost Goedert |
-| Denzel Boston | WR | CLE | **5–95–1.** Watson is a fade | 3–6% / $3–$6 | Speculative if thin |
-| Zach Ertz | TE | PHI | PS after Goedert. Elevation **MISSING** | 1–3% / $1–$3 | Speculative if TE-desperate |
 | Justin Fields | QB | KC | Mahomes cuff. Still required | 3–6% / $3–$6 | Strong if you have Mahomes |
 
 ### Cheap handcuffs
@@ -217,90 +204,90 @@ Bids are **% of $100 and dollars**. Fitz / Big Lead 1QB $1–$6 on Mariota is **
 | Player | Pos | Team | Why | Bid | Priority |
 |---|---|---|---|---|---|
 | Blake Corum | RB | LAR | **12–79** in the blowout. Kyren tax | 2–4% / $2–$4 | Strong if you have Kyren |
-| Emmett Johnson | RB | KC | Walker tax (Walker ate almost all RB chances) | 2–4% / $2–$4 | Strong if you have Walker |
+| Emmett Johnson | RB | KC | Walker tax | 2–4% / $2–$4 | Strong if you have Walker |
 | Kaelon Black | RB | SF | CMC cuff | 2–4% / $2–$4 | Strong if you have CMC |
 | Emari Demercado | RB | DAL | Javonte cuff | 2–4% / $2–$4 | Strong if you have Javonte |
-| Mike Washington Jr. | RB | LV | Jeanty ankle scare | 1–3% / $1–$3 | Speculative if you own Jeanty |
 
-**Do not FAAB in 10-team:** Rush as a ROS QB2, Tua as a TNF stream, Wentz as a ROS QB2, Rodgers, Brissett as a paid QB3, Watson, Ward as a paid QB3, Whittington, Holani-as-flex, Levis (Jets PS), Browning, Milton, Blue, Slayton, Kaleb Johnson as a locked RB2, Wicks as a locked WR3, Freiermuth as a ROS TE1, Charbonnet (PUP, Week 5 earliest), kickers, DST, Nacua panic-cuffs, Mayer as a ROS TE1 if Bowers is back Friday, Bagent as a locked QB1.
+**Do not FAAB in 10-team:** Rush as a ROS QB2, Tua as a TNF stream, Wentz as a ROS QB2, Rodgers, Brissett as a paid QB3, Watson, Ward as a paid QB3, Whittington, Holani-as-flex, Levis (Jets PS), Garoppolo until signed, Browning, Milton, Blue, Slayton, Iosivas replacements, Wicks as a locked WR3, Freiermuth as a ROS TE1, Charbonnet (PUP window closed this week), kickers, DST, Nacua panic-cuffs, Mayer as a ROS TE1 if Bowers is Friday Full, Bagent as a locked QB1, Dart as a paid hold if you need the roster spot.
 
 ---
 
 ## 5. Start / sit and landmines (Superflex Half-PPR)
 
-Conservative call. **Week 2 is scored.** First lock is **TNF Thursday.** Sunday designations still **MISSING**.
+Conservative call. **Week 2 is scored.** **TNF designations CLOSED.** Sunday Friday 1s still open. MNF reports Thursday.
 
 ### QB (weekly Superflex ranks — 10-team)
 
 **Must-start Week 3:** Allen, Lamar, Burrow, Maye, Hurts, Mahomes, Purdy, Dak, Stafford, Herbert, Lawrence.
 
-**Strong start:** Jordan Love (TNF home), Goff, Nix, Kyler (**starts vs TB**), Lock (**until Darnold is named**), Shough, Cousins, Young.
+**Strong start:** Jordan Love (TNF home), Goff, Nix, Kyler (**starts vs TB**), Lock (**until Darnold is named Friday**), Shough, Cousins, Young.
 
-**Toss-up / desperate stream:** **Penix (TNF — named / Tue Full, not a smash)**, Mariota (vs SEA — named, tough), **Winston (vs TEN — locked stream, not a smash)**, Keenum (MNF if Caleb sits and Bagent stays in protocol), Bagent (only if he clears).
+**Toss-up / desperate stream:** **Penix (TNF — named / Wed Full, not a smash)**, Mariota (vs SEA — named, tough), **Winston (vs TEN — locked ROS stream, not a smash)**, Keenum (MNF if Caleb sits and Bagent stays in protocol), Bagent (only if he clears Thursday+).
 
-**Sit / trap:** **Rush (Penix named)**, **Tua (Full = backup)**, **Daniels (elbow / specialists today)**, **Caleb until practice**, **Dart (MRI worse)**, Wentz, Rodgers, Brissett, Watson, Levis.
+**Sit / trap:** **Rush (Penix named)**, **Tua (Full / no tag = backup)**, **Daniels (elbow / specialist result MISSING)**, **Caleb until practice**, **Dart (done for the regular season)**, Wentz, Rodgers, Brissett, Watson, Levis.
 
 **Blind-start traps**
-- **Smash-selling Dart** on the worse MRI. He is a **34**, not a 22. Surgery / IR **not decided**.
-- **Smash-selling Daniels** on an elbow. He is a **46**, not a 24. Specialists **still open today**.
+- **Holding Dart as a 34.** He is a **12**. Regular season is over. Official IR wire still open — drop if you need the seat.
+- **Smash-selling Daniels** on an elbow. He is a **46**, not a 24. Specialist result **still MISSING**.
 - **Smash-selling Caleb** on a hamstring. He is a **54**. Official grade **MISSING**.
 - **Smash-bidding Bagent** as a locked MNF starter. He is in protocol. He is a **14**.
 - **Starting Rush Thursday** after Penix was named.
-- **Starting Tua Thursday** because he was Full — he is the backup.
+- **Starting Tua Thursday** because he was Full / no tag — he is the backup.
 - **Smash-starting Penix Thursday** — 10 months off, short week, Lambeau.
-- **Locking Nacua for SNF** before today’s practice. McVay is hopeful, not sure.
-- **Starting Flowers in Rio** before today’s practice.
-- **Starting Reed Thursday** — neck, too early for season, DNP Mon+Tue.
+- **Locking Nacua for SNF** after a Wednesday DNP.
+- **Starting Flowers in Rio** after a Wednesday DNP.
+- **Starting Reed Thursday** — official OUT.
 - **Sitting Kyler** after O’Connell named him.
-- **Sitting Lock** because Darnold might practice today. Chance ≠ named.
+- **Sitting Lock** because Darnold practiced. Good track ≠ named.
+- **Locking Jones as an RB2** after a Wednesday DNP (knee).
 - **Locking Kamara, Stevenson, Allgeier, Love (RB), or Javonte as RB2s.**
 - **Paying Wilson as Price.** Wilson’s 21–92 was a blowout clock.
 - **Paying Henderson as Gibbs.** He is a **28**.
 - **Paying Adams as a locked WR1** if Nacua is back — he is a **44**.
-- **Dropping Flowers / Nico / Brown / Moore / Nacua / McConkey / Darnold / Daniels / Caleb / Dart / Nabers.**
-- **Panic-dropping Reed** before more tests — he is a **12**, not a zero.
+- **Dropping Flowers / Nico / Brown / Moore / Nacua / McConkey / Darnold / Daniels / Caleb / Nabers.**
+- **Panic-dropping Reed** — he is a **12**, not a zero.
 
-**Cheap streamers who are startable in 10-team SF:** Lock (hold until Darnold is named), Young (hold), Cousins (hold), Kyler (start W3), Winston (Week 3 vs TEN), Mariota (Week 3 if desperate), Penix (desperate TNF only), Keenum (desperate MNF only).
+**Cheap streamers who are startable in 10-team SF:** Lock (hold until Darnold is named Friday), Young (hold), Cousins (hold), Kyler (start W3), Winston (Week 3 vs TEN / ROS), Mariota (Week 3 if desperate), Penix (desperate TNF only), Keenum (desperate MNF only).
 
 ### RB
 
-**Must-start:** Gibbs, Bijan, Taylor, CMC, Walker, Cook, Jeanty, Hampton, Henry.
+**Must-start:** Gibbs, Bijan, Taylor (Wed Limited — **not a sit**), CMC, Walker, Cook, Jeanty (not listed), Hampton, Henry.
 
 **Strong start:** Chase Brown, Kyren, Achane, Hall (low-end), Henderson (flex over Stevenson until the lead flips), Tuten, Hubbard.
 
-**Toss-up:** Saquon (MRI **MISSING** — flex only; first report Thursday), Jones (sore — wait today’s report), Price (shoulder — wait today’s report), Dobbins (wait today’s report), Skattebo, Swift / Monangai split.
+**Toss-up:** Saquon (MRI **MISSING** — flex only; first report Thursday), Jones (**Wed DNP knee** — wait Thursday), Price (official tag **MISSING**), Dobbins (Wed Limited — wait Thursday), Skattebo, Swift / Monangai split.
 
-**Sit / trap:** Jacobs (exempt), Conner, Charbonnet (PUP), Pacheco, Harvey, Dobbins until practice, Kamara as a locked RB2, Stevenson as a locked RB2, Allgeier / Love as locked RB2s, Holani as a flex, Wilson as a locked RB2, Corum as a locked RB2.
+**Sit / trap:** Jacobs (exempt), Conner, Charbonnet (PUP window closed this week), Pacheco, Harvey until more practice, Coleman until he practices, Kamara as a locked RB2, Stevenson as a locked RB2, Allgeier / Love as locked RB2s, Holani as a flex, Wilson as a locked RB2, Corum as a locked RB2.
 
 ### WR
 
 **Must-start:** JSN, Chase, Amon-Ra, Jefferson, Lamb, Olave, London, DeVonta.
 
-**Strong start:** **Adams (start — 8–195–2).** Nabers (hold / start if practice is clean; Winston + shoulder tax, not a sit). Rice, Higgins, McMillan. **Watson TNF** (Reed out).
+**Strong start:** **Adams (start — 8–195–2).** Nabers (not listed / start if you have no better WR2; Winston tax, not a sit). Rice, Higgins, McMillan. **Watson TNF** (Reed **OUT**).
 
-**Toss-up:** Nacua (hopeful-not-sure — wait today’s report), Flowers (sit until practice), Nico (sit until practice), Moore (sit until practice), Evans (managed), McConkey (hold, not a smash).
+**Toss-up:** Nacua (Wed DNP — wait Thursday/Friday), Moore (Wed Limited — wait Friday), Evans (not listed — WR3), McConkey (hold, not a smash).
 
-**Sit / trap:** Flowers / Nico / Pittman / Brown / Whittington / **Reed (neck / sit TNF)**, Kupp as a 10-team flex, McConkey as a smash (3–35, hold ROS).
+**Sit / trap:** Flowers (Wed DNP) / Nico (Wed DNP) / Pittman (Limited) / Brown / Whittington / **Reed (official OUT)**, Kupp as a 10-team flex, McConkey as a smash (3–35, hold ROS).
 
 ### TE
 
 **Must-start:** McBride, Bowers **if Friday Full**, Kittle, Kelce (this week).
 
-**Strong / stream:** Warren, Loveland, Kraft, Kincaid, **Gadsden** (official TE1 path), Waller, Likely, Ferguson if you lost Goedert.
+**Strong / stream:** Warren, Loveland, Kraft, Kincaid, **Gadsden** (official TE1 path), Waller **if he practices Thursday**, Likely, Ferguson if you lost Goedert.
 
-**Sit:** **Goedert** (MCL, few weeks). **Bowers until Friday Full.** Mayer as a ROS TE1 if Bowers is back. Ertz until elevated.
+**Sit:** **Goedert** (MCL, few weeks). **Bowers until Friday Full.** Mayer as a ROS TE1 if Bowers is back. Ertz until elevated. Waller tonight (Wed DNP).
 
 ---
 
 ## 6. Matchups that matter
 
-- **Week 3 TNF ATL @ GB:** **Penix starts** (Tue Full). NWS ~65° day / ~52° night / 2–6 mph / dry. Do not smash-start rust. Do not stream Rush or Tua. **Sit Reed (neck).** Start Love / Watson.
-- **Week 3 TEN @ NYG:** **Winston starts.** Desperate stream, not a smash. Nabers is a hold / start if practice is clean, not a panic sit.
-- **Week 3 SEA @ WAS:** Mariota vs Lock (or Darnold if named). Tough stream. Diggs/McLaurin are Mariota-taxed. Start Lock until Darnold is named.
-- **Week 3 MIN @ TB:** **Kyler starts.** Jefferson hold.
-- **Week 3 BAL vs DAL (Rio):** Flowers + travel. Sit until today’s practice.
-- **Week 3 LAC @ BUF:** Gadsden TE stream if you lost Goedert (Njoku/Kolar official IR). McConkey hold, not a smash.
-- **Week 3 LAR @ DEN (SNF):** Nacua hopeful-not-sure. Adams start. Dobbins watch today’s report. Extra day after MNF.
+- **Week 3 TNF ATL @ GB:** **Penix starts** (Wed Full). ~56° / 4 mph / 6% rain. Do not smash-start rust. Do not stream Rush or Tua. **Reed official OUT.** Start Love / Watson. Banks / Bako-Bewele OUT is a tiny OL tax, not a sit.
+- **Week 3 TEN @ NYG:** **Winston starts ROS.** Desperate stream, not a smash. Nabers is a hold / start if you have no better WR2.
+- **Week 3 SEA @ WAS:** Mariota vs Lock (or Darnold if named Friday). Tough stream. Diggs/McLaurin are Mariota-taxed. Start Lock until Darnold is named.
+- **Week 3 MIN @ TB:** **Kyler starts.** Jones Wed DNP — wait Thursday. Jefferson hold.
+- **Week 3 BAL vs DAL (Rio):** Flowers Wed DNP + travel. Sit until Thursday+ practice.
+- **Week 3 LAC @ BUF:** Gadsden TE stream if you lost Goedert. Moore Limited — wait Friday. McConkey hold, not a smash.
+- **Week 3 LAR @ DEN (SNF):** Nacua Wed DNP. Adams start. Dobbins Limited / Coleman DNP / Harvey Limited. Extra day after MNF.
 - **Week 3 PHI @ CHI (MNF):** Caleb unlikely / Bagent protocol / Keenum in line / Saquon MRI **MISSING** / Goedert out. Extra day. First report Thursday.
 
 ---
@@ -309,7 +296,7 @@ Conservative call. **Week 2 is scored.** First lock is **TNF Thursday.** Sunday 
 
 **Scale (10-team Superflex Half-PPR):** 90–100 = 1.01–1.04. 75–89 = late 1st / early 2nd. 55–74 = 2nd. 40–54 = 3rd. 25–39 = 4th–6th starter. 12–24 = streamer / cuff. <12 = cuttable.
 
-Trends below are **vs the Tuesday 6:20 PM ET published board**.
+Trends below are **vs the Wednesday 8:20 AM ET published board**.
 
 ### A. Tier list by position
 
@@ -322,7 +309,7 @@ Trends below are **vs the Tuesday 6:20 PM ET published board**.
 | Joe Burrow | 90 | flat | 20/31, 207, 2 TD |
 | Drake Maye | 88 | flat | 14/22, 208/0/1. Do not smash-sell |
 | Jalen Hurts | 86 | flat | 264/2/2. Walk-off |
-| Patrick Mahomes | 78 | flat | SNF 32/47, 382, 3 TD |
+| Patrick Mahomes | 78 | flat | SNF 32/47, 382, 3 TD. Wed Full |
 | Brock Purdy | 72 | flat | 20/22, 287/2 + rush TD |
 | Dak Prescott | 70 | flat | 26/31, 279, 4 TD |
 | Justin Herbert | 68 | flat | 15/27, 192/1/2 |
@@ -332,30 +319,30 @@ Trends below are **vs the Tuesday 6:20 PM ET published board**.
 | Matthew Stafford | 56 | flat | MNF 22/31, 327, 4 TD |
 | Bo Nix | 56 | flat | 22/31, 288/1/1 |
 | Caleb Williams | 54 | flat | Rapoport unlikely MNF. Official grade **MISSING**. Hold |
-| Jayden Daniels | 46 | flat | Specialists still today. OUT vs SEA. Hold |
+| Jayden Daniels | 46 | flat | Specialist today; result **MISSING**. OUT vs SEA. Hold |
 | Tyler Shough | 46 | flat | 252/1 + sneak @ BAL |
-| Baker Mayfield | 44 | flat | 20/31, 182/1/1 |
-| Kyler Murray | 42 | flat | Cleared. Starts vs TB |
+| Baker Mayfield | 44 | flat | Wed Full (illness). 20/31, 182/1/1 |
+| Kyler Murray | 42 | flat | Cleared. Starts vs TB. Not listed |
 | Kirk Cousins | 38 | flat | 19/29, 253/3 |
 | C.J. Stroud | 38 | flat | HOU 6 points |
 | Malik Willis | 36 | flat | MIA 13 |
-| Jaxson Dart | 34 | flat | MRI worse. Extended / possibly season. Surgery not decided. Hold |
-| Drew Lock | 32 | flat | 19/26, 235, 3 TD. Start until Darnold is named |
+| Drew Lock | 32 | flat | 19/26, 235, 3 TD. Start until Darnold is named Friday |
 | Bryce Young | 32 | flat | 23/36, 287, 3 TD |
 | Geno Smith | 28 | flat | OT loss |
 | Daniel Jones | 26 | flat | 210/1/1. Volume only |
+| Jameis Winston | 26 | up | **LOCKED ROS.** Dart done for the regular season. TEN this week |
 | Justin Fields | 24 | flat | Mahomes cuff |
 | Marcus Mariota | 24 | flat | Named W3 start. Multi-week stream |
-| Jameis Winston | 22 | flat | Locked W3+ vs TEN. Ugly 111/0/1 |
+| Sam Darnold | 24 | up | Practiced Wed. Good track. Friday decision. Not named |
 | Cam Ward | 22 | flat | Sneak TDs ≠ ROS |
-| Sam Darnold | 20 | flat | Practice today. Chance W3. Not named. Participation **MISSING** |
-| Michael Penix Jr. | 16 | flat | Named TNF starter. Tue Full. Rust + short week |
-| Aaron Rodgers | 16 | flat | 187/0/1, 2 fumbles |
 | Jacoby Brissett | 18 | flat | 17/28, 95/1/1 |
+| Michael Penix Jr. | 16 | flat | Named TNF starter. Wed Full. Rust + short week |
+| Aaron Rodgers | 16 | flat | 187/0/1, 2 fumbles |
 | Tyson Bagent | 14 | flat | Concussion protocol. Extra day. Not locked |
 | Carson Wentz | 12 | flat | Kyler starts. Drop |
 | Case Keenum | 12 | flat | In line MNF if Caleb sits and Bagent stays in protocol |
-| Tua Tagovailoa | 8 | flat | Tue Full = backup. Sit TNF |
+| Jaxson Dart | 12 | down | **Rest of regular season.** Surgery. ACL intact. Official IR **MISSING** |
+| Tua Tagovailoa | 8 | flat | Wed Full / no tag = backup. Sit TNF |
 | Cooper Rush | 6 | flat | Penix named. Drop |
 | Will Levis | 2 | flat | Jets PS Tuesday. $0 |
 
@@ -365,11 +352,11 @@ Trends below are **vs the Tuesday 6:20 PM ET published board**.
 |---|---|---|---|
 | Jahmyr Gibbs | 93 | flat | TNF |
 | Bijan Robinson | 88 | flat | 16–72 in a Rush wreck. Penix helps a little. Hold |
-| Jonathan Taylor | 76 | flat | 24–92–2 + 4–40 |
-| Christian McCaffrey | 72 | flat | 10–23–2 + 4–43. Inefficient TDs |
+| Jonathan Taylor | 76 | flat | 24–92–2 + 4–40. Wed Limited — not a sit |
+| Christian McCaffrey | 72 | flat | 10–23–2 + 4–43. Not listed |
 | Kenneth Walker III | 68 | flat | 24–117 + 6–61. Not Gibbs |
 | James Cook | 66 | flat | TNF 21–135–1 |
-| Ashton Jeanty | 66 | flat | 21–48 + 4–15. Workhorse. Ankle watch. Hold |
+| Ashton Jeanty | 66 | flat | 21–48 + 4–15. Not listed. Hold |
 | Chase Brown | 56 | flat | Played. Full individual still thin |
 | Omarion Hampton | 54 | flat | 23–94–1 + 2–21. Late fumble |
 | Derrick Henry | 54 | flat | 16–68–1 |
@@ -383,24 +370,24 @@ Trends below are **vs the Tuesday 6:20 PM ET published board**.
 | Bucky Irving | 38 | flat | Bucs.com 17–89 |
 | Bhayshul Tuten | 36 | flat | 13–65–1 |
 | Chuba Hubbard | 34 | flat | 12–53 + rec TD |
-| Jadarian Price | 34 | flat | Shoulder intact. Nothing serious |
-| Travis Etienne Jr. | 34 | flat | Committee |
+| Jadarian Price | 34 | flat | Shoulder intact. Official Wed tag **MISSING** |
+| Travis Etienne Jr. | 34 | flat | Committee. Wed Limited |
 | D’Andre Swift | 32 | flat | Monangai tax |
 | MarShawn Lloyd | 32 | flat | Committee |
 | Cam Skattebo | 30 | flat | 12–36 + 4–19. Fumble. Winston tax |
-| Aaron Jones | 30 | flat | 23–105. Pretty sore. Mason IR |
 | TreVeyon Henderson | 28 | flat | 16–76–1 |
 | Tyler Allgeier | 28 | flat | 5–10 + 2–9 |
 | Jeremiyah Love | 28 | flat | 9–29 + 3–16 |
+| Aaron Jones | 26 | down | **Wed DNP knee.** 23–105. Mason IR |
 | Alvin Kamara | 22 | flat | Committee |
 | Kyle Monangai | 22 | flat | Swift tax |
 | Emmett Johnson | 20 | flat | Walker ate the work |
-| J.K. Dobbins | 18 | flat | Pelissero “good.” Wait today’s report |
+| J.K. Dobbins | 20 | up | Wed Limited. Pelissero “good” |
 | Josh Jacobs | 18 | flat | Exempt |
-| Jonah Coleman | 16 | flat | 10–39–1 + 3–19 |
 | Tank Bigsby | 16 | flat | 13–33–1 |
 | Blake Corum | 16 | flat | 12–79 blowout split |
 | Emanuel Wilson | 16 | flat | 21–92 after Price left |
+| Jonah Coleman | 14 | down | **Wed DNP ankle.** 10–39–1 + 3–19 |
 | Isiah Pacheco | 5 | flat | December |
 
 **WR**
@@ -412,98 +399,117 @@ Trends below are **vs the Tuesday 6:20 PM ET published board**.
 | Amon-Ra St. Brown | 80 | flat | TNF |
 | Justin Jefferson | 72 | flat | 3–55. Kyler back. Hold |
 | CeeDee Lamb | 72 | flat | 8–153–2 |
-| Puka Nacua | 64 | flat | W2 INACTIVE. McVay hopeful-not-sure. Do not smash-sell |
+| Puka Nacua | 60 | down | **Wed DNP.** W2 INACTIVE. Do not smash-sell |
 | Chris Olave | 58 | flat | 8–86–1 |
 | Drake London | 56 | flat | Penix named. Still a hold, not a smash TNF |
-| Nico Collins | 50 | flat | Grade 1. Expected miss ~2 weeks. Do not drop |
+| Nico Collins | 50 | flat | Grade 1. Wed DNP. Do not drop |
 | DeVonta Smith | 50 | flat | 10–117 |
-| Malik Nabers | 46 | flat | Shoulder pop + Winston. Imaging **MISSING**. Hold |
-| Rashee Rice | 46 | flat | 4–83 |
+| Malik Nabers | 48 | up | Not listed after walkthrough. Imaging **MISSING**. Hold |
+| Rashee Rice | 46 | flat | 4–83. Wed Full |
 | Davante Adams | 44 | flat | 8–195–2 with Nacua out. Not a locked WR1 if Nacua returns |
 | Tee Higgins | 44 | flat | 5–95 |
 | Tetairoa McMillan | 42 | flat | 5–101 |
 | Emeka Egbuka | 40 | flat | 3–16–1 |
 | George Pickens | 40 | flat | 6–40 |
-| Mike Evans | 40 | flat | Hip managed. 3–54 |
-| Christian Watson | 38 | flat | TD. Reed neck absence helps a little |
+| Mike Evans | 40 | flat | Not listed. 3–54 |
+| Christian Watson | 38 | flat | TD. Reed **OUT** helps a little |
 | Garrett Wilson | 38 | flat | 5–57–1 |
-| DJ Moore | 34 | flat | AC sprain. Week 3 watch |
-| Zay Flowers | 32 | flat | MRI **MISSING**. Do not drop |
+| DJ Moore | 36 | up | Wed Limited. Chance Sunday. Do not drop |
+| Zay Flowers | 32 | flat | Wed DNP. MRI **MISSING**. Do not drop |
 | A.J. Brown | 32 | flat | IR Weeks 2–5 |
 | Stefon Diggs | 28 | flat | 5–47–2 |
 | Jaylen Waddle | 28 | flat | 49-yarder in recap |
 | Rome Odunze | 28 | flat | Caleb / Keenum tax |
-| Ladd McConkey | 24 | flat | ACTIVE 3–35. Do not drop |
+| Ladd McConkey | 24 | flat | Chargers sheet clean. Do not drop |
 | Romeo Doubs | 24 | flat | 3–96. Brown IR |
 | Terry McLaurin | 24 | flat | 2–50 on 9. Mariota tax |
 | Kayshon Boutte | 24 | flat | Nico out |
 | Parker Washington | 22 | flat | 7–98 |
 | Tre Tucker | 20 | flat | 5–119–1 |
 | Devaughn Vele | 20 | flat | 5–64 |
-| Jalen Coker | 18 | flat | Temporary WR3 |
+| Jalen Coker | 18 | flat | Temporary WR3. Wed Limited |
 | Mack Hollins | 18 | flat | Doubs won the week |
 | Xavier Worthy | 16 | flat | SNF TD |
 | Rashod Bateman | 14 | flat | 7–88–1 |
-| Jayden Reed | 12 | down | **NEW.** Neck, not back. Too early if he plays this season. Sit TNF. Hold if IR |
-| Khalil Shakir | 10 | flat | Moore Week 3 |
+| Jayden Reed | 12 | flat | **Official OUT TNF.** Neck. Hold if IR |
+| Khalil Shakir | 10 | flat | Moore Week 3 chance |
 
 **TE**
 
 | Player | Val | Trend | Why |
 |---|---|---|---|
 | Trey McBride | 56 | flat | 8–41–1 in a dead game. Volume |
-| Brock Bowers | 46 | flat | Inactive. Week 3 expected. Hold |
+| Brock Bowers | 48 | up | **Wed Limited.** Friday Full is the start. Hold |
 | Tyler Warren | 38 | flat | Scoring rec. Not a smash tape |
 | Colston Loveland | 38 | flat | Rain wreck |
 | George Kittle | 36 | flat | 4–80–1 |
 | Tucker Kraft | 36 | flat | Played |
 | Dalton Kincaid | 34 | flat | TNF 7–95–1 |
-| Travis Kelce | 30 | flat | 9–101–1 |
+| Travis Kelce | 30 | flat | 9–101–1. Mahomes / Rice Full |
 | Sam LaPorta | 28 | flat | TNF |
 | Isaiah Likely | 26 | flat | 5–33 on 10. Winston volume |
-| Darren Waller | 22 | flat | 3–33–2 |
 | Kyle Pitts | 22 | flat | Rush wreck. Penix bump is **GUESS** |
 | T.J. Hockenson | 22 | flat | 3–29 |
+| Darren Waller | 20 | down | **Wed DNP.** 3–33–2 |
 | Jake Ferguson | 20 | flat | 4–43–2 |
-| Terrance Ferguson | 18 | flat | 6–54–1 with Nacua out |
-| Oronde Gadsden | 16 | flat | **Official IR** for Njoku + Kolar. Stream @ BUF |
+| Terrance Ferguson | 18 | flat | 6–54–1. Wed Limited |
+| Oronde Gadsden | 16 | flat | Official IR for Njoku + Kolar. Stream @ BUF |
 | Dallas Goedert | 14 | flat | MCL sprain. Miss a few weeks |
 | Michael Mayer | 16 | flat | 3–23. Bowers W3 |
 | Evan Engram | 14 | flat | Played |
 | Zach Ertz | 10 | flat | Eagles PS. Elevation **MISSING** |
 
-### B. Biggest risers / fallers since Tuesday 6:20 PM ET
+### B. Biggest risers / fallers since Wednesday 8:20 AM ET
 
-**Jayden Reed NEW 12** — LaFleur closed **neck**, not back. Too early if he plays this season. Sit TNF. Hold if IR. Do not invent a season-ending call.
+**Dart 34→12** — Giants.com / Harbaugh: out rest of regular season. NFL.com: season-ending surgery; ACL intact. Official IR **MISSING**.
 
-**Flat on purpose:** Allen 100, Lamar 96, Maye 88, Burrow 90, Hurts 86, Gibbs 93, Bijan 88, Mahomes 78, JSN 88, Stafford 56, Dart 34, Winston 22, Nabers 46, Bagent 14, Caleb 54, Darnold 20, Keenum 12, Gadsden 16, Ertz 10, Daniels 46, Saquon 52 (MRI pending), Nacua 64, Flowers 32, Brown 32, Nico 50, Moore 34, Olave 58, Bowers 46, Henderson 28, Young 32, Lock 32, Jones 30, Jefferson 72, Kyler 42, Penix 16, Mariota 24, Adams 44, Watson 38.
+**Winston 22→26** — locked ROS starter.
 
-**Still MISSING:** Dart official structural grade / surgery decision. Official Caleb MRI grade. Daniels ligament / surgery (specialists today). Saquon MRI result. Flowers MRI. Nabers X-ray / MRI. Nacua Week 3 designation. Bagent protocol clearance. Darnold Wednesday participation / named starter. Ertz elevation. Wednesday TNF designations. Sunday practice for Price / Dobbins / Nico / Moore / Bowers / Flowers / Nabers. Charbonnet PUP window announcement.
+**Darnold 20→24** — practiced Wednesday; good track; Friday decision; not named.
+
+**Nacua 64→60** — official Wednesday DNP.
+
+**Bowers 46→48** — official Wednesday Limited.
+
+**Moore 34→36** — official Wednesday Limited.
+
+**Nabers 46→48** — not listed after walkthrough.
+
+**Dobbins 18→20** — official Wednesday Limited.
+
+**Jones 30→26** — official Wednesday DNP (knee).
+
+**Coleman 16→14** — official Wednesday DNP (ankle).
+
+**Waller 22→20** — official Wednesday DNP.
+
+**Flat on purpose:** Allen 100, Lamar 96, Maye 88, Burrow 90, Hurts 86, Gibbs 93, Bijan 88, Mahomes 78, JSN 88, Stafford 56, Reed 12 (now official Out), Bagent 14, Caleb 54, Keenum 12, Gadsden 16, Ertz 10, Daniels 46, Saquon 52 (MRI pending), Flowers 32, Brown 32, Nico 50, Olave 58, Henderson 28, Young 32, Lock 32, Jefferson 72, Kyler 42, Penix 16, Mariota 24, Adams 44, Watson 38.
+
+**Still MISSING:** Official Dart IR wire. Daniels ligament / surgery (specialist today; no result). Official Caleb MRI grade. Saquon MRI result. Flowers MRI. Nabers imaging result. Nacua Week 3 designation. Bagent protocol clearance. Darnold named starter. Official SEA Price designation. Ertz elevation. Thursday CHI/PHI reports.
 
 ### C. Fair 1-for-1 examples (equal value)
 
 - Mahomes (78) ≈ JSN (88) is close; QB side can ask a dart
 - Purdy (72) ≈ Dak (70) ≈ Lamb (72) ≈ Jefferson (72)
 - Stafford (56) ≈ Caleb (54) — **do not smash-sell Caleb for a 12**
-- Dart (34) ≈ Price (34) ≈ Moore (34) — **do not smash-sell Dart for Winston alone**
-- Daniels (46) ≈ Shough (46) ≈ Bowers (46) ≈ Nabers (46) — **do not smash-sell Daniels for Mariota alone**
+- Daniels (46) ≈ Shough (46) ≈ Bowers (48) ≈ Nabers (48) — **do not smash-sell Daniels for Mariota alone**
 - Kyler (42) ≈ Mayfield (44) ≈ Achane (44) ≈ Adams (44)
 - Lock (32) ≈ Young (32) ≈ Henderson (28)
-- Mariota (24) ≈ Winston (22) ≈ Kamara (22)
-- Keenum (12) ≈ Wentz (12) ≈ Reed (12) ≈ Bagent (14)
+- Winston (26) ≈ Darnold (24) ≈ Mariota (24) ≈ Jones (26)
+- Dart (12) ≈ Reed (12) ≈ Keenum (12) ≈ Wentz (12) — **Dart is now a 12, not a 34**
 
 ### D. Fair 2-for-1 / 3-for-1 shape
 
 - Side getting the **best player** sends extra.
-- Example: Dart (34) for Winston (22) + a 10–12 dart is the MRI hedge — **do not smash-sell Dart for Winston**.
+- Example: Dart (12) for a 10–12 dart is the IR hedge — **do not hold Dart as a 34**.
 - Example: Daniels (46) for Mariota (24) + Diggs (28) is the elbow hedge — **do not smash-sell Daniels for Mariota**.
 - Example: Caleb (54) for Young (32) + Henderson (28) is the hamstring hedge — **do not smash-sell Caleb for Keenum**.
-- Example: Nacua (64) for London (56) + a dart is the hip hedge — **do not smash-sell Nacua for Adams alone**.
-- **3-for-1s usually lose in 10-team** unless you are dumping Rush / Wentz / IR dead.
+- Example: Nacua (60) for London (56) + a dart is the hip hedge — **do not smash-sell Nacua for Adams alone**.
+- **3-for-1s usually lose in 10-team** unless you are dumping Rush / Wentz / Dart / IR dead.
 
 ### E. Ripoff flags
 
-- **Smash-selling Dart on the worse MRI** — he is a **34**, not a 22
+- **Holding Dart as a 34** — he is a **12**. Regular season is over
 - **Smash-selling Daniels on an elbow** — he is a **46**, not a 24
 - **Smash-selling Caleb on a hamstring** — he is a **54**, not a 12
 - **Paying Bagent as a locked MNF starter** — he is a **14** in protocol
@@ -512,62 +518,63 @@ Trends below are **vs the Tuesday 6:20 PM ET published board**.
 - **Starting Tua Thursday** because he was Full — he is the backup
 - **Smash-starting Penix Thursday** as if he is a locked QB1 — he is a **16**
 - **Sitting Kyler** after he was named
-- **Sitting Lock** because Darnold might practice today
-- **Dropping Flowers / Nico / Brown / Moore / Nacua / McConkey / Darnold / Daniels / Caleb / Dart / Nabers**
-- **Panic-dropping Reed** before more tests — he is a **12**
-- **Locking Nacua for SNF** before today’s practice
+- **Sitting Lock** because Darnold practiced — good track is not a name
+- **Starting Reed Thursday** — official OUT
+- **Locking Nacua for SNF** after a Wednesday DNP
+- **Locking Jones as an RB2** after a Wednesday DNP
+- **Dropping Flowers / Nico / Brown / Moore / Nacua / McConkey / Darnold / Daniels / Caleb / Nabers**
 - Paying Henderson as Gibbs — he is a **28**
 - Paying Wilson as Price — he is a **16**
-- Paying Coleman as Dobbins — he is a **16**
+- Paying Coleman as Dobbins — he is a **14** after the ankle DNP
 - Paying Adams as a locked WR1 if Nacua is back — he is a **44**
-- Paying Winston as a locked QB1 — he is a **22**
+- Paying Winston as a locked QB1 — he is a **26**
 - Paying Mariota as a locked QB1 — he is a **24**
 - Selling JSN after 9–155–3 as if it is a sell-high WR3 — he is an **88**
-- Selling Nabers after 1–1 + a shoulder pop — he is a **46**
+- Selling Nabers after 1–1 + a shoulder pop — he is a **48**
 - Selling Jeanty after 21–48 — he is a **66**
 - Any kicker or DST package
 
 ### F. Position scarcity this week
 
-- **QB is the scarce position.** Streams: **Winston** (Dart MRI worse), **Mariota** (named), **Keenum** (Bagent protocol), **Penix** (named, not smash). Kyler is back. Lock starts until Darnold is named. Young/Cousins/Shough earned holds. Rush/Tua/Wentz/Rodgers/Brissett are drops or sits.
-- **RB is secondary-scarce** after Saquon MRI **MISSING** + Dobbins hamstring + Price shoulder. Do not overpay a 4th RB. Henderson is a 28, not a 93. Charbonnet is PUP / Week 5.
-- **TE:** Bowers expected Week 3 if Friday Full. Goedert out a few weeks. **Gadsden** (official TE1) / Waller / Likely / Ferguson are the fills.
-- **WR:** Nacua hopeful-not-sure. Flowers/Nico/Brown are holds or sits, not cuts. Reed is a **12** neck stash, not a TNF start. Nabers is a 46, not a panic sell.
+- **QB is the scarce position.** Streams: **Winston** (ROS), **Mariota** (named), **Keenum** (Bagent protocol), **Penix** (named, not smash). Kyler is back. Lock starts until Darnold is named Friday. Young/Cousins/Shough earned holds. Rush/Tua/Wentz/Rodgers/Brissett are drops or sits. Dart is a **12**.
+- **RB is secondary-scarce** after Saquon MRI **MISSING** + Jones Wed DNP + Dobbins/Coleman/Harvey all dinged + Price tag **MISSING**. Do not overpay a 4th RB. Henderson is a 28, not a 93. Charbonnet window is closed this week.
+- **TE:** Bowers Wed Limited — Friday Full is the start. Goedert out a few weeks. **Gadsden** / Waller (DNP watch) / Likely / Ferguson are the fills.
+- **WR:** Nacua Wed DNP. Flowers/Nico/Brown are holds or sits, not cuts. Reed is a **12** official Out, not a TNF start. Nabers is a 48, not a panic sell.
 
 ---
 
 ## 8. Rookies and sleepers (snap path in the next 1–3 weeks)
 
-- **Jameis Winston** — Dart MRI worse. Path is multi-week, possibly ROS. TEN is the spot. Not a smash tape.
+- **Jameis Winston** — Dart done for the regular season. Path is ROS. TEN is the spot. Not a smash tape.
 - **Marcus Mariota** — named Week 3 starter. Path is multi-week until specialists speak.
 - **Case Keenum** — only if Caleb sits and Bagent stays in protocol. Path is 1 week **GUESS**.
 - **TreVeyon Henderson** — 16–76–1 already. Real lead path Week 3 if Stevenson’s fumble sticks.
 - **Michael Penix Jr.** — named TNF starter. Snap path is real; smash path is not.
-- **Oronde Gadsden** — Njoku + Kolar **official IR**. Real TE snap path @ BUF.
-- **Tre Tucker** — 5–119–1 with Bowers out. Path shrinks if Bowers plays Week 3.
-- **Jonah Coleman** — 10–39–1 + 3–19. Dobbins “good” shrinks the path if today’s practice is clean.
+- **Oronde Gadsden** — Njoku + Kolar official IR. Real TE snap path @ BUF.
+- **Tre Tucker** — 5–119–1 with Bowers out. Path shrinks if Bowers is Friday Full.
+- **Jonah Coleman** — Wed DNP ankle. Path shrinks if Dobbins holds.
 - **Blake Corum** — 12–79. Blowout split, not a locked RB2.
 - **Terrance Ferguson** — 6–54–1 with Nacua out. Path shrinks if Nacua is back SNF.
-- **Emanuel Wilson** — Price shoulder. Blowout clock, not a locked RB2.
+- **Emanuel Wilson** — Price shoulder. Official Price tag **MISSING**. Blowout clock, not a locked RB2.
 - **Tank Bigsby** — Saquon MRI path. Cuff, not a locked flex.
 - **Parker Washington** — 7–98. Real target path.
-- **Do not roster as a 10-team dart:** Rush, Tua-as-TNF, Whittington, Holani-as-flex, Levis (Jets PS), Coker-as-WR2, Wicks-as-WR3, Mayer-as-ROS-TE1 if Bowers is back, Bagent-as-locked-QB1, Ertz-as-TE1 until elevated, Charbonnet (PUP / Week 5).
+- **Do not roster as a 10-team dart:** Rush, Tua-as-TNF, Whittington, Holani-as-flex, Levis (Jets PS), Garoppolo until signed, Coker-as-WR2, Wicks-as-WR3, Mayer-as-ROS-TE1 if Bowers is Friday Full, Bagent-as-locked-QB1, Ertz-as-TE1 until elevated, Charbonnet (PUP window closed this week), Dart as a paid hold if you need the roster spot.
 
 ---
 
 ## 9. What a manager should do today
 
-1. **Leftover FA only** if Tuesday FAAB already processed. Superflex order: **Winston $8–$12**, **Mariota $8–$15**, **Keenum $4–$8**, **Young $5–$8**, **Jones $8–$12**, **Henderson $8–$12**, Gadsden / Tucker / Diggs / Doubs / Coleman. Drop Rush / Wentz / Rodgers / Brissett / a 4th RB. Do **not** smash-bid Bagent. Do **not** stream Tua Thursday.
-2. **Set TNF tonight after the Wednesday designation.** **Penix starts** — desperate stream only, not a smash. **Sit Reed (neck).** Start Love / Watson. Do not stream Rush or Tua.
-3. **Dart MRI worse.** Hold (34) pending IR/surgery. Roster **Winston $8–$12**. Official grade **MISSING**. Harbaugh has not decided. Do not smash-sell Dart for a 22.
-4. **Bagent concussion protocol.** Do not smash-start him. Roster **Keenum $4–$8** if you own Caleb. Extra MNF day. Clearance **MISSING**.
-5. **Daniels elbow.** Hold (46). Roster **Mariota $8–$15**. Specialists **still today**. Ligaments / surgery **MISSING**. Do not smash-sell Daniels for a 24.
+1. **Set TNF tonight.** **Penix starts** — desperate stream only, not a smash. **Sit Reed (official OUT).** Start Love / Watson. Do not stream Rush or Tua. Banks / Bako-Bewele OUT is a tiny OL tax, not a sit.
+2. **Leftover FA only** if Tuesday FAAB already processed. Superflex order: **Winston $10–$15** (ROS), **Mariota $8–$15**, **Keenum $4–$8**, **Young $5–$8**, **Henderson $8–$12**, Gadsden / Tucker / Diggs / Doubs. Jones is a Thursday watch after the DNP. Drop Rush / Wentz / Rodgers / Brissett / **Dart if no IR slot** / a 4th RB. Do **not** smash-bid Bagent. Do **not** stream Tua Thursday.
+3. **Dart is done for the regular season.** Giants.com / Harbaugh 5:22 PM. He is a **12**, not a 34. Roster **Winston $10–$15**. Official IR wire **MISSING**. Do not hold him over a startable streamer in 10-team.
+4. **Bagent concussion protocol.** Do not smash-start him. Roster **Keenum $4–$8** if you own Caleb. Extra MNF day. First report Thursday. Clearance **MISSING**.
+5. **Daniels elbow.** Hold (46). Roster **Mariota $8–$15**. Quinn: no update; specialist today. Ligaments / surgery **MISSING**. Do not smash-sell Daniels for a 24.
 6. **Caleb hamstring.** Hold (54). Rapoport: unlikely MNF. Official grade **MISSING**. Do not invent it.
-7. **Kyler is back.** Start him Week 3 vs TB. Drop Wentz. **Start Lock** until Darnold is named. Darnold practices today “in some capacity” — chance ≠ start. Participation **MISSING** this morning.
-8. **Nacua W2 INACTIVE.** Hold (64). McVay hopeful-not-sure. Start **Adams** (44). Do not FAAB Whittington. Do not smash-sell Nacua. Wait today’s report.
-9. **Reed neck, not back.** Sit TNF. **NEW 12.** Hold if you have IR. Do not invent season-ending. Do not start him Thursday.
-10. **Saquon MRI / Goedert MCL / Flowers MRI / Nabers imaging.** Hold Saquon (52) — result **MISSING**; first PHI report Thursday. Sit Goedert a few weeks (14). Sit Flowers until today’s practice (32). Hold Nabers (46) — imaging **MISSING**. Add Bigsby if you own Saquon. Add Gadsden (Njoku/Kolar **official IR**) / Waller / Likely / Ferguson if you lost a TE. **Do not start** Rush / Tua / Flowers / Nico / Pittman / Brown / Harvey / Dobbins / Reed / Bagent / Dart / Daniels. **Do not smash-start Penix Thursday.** **Do not drop** Flowers (32), Nico (50), Brown (32), Moore (34), McConkey (24), Olave (58), Nacua (64), Nabers (46), Darnold (20), Caleb (54), Daniels (46), or Dart (34). **Do not smash-sell** Maye (88), Burrow (90), Lamar (96), Jefferson (72), Bijan (88), London (56), Mahomes (78), Caleb (54), Daniels (46), Dart (34), Nacua (64), or Nabers (46). Board mover vs 6:20 PM: **Reed NEW 12.** Do not invent Dart surgery, official Caleb grade, Daniels ligaments, Saquon MRI, Flowers MRI, Nabers imaging, a Nacua Week 3 lock, Darnold participation, Wednesday TNF Out tags, or Bagent clearance.
+7. **Kyler is back.** Start him Week 3 vs TB. Drop Wentz. **Start Lock** until Darnold is named Friday. Darnold practiced — good track ≠ start.
+8. **Nacua Wed DNP.** Hold (60). Start **Adams** (44). Do not FAAB Whittington. Do not smash-sell Nacua. Wait Thursday/Friday.
+9. **Reed official OUT.** Sit TNF. Hold 12 if you have IR. Do not invent season-ending.
+10. **Saquon MRI / Goedert MCL / Flowers Wed DNP / Jones Wed DNP / Bowers Limited.** Hold Saquon (52) — result **MISSING**; first PHI report Thursday. Sit Goedert a few weeks (14). Sit Flowers (32) until Thursday+ practice. Jones is a Thursday watch (26). Bowers Friday Full is the TE start. Add Gadsden / Likely / Ferguson if you lost a TE. **Do not start** Rush / Tua / Flowers / Nico / Pittman / Brown / Harvey / Coleman / Reed / Bagent / Dart / Daniels. **Do not smash-start Penix Thursday.** **Do not drop** Flowers (32), Nico (50), Brown (32), Moore (36), McConkey (24), Olave (58), Nacua (60), Nabers (48), Darnold (24), Caleb (54), or Daniels (46). **Dart is the drop** if you need the seat. **Do not smash-sell** Maye (88), Burrow (90), Lamar (96), Jefferson (72), Bijan (88), London (56), Mahomes (78), Caleb (54), Daniels (46), Nacua (60), or Nabers (48). Board movers vs 8:20 AM: **Dart 34→12. Winston 22→26. Darnold 20→24. Nacua 64→60. Bowers 46→48. Moore 34→36. Nabers 46→48. Dobbins 18→20. Jones 30→26. Coleman 16→14. Waller 22→20.** Do not invent official Dart IR, Daniels ligaments, official Caleb grade, Saquon MRI, Flowers MRI, Nabers imaging, a Nacua Week 3 lock, a Darnold name, or Bagent clearance.
 
 ---
 
-**Sources:** Official NFL.com Week 3 injury page ~8:02 AM ET (TNF Tuesday participation LIVE; Wednesday TNF columns empty; Sunday/SNF/MNF No Injuries Reported). Official NFL gamebook NYG@LAR Sep 21 (FINAL LAR 28–NYG 6). Rapoport/Garafolo via ESPN/Reuters Sep 22–23 — Dart MRI worse than anticipated, extended period, possibly the season. Schefter via NBC/Yahoo Sep 22 — possible season-ending surgery. Harbaugh Tuesday — still evaluating, no decision, range of possibilities. LaFleur / Demovsky / Alper / CBS RotoWire Sep 22 5:23–6:18 PM ET — Reed **neck** not back; back in GB; “way too early” if he plays this season. Packers.com Sep 22 — Reed official DNP Mon+Tue (neck); Wednesday column empty. Falcons.com / NFL.com — Penix Tue Full; Tua Tue Full (backup); Terrell IR. Chargers.com / USA TODAY Sep 21 — Njoku + Kolar **official IR**, designation to return; Gadsden the healthy TE. Player comments — Nabers shoulder popped out and back in; X-ray / MRI **MISSING**. Rapoport / PFT Simmons 2:22 PM ET — Bagent concussion protocol; Keenum in line. Rapoport McAfee Tuesday — Caleb unlikely MNF; generic 2–4 week hamstring window. Bears.com Johnson Sep 21 — week-to-week, not expected to practice, not ruled out; official grade MISSING. CBS/Klein/RotoWire Sep 22 — McVay not sure / hopeful on Nacua. Seahawks.com Macdonald Sep 21 + TSN/Henderson Sep 22 — Darnold planned Wednesday practice “in some capacity”; if he can play he will play; participation **MISSING** this morning. Cimini/ESPN — Levis Jets PS. NBC Sports Philadelphia — Ertz Eagles PS. ESPN Keim — Daniels specialists Tue/Wed; Mariota starts. Eagles Wire / Sporting News — Saquon MRI still unannounced; first PHI report Thursday. Minter — Flowers “good shot.” Aaron Wilson — Nico lean miss Week 3. NWS Green Bay via StadiumForecast — Thu mostly sunny 65 / night 52 / 2–6 mph / dry. AccuWeather ~12% rain. FantasyPros Week 3 waiver dated **Sep 21** (1QB dollars are not this league). FantasyPros Week 3 rankings page **Sep 22**. FantasyPros seasonal Superflex last full table Sep 8 + Sep 9 three-expert table. Conservative lineup call when sources conflict (Rapoport unlikely-MNF vs Johnson not-ruled-out; Dart possibly-season vs Harbaugh no-decision; Schefter Reed-back vs LaFleur Reed-neck; Darnold chance vs Lock still the named stream). No kickers. No DST.
+**Sources:** Official NFL.com Week 3 injury page ~6:05 PM ET (TNF designations CLOSED; Sunday/SNF Wednesday sheets LIVE; CHI/PHI No Injuries Reported). NFL.com game-status recap — Reed OUT; Ebukam OUT; Penix/Tua no tag. PackersWire Sep 23 3:38 PM CT — Packers final IR (Reed/Banks/Bako-Bewele/Brinson OUT). Falcons.com final IR — Tua available as backup; Penix Full. Giants.com Sep 23 5:22 PM ET — Harbaugh: Dart miss rest of 2026 regular season; Winston starts. NFL.com / Rapoport / Garafolo / Schefter — Dart season-ending surgery; MCL+PCL+meniscus; ACL intact; Harbaugh confirmed; official IR wire still MISSING. ESPN Henderson 5:20 PM ET — Darnold practiced; “good track”; not every rep; Friday decision. Seahawks.com Boyle / CBS — Charbonnet PUP window not opened this week. Official team sheets: BUF Moore Limited / Coleman DNP; HOU Nico DNP; BAL Flowers DNP; DEN Dobbins Limited / Coleman DNP / Harvey Limited; MIN Jones DNP knee; LV Bowers Limited / Jeanty not listed; LAR Nacua DNP; LAC / ARI / SF / NYG No Injuries Reported for the skill names that matter. Raiders.com — Bowers LP. Vikings.com — Jones DNP knee. FOX19 / CBS — Iosivas IR thumb surgery, min 4. NBC / Keim — Quinn no Daniels update; specialist today. NWS/AccuWeather/Falcons.com/LineTerminal/NBC26 — TNF ~55–56° / 3–4 mph / 4–6% rain. FantasyPros Week 3 waiver dated **Sep 21**. FantasyPros Week 3 QB rankings page **Sep 23**. FantasyPros seasonal Superflex last full table Sep 8 + Sep 9 three-expert table. Conservative lineup call when sources conflict (Darnold good-track vs Lock still the named stream; Dart surgery vs official IR still open; Quinn no-update vs specialist still today; Schefter Reed-back vs official Out). No kickers. No DST.
