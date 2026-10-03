@@ -1,7 +1,7 @@
 # FF-Intel — 10-team Superflex Half-PPR (no K / no DST)
 
-- **Generated:** Saturday, October 3, 2026, 8:20 AM ET (America/New_York)
-- **NFL week:** Week 4 (TNF **CLOSED: CLE 27–PIT 24**. London / Sunday / SNF / MNF still ahead)
+- **Generated:** Saturday, October 3, 2026, 6:20 PM ET (America/New_York)
+- **NFL week:** Week 4 (TNF **CLOSED: CLE 27–PIT 24**. London **locks tonight**. Sunday / SNF / MNF still ahead)
 - **Season:** 2026 NFL · Platform: Sleeper · $100 FAAB
 - **Data freshness:**
   - 53-man rosters locked Sunday, Aug 30, 6:00 PM ET
@@ -12,29 +12,29 @@
   - **Week 3 MNF CLOSED.** Official: **CHI 27–PHI 7.**
   - **Week 4 TNF CLOSED.** Official: **CLE 27–PIT 24.** Szmyt 56-yd FG :10. Delpit INT of Rodgers at :01. **Warren 17–93 + 3–33 (20 touches).** **Rodgers 22/40, 299, 3 TD, 2 INT + sneak 2-pt** (5 sacks). **Metcalf 5–115.** Roman Wilson **3–74–1.** Darnell Washington **3–27–1.** Freiermuth **3–17–1.** Homer **2–(−1).** **Watson 24/33, 268, 1 TD, 1 INT + 7–22.** Judkins **17–53–1 + 6–43.** McLaughlin **1–28–1.** Fannin **3–27–1.** Boston **4–89.** Concepcion **5–64.**
   - **Friday Sunday designations HOLD** (CBS 5:36 PM ET / NFL.com Saturday re-check). No Saturday practice columns for Sunday games (expected).
-  - **NEW vs Friday 6:20 PM ET:** Rapoport (NFL Network Friday night) **Bagent LIKELY start** vs NYJ. CBS 8:44 PM ET: **Keenum expected backup.** Johnson still **“We’ll find out on Sunday.”** Official CHI name **MISSING**. **Bagent 16→18.** **Keenum 22→20.** FootballDB weather **7:20 AM ET**. BAL **CONFLICT:** FootballDB **0%** vs NFLWeather **51% showers** / WU ~**70%** — watch, **not** a Lamar sit (wind 7). PHI **40% / NE 7**. SF heat **94→87**. McVay: Nacua “looked sharp” / likely snap count — still **START**. Commanders GM: Daniels surgery **not on the table** / no IR. **MNF ATL/NO designations still TBD / MISSING.**
+  - **NEW vs Saturday 8:20 AM ET:** Wiederer (The Athletic, multiple sources Sat) + CBS 12:17 PM ET + Yahoo Sat + Sportsnet: **Bagent EXPECTED start** vs NYJ. Keenum **expected backup**. Johnson **still has not named him publicly**. Official CHI name **MISSING**. **Bagent 18→20.** **Keenum 20→18.** **Official ATL/NO Saturday designations IN** (Saints.com 1:55 PM / Falcons.com 1:02 PM). Kamara / Olave / Bijan / Penix / Shough **not listed — START**. Elliss / Granderson / Jennings **OUT**. Fant / Werner **Q**. Panthers **elevated Ja'seem Reed** Saturday — Canales Friday: elevate Reed **if Coker cannot play**. Coker still **official Q**, not OUT. **Coker 14→12.** FootballDB weather **5:20 PM ET**. BAL **CONFLICT:** FootballDB **63° / ENE 5 / 0%** vs NFLWeather / DK **55–59% showers** — watch, **not** a Lamar sit (wind 5). PHI FootballDB **0%** vs others **~47–56%**. BUF wind **10→14** — watch, **not** an Allen sit. SF heat **87→89**. **Set London tonight.**
   - **Default Sleeper FAAB is Tuesday.** Leftover FA only unless your commish set Wednesday/Thursday.
-  - **Still MISSING:** Official CHI Week 4 starter name. Official ATL/NO Monday designations. Sunday inactives. Evans / Flowers / McLaurin / Sadiq / Coker / McConkey Sunday active/inactive.
-  - Superflex values: FantasyPros **seasonal** Superflex last full table still **Sep 8**. Fitz Week 3 half-PPR tiers dated **Sep 25**. FantasyPros Week 4 injury note dated **Oct 1**. Official Friday designations dated **Oct 2** (CBS 5:36 PM / NFL.com Saturday re-check). Rapoport Bagent lean dated **Oct 2 night**. Thin spots labeled **GUESS**.
-  - **Risers/fallers vs Friday 6:20 PM ET published board:** Bagent **16→18**. **Down:** Keenum **22→20**. Rest **FLAT**.
+  - **Still MISSING:** Official CHI Week 4 starter name (Johnson public). Sunday inactives. Evans / Flowers / McLaurin / Sadiq / Coker / McConkey Sunday active/inactive. Coker Saturday workout result (Reed elevation is the lean).
+  - Superflex values: FantasyPros **seasonal** Superflex last full table still **Sep 8**. Fitz Week 3 half-PPR tiers dated **Sep 25**. FantasyPros Week 4 injury note dated **Oct 1**. Official Friday designations dated **Oct 2**. Wiederer / CBS / Yahoo Bagent expected dated **Oct 3**. Official ATL/NO Saturday designations dated **Oct 3**. Thin spots labeled **GUESS**.
+  - **Risers/fallers vs Saturday 8:20 AM ET published board:** Bagent **18→20**. **Down:** Keenum **20→18**. Coker **14→12**. Rest **FLAT**.
 
 ---
 
 ## 1. League week context
 
-**Now:** Saturday morning. **TNF is scored.** Official Friday Sunday designations **HOLD**. Default Sleeper FAAB is **leftover FA**. CHI starter still **officially unnamed** — Rapoport **lean Bagent**. **Set London tonight** (9:30 AM ET Sunday). Set Sunday locks tonight; wait Evans / Flowers / Sadiq / McLaurin / Coker / McConkey / CHI QB name inactives Sunday.
+**Now:** Saturday evening. **TNF is scored.** Official Friday Sunday designations **HOLD**. Official ATL/NO Saturday designations **IN**. Default Sleeper FAAB is **leftover FA**. CHI starter still **officially unnamed** — Saturday sources **EXPECTED Bagent**. **SET LONDON TONIGHT** (9:30 AM ET Sunday — ~15 hours). Set Sunday locks tonight; wait Evans / Flowers / Sadiq / McLaurin / Coker / McConkey / official CHI QB name inactives Sunday.
 
 **Week 4 window**
 
 | When (ET) | Game | Note |
 |---|---|---|
 | **Thu 10/1 8:15p Prime** | **PIT @ CLE** | **CLOSED. CLE 27–PIT 24.** Warren 17–93 + 3–33. Rodgers 299/3/2 + sneak 2-pt. Metcalf 5–115. Dowdle sat. |
-| **Sun 10/4 9:30a NFLN** | **IND vs WAS (Tottenham)** | Indoor / 65° / 0%. **Mariota NAMED.** Daniels **OUT**. Taylor. Cosmi / Cross / White **OUT**. McLaurin **Q / sit lean**. **SET TONIGHT.** |
-| **Sun 10/4 1:00p** | TEN@BAL, NE@BUF, NYJ@CHI, JAC@CIN, DAL@HOU, ARI@NYG, LAR@PHI, GB@TB | **Hall OUT.** **Jalon Daniels starts.** **Nacua START.** **Nico START.** **Jefferson OUT.** **CHI: Rapoport Bagent lean / official name MISSING.** **Lamar start.** **DeVonta OUT.** **Swift START.** **Irving START.** Pollard start. |
+| **Sun 10/4 9:30a NFLN** | **IND vs WAS (Tottenham)** | 65° / SW 4 / 0%. **Mariota NAMED.** Daniels **OUT**. Taylor. Cosmi / Cross / White **OUT**. McLaurin **Q / sit lean**. Keenan Allen **Q**. **SET TONIGHT.** |
+| **Sun 10/4 1:00p** | TEN@BAL, NE@BUF, NYJ@CHI, JAC@CIN, DAL@HOU, ARI@NYG, LAR@PHI, GB@TB | **Hall OUT.** **Jalon Daniels starts.** **Nacua START.** **Nico START.** **Jefferson OUT.** **CHI: Saturday sources EXPECTED Bagent / official name MISSING.** **Lamar start.** **DeVonta OUT.** **Swift START.** **Irving START.** Pollard start. |
 | **Sun 10/4 4:05p** | MIA@MIN | **Wright plays.** Gordon committee, not lead. Achane IR. Jefferson **OUT**. Indoor. |
 | **Sun 10/4 4:25p** | KC@LV, LAC@SEA, DEN@SF | Bowers / Jeanty vs Mahomes. **CMC start.** Evans **Q / GTD sit lean**. Price **OUT**. McConkey **Q**. |
-| **Sun 10/4 8:20p NBC** | **DET @ CAR** | Gibbs smash. Young start. Coker **Q / sit**. Hubbard start. Week 5 bye after. |
-| **Mon 10/5 8:15p ESPN** | **ATL @ NO** | Penix / Bijan / London vs Shough / Olave. **Etienne official IR.** Kamara / Miller committee. **Monday designations MISSING.** |
+| **Sun 10/4 8:20p NBC** | **DET @ CAR** | Gibbs smash. Young start. Coker **Q / sit lean stronger** (Reed elevated). Hubbard start. Week 5 bye after. 45% light rain. |
+| **Mon 10/5 8:15p ESPN** | **ATL @ NO** | Penix / Bijan / London vs Shough / Olave. **Etienne official IR.** Kamara / Olave **not listed — START.** Elliss / Granderson / Jennings **OUT**. |
 
 **Byes this week:** **None (Week 4).** First byes **Week 5 (CAR, KC)** — stash Chiefs / Panthers now if you are thin.
 
@@ -45,23 +45,24 @@
 - **PIT / CLE played Thursday** — designations and boxes **closed**. Warren workhorse. Dowdle sat.
 - **IND / WAS play in London** — 9:30 AM ET. **Mariota NAMED.** Daniels **OUT**. Cosmi + Cross + White **OUT**. McLaurin **Q**. **Set this tonight.**
 - **PHI is on a short week** after MNF — **DeVonta official OUT.**
-- **ATL / GB played Thursday last week.** ATL @ NO **Mon Oct 5** — Monday tags **MISSING**. GB @ TB **Oct 4** — **Jalon Daniels starts.**
+- **ATL / GB played Thursday last week.** ATL @ NO **Mon Oct 5** — Saturday designations **IN**. Kamara / Olave / Bijan **not listed**. GB @ TB **Oct 4** — **Jalon Daniels starts.**
 - **BAL / DAL extra rest after Rio.** Lamar not listed — **start**.
-- **CHI hosts NYJ Sunday** after MNF. Week 4 QB **officially unnamed**. Rapoport **Bagent lean**. **Swift START.**
-- **NO hosts ATL Monday.** Etienne **official IR**.
+- **CHI hosts NYJ Sunday** after MNF. Week 4 QB **officially unnamed**. Saturday sources **EXPECTED Bagent**. **Swift START.**
+- **NO hosts ATL Monday.** Etienne **official IR**. Kamara / Olave **START**.
 
-**Weather (only if it changes a start/sit)** — FootballDB **7:20 AM ET** + NFLWeather / WU where they conflict
+**Weather (only if it changes a start/sit)** — FootballDB **5:20 PM ET** + NFLWeather / DK / WU where they conflict
 - **TNF CLE:** Closed. Result stands.
-- **Tottenham:** **65° / SW 3 / 0%**. No weather sit.
-- **TEN@BAL:** FootballDB **60° / NNE 7 / 0%**. NFLWeather **65° / NE 7 / 51% showers**. WU ~**70%**. **CONFLICT on rain, not wind.** Watch, **not** a sit of Lamar / Henry / Flowers. Wind is not 15+.
-- **LAR@PHI:** **60° / NE 7 / 40%**. NFLWeather/WU higher rain later. Watch, not a sit of Hurts / Adams / Nacua.
-- **GB@TB:** **82° / SSE 4 / 0%**. Feels 91°. Heat watch, **not** a Jalon sit. Friday DraftEdge 22 mph is **STALE**.
+- **Tottenham:** **65° / SW 4 / 0%**. No weather sit.
+- **TEN@BAL:** FootballDB **63° / ENE 5 / 0%**. NFLWeather / DK **55–59% showers**. **CONFLICT on rain, not wind.** Watch, **not** a sit of Lamar / Henry / Flowers. Wind is 5.
+- **LAR@PHI:** FootballDB **62° / ENE 8 / 0%**. Others **~47–56%**. Watch, not a sit of Hurts / Adams / Nacua.
+- **GB@TB:** **84° / SSE 4 / 0%**. Feels 93°. Heat watch, **not** a Jalon sit. Friday DraftEdge 22 mph is **STALE**.
 - **DET@CAR:** **65° / N 2 / 45% light rain**. Watch, not a sit of Gibbs / Young.
-- **NE@BUF:** **66° / SSW 10 / 0%**. No Allen sit.
-- **NYJ@CHI:** **63° / W 9 / 0%**. No sit.
-- **JAC@CIN / SEA:** Dry / light wind. No sit.
-- **MetLife:** **60° / NE 7 / 0%**. No Winston weather-sit. Not a sit of McBride / Nabers.
-- **SF:** **87° / NNW 3 / 0%** (Friday 94° eased). Heat watch, not a CMC sit.
+- **NE@BUF:** **66° / SSE 14 / 0%**. Wind **14** — watch, **not** an Allen sit. Not 15+.
+- **NYJ@CHI:** **64° / W 9 / 0%**. No sit.
+- **JAC@CIN:** **73° / NW 6 / 0%**. No sit.
+- **LAC@SEA:** **62° / NW 4 / 0%**. No sit.
+- **MetLife:** **64° / E 7 / 0%**. No Winston weather-sit. Not a sit of McBride / Nabers.
+- **SF:** **89° / N 3 / 0%**. Heat watch, not a CMC sit.
 - **U.S. Bank / Allegiant / NRG / Superdome:** Indoor / no weather sit.
 
 **Deadlines that matter**
@@ -75,7 +76,7 @@
 
 ## 2. Injuries and availability (most important)
 
-Statuses use **closed Week 3 boxes**, **closed TNF boxes**, **official Friday Sunday designations (CBS 5:36 PM / NFL.com Saturday re-check)**, and **Rapoport Friday-night Bagent lean**. Conservative call when sources conflict. **MNF ATL/NO designations MISSING.**
+Statuses use **closed Week 3 boxes**, **closed TNF boxes**, **official Friday Sunday designations (CBS 5:36 PM / NFL.com Saturday re-check)**, **Saturday multi-source Bagent expected**, and **official ATL/NO Saturday designations**. Conservative call when sources conflict.
 
 ### Must act today (London lock / leftover FA / landmine)
 
@@ -92,8 +93,8 @@ Statuses use **closed Week 3 boxes**, **closed TNF boxes**, **official Friday Su
 | Breece Hall | RB | NYJ | **Official OUT** | Right quad. Week-to-week | N/A Sunday | **Allen + Davis** | Allen is the add | **MUST ACT** — sit. Hold **32**. Do not invent IR |
 | Braelon Allen | RB | NYJ | **Healthy / official lead** | Not listed | Lead vs CHI | Hall if a miracle | Isaiah Davis $1–$3 | **MUST ACT** — start if rostered. **20** |
 | D'Andre Swift | RB | CHI | **Friday Full / no tag** | Knee. Thu DNP only | Locked RB2 vs NYJ | Monangai | Monangai leftover **$1–$3** | **MUST ACT** — **START**. **34** |
-| Tyson Bagent | QB | CHI | **Rapoport LIKELY / official name MISSING** | Cleared concussion. Camp QB2. Majority 1st-team reps | Stream vs NYJ **if named** | Keenum if Johnson flips | Roster both if you own Caleb | **MUST ACT** — lean stream **18**. Sit if you have a real QB2 until named |
-| Case Keenum | QB | CHI | **CBS expected backup / official name MISSING** | MNF smash 247/2 + sneak | Stream vs NYJ **only if named** | Bagent if Rapoport holds | Roster both if you own Caleb | **MUST ACT** — sit lean. **20**. Do not smash-start |
+| Tyson Bagent | QB | CHI | **Saturday sources EXPECTED / official name MISSING** | Cleared concussion. Camp QB2. Majority 1st-team reps. Wiederer + CBS + Yahoo Sat | Stream vs NYJ **if named / expected** | Keenum if Johnson flips | Roster both if you own Caleb | **MUST ACT** — lean stream **20**. Sit if you have a real QB2 until Johnson names him |
+| Case Keenum | QB | CHI | **Saturday sources expected backup / official name MISSING** | MNF smash 247/2 + sneak | Stream vs NYJ **only if named** | Bagent if Saturday reports hold | Roster both if you own Caleb | **MUST ACT** — sit lean. **18**. Do not smash-start |
 | Jaylen Wright | RB | MIA | **Off report / Hafley ready** | Foot / stinger. Inactive W3 | Committee vs MIN | Gordon if a flip | Gordon is the other seat | **MUST ACT** — plays. **16**. Sit as a locked flex |
 | Ollie Gordon II | RB | MIA | **Healthy / committee** | Cramps W3, returned | Split vs MIN | Wright if he eats | Wright is the job threat | Leftover. **24**. Not a 70 |
 | Mike Evans | WR | SF | **Official Q / Shanahan GTD** | Rib strain. Side-field / ran Friday | WR2/flex vs DEN only if Sunday active | Deebo / Kittle bump | Hold **26**. Cooks $0–$2 | **MUST ACT** — **sit lean** until active |
@@ -107,10 +108,10 @@ Statuses use **closed Week 3 boxes**, **closed TNF boxes**, **official Friday Su
 | Jaylen Warren | RB | PIT | **Healthy / TNF closed** | Not listed | Already played **17–93 + 3–33** | N/A | Homer $0 | Hold **36**. Dowdle expected Week 5 |
 | Aaron Rodgers | QB | PIT | **Played / 299/3/2 + sneak 2-pt** | Not listed | Already scored. Weekly QB2 spike | N/A | Watson (QB) sit | Hold **24**. Not a locked QB2 |
 | Travis Etienne Jr. | RB | NO | **Official IR / hamstring / ≥4 weeks** | No surgery. Earliest Week 9 (bye W8) | N/A Weeks 4–8 | **Kamara + Miller** | Miller **$1–$3** | Sit. Park IR. **16** |
-| Alvin Kamara | RB | NO | **Healthy / lead-ish committee** | MCL already played through | Flex MNF vs ATL | Miller / Donaldson | Miller if you own Kamara | Leftover **$3–$6** if free. **28**. Not a 70 |
+| Alvin Kamara | RB | NO | **Saturday not listed / START** | MCL already played through. Not on Sat sheet | Flex MNF vs ATL | Miller / Donaldson | Miller if you own Kamara | Leftover **$3–$6** if free. **28**. Not a 70 |
 | Jalon Daniels | QB | TB | **NAMED Week 4 starter vs GB** | Mayfield official OUT | Locked multi-week stream | Mayfield Week 7 earliest | $6–$12 if he cleared | Leftover if free. **18**. Not a locked QB2 |
 | Baker Mayfield | QB | TB | **Official OUT ≥3 weeks** | Dislocated right thumb. MRI clean | N/A Weeks 4–6 | **Jalon Daniels NAMED** | Roster Daniels | Hold **22**. Do not drop |
-| Caleb Williams | QB | CHI | **Official OUT / Grade 2 / 3–4 weeks** | Hamstring. No IR | N/A Weeks 4–5 **GUESS** | Bagent lean / Keenum | Roster both backups | Sit. Hold **50**. Do not smash-sell |
+| Caleb Williams | QB | CHI | **Official OUT / Grade 2 / 3–4 weeks** | Hamstring. No IR | N/A Weeks 4–5 **GUESS** | Bagent expected / Keenum | Roster both backups | Sit. Hold **50**. Do not smash-sell |
 | De'Von Achane | RB | MIA | **Official IR / torn ACL / season** | Left knee | N/A 2026 | **Gordon + Wright** | Wright is the job threat | Park IR (**6**) |
 | Jalen McMillan | WR | TB | **Official IR / PCL sprain / 6–8 weeks** | Same knee as camp | N/A | Egbuka / Godwin path | **$0**. Not a 10-team add | Park IR |
 | Jayden Reed | WR | GB | **Official IR / season-ending neck surgery** | Not career-ending per LaFleur | N/A 2026 | Watson / Golden | **$0** | Park IR (**6**) |
@@ -141,7 +142,7 @@ Statuses use **closed Week 3 boxes**, **closed TNF boxes**, **official Friday Su
 | Jaxson Dart | QB | NYG | **Official IR + Friday surgery** | MCL+PCL+meniscus | N/A regular season | Winston starts W4 | Dart can occupy IR (**12**) |
 | Kendre Miller | RB | NO | **Healthy / committee after Etienne IR** | Inactive W2; 6 touches after Etienne left | Healthy | Dart / cuff. Not a locked flex | **14**. $1–$3 |
 | Cody White | WR | LV | **Not listed / Bech IR** | 3 rec / 3 TD as elevate | Full | Dart only vs KC. Not a WR2 | **8**. $0–$2 |
-| Jalen Coker | WR | CAR | **Official Q** | Quad. Limited Thu+Fri | Limited | Tet / Legette OUT | Sit. **14** |
+| Jalen Coker | WR | CAR | **Official Q / Reed elevated Sat** | Quad. Limited Thu+Fri. Canales: elevate Reed if Coker cannot play | Limited | Tet / Legette OUT | Sit. **12** |
 | Xavier Legette | WR | CAR | **Official OUT** | Knee | N/A | Tet / Coker | Sit. Not a 10-team add |
 | Chuba Hubbard | RB | CAR | **Not listed** | Wed rest only | Play | Locked flex. Week 5 bye | Hold **34**. Start |
 | Bryce Young | QB | CAR | **Not listed** | Knee closed | Start SNF vs DET | N/A | Hold **32** |
@@ -164,8 +165,8 @@ Statuses use **closed Week 3 boxes**, **closed TNF boxes**, **official Friday Su
 - **Winston is NAMED.** Giants no injuries. **26**. Sit if you have a real QB2. McCarthy practiced — still a stash, not the start.
 - **McCarthy physical passed. Practiced in No. 18.** **16 GUESS**. Palmer: **Week 7–9**. Do not pay him as a locked QB2. Do not start him Week 4.
 - **Jalon Daniels is NAMED Week 4 vs GB.** Mayfield official OUT. Multi-week. **18**. Do not pay him as a locked QB2.
-- **Bagent is Rapoport LIKELY.** Johnson official name **MISSING**. **18**. Lean stream if you need a QB2. Sit if you have a real one until named.
-- **Keenum smashed (247/2 + sneak).** CBS expected backup. **20**. Sit lean. Do not smash-start him over Bagent on vibes.
+- **Bagent is Saturday-source EXPECTED.** Wiederer + CBS + Yahoo. Johnson official name **MISSING**. **20**. Lean stream if you need a QB2. Sit if you have a real one until named.
+- **Keenum smashed (247/2 + sneak).** Saturday sources expected backup. **18**. Sit lean. Do not smash-start him over Bagent.
 - **Caleb is Grade 2 / 3–4 weeks.** Official OUT. Hold **50**. Roster Bagent **and** Keenum if you can.
 - **Josh Allen is a 100.** Not listed. **Start.**
 - **Lamar is a 96.** Not listed. **Start. Do not sit** on the BAL rain conflict.
@@ -177,11 +178,11 @@ Statuses use **closed Week 3 boxes**, **closed TNF boxes**, **official Friday Su
 
 ## 3. News that changes value
 
-Only snaps / usage. **Bold = new since Friday 6:20 PM ET packet.**
+Only snaps / usage. **Bold = new since Saturday 8:20 AM ET packet.**
 
-- **Bagent CLOSED Rapoport LIKELY start.** Majority first-team reps. Johnson still unnamed publicly. **16→18.** Lean stream if you need a QB2.
-- **Keenum CLOSED CBS expected backup** (8:44 PM ET). **22→20.** Sit lean. Do not smash-start the MNF hero.
-- **Johnson still “We’ll find out on Sunday.”** Official CHI name **MISSING**.
+- **Bagent NEW Saturday expected start.** Wiederer (The Athletic, multiple sources) + CBS 12:17 PM ET + Yahoo Sat. Majority first-team reps. Johnson still unnamed publicly. **18→20.** Lean stream if you need a QB2.
+- **Keenum NEW Saturday expected backup.** **20→18.** Sit lean. Do not smash-start the MNF hero.
+- **Johnson still has not named a starter publicly.** Official CHI name **MISSING**.
 - **Daniels HOLD official OUT.** GM: no IR / surgery not on the table. **54 flat. Sit.** **Mariota NAMED 32.** Cosmi / Cross / White **OUT**. McLaurin **Q**.
 - **Jefferson HOLD official OUT.** **64 flat. Sit.** Addison **34**.
 - **DeVonta HOLD official OUT.** Inquirer sources: **2–3 games GUESS**. **38 flat. Sit.** Wicks **12**.
@@ -199,7 +200,12 @@ Only snaps / usage. **Bold = new since Friday 6:20 PM ET packet.**
 - **Ferguson HOLD official IR.** **6.**
 - **Price HOLD official OUT.** **28.**
 - **Mayfield / Caleb HOLD official OUT.** Hold **22 / 50**.
-- **MNF ATL/NO designations still MISSING.**
+- **MNF ATL/NO Saturday designations IN.** Kamara / Olave / Bijan / Penix / Shough **not listed — START.** Elliss / Granderson / Jennings **OUT**. Fant / Werner **Q**.
+- **Coker NEW sit lean stronger.** Panthers elevated Ja'seem Reed Saturday. Canales Friday: elevate Reed if Coker cannot play. Still official Q, not OUT. **14→12.** Do not FAAB Reed.
+- **DJ Moore Friday Limited, no designation.** Not CHI. **38. START** vs NE (Gonzalez OUT). BUF wind 14 is a watch, not a sit of Allen.
+- **Aaron Jones Friday Limited, no designation.** **34. START** vs MIA.
+- **Bowers Friday Limited, no designation.** **54. START** vs KC.
+- **Keenan Allen official Q** (rest / groin) for London. Sit lean if you have a better WR2. Not a smash sit.
 - **TNF already priced.** Warren **36**. Rodgers **24**. Metcalf **40**.
 - **No Saturday OC firings.**
 
@@ -218,8 +224,8 @@ Bids are **% of $100 and dollars**. NBC’s 12-team “30–40% on Allen / 25–
 | Marcus Mariota | QB | WAS | **NAMED. Daniels OUT.** London lock. Cosmi OUT is an OL tax, not a sit | 8–15% / $8–$15 if free | **Must-add** if you own Daniels | Rush, Wentz |
 | Jameis Winston | QB | NYG | **NAMED. Dart IR. Locked W4. McCarthy practiced — not a flip** | 8–12% / $8–$12 if free | **Must-add** if you own Dart | Haener, Rush, Wentz |
 | Jalon Daniels | QB | TB | **NAMED Week 4 vs GB.** Mayfield official OUT | 6–12% / $6–$12 if free | **Must-add** if you own Mayfield | Same |
-| Tyson Bagent | QB | CHI | **Rapoport LIKELY. Official name MISSING. Johnson: Sunday** | 4–8% / $4–$8 if free | Strong if you own Caleb / need a QB2 | Same |
-| Case Keenum | QB | CHI | **247/2 + sneak. CBS expected backup** | 3–6% / $3–$6 if free | Strong if you own Caleb (pair) | Rush, Wentz |
+| Tyson Bagent | QB | CHI | **Saturday sources EXPECTED. Official name MISSING. Johnson still unnamed** | 4–8% / $4–$8 if free | Strong if you own Caleb / need a QB2 | Same |
+| Case Keenum | QB | CHI | **247/2 + sneak. Saturday expected backup** | 3–6% / $3–$6 if free | Strong if you own Caleb (pair) | Rush, Wentz |
 | J.J. McCarthy | QB | NYG | **Physical passed. Practiced. Winston starts. Palmer Week 7–9 GUESS** | 2–5% / $2–$5 | Speculative leftover | Haener, Tua |
 | Kirk Cousins | QB | LV | **248/3.** Floor QB2. Home vs KC | 3–6% / $3–$6 if free | Strong | Backup WR |
 | Tyler Shough | QB | NO | **255/4 + scramble.** Volume. MNF vs ATL | 4–8% / $4–$8 if free | Strong | Same |
@@ -273,7 +279,7 @@ Bids are **% of $100 and dollars**. NBC’s 12-team “30–40% on Allen / 25–
 
 ## 5. Start / sit and landmines (Superflex Half-PPR)
 
-Conservative call. **TNF is scored.** **Official Friday Sunday designations HOLD.** CHI still officially unnamed (Rapoport Bagent lean). MNF tags MISSING.
+Conservative call. **TNF is scored.** **Official Friday Sunday designations HOLD.** CHI still officially unnamed (Saturday sources expected Bagent). MNF Saturday tags **IN**.
 
 ### QB (weekly Superflex ranks — 10-team)
 
@@ -283,14 +289,14 @@ Conservative call. **TNF is scored.** **Official Friday Sunday designations HOLD
 
 **Strong start:** Hurts (**82** — still a QB1 after 153/0/1; no DeVonta / no Goedert). Goff, Stafford, Nix, Love, Shough, Cousins, Darnold. **Mariota (NAMED — 32) — lock tonight.**
 
-**Toss-up / stream:** **Jalon Daniels (named vs GB)**. **Bagent (Rapoport likely — lean if you need a QB2; sit if you have a real one until named)**. Young (not listed). Kyler. Stroud. Geno. Penix (MNF). **Winston if you are desperate** (named, not a smash).
+**Toss-up / stream:** **Jalon Daniels (named vs GB)**. **Bagent (Saturday expected — lean if you need a QB2; sit if you have a real one until Johnson names him)**. Young (not listed). Kyler. Stroud. Geno. Penix (MNF — not listed). **Winston if you are desperate** (named, not a smash).
 
 **Sit / trap:** **Caleb (OUT).** **Mayfield (OUT).** **Jayden Daniels (OUT).** **McCarthy this week.** **Keenum until named (expected backup).** Lock. Rush. Tua. Wentz. Haener. Dart. **Do not sit Josh Allen. Do not sit Lamar.**
 
 **Blind-start traps**
 - **Sitting Josh Allen after the limp.** He is off the report. He is a **100**.
 - **Sitting Lamar after a Wednesday Limited or the BAL rain conflict.** He is not listed. Wind is 7. He is a **96**.
-- **Starting Keenum after Rapoport’s Bagent lean.** CBS expected backup. Official name still Sunday.
+- **Starting Keenum after Saturday Bagent-expected reports.** Expected backup. Official name still missing.
 - **Starting Bagent as a locked QB1 before Johnson names him** if you have a real QB2.
 - **Starting McCarthy Week 4.** Winston is named.
 - **Starting DeVonta after official OUT.** He is a **38** hold, not a Sunday lock.
@@ -308,7 +314,7 @@ Conservative call. **TNF is scored.** **Official Friday Sunday designations HOLD
 - **Starting Evans as a lock after Shanahan GTD.** Sit lean until Sunday active.
 - **Forgetting to set London tonight.** Mariota / Taylor lock. Daniels / McLaurin-as-a-lock sit.
 
-**Cheap streamers who are startable in 10-team SF:** **Mariota (NAMED — lock tonight)**, Jalon Daniels (named), **Bagent once named (Rapoport lean)**, Young, Cousins, Shough, Darnold, Penix. Winston is a **named ROS add / weekly sit** if you have a real QB2. McCarthy is a **stash, not a stream**. Keenum is a **pair, not the start**. Rodgers already played.
+**Cheap streamers who are startable in 10-team SF:** **Mariota (NAMED — lock tonight)**, Jalon Daniels (named), **Bagent (Saturday expected)**, Young, Cousins, Shough, Darnold, Penix. Winston is a **named ROS add / weekly sit** if you have a real QB2. McCarthy is a **stash, not a stream**. Keenum is a **pair, not the start**. Rodgers already played.
 
 ### RB
 
@@ -316,7 +322,7 @@ Conservative call. **TNF is scored.** **Official Friday Sunday designations HOLD
 
 **Already played:** **Warren TNF 17–93 + 3–33 (36).** Count it.
 
-**Strong start:** Saquon (flex, not a locked RB1). Jones vs MIA. Hampton. Javonte. **Kamara flex MNF (28) — not a smash RB1.** **Allen vs CHI (20).** **Swift START (34).** Irving (**36 — Friday Full**). **Pollard (not listed).**
+**Strong start:** Saquon (flex, not a locked RB1). Jones vs MIA (Friday Limited, no tag — **START**). Hampton. Javonte. **Kamara flex MNF (28) — Saturday not listed, not a smash RB1.** **Allen vs CHI (20).** **Swift START (34).** Irving (**36 — Friday Full**). **Pollard (not listed).** **Bijan MNF smash — Saints missing Elliss / Granderson / Jennings.**
 
 **Toss-up:** Gordon (committee, **24** — sit as a locked flex). Wright (plays, **16** — sit as a locked flex). Tuten. Hubbard (start). Skattebo. Miller (sit as a locked flex). Spears (Q).
 
@@ -332,7 +338,7 @@ Conservative call. **TNF is scored.** **Official Friday Sunday designations HOLD
 
 **Toss-up:** **Evans (sit lean — Q / GTD).** **McLaurin (sit lean — Q; 9:30 lock).** Diggs (start if you need a WR2 / McLaurin sits). McConkey (Q / sit lean). Nabers (Winston tax — start if you need a WR2).
 
-**Sit / trap:** **Jefferson (OUT).** **DeVonta (OUT).** **Hall-out Jets WRs as smash WR2s.** **Evans until Sunday active.** Reed **IR / season**. Hollywood **OUT**. Whittington. Kupp as a 10-team flex. Golden as a locked WR2. **Burden as a locked WR2.** **Cody White as a locked WR3.** **Cooks as a locked WR3.** Adonai Mitchell (**OUT**). **McMillan (IR).** **Coker after official Q.** **Wicks as a locked WR3.** Godwin as a locked WR2. Roman Wilson after one 74-yard game.
+**Sit / trap:** **Jefferson (OUT).** **DeVonta (OUT).** **Hall-out Jets WRs as smash WR2s.** **Evans until Sunday active.** Reed **IR / season**. Hollywood **OUT**. Whittington. Kupp as a 10-team flex. Golden as a locked WR2. **Burden as a locked WR2.** **Cody White as a locked WR3.** **Cooks as a locked WR3.** Adonai Mitchell (**OUT**). **McMillan (IR).** **Coker after official Q + Reed elevated.** **Wicks as a locked WR3.** Godwin as a locked WR2. Roman Wilson after one 74-yard game. Ja'seem Reed is **not** a 10-team add.
 
 ### TE
 
@@ -347,19 +353,19 @@ Conservative call. **TNF is scored.** **Official Friday Sunday designations HOLD
 ## 6. Matchups that matter
 
 - **TNF PIT @ CLE — CLOSED.** Warren workhorse hit. Rodgers weekly spike hit (299/3/2) with two INTs and five sacks. Metcalf 5–115. Watson (QB) sit was correct. Dowdle sit was correct.
-- **IND vs WAS (London) — SET TONIGHT.** **Mariota NAMED.** Taylor is a must-start. 65° / 0%. Cosmi OUT is an OL tax on WAS, not a sit of Taylor. White **OUT** — do not lock Ekeler as a flex. McLaurin **Q / sit lean**. Diggs start if you need the WR2.
-- **NE @ BUF:** Josh Allen **not listed**. Start him. DJ Moore (**BUF**, off report) vs NE (Gonzalez OUT). Maye is still an **84**. 0% / 10 mph — no sit.
-- **NYJ @ CHI:** Hall **OUT**. Allen is the RB. CHI QB **officially unnamed** — Rapoport **Bagent lean**. **Swift START.** Monangai is a cuff, not a flex. 63° / 0%.
+- **IND vs WAS (London) — SET TONIGHT.** **Mariota NAMED.** Taylor is a must-start. 65° / SW 4 / 0%. Cosmi OUT is an OL tax on WAS, not a sit of Taylor. White **OUT** — do not lock Ekeler as a flex. McLaurin **Q / sit lean**. Diggs start if you need the WR2. Keenan Allen **Q** — sit lean if you have a better WR2.
+- **NE @ BUF:** Josh Allen **not listed**. Start him. DJ Moore (**BUF**, Friday Limited / no tag) vs NE (Gonzalez OUT). Maye is still an **84**. 0% / **14 mph** — watch, not a sit.
+- **NYJ @ CHI:** Hall **OUT**. Allen is the RB. CHI QB **officially unnamed** — Saturday sources **EXPECTED Bagent**. **Swift START.** Monangai is a cuff, not a flex. 64° / 0%.
 - **ARI @ NYG:** Winston **named**. Nabers is a **46**, not a smash-sell. McBride smash vs this Giants front. McCarthy practiced — still a stash. MetLife dry.
 - **GB @ TB:** **Jalon Daniels starts.** Egbuka / Irving have a QB tax. **Irving START.** Watson / Golden vs a backup. 4 mph / heat — no wind-sit.
 - **MIA @ MIN:** **Wright plays.** Gordon committee, not lead. Jefferson **OUT**. Addison start. Achane is IR. Indoor.
-- **LAR @ PHI:** **Nacua START** (snap-count watch, still start). Adams still a start. **DeVonta OUT** — sit. Hurts / Saquon bounce-back spot at home — still not smash-sells after MNF. Ferguson **IR** — Higbee stream only if TE-needy. 40% / 7 mph — watch not sit.
+- **LAR @ PHI:** **Nacua START** (snap-count watch, still start). Adams still a start. **DeVonta OUT** — sit. Hurts / Saquon bounce-back spot at home — still not smash-sells after MNF. Ferguson **IR** — Higbee stream only if TE-needy. FootballDB 0% vs others ~50% — watch not sit.
 - **DAL @ HOU:** **Nico START.** Stroud bump.
-- **DEN @ SF:** **CMC smash.** Evans **Q / GTD sit lean**. Dobbins flex tax. 87° — heat watch, not a sit.
-- **KC @ LV:** Bowers / Jeanty vs Mahomes. Chiefs **Week 5 bye** after this. Cody White is a dart.
-- **DET @ CAR (SNF):** Gibbs smash. Young start. Coker sit. Hubbard start. 45% / 2 mph — watch not sit.
-- **ATL @ NO (MNF):** Penix / Bijan / London vs Shough / Olave. **Etienne official IR.** Kamara flex, not a smash. Dome. **Monday designations MISSING.**
-- **TEN @ BAL:** Lamar **start**. Pollard **start**. Flowers **Q / start lean**. FootballDB 0% vs NFLWeather 51% — watch not sit. Wind 7.
+- **DEN @ SF:** **CMC smash.** Evans **Q / GTD sit lean**. Dobbins flex tax. 89° — heat watch, not a sit.
+- **KC @ LV:** Bowers (Friday Limited / no tag) / Jeanty vs Mahomes. Chiefs **Week 5 bye** after this. Cody White is a dart.
+- **DET @ CAR (SNF):** Gibbs smash. Young start. Coker **sit lean stronger** (Reed elevated). Hubbard start. 45% / 2 mph — watch not sit.
+- **ATL @ NO (MNF):** Penix / Bijan / London vs Shough / Olave. **Etienne official IR.** Kamara / Olave **not listed — START.** Kamara is still a **28** committee flex, not a 70. Bijan smash vs a Saints front missing Elliss / Granderson / Jennings. Dome.
+- **TEN @ BAL:** Lamar **start**. Pollard **start**. Flowers **Q / start lean**. FootballDB 0% vs NFLWeather 55–59% — watch not sit. Wind 5.
 - **LAC @ SEA:** Price **OUT**. McConkey **Q / sit lean**. Darnold start.
 
 ---
@@ -368,7 +374,7 @@ Conservative call. **TNF is scored.** **Official Friday Sunday designations HOLD
 
 **Scale (10-team Superflex Half-PPR):** 90–100 = 1.01–1.04. 75–89 = late 1st / early 2nd. 55–74 = 2nd. 40–54 = 3rd. 25–39 = 4th–6th starter. 12–24 = streamer / cuff. <12 = cuttable / IR.
 
-Trends below are **vs the Friday 6:20 PM ET published board**.
+Trends below are **vs the Saturday 8:20 AM ET published board**.
 
 ### A. Tier list by position
 
@@ -409,9 +415,9 @@ Trends below are **vs the Friday 6:20 PM ET published board**.
 | Baker Mayfield | 22 | flat | Official OUT ≥3 weeks. Earliest Week 7 |
 | Drew Lock | 22 | flat | Darnold played. Cuff |
 | Cam Ward | 22 | flat | Failed from the 7 twice |
-| Case Keenum | 20 | down | **247/2 + sneak. CBS expected backup. Official name MISSING** |
+| Case Keenum | 18 | down | **247/2 + sneak. Saturday expected backup. Official name MISSING** |
+| Tyson Bagent | 20 | up | **Saturday sources EXPECTED. Official name MISSING. Not a locked QB2** |
 | Jalon Daniels | 18 | flat | NAMED Week 4 vs GB. Not a locked QB2 |
-| Tyson Bagent | 18 | up | **Rapoport LIKELY. Official name MISSING. Not a locked QB2** |
 | Jacoby Brissett | 18 | flat | Volume only. Allen insurance |
 | J.J. McCarthy | 16 | flat | **Practiced. Physical passed. Winston starts. Palmer Week 7–9. GUESS** |
 | Carson Wentz | 12 | flat | Kyler starts. Drop |
@@ -451,7 +457,7 @@ Trends below are **vs the Friday 6:20 PM ET published board**.
 | Jadarian Price | 28 | flat | Official OUT. Chest aggravated |
 | Tyler Allgeier | 28 | flat | TNF vulture |
 | Jeremiyah Love | 28 | flat | TNF committee |
-| Alvin Kamara | 28 | flat | **Etienne official IR. Lead-ish committee. Flex, not a 70** |
+| Alvin Kamara | 28 | flat | **Etienne official IR. Saturday not listed. Flex, not a 70** |
 | Tony Pollard | 26 | flat | Not listed. Start vs BAL |
 | Ollie Gordon II | 24 | flat | Achane IR. Wright plays. Committee. Not a 70 |
 | TreVeyon Henderson | 24 | flat | 8–23 in a blowout |
@@ -483,7 +489,7 @@ Trends below are **vs the Friday 6:20 PM ET published board**.
 | CeeDee Lamb | 74 | flat | 7–112 |
 | Drake London | 64 | flat | TNF 9–194 |
 | Justin Jefferson | 64 | flat | Official OUT. Three DNPs. Sit. Do not smash-sell |
-| Chris Olave | 60 | flat | 9–107 |
+| Chris Olave | 60 | flat | 9–107. Saturday not listed. START MNF |
 | Puka Nacua | 56 | flat | **Friday Full / no tag. Snap-count watch. START. Do not smash-sell** |
 | Nico Collins | 54 | flat | **Friday Full / no tag. START. Do not drop** |
 | Davante Adams | 48 | flat | 7–137. Nacua back. Still start |
@@ -497,7 +503,7 @@ Trends below are **vs the Friday 6:20 PM ET published board**.
 | DK Metcalf | 40 | flat | TNF 5–115. Locked WR2 if he was somehow free |
 | Emeka Egbuka | 40 | flat | 5–62 |
 | DeVonta Smith | 38 | flat | **Official OUT. Inquirer 2–3 games GUESS. Sit. Do not smash-sell** |
-| DJ Moore | 38 | flat | BUF off report. Not CHI. Start vs NE |
+| DJ Moore | 38 | flat | BUF Friday Limited / no tag. Not CHI. Start vs NE |
 | Zay Flowers | 36 | flat | Official Q / Friday rest. Start lean |
 | Jordan Addison | 34 | flat | Jefferson official OUT. Locked WR2 vs MIA |
 | A.J. Brown | 32 | flat | IR Weeks 2–5 |
@@ -517,7 +523,7 @@ Trends below are **vs the Friday 6:20 PM ET published board**.
 | Matthew Golden | 16 | flat | Reed-out dart |
 | Xavier Worthy | 16 | flat | Played. Week 5 bye |
 | Rashod Bateman | 14 | flat | Flowers start lean |
-| Jalen Coker | 14 | flat | Official Q quad. Sit |
+| Jalen Coker | 12 | down | Official Q + Reed elevated Sat. Sit |
 | Chris Godwin | 12 | flat | Not listed. Jalon tax. Not a stream |
 | Dontayvion Wicks | 12 | flat | DeVonta OUT 2–3. Dart / WR3 only. GUESS |
 | Konata Mumpfield | 10 | flat | 48-yd TD. Dart only |
@@ -553,15 +559,15 @@ Trends below are **vs the Friday 6:20 PM ET published board**.
 | Oronde Gadsden | 12 | flat | 0–0 on 3 |
 | Terrance Ferguson | 6 | flat | Official IR / medial ankle. Park IR. Earliest W8 |
 
-### B. Biggest risers / fallers since Friday 6:20 PM ET
+### B. Biggest risers / fallers since Saturday 8:20 AM ET
 
-**Up:** Bagent **16→18**.
+**Up:** Bagent **18→20**.
 
-**Down:** Keenum **22→20**.
+**Down:** Keenum **20→18**. Coker **14→12**.
 
-**Weekly (not ROS) moves:** Rapoport priced the CHI lean. Bagent is the stream if you need one. Keenum is the pair, not the smash. Friday designations still hold the landmines. Jefferson / DeVonta / Hall / Daniels are **sits**. Nacua / Nico / Swift / Irving / CMC / DJ Moore / Mariota are **starts**. Wright **plays** — Miami is a committee. Evans GTD. Flowers Q / start lean. McLaurin Q / sit lean for London. Ferguson IR.
+**Weekly (not ROS) moves:** Saturday sources priced Bagent as the expected start. Keenum is the pair, not the smash. Official ATL/NO tags closed — Kamara / Olave / Bijan **START**. Coker sit lean stronger after Reed elevation. Friday Sunday designations still hold the landmines. Jefferson / DeVonta / Hall / Daniels are **sits**. Nacua / Nico / Swift / Irving / CMC / DJ Moore / Mariota are **starts**. Wright **plays** — Miami is a committee. Evans GTD. Flowers Q / start lean. McLaurin Q / sit lean for London. Ferguson IR.
 
-**Still MISSING:** Official CHI Week 4 starter name. Official ATL/NO Monday designations. Sunday inactives. Evans Sunday active/inactive.
+**Still MISSING:** Official CHI Week 4 starter name (Johnson public). Sunday inactives. Evans / Flowers / McLaurin / Sadiq / Coker / McConkey Sunday active/inactive.
 
 ### C. Fair 1-for-1 examples (equal value)
 
@@ -574,8 +580,9 @@ Trends below are **vs the Friday 6:20 PM ET published board**.
 - DeVonta (38) ≈ Metcalf (40) — **do not smash-sell DeVonta to 20 after OUT**
 - Darnold (36) ≈ Jones (34) ≈ Flowers (36) ≈ Warren (36) ≈ Swift (34)
 - Kamara (28) ≈ Winston (26) ≈ Evans (26) — flex / named stream / GTD, not RB1 / QB1 / WR1
-- Mayfield (22) ≈ Keenum (20) ≈ Lock (22) ≈ Higbee (20) ≈ Monangai (20) ≈ Allen (20)
-- Bagent (18) ≈ Jalon Daniels (18) ≈ Jacobs (18) — streamer / named stream / exempt, not QB2 / QB2 / RB1
+- Mayfield (22) ≈ Lock (22) ≈ Higbee (20) ≈ Monangai (20) ≈ Allen (20)
+- Bagent (20) ≈ Higbee (20) ≈ Allen (20) — expected stream / stream / cuff, not Caleb / TE1 / Hall
+- Jalon Daniels (18) ≈ Keenum (18) ≈ Jacobs (18) — named stream / pair / exempt, not QB2 / QB2 / RB1
 - McCarthy (16) ≈ Etienne (16) ≈ Wright (16) ≈ Sadiq (16) — stash / IR / committee / Q
 - Gordon (24) ≈ Henderson (24) ≈ McLaurin (24) — committee / committee / Q, not Achane / Gibbs / McLaurin-healthy
 - Achane (6) ≈ Jonah Coleman (6) ≈ Ekeler (6) ≈ Reed (6) ≈ Ferguson (6) — IR / dart
@@ -593,7 +600,7 @@ Trends below are **vs the Friday 6:20 PM ET published board**.
 - Example: Nacua (56) for Adams (48) is the hip hedge only if you needed this week — **do not smash-sell Nacua for Mumpfield**.
 - Example: Swift (34) for Monangai (20) + a dart is **not** a fair deal — Swift cleared.
 - Example: Winston (26) + McCarthy (16) is the Giants QB pair — **do not smash-sell Winston for McCarthy**.
-- Example: Bagent (18) + Keenum (20) is the CHI pair if you own Caleb — **do not smash-sell Caleb for either**.
+- Example: Bagent (20) + Keenum (18) is the CHI pair if you own Caleb — **do not smash-sell Caleb for either**.
 - Example: Josh Allen (100) and Lamar (96) are not for sale.
 - **Do not send Achane (6) + a dart for Gordon (24).** Gordon side already won if you just add him on FAAB.
 - **3-for-1s usually lose in 10-team** unless you are dumping Rush / Wentz / IR dead.
@@ -602,7 +609,7 @@ Trends below are **vs the Friday 6:20 PM ET published board**.
 
 - **Sitting Josh Allen** — he is not listed. He is a **100**
 - **Sitting Lamar on the BAL rain conflict** — wind is 7. He is a **96**
-- **Starting Keenum after Rapoport’s Bagent lean**
+- **Starting Keenum after Saturday Bagent-expected reports**
 - **Starting Bagent as a locked QB1 before Johnson names him** if you have a real QB2
 - **Starting McCarthy Week 4** — Winston is named
 - **Paying McCarthy as a locked QB2** — he is a **16 GUESS** stash (Palmer Week 7–9)
@@ -623,7 +630,7 @@ Trends below are **vs the Friday 6:20 PM ET published board**.
 - **Holding Achane as a 20 after official IR / ACL** — he is a **6**
 - **Paying Gordon as a 70** — he is a **24** committee after Wright returned
 - **Paying Jalon Daniels as a locked QB2** — he is an **18** named stream
-- **Paying Bagent as Caleb** — he is an **18** likely stream
+- **Paying Bagent as Caleb** — he is a **20** expected stream
 - **Paying Allen as Hall** — he is a **20**; Hall is a **32**
 - **Paying Kamara as a 70** — he is a **28** committee flex
 - **Paying Etienne as a 34 after official IR** — he is a **16**
@@ -634,8 +641,9 @@ Trends below are **vs the Friday 6:20 PM ET published board**.
 - **Holding Dart as a 34** — he is a **12**
 - **Paying Rodgers as a locked QB2 after 299/3/2** — he is a **24** weekly spike
 - **Paying Burden as a locked WR2** — he is a **16** dart
-- **Paying Keenum as Caleb** — he is a **20** expected backup
-- **Paying Coker as a WR3 after official Q** — he is a **14**
+- **Paying Keenum as Caleb** — he is an **18** expected backup
+- **Paying Coker as a WR3 after official Q + Reed elevated** — he is a **12**
+- **FAABing Ja'seem Reed** — dart only if Coker sits; not a 10-team add
 - **Starting McLaurin after a Friday hamstring Q in a 9:30 lock** — he is a **24**
 - **Starting Evans as a lock after Shanahan GTD** — he is a **26**
 - **Forgetting to set London tonight**
@@ -644,10 +652,10 @@ Trends below are **vs the Friday 6:20 PM ET published board**.
 
 ### F. Position scarcity this week
 
-- **QB is still the scarce position.** Streams: **Mariota (NAMED — lock tonight)**, **Jalon Daniels (named)**, **Bagent (Rapoport likely / official name MISSING)**, **Winston (named / weekly fade)**. Keenum is a **20 pair**, not the start. McCarthy is a **16 stash**, not a stream. Darnold / Cousins / Shough / Penix / Young are holds. Rush/Tua/Wentz/Haener are drops. Dart is a **12** on IR. Caleb is a **50** sit-and-hold. Mayfield is a **22** hold through Week 6. Daniels is a **54** sit-and-hold. Josh Allen is a **100**. Lamar is a **96**. Rodgers already played (**24**).
+- **QB is still the scarce position.** Streams: **Mariota (NAMED — lock tonight)**, **Jalon Daniels (named)**, **Bagent (Saturday expected / official name MISSING)**, **Winston (named / weekly fade)**. Keenum is an **18 pair**, not the start. McCarthy is a **16 stash**, not a stream. Darnold / Cousins / Shough / Penix / Young are holds. Rush/Tua/Wentz/Haener are drops. Dart is a **12** on IR. Caleb is a **50** sit-and-hold. Mayfield is a **22** hold through Week 6. Daniels is a **54** sit-and-hold. Josh Allen is a **100**. Lamar is a **96**. Rodgers already played (**24**).
 - **RB is secondary-scarce** after Achane IR + Hall OUT + Etienne official IR + Price OUT. Gordon is a **24** committee, not a 70. Allen is a **20**, not a 32. Kamara is a **28**, not a 70. Warren is a **36** after the TNF workhorse, not a 70 — Dowdle expected Week 5. Henderson is a **24**, not a 95. Wright is a **16** committee. Swift is a **34** start. Do not overpay a 4th RB. **Week 5 CAR/KC byes** hit next week — do not dump a 3rd RB you will need.
 - **TE:** McBride is a **58**. Bowers is a **54**. Goedert official OUT. Ferguson official IR (**6**). Higbee is a **20** with Nacua back. Sadiq is a **16** Q stream. Ertz is a **12** after 1–9.
-- **WR:** Nacua **START**. Nico **START**. Jefferson **OUT**. DeVonta **OUT**. Evans **Q / GTD**. McLaurin **Q / sit lean tonight**. DJ Moore is **BUF**. Flowers Q / start lean. Nabers 5–26 is a Winston tax. Metcalf is a **40**. Addison is a **34**. Coker is a **14** sit. Wicks is a **12** dart. Reed is a **6** IR. McConkey is a **24** Q.
+- **WR:** Nacua **START**. Nico **START**. Jefferson **OUT**. DeVonta **OUT**. Evans **Q / GTD**. McLaurin **Q / sit lean tonight**. DJ Moore is **BUF**. Flowers Q / start lean. Nabers 5–26 is a Winston tax. Metcalf is a **40**. Addison is a **34**. Olave **START** (Saturday not listed). Coker is a **12** sit. Wicks is a **12** dart. Reed is a **6** IR. McConkey is a **24** Q.
 
 ---
 
@@ -661,8 +669,8 @@ Trends below are **vs the Friday 6:20 PM ET published board**.
 - **Kyle Monangai** — Swift cleared. Path is cuff only. **20**.
 - **Kenyon Sadiq** — **7–105–1** with Mason Taylor official OUT. Official Q. Path is 1–3 weeks if Sunday active.
 - **Jalon Daniels** — **NAMED Week 4 vs GB.** Path is Weeks 4–6. Do not roster as a locked QB2.
-- **Tyson Bagent** — **Rapoport LIKELY.** Path is Weeks 4–6 **GUESS** if Johnson names him. **18**. Not a locked QB2.
-- **Case Keenum** — CBS expected backup. Path is insurance if Johnson flips. **20**.
+- **Tyson Bagent** — **Saturday sources EXPECTED.** Path is Weeks 4–6 **GUESS** if Johnson names him. **20**. Not a locked QB2.
+- **Case Keenum** — Saturday expected backup. Path is insurance if Johnson flips. **18**.
 - **J.J. McCarthy** — Practiced. Palmer: **Week 7–9** if Winston holds. **16 GUESS**. Not a Week 4 start.
 - **Marcus Mariota** — **NAMED.** Path is until Daniels is cleared (Quinn: next week). **Lock tonight.**
 - **Jameis Winston** — Dart IR. **NAMED W4.** Path is ROS. Weather fade is weekly, not a drop.
@@ -684,11 +692,11 @@ Trends below are **vs the Friday 6:20 PM ET published board**.
 
 1. **Set London tonight.** 9:30 AM ET Sunday. **Start Mariota (32) and Taylor (74).** **Sit Daniels (54) and McLaurin (24 sit lean).** Diggs (**28**) if you need the WR2. Cosmi OUT is an OL tax, not a sit of Taylor or Mariota. White OUT — do not lock Ekeler.
 2. **Bank TNF.** Warren **36** (17–93 + 3–33). Rodgers **24** (299/3/2 + sneak 2-pt). Metcalf **40** (5–115). Sit Watson (QB). Dowdle already sat. Do not roster Roman Wilson or Judkins in 10-team.
-3. **Treat Tuesday FAAB as leftover FA.** Superflex / injury order if they cleared: **Gordon $12–$20**, **Allen $10–$16**, **Mariota $8–$15 (NAMED)**, **Winston $8–$12**, **Jalon Daniels $6–$12**, **Addison $6–$12 if Jefferson is yours**, **Bagent $4–$8 (Rapoport lean)**, **Wright $4–$8**, **Sadiq $3–$6**, **Keenum $3–$6**, **Kamara $3–$6**, **McCarthy $2–$5**, **Miller $1–$3**, **Monangai $1–$3**, **Higbee $2–$5**, **Wicks $0–$2**, **White $0–$2**, **Ekeler $0–$2**, **Cooks $0–$2**, **Metcalf $1–$3 if free**. Do **not** FAAB Jonah Coleman, McMillan, Reed, Ferguson, Whittington, Wicks-as-a-paid-WR, OBJ, or White/Burden/Coker/Cooks as paid WRs. Drop Rush / Wentz / Tua / Mayer / Haener / a 4th RB. **Dart, Achane, McMillan, Reed, Etienne, and Ferguson can occupy IR.**
-4. **Set Sunday locks tonight.** **Start** Josh Allen, Lamar, Nacua, Nico, Swift, CMC, DJ Moore, Irving, Braelon Allen, Addison. **Sit** Hall, Jefferson, DeVonta, Daniels, Caleb, Mayfield, McCarthy, Keenum-until-named, Etienne, Evans (until Sunday active), McLaurin, Sadiq (until active), Coker, Ferguson, Gordon/Wright as locked flexes. **Bagent:** lean stream only if you need a QB2; sit if you have a real one until Johnson names him.
+3. **Treat Tuesday FAAB as leftover FA.** Superflex / injury order if they cleared: **Gordon $12–$20**, **Allen $10–$16**, **Mariota $8–$15 (NAMED)**, **Winston $8–$12**, **Jalon Daniels $6–$12**, **Addison $6–$12 if Jefferson is yours**, **Bagent $4–$8 (Saturday expected)**, **Wright $4–$8**, **Sadiq $3–$6**, **Keenum $3–$6**, **Kamara $3–$6**, **McCarthy $2–$5**, **Miller $1–$3**, **Monangai $1–$3**, **Higbee $2–$5**, **Wicks $0–$2**, **White $0–$2**, **Ekeler $0–$2**, **Cooks $0–$2**, **Metcalf $1–$3 if free**. Do **not** FAAB Jonah Coleman, McMillan, Reed, Ferguson, Whittington, Wicks-as-a-paid-WR, OBJ, Ja'seem Reed, or White/Burden/Coker/Cooks as paid WRs. Drop Rush / Wentz / Tua / Mayer / Haener / a 4th RB. **Dart, Achane, McMillan, Reed, Etienne, and Ferguson can occupy IR.**
+4. **Set Sunday locks tonight.** **Start** Josh Allen, Lamar, Nacua, Nico, Swift, CMC, DJ Moore, Irving, Braelon Allen, Addison. **Sit** Hall, Jefferson, DeVonta, Daniels, Caleb, Mayfield, McCarthy, Keenum-until-named, Etienne, Evans (until Sunday active), McLaurin, Sadiq (until active), Coker, Ferguson, Gordon/Wright as locked flexes. **Bagent:** lean stream only if you need a QB2; sit if you have a real one until Johnson names him. **MNF:** Start Bijan, London, Olave, Kamara-as-flex.
 5. **Park Achane on IR (6). Park Etienne on IR (16). Park Reed on IR (6). Park Ferguson on IR (6).** Hold Hall (**32**). Hold Jefferson (**64**). Hold Evans (**26**). Hold Nacua (**56**). Hold Nico (**54**). Hold DeVonta (**38**). Hold Mayfield (**22**). Hold Caleb (**50**). Hold Daniels (**54**). Hold Swift (**34**). Hold Josh Allen (**100**). Hold Lamar (**96**). Hold Metcalf (**40**).
 6. **Winston is NAMED (26).** McCarthy practiced — **16 GUESS** stash. Do not start McCarthy. Do not smash-sell Winston for McCarthy.
-7. **CHI: Rapoport Bagent lean (18). Keenum expected backup (20).** Johnson still names Sunday. Roster both CHI backups if you own Caleb. Do not smash-start Keenum.
-8. **DJ Moore is BUF, not CHI.** Off the report. **38**. Start vs NE. Flowers **Q / start lean**. BAL rain conflict is **not** a Lamar sit.
+7. **CHI: Saturday sources EXPECTED Bagent (20). Keenum expected backup (18).** Johnson still has not named him publicly. Roster both CHI backups if you own Caleb. Do not smash-start Keenum.
+8. **DJ Moore is BUF, not CHI.** Friday Limited / no tag. **38**. Start vs NE. Flowers **Q / start lean**. BAL rain conflict is **not** a Lamar sit. BUF wind 14 is **not** an Allen sit.
 9. **Wright plays.** Gordon **24** committee. Wright **16** committee. Do not pay Gordon as a 70. Sit both as locked flexes vs MIN.
-10. **Week 5 CAR/KC byes are next.** Do not dump Mahomes / Rice / Walker / Young / Hubbard / Tet / Kelce this week just to add a 4th RB or McCarthy. **Do not start** Caleb / Mayfield / Dart / McCarthy / Jayden Daniels / Keenum-until-named / Winston-as-a-smash / Lock / Rush / Tua / Hall / Etienne / Jefferson / DeVonta / Evans-as-a-lock / Reed / Jonah Coleman / Hollywood / Haener / Adonai / McMillan / Achane / Coker / Ferguson / McLaurin-as-a-lock / Sadiq-until-active / Gordon-or-Wright-as-a-locked-flex. **Do not sit Josh Allen. Do not sit Lamar. Do not sit Nacua. Do not sit Nico. Do not sit Swift.** Do not drop Flowers, Nico, Brown, Moore, McConkey, Olave, Nacua, Nabers, Evans, Jefferson, DeVonta, Darnold, Caleb, Daniels, Winston, Hall, Hurts, Mayfield, Swift, Metcalf, Josh Allen, or Lamar. Board vs Friday 6:20 PM: **Bagent up. Keenum down.** Rest **FLAT**.
+10. **Week 5 CAR/KC byes are next.** Do not dump Mahomes / Rice / Walker / Young / Hubbard / Tet / Kelce this week just to add a 4th RB or McCarthy. **Do not start** Caleb / Mayfield / Dart / McCarthy / Jayden Daniels / Keenum-until-named / Winston-as-a-smash / Lock / Rush / Tua / Hall / Etienne / Jefferson / DeVonta / Evans-as-a-lock / Reed / Jonah Coleman / Hollywood / Haener / Adonai / McMillan / Achane / Coker / Ferguson / McLaurin-as-a-lock / Sadiq-until-active / Gordon-or-Wright-as-a-locked-flex. **Do not sit Josh Allen. Do not sit Lamar. Do not sit Nacua. Do not sit Nico. Do not sit Swift. Do not sit Olave. Do not sit Bijan. Do not sit Kamara-as-a-flex.** Do not drop Flowers, Nico, Brown, Moore, McConkey, Olave, Nacua, Nabers, Evans, Jefferson, DeVonta, Darnold, Caleb, Daniels, Winston, Hall, Hurts, Mayfield, Swift, Metcalf, Josh Allen, or Lamar. Board vs Saturday 8:20 AM: **Bagent up. Keenum down. Coker down.** Rest **FLAT**.
