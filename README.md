@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-10-05 **evening** file is **Week 4 MNF leftover + Week 5 FAAB**. All Sunday games **CLOSED**. **SET MNF** (ATL@NO 8:15). Official inactives **IN** — Fant **INACTIVE**; Bijan / London / Olave / Penix / Shough / Kamara **ACTIVE**. **NEW vs Monday 08:20:** **Bigsby IR / surgery 20→8**. **Shipley 12→22** (only healthy PHI 53 RB). Lamar imaging pending, chances unknown, **88 flat**. Chase still protocol **70**. Higgins DTD **44**. Rice Rapoport minor **28→32**. Thornton surgery 12–16 weeks **8→6**. Monangai thumb not serious **32→34**. Wilson W5 lead (Charbonnet no debut) **28→32**. Mariota MCL confirmed **20→16**. Tuesday FAAB is Week 5. Byes **CAR, KC**. Cancel Bigsby bids. Do not smash-sell Lamar / Chase / Daniels / Saquon / Tet. Do not start Etienne / Bigsby / Chase-as-a-lock / Lamar-as-a-lock / Charbonnet-W5 / CAR-KC in Week 5.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-10-06 **Tuesday morning** file is **Week 5**. Week 4 is **FULLY CLOSED** — MNF **ATL 45–NO 24**. Bijan **19–145–2**. B-Rob **14–62–3**. Olave **8–116**. Default Sleeper FAAB is **leftover FA**. **NEW vs Monday 18:55:** Saquon **week-to-week 42→38** (sit London lean). Shipley **22→24**. Bigsby IR **confirmed**. Bijan **92→94**. Olave **60→62**. Penix **24→26**. Shough **50→46**. NEW B-Rob **20**. Set **TNF TB@DAL**. Byes **CAR, KC**. Do not start Chase / Lamar / Saquon as locks. Do not smash-sell Lamar / Chase / Daniels / Saquon / Tet.
 
 ## Latest
 
