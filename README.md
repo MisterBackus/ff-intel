@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-10-06 **Tuesday evening** file is **Week 5**. Week 4 is **FULLY CLOSED** — MNF **ATL 45–NO 24**. Default Sleeper FAAB is **leftover FA**. **NEW vs Tuesday 8:25 AM:** Lamar **outside chance 88→86** (Rapoport sprain; Huntley likely SNF). Huntley **14→18**. Saquon **likely OUT London 38→36**. Shipley **24→26**. Daniels **on track 56→58**. Mixon **not signed**. CHI@GB is **1:00 ET**. Set **TNF TB@DAL**. Byes **CAR, KC**. Do not start Chase / Lamar / Saquon as locks. Do not smash-sell Lamar / Chase / Daniels / Saquon / Tet.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-10-07 **Wednesday morning** file is **Week 5**. Week 4 is **FULLY CLOSED**. Default Sleeper FAAB is **leftover FA**. **NEW vs Tuesday 6:15 PM:** TNF Tuesday sheets **CLOSED** — CeeDee **Tue Full** (thigh). Daniels **on the field** (official tag **MISSING**). London weather **eased**. GB / WAS / PIT weather watches are **not sits**. Board **FLAT**. Set **TNF TB@DAL**. Sit Lamar / Chase / Saquon as locks. Byes **CAR, KC**. Do not smash-sell Lamar / Chase / Daniels / Saquon / Tet.
 
 ## Latest
 
