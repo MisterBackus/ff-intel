@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-10-07 **Wednesday evening** file is **Week 5**. Week 4 is **FULLY CLOSED**. Default Sleeper FAAB is **leftover FA**. **NEW vs Wednesday 8:15 AM:** Official Wednesday sheets **LIVE**. TNF designations **CLOSED** — CeeDee **Full**, Mayfield **OUT**. Lamar **official DNP**. Daniels **official Full / will play**. Chase **DNP**. Higgins **DNP** (42→38). Jefferson **Limited**. Nabers **DNP** (50→46). Monangai / Swift **DNP**. PHI official sheet **LAG**. Set **TNF TB@DAL**. Sit Lamar / Chase / Saquon / Nabers as locks. Byes **CAR, KC**. Do not smash-sell Lamar / Chase / Daniels / Saquon / Tet.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-10-08 **Thursday morning** file is **Week 5**. Week 4 is **FULLY CLOSED**. **SET TNF** TB@DAL Thu 20:15. **NEW vs Wednesday 18:15:** TNF lock is **TODAY**. PHI team sheet **CLOSED** — Saquon / DeVonta **official DNP**, Goedert **official Limited**. NFL.com aggregator still **LAG**. Kamara **official Back DNP 28→26** (not rest). Olave **NIR-Rest**. McConkey beat DNP vs SI Limited vs NFL empty. CHI@GB wind **eased**. Leftover FA. Byes **CAR, KC**. Do not smash-sell Lamar / Chase / Daniels / Saquon / Tet. Do not start Chase-as-a-lock / Lamar-as-a-lock / Saquon-London / Kamara-as-a-rest-lock / Mixon / Bigsby / CAR-KC.
 
 ## Latest
 
