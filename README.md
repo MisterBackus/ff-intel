@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-10-08 **Thursday evening** file is **Week 5**. Week 4 is **FULLY CLOSED**. **SET TNF** TB@DAL Thu 20:15 (~2 hours). **NEW vs Thursday 08:20:** official Thursday sheets **IN**. Chase **Thu Limited / still protocol 70→72**. Higgins **Thu DNP 38→36**. Nabers **Thu Limited 46→50**. Lamar **second DNP**; Huntley **20→22**. Saquon **second DNP 36→34**; Shipley **26→28**. Kamara **Thu Limited 26→28**. Shough **Full 46→48**. Monangai **second DNP 32→30**; Swift **Limited 26→28**. Hall **second DNP 32→30**. McConkey sit-as-smash **16→14**. Leftover FA. Byes **CAR, KC**. Do not smash-sell Lamar / Chase / Daniels / Saquon / Tet. Do not start Chase-as-a-lock / Lamar-as-a-lock / Saquon-London / Monangai-as-a-lock / Mixon / Bigsby / CAR-KC.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-10-09 **Friday morning** file is **Week 5**. TNF is **CLOSED: TB 24–DAL 16**. Friday designations still **MISSING** (~4 PM ET). **NEW vs Thursday 18:15:** Irving **36→44**. Pickens **NEW 42**. Jalon **16→20**. CeeDee **78→70** (quad tightness, extra days to W6). Saquon **expected OUT London 34→32**; Shipley **28→30**. Monangai **turf toe 1–2 weeks 30→26**; Swift **28→30**. Moore **official DNP 28→26**. NE **dry**. Leftover FA. Byes **CAR, KC**. Do not smash-sell CeeDee / Lamar / Chase / Saquon / Tet / Irving. Do not start Chase-as-a-lock / Lamar-as-a-lock / Saquon-London / Monangai / Mixon / Bigsby / CAR-KC.
 
 ## Latest
 
