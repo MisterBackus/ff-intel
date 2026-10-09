@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-10-09 **Friday morning** file is **Week 5**. TNF is **CLOSED: TB 24–DAL 16**. Friday designations still **MISSING** (~4 PM ET). **NEW vs Thursday 18:15:** Irving **36→44**. Pickens **NEW 42**. Jalon **16→20**. CeeDee **78→70** (quad tightness, extra days to W6). Saquon **expected OUT London 34→32**; Shipley **28→30**. Monangai **turf toe 1–2 weeks 30→26**; Swift **28→30**. Moore **official DNP 28→26**. NE **dry**. Leftover FA. Byes **CAR, KC**. Do not smash-sell CeeDee / Lamar / Chase / Saquon / Tet / Irving. Do not start Chase-as-a-lock / Lamar-as-a-lock / Saquon-London / Monangai / Mixon / Bigsby / CAR-KC.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-10-09 **Friday evening** file is **Week 5**. TNF is **CLOSED: TB 24–DAL 16**. Friday designations **CLOSED**. **NEW vs Friday 08:15:** Lamar **official OUT**; Huntley **starts 22→24**. Saquon / DeVonta **OUT**; Shipley **30→32**; Goedert **Full start 16→20**. Monangai **OUT**; Swift **Full start 30→32**. Hall / Diggs / Charbonnet / Mariota / Hollins **OUT**. Chase **Full + Q / still protocol**. Higgins **Full + Q 36→38**. Nabers **Full start 50→52**. Jeanty **DNP + Q 66→64**. CeeDee Rapoport **bruise / expected W6 70→72**. Caleb **Q**; Bagent still named. NE **dry**. Leftover FA. Byes **CAR, KC**. Do not smash-sell CeeDee / Lamar / Chase / Saquon / Tet / Irving / Jeanty. Do not start Chase-as-a-lock / Lamar / Saquon / Monangai / Hall / Mixon / Bigsby / Caleb / CAR-KC.
 
 ## Latest
 
