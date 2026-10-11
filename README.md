@@ -20,7 +20,7 @@ Daily Fantasy Football intel packet for a **10-team Superflex Half-PPR** Sleeper
 
 Trade values use a **1–100 Superflex** scale (not dynasty dollars). Starting QBs are premium.
 
-Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-10-10 **Saturday evening** file is **Week 5**. TNF is **CLOSED: TB 24–DAL 16**. No Saturday game. London lock **tonight**. **NEW vs Saturday 08:15:** MHJ **inactive / trade pending**; Moore Saturday **Q**; Adams Saturday **CLEAR 44→46**; Chase protocol **still OPEN**; Caleb **will not play**; Kamara **28→30**; McLaurin **22→24**; CHI@GB **clear**; Jeanty cuff is Washington Jr. not Allgeier. Board: Adams / Kamara / McLaurin up. Byes **CAR, KC**. Week 6 byes **CIN / DET / MIA / MIN**. Do not smash-sell CeeDee / Lamar / Chase / Saquon / Tet / Irving / Jeanty / Gibbs. Do not start Chase-as-a-lock / Lamar / Saquon / MHJ / Monangai / Hall / Mixon / Bigsby / Caleb / CAR-KC.
+Packets overwrite `latest.md` / `latest.json` and the same-day archive. The 2026-10-11 **Sunday morning** file is **Week 5**. TNF is **CLOSED: TB 24–DAL 16**. London lock **THIS MORNING**. **NEW vs Saturday 18:15:** Chase protocol **still OPEN 7:30 AM ET**; Jefferson / Addison / McLaurin outlooks **softened**; McConkey **14→12** sit-as-smash; Greenard **inactive**; HOU@TEN **dry**; WAS / PIT / NYJ **wet CONFIRMED**; Slayton **OUT**; MHJ HOU lean **not official**. Board: **McConkey down. Rest FLAT.** Byes **CAR, KC**. Week 6 byes **CIN / DET / MIA / MIN**. Do not smash-sell CeeDee / Lamar / Chase / Saquon / Tet / Irving / Jeanty / Gibbs. Do not start Chase-as-a-lock / Lamar / Saquon / MHJ / Monangai / Hall / Mixon / Bigsby / Caleb / McConkey / Slayton / CAR-KC.
 
 ## Latest
 
