@@ -1,5 +1,5 @@
 {
-  "generated_at_et": "2026-10-13 18:15 ET",
+  "generated_at_et": "2026-10-14 08:15 ET",
   "nfl_week": "6",
   "league": {
     "teams": 10,
@@ -14,15 +14,18 @@
   "data_freshness": [
     "53-man rosters locked 2026-08-30 18:00 ET",
     "Weeks 1-4 CLOSED unchanged",
-    "Week 5 FULLY CLOSED. MNF BUF 37-LAR 34 OT unchanged from 08:25 ET packet. Moore INACTIVE. Coleman 1-7-1",
+    "Week 5 FULLY CLOSED. MNF BUF 37-LAR 34 OT unchanged. Moore INACTIVE. Coleman 1-7-1",
     "TNF London Sunday SNF boxes CLOSED unchanged",
-    "NEW Tuesday 14:24 ET beat not official sheet: DEN walk-through LIVE. Mason Denver Sports Surtain plus Hufanga not seen ankles. Riley Moss on the field ribs. Official Tuesday TNF designations MISSING",
-    "SEA Tuesday official sheet MISSING. JSN still Monday estimated Limited ankle. Charbonnet PUP Macdonald not expected Thursday",
-    "NBC injury wrap 15:20 ET. Minter not sure Lamar practices Wednesday. Judkins walking boot DTD. CLE signed Estime to 53 AP Browns Wire. Sanders IR. Reid Rice DTD vs NBC several weeks CONFLICT. Dell 21-day window OPEN official designation MISSING",
-    "Sunday-team official Wednesday W6 tags still MISSING. Aggregator Q listings Yahoo for Lamar Caleb CeeDee Saquon are not official tags",
-    "Mixon still unsigned. No Tuesday signing",
-    "Default Sleeper Tuesday FAAB has PROCESSED. Tonight leftover FA only",
-    "Values 1-100 Superflex Half-PPR 10-team. Trends vs Tuesday 08:25 ET published board FLAT. Thin spots GUESS"
+    "NEW SEA Tuesday official sheet CLOSED. JSN Tue Limited ankle second consecutive Limited. Charbonnet Tue Limited knee. Wednesday TNF designations MISSING",
+    "NEW DEN Tuesday official sheet CLOSED. Surtain official DNP ankle. Hufanga official DNP ankle. Moss official Limited ribs. Tuesday Mason walk-through confirmed",
+    "NBC PFT Tuesday recap JSN expected to play. USA TODAY Wed 06:08 ET JSN appears in no danger of missing Week 6. Start-lean holds. Sit only if Wed/Thu DNP/OUT",
+    "ESPN Delta Sunday aggregator Wed 06:52 ET Surtain OUT Charbonnet Doubtful JSN Questionable is not an official designation",
+    "Sunday-team official Wednesday W6 tags still MISSING. NFL.com Sunday SNF MNF tables No Injuries Reported. First official tags about 16:00 ET",
+    "TNF weather EASED. NFLWeather now 50F N 9 25pct Mostly Clear gusts 19. Tuesday Broncos Wire 42F 50pct STALE. Not a JSN sit",
+    "Mixon still unsigned. No Wednesday signing",
+    "Default Sleeper Tuesday FAAB has PROCESSED. Today leftover FA only",
+    "Values 1-100 Superflex Half-PPR 10-team. Trends vs Tuesday 18:15 ET published board FLAT. Thin spots GUESS",
+    "NFL.com homepage news widgets Lamar back Limited Daniels London OUT Achane ACL are STALE Week 3-4. Ignore"
   ],
   "must_act_today": [
     "Leftover FA only. Default Tuesday FAAB processed. If slipped: Marks 6-12 Winston 4-8 Allen 4-8 Pierce 3-7 Bernard 3-6 Evans 4-8 Huntley 2-5 if Lamar is yours Parker Washington 2-5 Wilson SEA 2-5 Higbee 2-4",
@@ -30,11 +33,11 @@
     "Week 5 scored. Do not re-set Allen 210/1 plus 10-121-1 Cook 25-111-2 Nacua 17-138-1 Stafford 383/3 Adams 5-51-2 Gibbs JSN CMC Evans Huntley Henry London",
     "Hold do not smash-sell Lamar 86 CeeDee 72 Chase 74 Saquon 34 Jeanty 62 Tet 52 Irving 44 Gibbs 95 Burrow 90 Amon-Ra 80 JSN 90. MHJ is 30 not 56. Huntley is 28 not 86. Marks is 28 not 50",
     "Week 6 byes CIN DET MIA MIN. Sit do not dump Burrow Chase Higgins Gibbs Amon-Ra Goff Jefferson Addison Kyler Jones Gordon LaPorta Hockenson Chase Brown",
-    "PHI RB mess: hold Saquon 34 leftover Pierce 18 Shipley out weeks 14 do not re-lock as W6 lead",
+    "PHI RB mess: hold Saquon 34 leftover Pierce 18 Shipley out weeks 14 sit-lean until Wednesday tag about 16:00 ET",
     "HOU is Marks plus MHJ. Marks 28 lead if Monty sits. Monty 22 sit-lean. MHJ London dart 30. Nico stays 56",
     "SF is Evans 36. Deebo out weeks 16. Sit Deebo. BUF is Allen/Cook not Coleman. Moore 24 sit-lean. Coleman 20 after 1-7-1 / 2 tgt",
-    "TNF: start JSN 90 unless Wed/Thu DNP/OUT. Surtain not seen Tuesday is a plus not a lock. Wilson 32 flex not CMC. Sit Charbonnet. Sit Nix as smash. Weather CONFLICT is not a JSN sit",
-    "Sit until Wednesday tags: Lamar Caleb Saquon AJ Brown Penix Montgomery Moore McConkey-as-smash Hampton-as-locked-RB2 Judkins. Watch Thursday JSN designation. Rice DTD vs several-weeks CONFLICT"
+    "TNF: start JSN 90 unless Wed/Thu DNP/OUT. Surtain official DNP is a plus not a lock. Wilson 32 flex not CMC. Sit Charbonnet. Sit Nix as smash. Weather EASED 50F 25pct Mostly Clear is not a JSN sit",
+    "Sit until Wednesday tags about 16:00 ET: Lamar Caleb Saquon AJ Brown Penix Montgomery Moore McConkey-as-smash Hampton-as-locked-RB2 Judkins. Do not treat ESPN aggregator OUT/Q as official tags"
   ],
   "injuries": [
     {
@@ -58,7 +61,7 @@
       "pos": "QB",
       "team": "BAL",
       "status": "Official OUT W5 / hope W6",
-      "note": "Ankle. Minter definitely doing better AND not sure he practices Wednesday. 86. Hold. Do not lock as W6.",
+      "note": "Ankle. Minter definitely doing better AND not sure he practices Wednesday. Official Wed tag MISSING about 16:00 ET. 86. Hold. Do not lock as W6.",
       "replacement": "Huntley 28 already 201/2 plus rush TD. Pair only if Lamar sits W6."
     },
     {
@@ -201,16 +204,16 @@
       "player": "Jaxon Smith-Njigba",
       "pos": "WR",
       "team": "SEA",
-      "status": "Mon estimated Limited / TNF",
-      "note": "Ankle. Played through it 5-102-1. SEA Tue sheet MISSING. Surtain not seen on DEN Tue walk-through. 90. Start-lean if Wednesday/Thursday active.",
+      "status": "Tue official Limited / TNF",
+      "note": "Ankle. Second consecutive Limited. Played through it 5-102-1. USA TODAY no-danger. Wed designation MISSING. 90. Start-lean if Wednesday/Thursday active.",
       "replacement": "Sit only if Wed/Thu DNP/OUT. Lock/JSN-less SEA is a dart mess."
     },
     {
       "player": "Zach Charbonnet",
       "pos": "RB",
       "team": "SEA",
-      "status": "PUP / Mon estimated Limited",
-      "note": "Knee ACL return. 12 GUESS. NFL.com waiver 1 is a 12-team take. Not a Thursday flex.",
+      "status": "Tue official Limited / PUP",
+      "note": "Knee ACL return. 12 GUESS. Official Tue Limited. ESPN aggregator Doubtful is not official. Not a Thursday flex.",
       "replacement": "Wilson SEA 32 after 20-61-1."
     },
     {
@@ -290,7 +293,7 @@
       "pos": "WR",
       "team": "KC",
       "status": "Ham / DTD vs several-weeks CONFLICT",
-      "note": "Reid DTD. NBC 15:20 several weeks. Sit-lean until Wednesday. 32. Do not drop.",
+      "note": "Reid DTD. NBC 15:20 several weeks. No update since bye. Sit-lean until Wednesday tag. 32. Do not drop.",
       "replacement": "Worthy / Kelce / FA."
     },
     {
@@ -336,24 +339,44 @@
   ],
   "news": [
     {
+      "player": "Jaxon Smith-Njigba",
+      "note": "SEA Tuesday official sheet CLOSED. Tue Limited ankle second consecutive Limited. USA TODAY Wed 06:08 ET no danger of missing. PFT NBC expected to play. Wed designation MISSING.",
+      "impact": "90 flat. Start-lean Thursday. Sit only if Wed/Thu DNP/OUT."
+    },
+    {
       "player": "Pat Surtain II",
-      "note": "DEN Tuesday walk-through. Mason 14:24 ET not seen. Official Tuesday sheet MISSING.",
+      "note": "DEN Tuesday official sheet CLOSED. Official DNP ankle. Tuesday Mason walk-through confirmed. ESPN aggregator OUT is not an official Wednesday tag.",
       "impact": "JSN start-lean stronger if Surtain sits Thursday. JSN stays 90."
     },
     {
       "player": "Talanoa Hufanga",
-      "note": "DEN Tuesday walk-through. Not seen. Ankle.",
+      "note": "DEN Tuesday official sheet CLOSED. Official DNP ankle.",
       "impact": "DEN secondary thinner. Not a skill-player value move."
     },
     {
       "player": "Riley Moss",
-      "note": "On the field Tuesday after Monday estimated Limited ribs.",
+      "note": "DEN Tuesday official sheet CLOSED. Official Limited ribs. Chance to play Thursday.",
       "impact": "Fact. Not a skill-player value move."
     },
     {
+      "player": "Zach Charbonnet",
+      "note": "SEA Tuesday official sheet CLOSED. Tue Limited knee. PUP. ESPN aggregator Doubtful is not official.",
+      "impact": "12 GUESS. Not a Thursday flex. Wilson is the SEA RB 32."
+    },
+    {
+      "player": "TNF weather",
+      "note": "NFLWeather EASED to 50F N 9 25pct Mostly Clear gusts 19. Tuesday Broncos Wire 42F 50pct STALE.",
+      "impact": "Not a JSN sit. Low total 40.5 still leans Wilson Dobbins and fades Nix."
+    },
+    {
       "player": "Lamar Jackson",
-      "note": "Minter not sure he practices Wednesday. Still doing better. Official W6 tag MISSING.",
+      "note": "Minter not sure he practices Wednesday. Official W6 tag MISSING until about 16:00 ET. Still doing better.",
       "impact": "86 flat. Huntley pair. Do not lock as W6."
+    },
+    {
+      "player": "Joe Mixon",
+      "note": "Still unsigned after SEA physical kill. No Wednesday signing.",
+      "impact": "2. Do not FAAB."
     },
     {
       "player": "Quinshon Judkins",
@@ -364,16 +387,6 @@
       "player": "Rashee Rice",
       "note": "Reid DTD vs NBC several weeks CONFLICT.",
       "impact": "32 flat. Sit-lean until Wednesday. Do not drop."
-    },
-    {
-      "player": "Jaxon Smith-Njigba",
-      "note": "SEA Tuesday official sheet MISSING. Monday estimated Limited ankle. Surtain not seen Tuesday.",
-      "impact": "90 flat. Start-lean Thursday. Sit only if Wed/Thu DNP/OUT."
-    },
-    {
-      "player": "Joe Mixon",
-      "note": "Still unsigned after SEA physical kill. No Tuesday signing.",
-      "impact": "2. Do not FAAB."
     },
     {
       "player": "Josh Allen",
@@ -780,13 +793,13 @@
       "player": "Zach Charbonnet",
       "pos": "RB",
       "call": "Sit / trap",
-      "note": "PUP. Not Thursday. 12 GUESS."
+      "note": "PUP. Tue official Limited. Not Thursday. ESPN aggregator Doubtful not official. 12 GUESS."
     },
     {
       "player": "Jaxon Smith-Njigba",
       "pos": "WR",
       "call": "Must-start",
-      "note": "TNF start-lean if active. Mon Limited ankle. SEA Tue sheet MISSING. Surtain not seen Tue. 90."
+      "note": "TNF start-lean if active. Tue official Limited ankle. USA TODAY no-danger. Surtain official DNP. Weather EASED. 90."
     },
     {
       "player": "Puka Nacua",
@@ -917,12 +930,12 @@
     "Week 5 scored. Do not re-set Allen Cook Nacua Stafford Adams Gibbs JSN CMC Evans Huntley Henry London",
     "Hold do not smash-sell Lamar 86 CeeDee 72 Chase 74 Saquon 34 Jeanty 62 Tet 52 Irving 44 Gibbs 95 Burrow 90 Amon-Ra 80 JSN 90",
     "Week 6 byes CIN DET MIA MIN. Sit do not dump Burrow Chase Higgins Gibbs Amon-Ra Goff Jefferson Addison Kyler Jones Gordon LaPorta Hockenson Chase Brown",
-    "PHI RB mess: hold Saquon 34 leftover Pierce 18 Shipley out weeks 14",
+    "PHI RB mess: hold Saquon 34 leftover Pierce 18 Shipley out weeks 14 sit-lean until Wednesday tag about 16:00 ET",
     "HOU is Marks 28 plus MHJ dart 30. Nico stays 56. SF is Evans 36. Deebo out weeks 16",
-    "BUF is Allen 100 Cook 72 not Coleman 20. Moore 24 sit-lean until Wednesday",
-    "TNF: start JSN 90 unless Wed/Thu DNP/OUT. Surtain not seen Tuesday. Wilson 32 flex. Sit Charbonnet. Sit Nix as smash. Weather CONFLICT is not a JSN sit",
+    "BUF is Allen 100 Cook 72 not Coleman 20. Moore 24 sit-lean until Wednesday tag",
+    "TNF: start JSN 90 unless Wed/Thu DNP/OUT. Surtain official DNP. Wilson 32 flex. Sit Charbonnet. Sit Nix as smash. Weather EASED 50F 25pct Mostly Clear is not a JSN sit",
     "W6 early locks: Maye Mahomes Purdy Stafford Bijan CMC Taylor Irving Walker-KC Cook Kyren JSN-if-active London Nacua Adams Tet Evans Bowers Kelce Marks-if-Monty-sits. Not Lamar Caleb Saquon AJ Brown Penix-until-Wed McConkey Hampton-as-smash Deebo Shipley Moore Coleman-as-WR2 Judkins",
-    "Watch Wednesday Lamar Caleb Saquon DeVonta CeeDee Hall Penix Mayfield AJ Brown IR window McConkey Rice Henderson Montgomery Moore Judkins. Thursday JSN designation. Mixon still unsigned"
+    "Watch today about 16:00 ET Lamar Caleb Saquon DeVonta CeeDee Hall Penix Mayfield AJ Brown IR window McConkey Rice Henderson Montgomery Moore Judkins. Afternoon JSN Wednesday designation. Mixon still unsigned. Do not treat ESPN aggregator OUT/Q as official"
   ],
   "trade_board": [
     {
@@ -963,7 +976,7 @@
       "value": 90,
       "tier": "WR1",
       "trend": "flat",
-      "note": "5-102-1. Mon Limited ankle. SEA Tue sheet MISSING. Surtain not seen Tue. TNF start-lean if active"
+      "note": "5-102-1. Tue official Limited ankle. USA TODAY no-danger. Surtain official DNP. TNF start-lean if active"
     },
     {
       "player": "Drake Maye",
@@ -979,7 +992,7 @@
       "value": 86,
       "tier": "QB1",
       "trend": "flat",
-      "note": "Minter better AND not sure Wednesday practice. Not a designation. Do not smash-sell"
+      "note": "Minter better AND not sure Wednesday practice. Official Wed tag MISSING. Do not smash-sell"
     },
     {
       "player": "Amon-Ra St. Brown",
@@ -1451,7 +1464,7 @@
       "value": 32,
       "tier": "QB3",
       "trend": "flat",
-      "note": "195/1/2. 4 team TOs"
+      "note": "195/1/2. TNF starter. Weather not a sit"
     },
     {
       "player": "Ollie Gordon II",
@@ -1907,7 +1920,7 @@
       "value": 12,
       "tier": "RB5",
       "trend": "flat",
-      "note": "PUP window. Mon Limited estimate. GUESS. Not TNF"
+      "note": "PUP window. Tue official Limited. GUESS. Not TNF"
     },
     {
       "player": "Kimani Vidal",
@@ -2117,9 +2130,12 @@
     "Half-PPR: WRs hold value. Committee RBs are discounted unless they have a path to 15+ touches as the lead.",
     "10-team benches are shallow. A 4th RB is worth less than in 12-team. Do not overpay for depth.",
     "Side getting the best player in a 2-for-1 sends extra. 3-for-1s usually lose in 10-team unless you are dumping IR dead.",
-    "Never invent a value from vibes. Wednesday W6 tags, JSN Thursday designation, CeeDee MRI writeup, Lamar W6 name, Caleb W6 name, Saquon W6 tag, AJ Brown activation, Penix Wednesday, Hall W6 tag, Moore W6 tag, Judkins Wednesday, Rice CONFLICT are MISSING or OPEN.",
-    "Tuesday 08:25 vs Tuesday 18:15: entire board FLAT. Facts moved. Values did not.",
-    "Surtain not seen on DEN Tuesday walk-through is a JSN matchup plus, not a JSN 100.",
+    "Never invent a value from vibes. Wednesday W6 tags, JSN Wednesday designation, CeeDee W6 tag, Lamar W6 name, Caleb W6 name, Saquon W6 tag, AJ Brown activation, Penix Wednesday, Hall W6 tag, Moore W6 tag, Judkins Wednesday, Rice CONFLICT are MISSING or OPEN.",
+    "Tuesday 18:15 vs Wednesday 08:15: entire board FLAT. Facts moved. Values did not.",
+    "SEA DEN Tuesday official sheets closed. JSN second Limited is a start-lean 90, not a 100.",
+    "Surtain official DNP is a JSN matchup plus, not a JSN 100.",
+    "TNF weather EASED to 50F 25pct Mostly Clear. Tuesday 42F 50pct is STALE. Not a JSN sit.",
+    "ESPN aggregator OUT/Q is not an official Wednesday designation.",
     "Lamar is an 86 after official OUT plus doing-better plus not-sure-Wednesday, not a 50.",
     "Judkins is a 10 GUESS boot, not a locked RB2.",
     "Estime is a 4 GUESS, not a 10-team lead.",
@@ -2135,12 +2151,13 @@
     "Bagent is a 16 after a benching, not a paid W6 QB2.",
     "Kamara is a 22 after 3-12, not a volume RB2.",
     "Walker is KC 78 back from bye vs LAC, not the SEA RB. Wilson is the SEA TNF back 32.",
-    "Default Sleeper Tuesday FAAB has PROCESSED. Tonight leftover FA only."
+    "Default Sleeper Tuesday FAAB has PROCESSED. Today leftover FA only."
   ],
   "ripoff_flags": [
-    "Starting JSN if Wednesday/Thursday sheets flip to DNP/OUT \u2014 Monday Limited plus Surtain not-seen is a start-lean 90",
-    "Sitting JSN on TNF weather CONFLICT \u2014 47/25 vs 42/50 vs 53 is a watch not a sit",
-    "Starting Charbonnet Thursday as a flex \u2014 PUP 12 GUESS",
+    "Starting JSN if Wednesday/Thursday sheets flip to DNP/OUT \u2014 two Limiteds plus USA TODAY no-danger is a start-lean 90",
+    "Sitting JSN on stale TNF rain \u2014 42/50 is STALE. Weather EASED to 50/25 Mostly Clear",
+    "Starting Charbonnet Thursday as a flex \u2014 PUP 12 GUESS. ESPN aggregator Doubtful is not official",
+    "Treating ESPN aggregator OUT/Q listings as official Wednesday tags",
     "Starting any CIN/DET/MIA/MIN in Week 6",
     "Starting Saquon as a W6 lock before Wednesday \u2014 34 sit-lean",
     "Starting Shipley as a W6 lock \u2014 14 plantar tear out weeks",
@@ -2162,13 +2179,12 @@
     "Starting Judkins as a lock \u2014 boot 10 GUESS",
     "Starting Estime as a 10-team lead \u2014 4 GUESS",
     "Starting Rice as a lock on the DTD vs several-weeks CONFLICT \u2014 32",
-    "Treating aggregator Q listings as official Wednesday tags",
     "Smash-selling Lamar to 50 \u2014 he is an 86",
     "Smash-selling CeeDee to 40 \u2014 he is a 72",
     "Smash-selling Chase / Gibbs / Burrow / Jefferson / Amon-Ra because of a Week 6 bye",
     "Smash-selling Saquon to 20 \u2014 he is a 34",
     "Smash-selling Jeanty to 40 after 10-27 \u2014 he is a 62",
-    "Smash-selling JSN because of a Monday Limited estimate \u2014 he is a 90",
+    "Smash-selling JSN because of a Tuesday Limited \u2014 he is a 90",
     "Paying MHJ as Nico \u2014 30 vs 56",
     "Paying Pierce as Saquon \u2014 18 vs 34",
     "Paying Huntley as Lamar \u2014 28 vs 86",
