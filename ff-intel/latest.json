@@ -1,5 +1,5 @@
 {
-  "generated_at_et": "2026-10-16 08:15 ET",
+  "generated_at_et": "2026-10-16 18:15 ET",
   "nfl_week": "6",
   "league": {
     "teams": 10,
@@ -15,45 +15,50 @@
     "53-man rosters locked 2026-08-30 18:00 ET",
     "Weeks 1-4 CLOSED unchanged",
     "Week 5 FULLY CLOSED. MNF BUF 37-LAR 34 OT unchanged. Moore INACTIVE. Coleman 1-7-1",
-    "TNF CLOSED DEN 17-SEA 14 OT. JSN 12-134 / 16 tgt. Darnold 27/51 278/0/2 OT INT. Wilson 14-52. Holani 5-20-1. Shaheed 5-66 + 2pt 2 FUM 1 lost. Nix 17/27 107. Dobbins 17-41-1. Harvey 6-25-1 + 3-31",
-    "CORRECTION vs Thursday 18:15 ET: Jalen Hurts official OUT W6 calf blood clot. ESPN/Rapoport/team Thu 13:09 ET. Thursday evening Full/start is STALE WRONG. Tanner McKee starts. ESPN est return Oct 26 W7 lean. Hurts 74 to 66. Do not smash-sell to 40",
-    "CORRECTION vs Thursday 18:15 ET: DeVonta official Thursday Limited hamstring not DNP. ESPN/NFL.com. 36 to 38. Still not a lock",
-    "NEW WAS/SF official NFL.com tables IN. Thursday evening empty is STALE. Diggs official Thu DNP ham. McLaurin Thu Limited. Daniels Thu Full. CMC Thu DNP MNF rest-lean do not sit. Evans Thu DNP Shanahan rib plus Achilles. Deebo Shanahan hold-off-IR OUT W6 W9 lean",
-    "NEW Evans 36 to 32 sit-lean MNF. Do not lock as SF WR1",
-    "NEW Bowers official Thursday Full was Limited. Still start 58 flat",
-    "Friday Sunday-game designations MISSING until about 16:00 ET",
-    "Lamar Thu DNP x2 ESPN Q. Huntley live pair. 86 / 30 flat",
-    "Caleb Thu Full still unnamed. Said he does not know protocols hamstring tear. Rapoport likely barring setback. Sit until named 52",
-    "Saquon Thu DNP x2 ESPN Q. Sit-lean. Pierce leftover 32 / 22",
-    "Olave Thu DNP x2 illness ESPN Q sit-lean 56",
-    "Flowers Thu Limited toe ESPN Q expected to play start-lean 36",
-    "Moore Thu DNP ESPN Q sit 24",
-    "Rice Thu DNP x2 ESPN Q sit 28 do not drop",
-    "Hall Thu DNP x2 ESPN Doubtful sit. Allen is the NYJ RB",
-    "McConkey Thu Limited x2 ESPN Q sit as smash 10",
-    "AJ Brown IR designated Thu Limited still not activated sit 32",
-    "Mayfield Thu DNP OC not quite ready ESPN Doubtful sit W6 22",
-    "Montgomery official OUT groin London. Dell OUT London. Mixon still unsigned",
-    "Lines ESPN/DK Friday AM. JAX -2.5/42.5 HOLDS. CHI -1.5/51.5. BAL -3.5/40.5. IND -7/44.5. NE -7.5/43.5. NO -1.5/45.5. CAR -3.5/38.5. PIT -2.5/39.5. LAR -12.5/51.5. BUF -4.5/53.5. KC -7.5/41.5 from -8.5. GB -1.5/53.5. SF -7.5/51.5",
-    "Weather FootballDB 07:20 ET dry slate. GB 54F SW 13 0pct not a CeeDee sit. TB 75F NE 12 0pct. London 55F NE 10 15pct watch not a sit. Indoor CHI ATL TEN IND BUF LV",
+    "TNF CLOSED DEN 17-SEA 14 OT. JSN 12-134 / 16 tgt. Darnold 27/51 278/0/2 OT INT. Wilson 14-52. Holani 5-20-1. Nix 17/27 107. Dobbins 17-41-1",
+    "Friday Sunday-game designations IN. Morning Friday tags MISSING is STALE",
+    "Lamar Jackson official OUT W6 ankle. Huntley starts at CLE. Hold Lamar 86. Do not smash-sell",
+    "Saquon Barkley official OUT W6 hamstring. Pierce is the PHI lead. Shipley placed on IR plantar 4 plus weeks",
+    "DeVonta Smith OFF the report and will play vs CAR. 38 to 42. Start",
+    "Caleb Williams official Q after three Fulls. Still unnamed. Sit until named 52",
+    "Penix Jr no designation plays vs CHI. Start 30",
+    "Zay Flowers OFF the report plays at CLE. 36 to 38. Start",
+    "Ladd McConkey no designation plays at KC. 10 to 14. Not a smash",
+    "Breece Hall official OUT quad. Allen is the NYJ RB. Hall 30 to 28. Allen 26 to 28",
+    "Rashee Rice official OUT ham/knee. 28 to 24. Sit. Do not drop",
+    "Baker Mayfield official OUT thumb. Jalon starts. 22",
+    "Kyle Monangai official OUT thumb/toe. Swift is CHI. 26",
+    "Chris Olave official Q illness. Friday Limited after two DNPs. NBC start-lean not a lock 56",
+    "DJ Moore official Q CONFLICT. ESPN/NBC/CBS Q after Friday non-contact. One NFL.com recap grouped Bills as OUT. Conservative sit. W5 Q then inactive. 24",
+    "Tyler Warren official Q groin Friday pop-up Limited. 38 to 34. Have a TE pivot",
+    "DK Metcalf official Q illness Friday DNP. 40 to 36. Sit-lean. Bernard dart",
+    "AJ Brown still IR official Q. Vrabel Saturday call. Sit 32",
+    "TreVeyon Henderson official Q MRI high-ankle hoping to play. 20 to 16. Sit",
+    "Quinshon Judkins official Q ankle Friday Limited. Sit-lean 10 GUESS",
+    "Jeremiyah Love official OUT ankle. Allgeier 24 to 26 GUESS",
+    "MNF WAS/SF designations Saturday. 49ers.com still Thursday-only at 18:00 ET. Evans Friday side work sit-lean 32. CMC Thursday rest do not sit 74. Deebo OUT-lean W6 16. Diggs Friday stretching sit-lean 20",
+    "Mixon still unsigned after SEA physical kill. 2. 0 dollars",
+    "Lines ESPN Friday PM. JAX -2.5/42.5 HOLDS. CHI -1.5/51.5. BAL -3/40.5 from -3.5 Lamar OUT. IND -7/44.5. NE -7.5/43.5. NO -1.5/46.5 from 45.5. CAR -3.5/38.5. PIT -2.5/39.5. LAR -12.5/51.5. KC -7.5/41.5. BUF -5.5/53.5 from -4.5. GB -1.5/53.5. SF -7.5/51.5",
+    "Weather DK Network Friday PM. London rain 31pct kick to 59pct near half 55F 9-11 mph watch not a Marks/Nico sit. TB 75F NE 17-18 mph dry trims deep. GB 57F SSW 9 0pct not a CeeDee sit. Indoor CHI ATL TEN IND BUF LV",
     "Default Sleeper Tuesday FAAB has PROCESSED. Today leftover FA only",
-    "Values 1-100 Superflex Half-PPR 10-team. Trends vs Thursday 18:15 ET published board JSN 90 to 92 DeVonta 36 to 38 Young 36 to 38 Tet 52 to 54 NEW McKee 18 GUESS Hurts 74 to 66 Darnold 32 to 28 Nix 52 to 46 Wilson 32 to 30 Evans 36 to 32. Rest FLAT. Thin spots GUESS",
+    "Values 1-100 Superflex Half-PPR 10-team. Trends vs Friday 08:15 ET published board DeVonta 38 to 42 Pierce 22 to 26 Allen 26 to 28 Huntley 30 to 32 Flowers 36 to 38 McConkey 10 to 14 Allgeier 24 to 26 Coleman 20 to 22 Bernard 20 to 22 Saquon 32 to 30 Shipley 14 to 8 Hall 30 to 28 Rice 28 to 24 Warren 38 to 34 DK 40 to 36 Henderson 20 to 16 Sampson 10 to 6. Rest FLAT. Thin spots GUESS",
     "NFL.com homepage news widgets Lamar back Limited Daniels London OUT Achane ACL are STALE Week 3-4. Ignore"
   ],
   "must_act_today": [
-    "TNF SCORED. Do not re-set JSN 92 12-134 Wilson 30 14-52 Darnold 28 278/0/2 Nix 46 107 Dobbins 24 17-41-1. Hold JSN. Do not smash-sell",
-    "SIT HURTS official OUT W6 calf clot. McKee starts leftover 2-4 only if QB-desperate. Do not smash-sell Hurts 66 to 40. ESPN W7 lean",
-    "Leftover FA only. Default Tuesday FAAB processed. If slipped: Marks 6-12 Winston 4-8 Allen 4-8 Pierce 3-7 Bernard 3-6 Huntley 3-6 if Lamar is yours Parker Washington 2-5 Young 2-4 McKee 2-4 if desperate Higbee 2-4",
-    "Do not FAAB Mixon Bigsby Thornton Henry Jr Estime-as-a-lead Dell Coker Bagent-as-new-paid-QB2 MHJ-as-paid-WR1 Steele Lance Huntley-as-Lamar McKee-as-Hurts Shipley-as-W6-lead Tua-as-paid-QB2 Charbonnet-as-flex Holani-as-flex Evans-as-locked-WR1 DST K",
-    "Week 5 plus TNF scored. Do not re-set Allen Cook Nacua Stafford Adams Gibbs JSN CMC Huntley Henry London",
-    "Hold do not smash-sell Lamar 86 CeeDee 72 Chase 74 Saquon 32 Jeanty 62 Tet 54 Irving 44 Gibbs 95 Burrow 90 Amon-Ra 80 JSN 92 Hurts 66. MHJ is 30 not 56. Huntley is 30 not 86. McKee is 18 not 66. Marks is 30 not 50. Rice is 28 not a drop. Pierce is 22 not a 40. Evans is 32 not a locked WR1",
+    "TNF SCORED. Do not re-set JSN 92 Wilson 30 Darnold 28 Nix 46 Dobbins 24. Hold JSN. Do not smash-sell",
+    "SIT official OUTs: Hurts 66 Lamar 86 Saquon 30 Hall 28 Montgomery 22 Mayfield 22 Rice 24 Shipley IR 8 Monangai 26",
+    "START newly cleared: DeVonta 42 Flowers 38 Penix 30. Huntley 32 confirmed start. Pierce 26 confirmed PHI lead. Allen 28 confirmed NYJ lead. Marks 30 London lock",
+    "Caleb official Q unnamed. Sit until named. Do not drop 52. Pair Keenum leftover 2-4 only if he sits",
+    "Leftover FA only. Default Tuesday FAAB processed. If slipped: Marks 6-12 Allen 4-8 Pierce 4-8 Winston 4-8 Bernard 4-7 Huntley 3-6 if Lamar is yours Higbee 2-4 Young 2-4 McKee 2-4 if desperate Parker Washington 2-5 Keenum 2-4 if Caleb sits Allgeier 1-3",
+    "Do not FAAB Mixon Bigsby Thornton Henry Jr Estime-as-a-lead Dell Coker Bagent-as-new-paid-QB2 MHJ-as-paid-WR1 Steele Lance Huntley-as-Lamar McKee-as-Hurts Shipley-as-W6-lead Tua-as-paid-QB2 Charbonnet-as-flex Holani-as-flex Evans-as-locked-WR1 Kirk-as-a-start DST K",
+    "Hold do not smash-sell Lamar 86 Hurts 66 CeeDee 72 Chase 74 Saquon 30 Jeanty 62 Tet 54 Gibbs 95 Burrow 90 Amon-Ra 80 JSN 92. Huntley is 32 not 86. McKee is 18 not 66. Marks is 30 not 50. Pierce is 26 not Saquon. Rice is 24 not a drop. Evans is 32 not a locked WR1",
     "Week 6 byes CIN DET MIA MIN. Sit do not dump Burrow Chase Higgins Gibbs Amon-Ra Goff Jefferson Addison Kyler Jones Gordon LaPorta Hockenson Chase Brown",
-    "PHI mess: sit Hurts 66 leftover Pierce 22 Shipley out weeks 14 Saquon sit-lean after official Thu DNP x2 DeVonta Limited start-lean 38",
-    "HOU is Marks plus MHJ. Marks 30 lock Monty official OUT. Monty 22 sit. MHJ London dart 30. Nico stays 56 start",
-    "SF is not a locked Evans start. Deebo OUT W6 expected W9 16. Evans 32 sit-lean rib Achilles DNP. CMC 74 do not sit on Thursday rest. Diggs 20 sit",
-    "BUF is Allen/Cook not Coleman. Moore 24 official Thu DNP sit. Coleman 20 after 1-7-1 / 2 tgt",
-    "W6 locks now: Maye Full Mahomes Full Purdy Stafford Penix Full start-lean Young Hurts-OUT Bijan CMC-rest-lean-not-sit Taylor Full Irving Walker-KC Cook Kyren Jeanty Full London Nacua Adams Tet CeeDee Full Bowers Full Kelce Marks-Monty-OUT. Not Hurts Lamar Caleb-until-named Saquon AJ Brown McConkey Hampton-as-smash Deebo Shipley Moore Coleman-as-WR2 Judkins Rice Hall Mayfield Charbonnet Montgomery Olave-as-lock Flowers-as-lock Evans-as-lock McKee-as-smash",
-    "Watch Friday 16:00 ET: Lamar Limited-or-OUT. Caleb named-or-not. Saquon/DeVonta Friday tag. Olave illness. Flowers toe. Moore Rice Hall McConkey designations. Evans MNF tag. AJ Brown activation. Mixon still unsigned"
+    "PHI: sit Hurts 66 sit Saquon 30 Shipley IR 8 start DeVonta 42 leftover/start Pierce 26 Tet start 54 McKee 18 desperation only",
+    "HOU is Marks plus MHJ. Marks 30 lock Monty OUT 22. MHJ London dart 30. Nico stays 56 start. London rain 2H watch not a sit",
+    "SF is not a locked Evans start. Deebo OUT-lean W6 16. Evans 32 sit-lean Friday side work. CMC 74 do not sit on Thursday rest. Diggs 20 sit-lean. MNF tags Saturday",
+    "BUF is Allen/Cook not Coleman. Moore 24 official Q sit conservative W5 pattern. Coleman 22 after 1-7-1 / 2 tgt",
+    "W6 locks now: Maye Mahomes Purdy Stafford Penix Huntley Young Bijan CMC-do-not-sit Taylor Irving Walker-KC Cook Kyren Jeanty London Nacua Adams Tet CeeDee DeVonta Flowers Bowers Kelce Marks Allen-NYJ Pierce. Not Hurts Lamar Caleb-until-named Saquon AJ Brown McConkey-as-smash Hampton-as-smash Deebo Shipley Moore Coleman-as-WR2 Judkins Rice Hall Mayfield Charbonnet Montgomery Olave-as-lock Evans-as-lock McKee-as-smash Warren-as-lock DK-as-lock",
+    "Watch Saturday: AJ Brown activation. Caleb named-or-not. MNF tags CMC Evans Diggs McLaurin Deebo. Olave DK Moore Warren Henderson Sunday inactives. Mixon still unsigned"
   ],
   "injuries": [
     {
@@ -61,7 +66,7 @@
       "pos": "QB",
       "team": "PHI",
       "status": "Official OUT W6 (calf blood clot)",
-      "note": "Superficial clot movement on follow-up US. Rapoport cannot play until solved. ESPN est Oct 26 W7 lean. 66 hold not a 40.",
+      "note": "ESPN est Oct 26 W7 lean. Hold 66. Do not smash-sell to 40.",
       "replacement": "Tanner McKee 18 GUESS named starter. Not Hurts 66."
     },
     {
@@ -69,397 +74,431 @@
       "pos": "QB",
       "team": "PHI",
       "status": "Named W6 starter",
-      "note": "Hurts OUT. Dead 38.5 total. Desperation SF2 only. 18 GUESS.",
-      "replacement": "Hurts 66 if miraculously cleared - he will not."
+      "note": "Dead 38.5 total. Desperation SF2 only. 18 GUESS.",
+      "replacement": "Hurts 66 when cleared. Not this week."
     },
     {
       "player": "Lamar Jackson",
       "pos": "QB",
       "team": "BAL",
-      "status": "Official Thu DNP x2 / ESPN Q",
-      "note": "Ankle. Minter day-to-day. Schefter chance. Hold 86. Do not smash-sell.",
-      "replacement": "Huntley 30 pair if he sits."
+      "status": "Official OUT W6 (ankle)",
+      "note": "Zero practice since Oct 4. Minter ruled him out Friday. Hold 86. Do not smash-sell.",
+      "replacement": "Tyler Huntley 32 confirmed start. Not Lamar 86."
     },
     {
       "player": "Tyler Huntley",
       "pos": "QB",
       "team": "BAL",
-      "status": "Healthy / W6 pair",
-      "note": "201/2 plus rush TD. Live after Lamar DNP x2. 30 not 86.",
-      "replacement": "Lamar 86 if Friday Full+."
+      "status": "Named W6 starter",
+      "note": "201/2 plus rush TD W5. Stream at CLE 40.5. 32.",
+      "replacement": "Lamar 86 when cleared."
     },
     {
       "player": "Caleb Williams",
       "pos": "QB",
       "team": "CHI",
-      "status": "Official Thu Full / unnamed",
-      "note": "Hamstring tear his words. Protocols. Rapoport likely barring setback. Sit until named. 52.",
-      "replacement": "Keenum 18 pair. Bagent 16 benched. Do not FAAB Bagent."
+      "status": "Official Q / unnamed",
+      "note": "Hamstring tear his words. Three Fulls. Still protocols. Sit until named. Hold 52.",
+      "replacement": "Case Keenum 18 pair only if he sits. Do not start Bagent 16."
     },
     {
       "player": "Michael Penix Jr.",
       "pos": "QB",
       "team": "ATL",
-      "status": "Official Thu Full",
-      "note": "Ribs. Two Fulls. Said good to go. Start-lean vs CHI. 30.",
-      "replacement": "Tua 8 only if Penix sits. Not a paid smash."
+      "status": "No designation / plays",
+      "note": "Ribs. Cleared. Start vs CHI 51.5 indoor. 30.",
+      "replacement": "Tua 8 is not a paid smash."
     },
     {
       "player": "Saquon Barkley",
       "pos": "RB",
       "team": "PHI",
-      "status": "Official Thu DNP x2 / ESPN Q",
-      "note": "Hamstring. Sit-lean. Hold 32. Do not smash-sell.",
-      "replacement": "Pierce 22 leftover lead."
-    },
-    {
-      "player": "DeVonta Smith",
-      "pos": "WR",
-      "team": "PHI",
-      "status": "Official Thu Limited / ESPN Q",
-      "note": "Hamstring. Thursday packet DNP was STALE. Start-lean not a lock. 38.",
-      "replacement": "Cooper 12 GUESS. Wicks Thu DNP 14 GUESS."
+      "status": "Official OUT W6 (hamstring)",
+      "note": "Zero practice. Hold 30. Do not smash-sell to 20.",
+      "replacement": "Dameon Pierce 26 confirmed lead. Shipley IR 8."
     },
     {
       "player": "Dameon Pierce",
       "pos": "RB",
       "team": "PHI",
-      "status": "Healthy / leftover PHI lead",
-      "note": "Ugly 11-14. McKee game. W6 touches if Saquon sits. 22.",
-      "replacement": "Steele 0. Shipley 14 out weeks."
+      "status": "Healthy / W6 lead",
+      "note": "Saquon OUT plus Shipley IR plus McKee. Ugly 11-14 but the touches. 26.",
+      "replacement": "Steele 0 dollars. Not Saquon 30 ROS."
     },
     {
       "player": "Will Shipley",
       "pos": "RB",
       "team": "PHI",
-      "status": "Official Thu DNP / ESPN Doubtful",
-      "note": "Partial plantar tear multiple weeks. Not a W6 lead. 14.",
-      "replacement": "Pierce 22."
+      "status": "IR (plantar)",
+      "note": "Official IR Friday. Partial plantar. 4 plus weeks. 8. Do not re-bid as W6 lead.",
+      "replacement": "Pierce 26 is the W6 lead."
+    },
+    {
+      "player": "DeVonta Smith",
+      "pos": "WR",
+      "team": "PHI",
+      "status": "Off report / will play",
+      "note": "Hamstring/toe. Friday Full. Missed last two. Start vs CAR. 42.",
+      "replacement": "Cooper dart only if he sat. He plays."
     },
     {
       "player": "Breece Hall",
       "pos": "RB",
       "team": "NYJ",
-      "status": "Official Thu DNP x2 / ESPN Doubtful",
-      "note": "Quad week-to-week. Sit. 30.",
-      "replacement": "Braelon Allen 26 24-116-1."
+      "status": "Official OUT (quad)",
+      "note": "Week-to-week. Hold 28. Sit.",
+      "replacement": "Braelon Allen 28. 24-116-1. W6 lead at NE."
     },
     {
       "player": "Braelon Allen",
       "pos": "RB",
       "team": "NYJ",
-      "status": "Healthy / lead if Hall sits",
-      "note": "24-116-1. W6 at NE if Hall sits. 26.",
-      "replacement": "Hall 30 if he returns."
+      "status": "Healthy / lead",
+      "note": "Hall OUT. 24-116-1. Start. 28.",
+      "replacement": "Hall 28 when he returns. Not a forever lead."
     },
     {
       "player": "A.J. Brown",
       "pos": "WR",
       "team": "NE",
-      "status": "IR designated / Thu Limited",
-      "note": "High-ankle. Up in the air. Sit until Saturday activation. 32.",
-      "replacement": "Doubs 16 / Kyle Williams 12 GUESS."
+      "status": "IR / official Q",
+      "note": "High-ankle. Vrabel Saturday call. Sit until activated. 32.",
+      "replacement": "Doubs / Kyle Williams. Not a W6 lock."
     },
     {
       "player": "TreVeyon Henderson",
       "pos": "RB",
       "team": "NE",
-      "status": "Official Thu Limited / CONFLICT",
-      "note": "Ankle. Schefter multi-week vs official Limited. Sit-lean. 20.",
-      "replacement": "Stevenson if he sits."
+      "status": "Official Q (high-ankle)",
+      "note": "MRI high-ankle. Hoping to play. Sit. 16.",
+      "replacement": "Rhamondre Stevenson if he sits."
     },
     {
       "player": "Woody Marks",
       "pos": "RB",
       "team": "HOU",
-      "status": "Healthy / named load / Monty OUT",
-      "note": "19 touches. London lock. 30 not a 50.",
-      "replacement": "Ogunbowale crumbs. Montgomery 22 sit."
+      "status": "Healthy / named load",
+      "note": "Monty OUT. 19 touches. London lock. 30 not a 50.",
+      "replacement": "Ogunbowale crumbs. Montgomery 22 sit W6."
     },
     {
       "player": "David Montgomery",
       "pos": "RB",
       "team": "HOU",
       "status": "Official OUT (groin)",
-      "note": "Ryans W2W. CBS/NFL.com OUT London. Hold 22 sit.",
-      "replacement": "Marks 30 load."
-    },
-    {
-      "player": "CeeDee Lamb",
-      "pos": "WR",
-      "team": "DAL",
-      "status": "Official Thu Full",
-      "note": "Quad bruise no structural. Two Fulls. SNF start. 72.",
-      "replacement": "Pickens 42 if he sits - he will not."
+      "note": "Did not travel. Hold 22. Do not smash-sell to 10.",
+      "replacement": "Marks 30 carries the load."
     },
     {
       "player": "Rashee Rice",
       "pos": "WR",
       "team": "KC",
-      "status": "Official Thu DNP x2 / ESPN Q",
-      "note": "Ham/knee. Sit. Do not drop. 28.",
+      "status": "Official OUT (ham/knee)",
+      "note": "Sit. Do not drop. 24.",
       "replacement": "Worthy / Kelce."
-    },
-    {
-      "player": "Quinshon Judkins",
-      "pos": "RB",
-      "team": "CLE",
-      "status": "Official Thu DNP x2",
-      "note": "Ankle/foot. Sit. 10 GUESS.",
-      "replacement": "Estime 4 GUESS. Do not FAAB as a lead."
     },
     {
       "player": "DJ Moore",
       "pos": "WR",
       "team": "BUF",
-      "status": "Official Thu DNP / ESPN Q",
-      "note": "AC shoulder. Inactive W5. Sit. 24.",
-      "replacement": "Coleman 20 after 1-7-1 / 2 tgt. Not a smash."
+      "status": "Official Q (CONFLICT)",
+      "note": "AC/shoulder. Friday non-contact. ESPN/NBC/CBS Q. One NFL.com recap listed Bills OUT. Conservative sit. W5 Q then inactive. 24.",
+      "replacement": "Keon Coleman 22 dart. 1-7-1 / 2 tgt. Not a WR2."
     },
     {
       "player": "Keon Coleman",
       "pos": "WR",
       "team": "BUF",
-      "status": "Thu Full / 2 tgt",
-      "note": "1-7-1 with Moore out. Dart only. 20.",
+      "status": "Healthy",
+      "note": "1-7-1 / 2 tgt. Flex only if Moore sits. 22.",
       "replacement": "Moore 24 if he returns."
-    },
-    {
-      "player": "Deebo Samuel",
-      "pos": "WR",
-      "team": "SF",
-      "status": "Shanahan hold-off-IR / OUT W6 / expected W9",
-      "note": "Ham. Will not IR because of W8 bye. Sit. 16.",
-      "replacement": "Evans 32 sit-lean. Kirk 8 GUESS."
-    },
-    {
-      "player": "Mike Evans",
-      "pos": "WR",
-      "team": "SF",
-      "status": "Official Thu DNP / Shanahan rib + Achilles",
-      "note": "Will not practice Thursday. Sit-lean MNF. 32 not a locked WR1.",
-      "replacement": "Kirk IR window Limited 8 GUESS."
-    },
-    {
-      "player": "Christian McCaffrey",
-      "pos": "RB",
-      "team": "SF",
-      "status": "Thu DNP / MNF rest-lean",
-      "note": "Played 11-68-1 W5. Do not sit on Thursday rest. 74.",
-      "replacement": "Hold. Friday tag still names Monday."
     },
     {
       "player": "Baker Mayfield",
       "pos": "QB",
       "team": "TB",
-      "status": "Thu DNP / OC not quite ready / ESPN Doubtful",
-      "note": "Dislocated thumb. Expected W7. Sit W6. 22.",
-      "replacement": "Jalon 20."
+      "status": "Official OUT (thumb)",
+      "note": "Expected W7. Hold 22. Do not drop.",
+      "replacement": "Jalon Daniels 20 third straight start."
     },
     {
       "player": "Chris Olave",
       "pos": "WR",
       "team": "NO",
-      "status": "Official Thu DNP x2 illness / ESPN Q",
-      "note": "Illness not a ham. Sit-lean. Friday names it. 56.",
-      "replacement": "Hold. Do not drop."
+      "status": "Official Q (illness)",
+      "note": "Friday Limited after two DNPs. NBC start-lean. Not a lock. 56.",
+      "replacement": "Have a pivot. Do not drop."
     },
     {
       "player": "Zay Flowers",
       "pos": "WR",
       "team": "BAL",
-      "status": "Official Thu Limited toe / ESPN Q",
-      "note": "Expected to play. Start-lean not a lock. 36.",
-      "replacement": "Bateman Thu DNP."
-    },
-    {
-      "player": "Jaxon Smith-Njigba",
-      "pos": "WR",
-      "team": "SEA",
-      "status": "Played smash / Healthy",
-      "note": "12-134 / 16 tgt TNF. Already scored. Hold 92.",
-      "replacement": "Already scored. Do not re-set."
-    },
-    {
-      "player": "Emanuel Wilson",
-      "pos": "RB",
-      "team": "SEA",
-      "status": "Played / volume",
-      "note": "14-52 TNF. Holani vulture TD. ROS while Charbonnet OUT. 30.",
-      "replacement": "Holani 6 GUESS cuff only. Not a 10-team flex."
-    },
-    {
-      "player": "Zach Charbonnet",
-      "pos": "RB",
-      "team": "SEA",
-      "status": "Official OUT TNF",
-      "note": "Knee/ACL return PUP. Stash only. 12 GUESS.",
-      "replacement": "Wilson 30 already scored."
-    },
-    {
-      "player": "Stefon Diggs",
-      "pos": "WR",
-      "team": "WAS",
-      "status": "Official Thu DNP / ESPN Q",
-      "note": "Hamstring. Official WAS sheet now IN. Sit. 20.",
-      "replacement": "McLaurin 26 Limited start-lean."
-    },
-    {
-      "player": "Jayden Daniels",
-      "pos": "QB",
-      "team": "WAS",
-      "status": "Official Thu Full",
-      "note": "At SF MNF. Do not sit. 62.",
-      "replacement": "Mariota 16 MCL OUT."
-    },
-    {
-      "player": "Ladd McConkey",
-      "pos": "WR",
-      "team": "LAC",
-      "status": "Official Thu Limited x2 / ESPN Q",
-      "note": "Foot. Inactive W5. Sit as smash. Do not drop. 10.",
-      "replacement": "Johnston Limited. Not a smash."
-    },
-    {
-      "player": "Ashton Jeanty",
-      "pos": "RB",
-      "team": "LV",
-      "status": "Official Thu Full",
-      "note": "Plantar plus ankle. Two Fulls. vs BUF indoor. 62.",
-      "replacement": "Do not smash-sell."
-    },
-    {
-      "player": "Brock Bowers",
-      "pos": "TE",
-      "team": "LV",
-      "status": "Official Thu Full",
-      "note": "Was Limited. Still the TE1 vs BUF. 58.",
-      "replacement": "Hold. Start."
-    },
-    {
-      "player": "Jonathan Taylor",
-      "pos": "RB",
-      "team": "IND",
-      "status": "Official Thu Full",
-      "note": "Start vs TEN indoor. 74.",
-      "replacement": "Hold."
-    },
-    {
-      "player": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
-      "status": "Official Thu Limited (back)",
-      "note": "Dead 3-12 last week. Not a volume RB2. 22.",
-      "replacement": "Miller 10 GUESS."
+      "status": "Off report / plays",
+      "note": "Toe. Limited Thu/Fri no tag. Start at CLE Huntley tax. 38.",
+      "replacement": "Bateman is not a 10-team WR1."
     },
     {
       "player": "Kyle Monangai",
       "pos": "RB",
       "team": "CHI",
-      "status": "Official Thu DNP / turf toe",
-      "note": "Johnson W2W. Still the ROS CHI add. Sit. 26.",
-      "replacement": "Swift 28 already the W6 lead."
+      "status": "Official OUT (thumb/toe)",
+      "note": "Sit W6. Still the ROS CHI add. 26. Do not drop.",
+      "replacement": "D'Andre Swift 28 is CHI this week."
     },
     {
-      "player": "Joe Mixon",
+      "player": "Ladd McConkey",
+      "pos": "WR",
+      "team": "LAC",
+      "status": "No designation / plays",
+      "note": "Foot. Inactive W5. Plays at KC. Flex only if desperate. Not a smash. 14. Do not drop.",
+      "replacement": "Herbert/Hampton fade. McConkey is not a WR2 smash."
+    },
+    {
+      "player": "Tyler Warren",
+      "pos": "TE",
+      "team": "IND",
+      "status": "Official Q (groin)",
+      "note": "Friday pop-up Limited. Have a TE pivot. Sit-lean if you have Bowers/McBride/Kelce/Higbee. 34.",
+      "replacement": "Tyler Higbee 22 stream vs ARI."
+    },
+    {
+      "player": "DK Metcalf",
+      "pos": "WR",
+      "team": "PIT",
+      "status": "Official Q (illness)",
+      "note": "Friday DNP. Sit-lean. 36.",
+      "replacement": "Germie Bernard 22. Pittman IR plus Roman Wilson OUT."
+    },
+    {
+      "player": "Quinshon Judkins",
       "pos": "RB",
-      "team": "FA",
-      "status": "Not signed",
-      "note": "SEA killed after physical. 2. Do not FAAB.",
-      "replacement": "N/A. 0."
+      "team": "CLE",
+      "status": "Official Q (ankle)",
+      "note": "Friday Limited after two DNPs. Sit-lean. 10 GUESS.",
+      "replacement": "Estime 4 GUESS. Do not FAAB as a lead."
+    },
+    {
+      "player": "Jeremiyah Love",
+      "pos": "RB",
+      "team": "ARI",
+      "status": "Official OUT (ankle)",
+      "note": "LaFleur IR not discussed. Sit.",
+      "replacement": "Tyler Allgeier 26 GUESS committee at LAR."
+    },
+    {
+      "player": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "status": "Official Q (back)",
+      "note": "Limited all week. 3-12 last week. Sit as volume RB2. 22.",
+      "replacement": "Kendre Miller 10 GUESS crumbs."
+    },
+    {
+      "player": "Deebo Samuel",
+      "pos": "WR",
+      "team": "SF",
+      "status": "OUT-lean W6 / hold-off-IR (ham)",
+      "note": "Shanahan possible IR. W8 bye is why they wait. W9 lean. Sit. 16.",
+      "replacement": "Evans 32 sit-lean. Kirk 8 IR window GUESS."
+    },
+    {
+      "player": "Mike Evans",
+      "pos": "WR",
+      "team": "SF",
+      "status": "Thu DNP / Fri side work / no MNF tag",
+      "note": "Ribs plus Achilles. Sit-lean until Saturday Limited+. 32. Do not lock as SF WR1.",
+      "replacement": "Kirk 8 IR window. Not a 10-team start."
+    },
+    {
+      "player": "Christian McCaffrey",
+      "pos": "RB",
+      "team": "SF",
+      "status": "Thu DNP rest / Fri MISSING",
+      "note": "MNF rest-lean. Do not sit. 74.",
+      "replacement": "Hold. Saturday tag would be the only sit."
+    },
+    {
+      "player": "Stefon Diggs",
+      "pos": "WR",
+      "team": "WAS",
+      "status": "Thu DNP / Fri stretching / no MNF tag",
+      "note": "Hamstring. Sit-lean MNF. 20.",
+      "replacement": "Terry McLaurin 26 MNF start-lean."
     },
     {
       "player": "Tank Dell",
       "pos": "WR",
       "team": "HOU",
-      "status": "Official OUT London",
-      "note": "Knee. Full practice not traveling. Ignore 10-team.",
-      "replacement": "Nico 56 start. MHJ 30 dart."
+      "status": "Official OUT (knee)",
+      "note": "Did not travel. Sit.",
+      "replacement": "Nico 56 start. MHJ 30 dart. Parker Washington is a JAX name."
     },
     {
-      "player": "Dontayvion Wicks",
+      "player": "Joe Mixon",
+      "pos": "RB",
+      "team": "FA",
+      "status": "Unsigned",
+      "note": "SEA physical kill Oct 6. Still free agent. 2. 0 dollars.",
+      "replacement": "Wilson 30 is SEA. Do not FAAB Mixon."
+    },
+    {
+      "player": "CeeDee Lamb",
       "pos": "WR",
-      "team": "PHI",
-      "status": "Official Thu DNP (ham)",
-      "note": "DeVonta Limited dart is weaker. 14 GUESS.",
-      "replacement": "Cooper 12 GUESS."
+      "team": "DAL",
+      "status": "Healthy / SNF start",
+      "note": "Quad bruise no structural. Start. 72. Do not smash-sell.",
+      "replacement": "Pickens 42 is WR2."
+    },
+    {
+      "player": "Drake Maye",
+      "pos": "QB",
+      "team": "NE",
+      "status": "Healthy / start",
+      "note": "vs NYJ smash. 88.",
+      "replacement": "Do not sit."
+    },
+    {
+      "player": "Patrick Mahomes",
+      "pos": "QB",
+      "team": "KC",
+      "status": "Healthy / start",
+      "note": "vs LAC. 78.",
+      "replacement": "Do not sit."
+    },
+    {
+      "player": "Jaxon Smith-Njigba",
+      "pos": "WR",
+      "team": "SEA",
+      "status": "Played smash",
+      "note": "12-134 / 16 tgt TNF. Already scored. Hold 92.",
+      "replacement": "Do not re-set. Do not smash-sell."
     }
   ],
   "news": [
     {
       "player": "Jalen Hurts",
-      "note": "CORRECTION official OUT W6 superficial calf blood clot. Thursday evening Full/start STALE. McKee starts. ESPN est Oct 26.",
-      "impact": "Hurts 74 to 66 hold. McKee NEW 18 GUESS. Young 36 to 38. Tet 52 to 54. Sit Hurts."
-    },
-    {
-      "player": "Jaxon Smith-Njigba",
-      "note": "TNF CLOSED 12-134 / 16 tgt vs Surtain OUT. DEN 17-SEA 14 OT.",
-      "impact": "JSN 90 to 92. Already scored. Hold. Do not smash-sell."
-    },
-    {
-      "player": "Sam Darnold",
-      "note": "TNF 27/51 278/0/2. OT interception lost the game.",
-      "impact": "Darnold 32 to 28. Already scored. Not a smash ROS."
-    },
-    {
-      "player": "Bo Nix",
-      "note": "TNF 17/27 107 yards 0 TD. Second half 7/12 for 29.",
-      "impact": "Nix 52 to 46. Fade confirmed. Already scored."
-    },
-    {
-      "player": "Emanuel Wilson",
-      "note": "TNF 14-52. Holani 5-20-1 vulture. Charbonnet OUT. Mixon unsigned.",
-      "impact": "Wilson 32 to 30. Already scored. ROS stash not a W6 flex."
-    },
-    {
-      "player": "DeVonta Smith",
-      "note": "CORRECTION official Thursday Limited not DNP.",
-      "impact": "DeVonta 36 to 38 start-lean not a lock. Friday names it."
-    },
-    {
-      "player": "Mike Evans",
-      "note": "Shanahan will not practice Thursday rib plus Achilles. Official DNP.",
-      "impact": "Evans 36 to 32 sit-lean MNF. Do not lock as SF WR1."
-    },
-    {
-      "player": "Deebo Samuel",
-      "note": "Shanahan hold off IR due to Week 8 bye. OUT W6 expected W9.",
-      "impact": "Deebo 16 sit. Evans is not a lock either."
-    },
-    {
-      "player": "Stefon Diggs",
-      "note": "Official WAS sheet IN. Thursday DNP ham. Thursday evening empty STALE.",
-      "impact": "Diggs 20 sit. McLaurin Limited start-lean."
-    },
-    {
-      "player": "Brock Bowers",
-      "note": "Official Thursday Full was Limited.",
-      "impact": "Bowers 58 flat. Still start vs BUF."
-    },
-    {
-      "player": "David Montgomery",
-      "note": "Official OUT London groin. Marks named load.",
-      "impact": "Marks 30 lock. Monty 22 sit."
-    },
-    {
-      "player": "Caleb Williams",
-      "note": "Thu Full still unnamed. Said he does not know. Rapoport likely barring setback.",
-      "impact": "52 sit until named. Penix 30 start-lean."
+      "note": "Official OUT W6 calf clot. McKee starts. ESPN W7 lean.",
+      "impact": "Sit Hurts 66. Do not smash-sell. McKee 18 desperation only."
     },
     {
       "player": "Lamar Jackson",
-      "note": "Official Thu DNP x2. Friday designation MISSING.",
-      "impact": "Huntley 30 live pair. Lamar 86 hold."
+      "note": "Official OUT W6 ankle. Zero practice. Huntley starts at CLE.",
+      "impact": "Sit Lamar 86. Start Huntley 32. Do not smash-sell Lamar."
     },
     {
-      "player": "Tetairoa McMillan",
-      "note": "Hurts OUT McKee starts. CAR -3.5 / 38.5.",
-      "impact": "Tet 52 to 54 start. Do not drop."
+      "player": "Saquon Barkley",
+      "note": "Official OUT W6 hamstring. Shipley IR Friday. Pierce is the PHI lead.",
+      "impact": "Sit Saquon 30. Start/add Pierce 26. Do not smash-sell Saquon."
     },
     {
-      "player": "Bryce Young",
-      "note": "Hurts OUT. Stream at PHI.",
-      "impact": "Young 36 to 38 leftover stream."
+      "player": "Will Shipley",
+      "note": "Eagles placed him on IR Friday. Partial plantar. 4 plus weeks.",
+      "impact": "Not a W6 lead. 14 to 8. Do not re-bid."
+    },
+    {
+      "player": "DeVonta Smith",
+      "note": "Off the injury report. Will play vs CAR after missing two games.",
+      "impact": "Start. 38 to 42."
+    },
+    {
+      "player": "Caleb Williams",
+      "note": "Official Q after three Full practices. Still unnamed. Johnson wants more clarity.",
+      "impact": "Sit until named. Hold 52. Do not start Bagent."
+    },
+    {
+      "player": "Michael Penix Jr.",
+      "note": "No Week 6 designation. Plays vs CHI.",
+      "impact": "Start 30."
+    },
+    {
+      "player": "Breece Hall",
+      "note": "Official OUT quad. Allen is the NYJ back.",
+      "impact": "Sit Hall 28. Start/add Allen 28."
+    },
+    {
+      "player": "Rashee Rice",
+      "note": "Official OUT ham/knee vs LAC.",
+      "impact": "Sit 24. Do not drop. Worthy/Kelce."
+    },
+    {
+      "player": "Baker Mayfield",
+      "note": "Official OUT thumb. Jalon third straight start.",
+      "impact": "Sit Mayfield 22. Jalon 20 stream."
+    },
+    {
+      "player": "Kyle Monangai",
+      "note": "Official OUT thumb/toe.",
+      "impact": "Sit 26. Swift 28 is CHI. Do not drop Monangai ROS."
+    },
+    {
+      "player": "Zay Flowers",
+      "note": "Off final injury report after toe Limiteds. Plays at CLE.",
+      "impact": "Start 38. Huntley tax."
+    },
+    {
+      "player": "Ladd McConkey",
+      "note": "No designation. Plays at KC after W5 inactive.",
+      "impact": "Flex only. Not a smash. 14. Do not drop."
+    },
+    {
+      "player": "Tyler Warren",
+      "note": "Friday pop-up Limited groin. Official Q vs TEN.",
+      "impact": "Have a TE pivot. 38 to 34. Higbee 22 if you need a stream."
+    },
+    {
+      "player": "DK Metcalf",
+      "note": "Friday DNP illness. Official Q vs TB.",
+      "impact": "Sit-lean 36. Bernard 22 dart. Pittman IR plus Roman Wilson OUT."
+    },
+    {
+      "player": "Chris Olave",
+      "note": "Friday Limited after two illness DNPs. Official Q. NBC start-lean.",
+      "impact": "Start-lean not a lock. 56. Have a pivot."
+    },
+    {
+      "player": "DJ Moore",
+      "note": "Official Q after Friday non-contact. CONFLICT vs one NFL.com OUT grouping. W5 was Q then inactive.",
+      "impact": "Conservative sit 24. Coleman 22 only if Moore inactive."
+    },
+    {
+      "player": "A.J. Brown",
+      "note": "Still IR. Official Q. Vrabel will not call until Saturday.",
+      "impact": "Sit 32 until activated."
+    },
+    {
+      "player": "TreVeyon Henderson",
+      "note": "MRI revealed high-ankle sprain. Hoping to play. Official Q.",
+      "impact": "Sit 16."
+    },
+    {
+      "player": "Jeremiyah Love",
+      "note": "Official OUT ankle at LAR. LaFleur said IR not discussed.",
+      "impact": "Allgeier 26 GUESS committee bump. Not a smash."
+    },
+    {
+      "player": "Joe Mixon",
+      "note": "Still unsigned after Seahawks physical kill Oct 6.",
+      "impact": "2. Do not FAAB. 0 dollars."
+    },
+    {
+      "player": "Sam Darnold",
+      "note": "Macdonald Friday: starting job not in jeopardy after 278/0/2 TNF.",
+      "impact": "Already scored. Still a 28 ROS. Not a smash stream."
+    },
+    {
+      "player": "Christian Kirk",
+      "note": "IR window open. Limited. Lynch said could activate for MNF if needed.",
+      "impact": "8 GUESS. Not a 10-team start. Only if Evans sits."
+    },
+    {
+      "player": "Christian McCaffrey",
+      "note": "Thursday DNP listed as rest. Friday official sheet still MISSING. MNF tags Saturday.",
+      "impact": "Do not sit 74 on rest."
+    },
+    {
+      "player": "Mike Evans",
+      "note": "Thursday DNP ribs plus Achilles. Friday working on the side. No MNF designation yet.",
+      "impact": "Sit-lean 32. Do not lock as SF WR1."
     }
   ],
   "faab": [
@@ -469,15 +508,7 @@
       "priority": "Must-add",
       "bid_low": 6,
       "bid_high": 12,
-      "why": "Monty official OUT. Ryans load. 19 touches. London leftover number 1."
-    },
-    {
-      "player": "Jameis Winston",
-      "pos": "QB",
-      "priority": "Must-add",
-      "bid_low": 4,
-      "bid_high": 8,
-      "why": "Already 326/3. Named ROS. Best leftover QB vs NO."
+      "why": "Monty OUT. Named load. London. 19 touches. Leftover if free."
     },
     {
       "player": "Braelon Allen",
@@ -485,63 +516,47 @@
       "priority": "Must-add",
       "bid_low": 4,
       "bid_high": 8,
-      "why": "24-116-1. Hall Thu DNP x2 / Doubtful. at NE W6."
+      "why": "Hall official OUT. 24-116-1. NYJ lead at NE."
     },
     {
       "player": "Dameon Pierce",
       "pos": "RB",
       "priority": "Must-add",
-      "bid_low": 3,
-      "bid_high": 7,
-      "why": "Shipley out weeks. Saquon Thu DNP x2. McKee game. Ugly but the W6 touches."
+      "bid_low": 4,
+      "bid_high": 8,
+      "why": "Saquon OUT plus Shipley IR plus McKee. Ugly but the touches."
+    },
+    {
+      "player": "Jameis Winston",
+      "pos": "QB",
+      "priority": "Strong",
+      "bid_low": 4,
+      "bid_high": 8,
+      "why": "Named ROS. vs NO. SF hole with Hurts Lamar Mayfield Caleb-unnamed and bye QBs out."
     },
     {
       "player": "Tyler Huntley",
       "pos": "QB",
-      "priority": "Must-add",
+      "priority": "Strong",
       "bid_low": 3,
       "bid_high": 6,
-      "why": "If you own Lamar. Pair after Thu DNP x2. 30 not 86."
+      "why": "Confirmed W6 start at CLE. Pair if you own Lamar. Not Lamar 86."
     },
     {
       "player": "Germie Bernard",
       "pos": "WR",
-      "priority": "Must-add",
-      "bid_low": 3,
-      "bid_high": 6,
-      "why": "6-80 / 9 tgt. Pittman IR. Roman Wilson OUT. at TB."
+      "priority": "Strong",
+      "bid_low": 4,
+      "bid_high": 7,
+      "why": "Pittman IR plus Roman Wilson OUT plus DK Q illness. 6-80 / 9 tgt."
     },
     {
-      "player": "Parker Washington",
-      "pos": "WR",
-      "priority": "Must-add",
+      "player": "Tyler Higbee",
+      "pos": "TE",
+      "priority": "Strong",
       "bid_low": 2,
-      "bid_high": 5,
-      "why": "6-124-2. Hollywood OUT. London dart vs HOU."
-    },
-    {
-      "player": "Kyle Monangai",
-      "pos": "RB",
-      "priority": "Must-add",
-      "bid_low": 5,
-      "bid_high": 10,
-      "why": "Thu DNP turf toe. Still the ROS CHI add. Sit W6."
-    },
-    {
-      "player": "Ollie Gordon II",
-      "pos": "RB",
-      "priority": "Must-add",
-      "bid_low": 4,
-      "bid_high": 8,
-      "why": "18-88-1. Achane IR. W6 bye stash only."
-    },
-    {
-      "player": "Jaylen Warren",
-      "pos": "RB",
-      "priority": "Must-add",
-      "bid_low": 4,
-      "bid_high": 8,
-      "why": "Already 20-plus touches plus rec TD. If free."
+      "bid_high": 4,
+      "why": "5-83. Ferguson IR. vs ARI. Warren Q makes this more useful."
     },
     {
       "player": "Bryce Young",
@@ -549,7 +564,7 @@
       "priority": "Strong",
       "bid_low": 2,
       "bid_high": 4,
-      "why": "Hurts OUT / McKee. Stream at PHI leftover."
+      "why": "At PHI vs McKee. Dead 38.5 but startable SF2 if QB-needy."
     },
     {
       "player": "Tanner McKee",
@@ -557,55 +572,7 @@
       "priority": "Speculative",
       "bid_low": 2,
       "bid_high": 4,
-      "why": "Named starter. Dead 38.5. Desperation SF2 only. Not Hurts."
-    },
-    {
-      "player": "C.J. Stroud",
-      "pos": "QB",
-      "priority": "Strong",
-      "bid_low": 4,
-      "bid_high": 8,
-      "why": "261/1. MHJ plus Marks London. Startable SF QB2 if free."
-    },
-    {
-      "player": "Michael Wilson",
-      "pos": "WR",
-      "priority": "Strong",
-      "bid_low": 3,
-      "bid_high": 6,
-      "why": "MHJ is HOU. ARI WR1 ROS. Quiet 4-30 is not a drop."
-    },
-    {
-      "player": "Christian Watson",
-      "pos": "WR",
-      "priority": "Strong",
-      "bid_low": 3,
-      "bid_high": 6,
-      "why": "6-143-2. SNF vs DAL if dropped."
-    },
-    {
-      "player": "Emanuel Wilson",
-      "pos": "RB",
-      "priority": "Strong",
-      "bid_low": 2,
-      "bid_high": 5,
-      "why": "Already scored TNF. ROS while Charbonnet OUT. Not a W6 flex."
-    },
-    {
-      "player": "Tyler Higbee",
-      "pos": "TE",
-      "priority": "Speculative",
-      "bid_low": 2,
-      "bid_high": 4,
-      "why": "5-83. Ferguson IR. vs ARI if TE-needy."
-    },
-    {
-      "player": "Aaron Rodgers",
-      "pos": "QB",
-      "priority": "Speculative",
-      "bid_low": 2,
-      "bid_high": 4,
-      "why": "Already 235/3. at TB vs Jalon."
+      "why": "Named start vs CAR. Dead total. Desperation only. Not Hurts."
     },
     {
       "player": "Case Keenum",
@@ -613,289 +580,352 @@
       "priority": "Speculative",
       "bid_low": 2,
       "bid_high": 4,
-      "why": "Pair only if Caleb sits. Bagent was benched."
+      "why": "Only if Caleb sits. Not a paid QB2."
     },
     {
-      "player": "MarShawn Lloyd",
-      "pos": "RB",
+      "player": "Parker Washington",
+      "pos": "WR",
       "priority": "Speculative",
       "bid_low": 2,
       "bid_high": 5,
-      "why": "10-31-2. Change-of-pace not a 40."
+      "why": "6-124-2. London dart with Hollywood out."
+    },
+    {
+      "player": "Tyler Allgeier",
+      "pos": "RB",
+      "priority": "Speculative",
+      "bid_low": 1,
+      "bid_high": 3,
+      "why": "Love OUT. Committee at LAR -12.5. Not a smash. GUESS."
+    },
+    {
+      "player": "Keon Coleman",
+      "pos": "WR",
+      "priority": "Speculative",
+      "bid_low": 1,
+      "bid_high": 3,
+      "why": "Only if Moore sits again. 2-tgt ceiling."
     }
   ],
   "start_sit": [
     {
-      "player": "Jalen Hurts",
-      "pos": "QB",
-      "call": "Sit / trap",
-      "note": "Official OUT W6 clot. Thursday Full/start STALE."
-    },
-    {
-      "player": "Tanner McKee",
-      "pos": "QB",
-      "call": "Toss-up",
-      "note": "Named starter. Dead 38.5. Desperation SF2 only. 18 GUESS."
-    },
-    {
-      "player": "Lamar Jackson",
-      "pos": "QB",
-      "call": "Sit / trap",
-      "note": "Thu DNP x2. Not a lock. Friday names it."
-    },
-    {
-      "player": "Tyler Huntley",
-      "pos": "QB",
-      "call": "Strong start",
-      "note": "If Lamar sits. Pair not a smash. 40.5 total."
-    },
-    {
-      "player": "Caleb Williams",
-      "pos": "QB",
-      "call": "Sit / trap",
-      "note": "Thu Full unnamed. Sit until named."
-    },
-    {
-      "player": "Michael Penix Jr.",
-      "pos": "QB",
-      "call": "Strong start",
-      "note": "Thu Full good to go vs CHI 51.5."
-    },
-    {
       "player": "Drake Maye",
       "pos": "QB",
       "call": "Must-start",
-      "note": "Thu Full vs NYJ."
+      "note": "vs NYJ smash. 88."
     },
     {
       "player": "Patrick Mahomes",
       "pos": "QB",
       "call": "Must-start",
-      "note": "Thu Full vs LAC."
+      "note": "vs LAC. 78."
     },
     {
       "player": "Brock Purdy",
       "pos": "QB",
       "call": "Must-start",
-      "note": "vs WAS MNF."
+      "note": "vs WAS MNF. 76."
+    },
+    {
+      "player": "Matthew Stafford",
+      "pos": "QB",
+      "call": "Must-start",
+      "note": "vs ARI -12.5. Already scored smash. 64."
+    },
+    {
+      "player": "Michael Penix Jr.",
+      "pos": "QB",
+      "call": "Must-start",
+      "note": "Cleared. vs CHI 51.5 indoor. 30."
+    },
+    {
+      "player": "Tyler Huntley",
+      "pos": "QB",
+      "call": "Strong start",
+      "note": "Confirmed start at CLE. 32. Not Lamar."
     },
     {
       "player": "Bryce Young",
       "pos": "QB",
       "call": "Strong start",
-      "note": "Hurts OUT McKee. Stream at PHI."
+      "note": "At PHI vs McKee. Startable SF2. 38."
     },
     {
       "player": "Jameis Winston",
       "pos": "QB",
       "call": "Strong start",
-      "note": "326/3 leftover vs NO."
+      "note": "vs NO. 32."
     },
     {
-      "player": "Josh Allen",
-      "pos": "QB",
-      "call": "Must-start",
-      "note": "Already scored. at LV indoor 53.5. Start again."
-    },
-    {
-      "player": "Justin Herbert",
+      "player": "Caleb Williams",
       "pos": "QB",
       "call": "Sit / trap",
-      "note": "Fade at KC. 121/1 INT last week."
+      "note": "Official Q unnamed. Sit until named. 52."
     },
     {
-      "player": "Saquon Barkley",
-      "pos": "RB",
+      "player": "Jalen Hurts",
+      "pos": "QB",
       "call": "Sit / trap",
-      "note": "Thu DNP x2. Sit-lean until Friday Limited+."
+      "note": "Official OUT W6. 66."
     },
     {
-      "player": "Dameon Pierce",
-      "pos": "RB",
-      "call": "Toss-up",
-      "note": "W6 lead if Saquon sits. Ugly. Flex only."
-    },
-    {
-      "player": "Woody Marks",
-      "pos": "RB",
-      "call": "Must-start",
-      "note": "Monty OUT. London lock flex/RB2 not CMC."
-    },
-    {
-      "player": "Jonathan Taylor",
-      "pos": "RB",
-      "call": "Must-start",
-      "note": "Thu Full vs TEN indoor."
-    },
-    {
-      "player": "Bijan Robinson",
-      "pos": "RB",
-      "call": "Must-start",
-      "note": "vs CHI 51.5."
-    },
-    {
-      "player": "Christian McCaffrey",
-      "pos": "RB",
-      "call": "Must-start",
-      "note": "Thu DNP MNF rest-lean. Do not sit yet."
-    },
-    {
-      "player": "Breece Hall",
-      "pos": "RB",
+      "player": "Lamar Jackson",
+      "pos": "QB",
       "call": "Sit / trap",
-      "note": "Doubtful. Allen is the NYJ RB."
-    },
-    {
-      "player": "David Montgomery",
-      "pos": "RB",
-      "call": "Sit / trap",
-      "note": "Official OUT London."
-    },
-    {
-      "player": "CeeDee Lamb",
-      "pos": "WR",
-      "call": "Must-start",
-      "note": "Thu Full SNF. 54F 13mph 0pct not a sit."
-    },
-    {
-      "player": "Tetairoa McMillan",
-      "pos": "WR",
-      "call": "Must-start",
-      "note": "Hurts OUT / McKee. Do not sit."
-    },
-    {
-      "player": "DeVonta Smith",
-      "pos": "WR",
-      "call": "Toss-up",
-      "note": "Thu Limited start-lean not a lock. Friday."
-    },
-    {
-      "player": "Chris Olave",
-      "pos": "WR",
-      "call": "Sit / trap",
-      "note": "Illness DNP x2. Sit-lean until Friday Full."
-    },
-    {
-      "player": "Zay Flowers",
-      "pos": "WR",
-      "call": "Toss-up",
-      "note": "Limited toe. Start-lean not a lock."
-    },
-    {
-      "player": "Mike Evans",
-      "pos": "WR",
-      "call": "Sit / trap",
-      "note": "Rib plus Achilles DNP. Sit-lean MNF."
-    },
-    {
-      "player": "DJ Moore",
-      "pos": "WR",
-      "call": "Sit / trap",
-      "note": "Official Thu DNP."
-    },
-    {
-      "player": "Rashee Rice",
-      "pos": "WR",
-      "call": "Sit / trap",
-      "note": "Thu DNP x2. Do not drop."
-    },
-    {
-      "player": "A.J. Brown",
-      "pos": "WR",
-      "call": "Sit / trap",
-      "note": "IR until Saturday activation."
-    },
-    {
-      "player": "Ladd McConkey",
-      "pos": "WR",
-      "call": "Sit / trap",
-      "note": "Limited x2. Sit as smash."
-    },
-    {
-      "player": "Deebo Samuel",
-      "pos": "WR",
-      "call": "Sit / trap",
-      "note": "OUT W6."
-    },
-    {
-      "player": "Stefon Diggs",
-      "pos": "WR",
-      "call": "Sit / trap",
-      "note": "Official Thu DNP."
-    },
-    {
-      "player": "Drake London",
-      "pos": "WR",
-      "call": "Must-start",
-      "note": "vs CHI."
-    },
-    {
-      "player": "Nico Collins",
-      "pos": "WR",
-      "call": "Must-start",
-      "note": "Thu LP rest. MHJ debut is not a sit. London."
-    },
-    {
-      "player": "Jaxon Smith-Njigba",
-      "pos": "WR",
-      "call": "Must-start",
-      "note": "Already scored 12-134. Do not re-set."
-    },
-    {
-      "player": "Brock Bowers",
-      "pos": "TE",
-      "call": "Must-start",
-      "note": "Thu Full vs BUF."
-    },
-    {
-      "player": "Travis Kelce",
-      "pos": "TE",
-      "call": "Must-start",
-      "note": "Back from bye vs LAC."
-    },
-    {
-      "player": "Omarion Hampton",
-      "pos": "RB",
-      "call": "Sit / trap",
-      "note": "Committee fade at KC."
+      "note": "Official OUT W6. 86."
     },
     {
       "player": "Baker Mayfield",
       "pos": "QB",
       "call": "Sit / trap",
-      "note": "Not quite ready. Jalon holds."
+      "note": "Official OUT. 22."
+    },
+    {
+      "player": "Tanner McKee",
+      "pos": "QB",
+      "call": "Toss-up",
+      "note": "Named start. Dead 38.5. Desperation only. 18 GUESS."
+    },
+    {
+      "player": "Bijan Robinson",
+      "pos": "RB",
+      "call": "Must-start",
+      "note": "vs CHI. 94."
+    },
+    {
+      "player": "Christian McCaffrey",
+      "pos": "RB",
+      "call": "Must-start",
+      "note": "vs WAS. Do not sit on Thursday rest. 74."
+    },
+    {
+      "player": "Jonathan Taylor",
+      "pos": "RB",
+      "call": "Must-start",
+      "note": "vs TEN. 74."
+    },
+    {
+      "player": "James Cook",
+      "pos": "RB",
+      "call": "Must-start",
+      "note": "at LV. Already scored. 72."
+    },
+    {
+      "player": "Woody Marks",
+      "pos": "RB",
+      "call": "Must-start",
+      "note": "Monty OUT. London lock. 30."
+    },
+    {
+      "player": "Braelon Allen",
+      "pos": "RB",
+      "call": "Must-start",
+      "note": "Hall OUT. 28."
+    },
+    {
+      "player": "Dameon Pierce",
+      "pos": "RB",
+      "call": "Strong start",
+      "note": "Saquon OUT plus Shipley IR. 26."
+    },
+    {
+      "player": "Saquon Barkley",
+      "pos": "RB",
+      "call": "Sit / trap",
+      "note": "Official OUT W6. 30."
+    },
+    {
+      "player": "Breece Hall",
+      "pos": "RB",
+      "call": "Sit / trap",
+      "note": "Official OUT. 28."
+    },
+    {
+      "player": "David Montgomery",
+      "pos": "RB",
+      "call": "Sit / trap",
+      "note": "Official OUT. 22."
+    },
+    {
+      "player": "Kyle Monangai",
+      "pos": "RB",
+      "call": "Sit / trap",
+      "note": "Official OUT. 26."
+    },
+    {
+      "player": "TreVeyon Henderson",
+      "pos": "RB",
+      "call": "Sit / trap",
+      "note": "High-ankle Q. 16."
+    },
+    {
+      "player": "Alvin Kamara",
+      "pos": "RB",
+      "call": "Sit / trap",
+      "note": "Official Q back. Dead volume. 22."
+    },
+    {
+      "player": "Omarion Hampton",
+      "pos": "RB",
+      "call": "Sit / trap",
+      "note": "Committee fade at KC as locked RB2. 38."
+    },
+    {
+      "player": "Drake London",
+      "pos": "WR",
+      "call": "Must-start",
+      "note": "vs CHI. 66."
+    },
+    {
+      "player": "Nico Collins",
+      "pos": "WR",
+      "call": "Must-start",
+      "note": "London start. MHJ is not a sit. 56."
+    },
+    {
+      "player": "Tetairoa McMillan",
+      "pos": "WR",
+      "call": "Must-start",
+      "note": "At PHI vs McKee. 54."
+    },
+    {
+      "player": "CeeDee Lamb",
+      "pos": "WR",
+      "call": "Must-start",
+      "note": "SNF. 72."
+    },
+    {
+      "player": "DeVonta Smith",
+      "pos": "WR",
+      "call": "Must-start",
+      "note": "Off report. Will play vs CAR. 42."
+    },
+    {
+      "player": "Zay Flowers",
+      "pos": "WR",
+      "call": "Must-start",
+      "note": "Off report. Plays at CLE. 38."
+    },
+    {
+      "player": "Chris Olave",
+      "pos": "WR",
+      "call": "Toss-up",
+      "note": "Official Q illness. NBC start-lean. Not a lock. 56."
+    },
+    {
+      "player": "Ladd McConkey",
+      "pos": "WR",
+      "call": "Toss-up",
+      "note": "Plays at KC. Flex only. Not a smash. 14."
+    },
+    {
+      "player": "DJ Moore",
+      "pos": "WR",
+      "call": "Sit / trap",
+      "note": "Official Q. Conservative sit. W5 pattern. 24."
+    },
+    {
+      "player": "Rashee Rice",
+      "pos": "WR",
+      "call": "Sit / trap",
+      "note": "Official OUT. 24. Do not drop."
+    },
+    {
+      "player": "A.J. Brown",
+      "pos": "WR",
+      "call": "Sit / trap",
+      "note": "IR / Q. Sit until Saturday activation. 32."
+    },
+    {
+      "player": "Mike Evans",
+      "pos": "WR",
+      "call": "Sit / trap",
+      "note": "Friday side work. Sit-lean MNF. 32."
+    },
+    {
+      "player": "Deebo Samuel",
+      "pos": "WR",
+      "call": "Sit / trap",
+      "note": "OUT-lean W6. 16."
+    },
+    {
+      "player": "DK Metcalf",
+      "pos": "WR",
+      "call": "Sit / trap",
+      "note": "Official Q illness Friday DNP. Sit-lean. 36."
+    },
+    {
+      "player": "Marvin Harrison Jr.",
+      "pos": "WR",
+      "call": "Toss-up",
+      "note": "London debut dart. Not Nico. 30."
+    },
+    {
+      "player": "Brock Bowers",
+      "pos": "TE",
+      "call": "Must-start",
+      "note": "vs BUF. 58."
+    },
+    {
+      "player": "Trey McBride",
+      "pos": "TE",
+      "call": "Must-start",
+      "note": "at LAR. 56."
+    },
+    {
+      "player": "Travis Kelce",
+      "pos": "TE",
+      "call": "Must-start",
+      "note": "vs LAC. 32."
+    },
+    {
+      "player": "Tyler Warren",
+      "pos": "TE",
+      "call": "Toss-up",
+      "note": "Official Q groin. Sit-lean if you have a pivot. 34."
+    },
+    {
+      "player": "Tyler Higbee",
+      "pos": "TE",
+      "call": "Strong start",
+      "note": "5-83. Ferguson IR. vs ARI. Warren Q bump. 22."
+    },
+    {
+      "player": "Ja'Marr Chase",
+      "pos": "WR",
+      "call": "Sit / trap",
+      "note": "W6 bye. Hold 74. Do not dump."
+    },
+    {
+      "player": "Jahmyr Gibbs",
+      "pos": "RB",
+      "call": "Sit / trap",
+      "note": "W6 bye. Hold 95. Do not dump."
     }
   ],
   "streamers_qb": [
-    "Jameis Winston vs NO leftover must-add 32",
-    "Tyler Huntley at CLE only if Lamar sits 30",
-    "Bryce Young at PHI Hurts OUT 38",
-    "Michael Penix Jr vs CHI Thu Full start-lean 30",
-    "C.J. Stroud at JAX London 38",
-    "Aaron Rodgers at TB 24",
-    "Tanner McKee vs CAR named dead 38.5 18 GUESS desperation only",
-    "Jalon Daniels vs PIT Mayfield out 20 hold if rostered",
-    "Case Keenum only if Caleb sits 18",
-    "Not Herbert at KC 54 fade",
-    "Not Bagent 16 benched",
-    "Not Tua until named 8",
-    "Not Hurts OUT 66",
-    "Not Nix already scored 46 fade",
-    "Not Darnold already scored 28"
+    "Tyler Huntley 32 confirmed start at CLE. Pair if you own Lamar. Not Lamar 86.",
+    "Jameis Winston 32 named ROS vs NO.",
+    "Bryce Young 38 at PHI vs McKee. Startable SF2.",
+    "C.J. Stroud 38 London with Marks plus MHJ.",
+    "Michael Penix Jr. 30 cleared vs CHI. Start.",
+    "Aaron Rodgers 24 at TB. 17-18 mph wind trims deep.",
+    "Jalon Daniels 20 third start vs PIT. Mayfield OUT.",
+    "Tanner McKee 18 GUESS named vs CAR. Dead 38.5. Desperation only.",
+    "Case Keenum 18 only if Caleb sits. Not a paid QB2.",
+    "Do not stream Hurts OUT Lamar OUT Mayfield OUT Caleb-until-named Bagent Tua McKee-as-smash"
   ],
   "actions_today": [
     "TNF scored. Do not re-set JSN 92 Wilson 30 Darnold 28 Nix 46 Dobbins 24. Hold JSN.",
-    "Sit Hurts official OUT. Leftover McKee 2-4 only if QB-desperate. Do not smash-sell Hurts 66.",
-    "Leftover FA: Marks 6-12 Winston 4-8 Allen 4-8 Pierce 3-7 Bernard 3-6 Huntley 3-6 if Lamar yours Parker Washington 2-5 Young 2-4 McKee 2-4 if desperate.",
-    "Do not FAAB Mixon Bigsby Thornton Henry Jr Estime Dell Coker Bagent MHJ-as-WR1 Huntley-as-Lamar McKee-as-Hurts Shipley-as-W6-lead Tua Charbonnet-flex Holani-flex DST K.",
-    "Hold do not smash-sell Lamar 86 CeeDee 72 Chase 74 Saquon 32 Jeanty 62 Tet 54 Gibbs 95 Burrow 90 Amon-Ra 80 JSN 92 Hurts 66.",
-    "Week 6 byes CIN DET MIA MIN. Sit do not dump Burrow Chase Higgins Gibbs Amon-Ra Goff Jefferson Addison Kyler Jones Gordon LaPorta Hockenson Chase Brown.",
-    "PHI: sit Hurts, sit-lean Saquon, leftover Pierce, DeVonta Limited start-lean not a lock.",
-    "HOU: Marks lock Monty OUT. MHJ dart 30. Nico 56 start.",
-    "SF: Deebo sit. Evans sit-lean rib Achilles. CMC do not sit on Thursday rest. Diggs sit.",
-    "W6 start: Maye Mahomes Purdy Penix Young Bijan CMC Taylor Irving Walker Cook Kyren Jeanty London Nacua Adams Tet CeeDee Bowers Kelce Marks.",
-    "W6 sit: Hurts Lamar-until-Friday Caleb-until-named Saquon AJ Brown McConkey Hampton-smash Deebo Shipley Moore Coleman-WR2 Judkins Rice Hall Mayfield Montgomery Olave-as-lock Flowers-as-lock Evans-as-lock McKee-as-smash CIN-DET-MIA-MIN.",
-    "Watch Friday 16:00 ET designations."
+    "Sit official OUTs: Hurts Lamar Saquon Hall Montgomery Mayfield Rice Shipley-IR Monangai.",
+    "Start newly cleared: DeVonta 42 Flowers 38 Penix 30 Huntley 32 Pierce 26 Allen 28 Marks 30 Tet 54 CeeDee 72.",
+    "Leftover FA only. Marks 6-12 Allen 4-8 Pierce 4-8 Winston 4-8 Bernard 4-7 Huntley 3-6 if Lamar is yours Higbee 2-4 Young 2-4 McKee 2-4 if desperate.",
+    "Sit until named or activated: Caleb AJ Brown Moore Henderson DK-sit-lean Warren-sit-lean-if-pivot Evans-MNF-sit-lean Diggs-sit-lean.",
+    "Olave is a start-lean not a lock. Have a pivot.",
+    "Hold do not smash-sell Lamar 86 Hurts 66 CeeDee 72 Chase 74 Saquon 30 Jeanty 62 Tet 54 Gibbs 95 Burrow 90 Amon-Ra 80 JSN 92.",
+    "Week 6 byes CIN DET MIA MIN. Sit those names. Do not dump them for a 4th RB.",
+    "Do not FAAB Mixon Bigsby Estime-as-lead Bagent MHJ-as-WR1 Shipley McKee-as-Hurts Huntley-as-Lamar DST K.",
+    "Watch Saturday: AJ Brown activation. Caleb named-or-not. MNF tags CMC Evans Diggs McLaurin Deebo. Mixon still unsigned."
   ],
   "trade_board": [
     {
@@ -920,7 +950,7 @@
       "value": 88,
       "tier": "QB1",
       "trend": "flat",
-      "note": "374/4. Official Thu Full"
+      "note": "374/4. vs NYJ smash"
     },
     {
       "player": "Lamar Jackson",
@@ -928,7 +958,7 @@
       "value": 86,
       "tier": "QB1",
       "trend": "flat",
-      "note": "Official Thu DNP x2. Day-to-day. Do not smash-sell"
+      "note": "Official OUT W6. Do not smash-sell"
     },
     {
       "player": "Patrick Mahomes",
@@ -936,7 +966,7 @@
       "value": 78,
       "tier": "QB1",
       "trend": "flat",
-      "note": "Official Thu Full. vs LAC"
+      "note": "vs LAC. Must-start"
     },
     {
       "player": "Brock Purdy",
@@ -944,7 +974,7 @@
       "value": 76,
       "tier": "QB1",
       "trend": "flat",
-      "note": "189/2/1. vs WAS W6"
+      "note": "vs WAS MNF"
     },
     {
       "player": "Trevor Lawrence",
@@ -952,7 +982,7 @@
       "value": 72,
       "tier": "QB1",
       "trend": "flat",
-      "note": "331/2/1. London vs HOU"
+      "note": "London vs HOU"
     },
     {
       "player": "Dak Prescott",
@@ -960,14 +990,14 @@
       "value": 70,
       "tier": "QB1",
       "trend": "flat",
-      "note": "316/1/2. SNF at GB"
+      "note": "SNF at GB"
     },
     {
       "player": "Jalen Hurts",
       "pos": "QB",
       "value": 66,
       "tier": "QB1",
-      "trend": "down",
+      "trend": "flat",
       "note": "OUT W6 calf clot. ESPN W7 lean. Do not smash-sell to 40"
     },
     {
@@ -976,7 +1006,7 @@
       "value": 64,
       "tier": "QB2",
       "trend": "flat",
-      "note": "40/54 383/3. vs ARI -12.5"
+      "note": "383/3. vs ARI -12.5"
     },
     {
       "player": "Jayden Daniels",
@@ -984,7 +1014,7 @@
       "value": 62,
       "tier": "QB2",
       "trend": "flat",
-      "note": "199 plus 9-103-2. at SF MNF. Thu Full"
+      "note": "at SF MNF. Thu Full"
     },
     {
       "player": "Jared Goff",
@@ -992,7 +1022,7 @@
       "value": 62,
       "tier": "QB2",
       "trend": "flat",
-      "note": "271/3. W6 bye"
+      "note": "W6 bye"
     },
     {
       "player": "Jordan Love",
@@ -1000,7 +1030,7 @@
       "value": 60,
       "tier": "QB2",
       "trend": "flat",
-      "note": "367/2. SNF vs DAL"
+      "note": "SNF vs DAL"
     },
     {
       "player": "Justin Herbert",
@@ -1008,7 +1038,7 @@
       "value": 54,
       "tier": "QB2",
       "trend": "flat",
-      "note": "121/1 INT. McConkey Limited. at KC fade"
+      "note": "at KC fade"
     },
     {
       "player": "Caleb Williams",
@@ -1016,15 +1046,15 @@
       "value": 52,
       "tier": "QB2",
       "trend": "flat",
-      "note": "Official Thu Full. Still unnamed. Hold"
+      "note": "Official Q unnamed. Three Fulls. Sit until named"
     },
     {
       "player": "Bo Nix",
       "pos": "QB",
       "value": 46,
       "tier": "QB2",
-      "trend": "down",
-      "note": "17/27 107. Fade confirmed"
+      "trend": "flat",
+      "note": "107 TNF. Fade confirmed"
     },
     {
       "player": "Kirk Cousins",
@@ -1032,7 +1062,7 @@
       "value": 44,
       "tier": "QB2",
       "trend": "flat",
-      "note": "243/1. Tough vs BUF"
+      "note": "Tough vs BUF"
     },
     {
       "player": "Kyler Murray",
@@ -1040,7 +1070,7 @@
       "value": 44,
       "tier": "QB2",
       "trend": "flat",
-      "note": "Then W6 bye. Stash if rostered"
+      "note": "W6 bye"
     },
     {
       "player": "Tyler Shough",
@@ -1056,15 +1086,15 @@
       "value": 38,
       "tier": "QB3",
       "trend": "flat",
-      "note": "261/1. MHJ plus Marks London"
+      "note": "MHJ plus Marks London"
     },
     {
       "player": "Bryce Young",
       "pos": "QB",
       "value": 38,
       "tier": "QB3",
-      "trend": "up",
-      "note": "Hurts OUT / McKee. Stream at PHI"
+      "trend": "flat",
+      "note": "at PHI vs McKee"
     },
     {
       "player": "Jameis Winston",
@@ -1077,10 +1107,10 @@
     {
       "player": "Tyler Huntley",
       "pos": "QB",
-      "value": 30,
+      "value": 32,
       "tier": "QB3",
-      "trend": "flat",
-      "note": "201/2 plus rush TD. Pair after Lamar DNP x2. Not Lamar"
+      "trend": "up",
+      "note": "Confirmed W6 start. 201/2 plus rush TD. Not Lamar"
     },
     {
       "player": "Michael Penix Jr.",
@@ -1088,15 +1118,15 @@
       "value": 30,
       "tier": "QB3",
       "trend": "flat",
-      "note": "Official Thu Full / good to go. Start-lean vs CHI"
+      "note": "Cleared / plays. Start vs CHI"
     },
     {
       "player": "Sam Darnold",
       "pos": "QB",
       "value": 28,
       "tier": "QB3",
-      "trend": "down",
-      "note": "27/51 278/0/2. OT INT. Already scored"
+      "trend": "flat",
+      "note": "278/0/2 TNF. Job safe. Still not a smash"
     },
     {
       "player": "Jacoby Brissett",
@@ -1104,7 +1134,7 @@
       "value": 28,
       "tier": "QB3",
       "trend": "flat",
-      "note": "292/3/1. Tough at LAR -12.5"
+      "note": "Tough at LAR -12.5"
     },
     {
       "player": "Daniel Jones",
@@ -1112,7 +1142,7 @@
       "value": 26,
       "tier": "QB3",
       "trend": "flat",
-      "note": "267. Taylor muted"
+      "note": "Taylor game"
     },
     {
       "player": "Aaron Rodgers",
@@ -1120,7 +1150,7 @@
       "value": 24,
       "tier": "QB3",
       "trend": "flat",
-      "note": "235/3. Stream at TB"
+      "note": "Stream at TB. Wind trims deep"
     },
     {
       "player": "Baker Mayfield",
@@ -1128,7 +1158,7 @@
       "value": 22,
       "tier": "QB3",
       "trend": "flat",
-      "note": "OC not quite ready / ESPN Doubtful. Expected W7"
+      "note": "Official OUT. Expected W7"
     },
     {
       "player": "Jalon Daniels",
@@ -1136,15 +1166,15 @@
       "value": 20,
       "tier": "QB4",
       "trend": "flat",
-      "note": "Already scored. W6 vs PIT"
+      "note": "3rd straight start vs PIT"
     },
     {
       "player": "Tanner McKee",
       "pos": "QB",
       "value": 18,
       "tier": "QB4",
-      "trend": "up",
-      "note": "Named W6 starter. Dead 38.5. GUESS. Not Hurts"
+      "trend": "flat",
+      "note": "Named W6. Dead 38.5. GUESS. Not Hurts"
     },
     {
       "player": "Case Keenum",
@@ -1152,7 +1182,7 @@
       "value": 18,
       "tier": "QB4",
       "trend": "flat",
-      "note": "Pair if Caleb sits. Not a paid QB2"
+      "note": "Pair if Caleb sits"
     },
     {
       "player": "Tyson Bagent",
@@ -1168,39 +1198,7 @@
       "value": 16,
       "tier": "QB4",
       "trend": "flat",
-      "note": "Official OUT. MCL"
-    },
-    {
-      "player": "J.J. McCarthy",
-      "pos": "QB",
-      "value": 16,
-      "tier": "QB4",
-      "trend": "flat",
-      "note": "Dressed. GUESS"
-    },
-    {
-      "player": "Athan Kaliakmanis",
-      "pos": "QB",
-      "value": 12,
-      "tier": "QB4",
-      "trend": "flat",
-      "note": "Stash only. GUESS"
-    },
-    {
-      "player": "Jaxson Dart",
-      "pos": "QB",
-      "value": 12,
-      "tier": "QB4",
-      "trend": "flat",
-      "note": "IR plus surgery"
-    },
-    {
-      "player": "Tua Tagovailoa",
-      "pos": "QB",
-      "value": 8,
-      "tier": "QB4",
-      "trend": "flat",
-      "note": "ATL backup if Penix sits. Not a paid smash"
+      "note": "OUT. MCL"
     },
     {
       "player": "Jahmyr Gibbs",
@@ -1216,7 +1214,7 @@
       "value": 94,
       "tier": "RB1",
       "trend": "flat",
-      "note": "17-86. Still the lock vs CHI"
+      "note": "vs CHI lock"
     },
     {
       "player": "Kenneth Walker III",
@@ -1224,7 +1222,7 @@
       "value": 78,
       "tier": "RB1",
       "trend": "flat",
-      "note": "Back from bye. vs LAC"
+      "note": "vs LAC"
     },
     {
       "player": "Jonathan Taylor",
@@ -1232,7 +1230,7 @@
       "value": 74,
       "tier": "RB1",
       "trend": "flat",
-      "note": "Official Thu Full. Start vs TEN"
+      "note": "vs TEN"
     },
     {
       "player": "Christian McCaffrey",
@@ -1240,7 +1238,7 @@
       "value": 74,
       "tier": "RB1",
       "trend": "flat",
-      "note": "11-68-1 plus 3-15. Thu DNP MNF rest-lean. Do not sit yet"
+      "note": "Thu rest DNP. Do not sit"
     },
     {
       "player": "James Cook",
@@ -1248,23 +1246,23 @@
       "value": 72,
       "tier": "RB1",
       "trend": "flat",
-      "note": "25-111-2. OT fumble. at LV"
+      "note": "25-111-2. at LV"
     },
     {
       "player": "Ashton Jeanty",
       "pos": "RB",
       "value": 62,
-      "tier": "RB2",
+      "tier": "RB1",
       "trend": "flat",
-      "note": "Official Thu Full. Do not smash-sell"
+      "note": "vs BUF. Do not smash-sell"
     },
     {
       "player": "Derrick Henry",
       "pos": "RB",
       "value": 62,
-      "tier": "RB2",
+      "tier": "RB1",
       "trend": "flat",
-      "note": "24-102. Volume RB2"
+      "note": "24-102. Huntley confirmed"
     },
     {
       "player": "Kyren Williams",
@@ -1272,7 +1270,7 @@
       "value": 54,
       "tier": "RB2",
       "trend": "flat",
-      "note": "16-49-1 plus 6-27. vs ARI"
+      "note": "vs ARI"
     },
     {
       "player": "Bucky Irving",
@@ -1280,7 +1278,7 @@
       "value": 44,
       "tier": "RB2",
       "trend": "flat",
-      "note": "Thursday smash. vs PIT"
+      "note": "vs PIT"
     },
     {
       "player": "Chase Brown",
@@ -1296,7 +1294,7 @@
       "value": 42,
       "tier": "RB2",
       "trend": "flat",
-      "note": "Thursday 12-45-1"
+      "note": "Already scored"
     },
     {
       "player": "Jaylen Warren",
@@ -1304,7 +1302,7 @@
       "value": 42,
       "tier": "RB2",
       "trend": "flat",
-      "note": "15-101-1 plus 6-87-1"
+      "note": "15-101-1"
     },
     {
       "player": "Aaron Jones",
@@ -1312,7 +1310,7 @@
       "value": 40,
       "tier": "RB2",
       "trend": "flat",
-      "note": "25-113-1. W6 bye"
+      "note": "W6 bye"
     },
     {
       "player": "Chuba Hubbard",
@@ -1320,31 +1318,23 @@
       "value": 40,
       "tier": "RB2",
       "trend": "flat",
-      "note": "Back from bye. at PHI vs McKee"
+      "note": "at PHI vs McKee"
     },
     {
       "player": "Omarion Hampton",
       "pos": "RB",
       "value": 38,
-      "tier": "RB3",
+      "tier": "RB2",
       "trend": "flat",
-      "note": "14-33 plus rec 6. Committee. at KC fade"
+      "note": "Committee. at KC fade"
     },
     {
       "player": "Bhayshul Tuten",
       "pos": "RB",
       "value": 36,
-      "tier": "RB3",
+      "tier": "RB2",
       "trend": "flat",
-      "note": "22-72. London vs HOU"
-    },
-    {
-      "player": "Saquon Barkley",
-      "pos": "RB",
-      "value": 32,
-      "tier": "RB3",
-      "trend": "flat",
-      "note": "Official Thu DNP x2. Sit-lean. Do not smash-sell"
+      "note": "London vs HOU"
     },
     {
       "player": "Ollie Gordon II",
@@ -1352,23 +1342,23 @@
       "value": 32,
       "tier": "RB3",
       "trend": "flat",
-      "note": "18-88-1. Head-check returned. W6 bye"
+      "note": "MIA lead. W6 bye"
     },
     {
       "player": "Emanuel Wilson",
       "pos": "RB",
       "value": 30,
       "tier": "RB3",
-      "trend": "down",
-      "note": "14-52 TNF. Holani vulture. ROS while Charbonnet OUT"
+      "trend": "flat",
+      "note": "14-52 TNF. ROS while Charbonnet OUT"
     },
     {
-      "player": "Breece Hall",
+      "player": "Saquon Barkley",
       "pos": "RB",
       "value": 30,
       "tier": "RB3",
-      "trend": "flat",
-      "note": "Official Thu DNP x2 / Doubtful. Week-to-week"
+      "trend": "down",
+      "note": "Official OUT W6. Hold not a 20"
     },
     {
       "player": "Woody Marks",
@@ -1376,7 +1366,23 @@
       "value": 30,
       "tier": "RB3",
       "trend": "flat",
-      "note": "Monty official OUT. Ryans load. 19 touches. Not a 50"
+      "note": "Monty OUT. London lock. Not a 50"
+    },
+    {
+      "player": "Breece Hall",
+      "pos": "RB",
+      "value": 28,
+      "tier": "RB3",
+      "trend": "down",
+      "note": "Official OUT. Week-to-week"
+    },
+    {
+      "player": "Braelon Allen",
+      "pos": "RB",
+      "value": 28,
+      "tier": "RB3",
+      "trend": "up",
+      "note": "Hall OUT. 24-116-1"
     },
     {
       "player": "D'Andre Swift",
@@ -1384,7 +1390,7 @@
       "value": 28,
       "tier": "RB3",
       "trend": "flat",
-      "note": "9-43-1. CHI lead while Monangai is out"
+      "note": "CHI lead while Monangai OUT"
     },
     {
       "player": "Kyle Monangai",
@@ -1392,15 +1398,23 @@
       "value": 26,
       "tier": "RB3",
       "trend": "flat",
-      "note": "Official Thu DNP. Still the ROS CHI add"
+      "note": "Official OUT. Still the ROS CHI add"
     },
     {
-      "player": "Braelon Allen",
+      "player": "Dameon Pierce",
       "pos": "RB",
       "value": 26,
       "tier": "RB3",
-      "trend": "flat",
-      "note": "24-116-1. Hall Thu DNP x2 / Doubtful"
+      "trend": "up",
+      "note": "Confirmed PHI lead. Saquon OUT plus Shipley IR"
+    },
+    {
+      "player": "Tyler Allgeier",
+      "pos": "RB",
+      "value": 26,
+      "tier": "RB3",
+      "trend": "up",
+      "note": "Love OUT. Committee at LAR. GUESS"
     },
     {
       "player": "J.K. Dobbins",
@@ -1411,20 +1425,12 @@
       "note": "17-41-1 TNF. Harvey committee"
     },
     {
-      "player": "Tyler Allgeier",
-      "pos": "RB",
-      "value": 24,
-      "tier": "RB3",
-      "trend": "flat",
-      "note": "ARI committee. Not the Jeanty cuff. GUESS"
-    },
-    {
       "player": "Alvin Kamara",
       "pos": "RB",
       "value": 22,
       "tier": "RB3",
       "trend": "flat",
-      "note": "Official Thu Limited back. Dead volume"
+      "note": "Official Q back. Dead volume"
     },
     {
       "player": "David Montgomery",
@@ -1432,159 +1438,23 @@
       "value": 22,
       "tier": "RB3",
       "trend": "flat",
-      "note": "Groin W2W. Official OUT London. Hold not a 40"
-    },
-    {
-      "player": "Dameon Pierce",
-      "pos": "RB",
-      "value": 22,
-      "tier": "RB3",
-      "trend": "flat",
-      "note": "Leftover PHI lead after Saquon Thu DNP x2 plus Shipley tear plus McKee"
-    },
-    {
-      "player": "Jadarian Price",
-      "pos": "RB",
-      "value": 22,
-      "tier": "RB3",
-      "trend": "flat",
-      "note": "IR"
+      "note": "Groin. OUT London. Hold not a 40"
     },
     {
       "player": "TreVeyon Henderson",
       "pos": "RB",
-      "value": 20,
-      "tier": "RB3",
-      "trend": "flat",
-      "note": "Official Thu Limited after multi-week beat. Sit-lean"
-    },
-    {
-      "player": "Brian Robinson Jr.",
-      "pos": "RB",
-      "value": 20,
-      "tier": "RB3",
-      "trend": "flat",
-      "note": "Vulture / Bijan cuff"
-    },
-    {
-      "player": "MarShawn Lloyd",
-      "pos": "RB",
       "value": 16,
       "tier": "RB4",
-      "trend": "flat",
-      "note": "10-31-2. Not a 40"
-    },
-    {
-      "player": "Travis Etienne Jr.",
-      "pos": "RB",
-      "value": 16,
-      "tier": "RB4",
-      "trend": "flat",
-      "note": "IR"
-    },
-    {
-      "player": "Jaylen Wright",
-      "pos": "RB",
-      "value": 16,
-      "tier": "RB4",
-      "trend": "flat",
-      "note": "6-11. W6 bye"
+      "trend": "down",
+      "note": "MRI high-ankle. Sit"
     },
     {
       "player": "Will Shipley",
       "pos": "RB",
-      "value": 14,
-      "tier": "RB4",
-      "trend": "flat",
-      "note": "Partial plantar tear. Multiple weeks. Not a W6 lead"
-    },
-    {
-      "player": "Zach Charbonnet",
-      "pos": "RB",
-      "value": 12,
-      "tier": "RB4",
-      "trend": "flat",
-      "note": "Official OUT TNF. PUP. GUESS. Not a flex"
-    },
-    {
-      "player": "Kimani Vidal",
-      "pos": "RB",
-      "value": 12,
-      "tier": "RB4",
-      "trend": "flat",
-      "note": "8-57-1. GUESS"
-    },
-    {
-      "player": "Mike Washington Jr.",
-      "pos": "RB",
-      "value": 10,
-      "tier": "RB5",
-      "trend": "flat",
-      "note": "Jeanty Full. GUESS"
-    },
-    {
-      "player": "Kendre Miller",
-      "pos": "RB",
-      "value": 10,
-      "tier": "RB5",
-      "trend": "flat",
-      "note": "10-30-1. GUESS"
-    },
-    {
-      "player": "Blake Corum",
-      "pos": "RB",
-      "value": 10,
-      "tier": "RB5",
-      "trend": "flat",
-      "note": "5-19-1 plus 3-53. Vulture. GUESS"
-    },
-    {
-      "player": "Dylan Sampson",
-      "pos": "RB",
-      "value": 10,
-      "tier": "RB5",
-      "trend": "flat",
-      "note": "Official Thu Limited. GUESS"
-    },
-    {
-      "player": "Quinshon Judkins",
-      "pos": "RB",
-      "value": 10,
-      "tier": "RB5",
-      "trend": "flat",
-      "note": "Official Thu DNP x2. Sit. GUESS"
-    },
-    {
-      "player": "Tank Bigsby",
-      "pos": "RB",
       "value": 8,
       "tier": "RB5",
-      "trend": "flat",
-      "note": "IR / surgery"
-    },
-    {
-      "player": "De'Von Achane",
-      "pos": "RB",
-      "value": 6,
-      "tier": "RB5",
-      "trend": "flat",
-      "note": "IR / ACL / season"
-    },
-    {
-      "player": "George Holani",
-      "pos": "RB",
-      "value": 6,
-      "tier": "RB5",
-      "trend": "flat",
-      "note": "5-20-1 TNF vulture. Wilson cuff only. GUESS"
-    },
-    {
-      "player": "Audric Estime",
-      "pos": "RB",
-      "value": 4,
-      "tier": "RB5",
-      "trend": "flat",
-      "note": "Signed to CLE 53. Not a 10-team lead. GUESS"
+      "trend": "down",
+      "note": "IR. Plantar. 4 plus weeks"
     },
     {
       "player": "Joe Mixon",
@@ -1592,15 +1462,15 @@
       "value": 2,
       "tier": "RB5",
       "trend": "flat",
-      "note": "Unsigned. 0 FAAB"
+      "note": "Unsigned. 0 dollars"
     },
     {
       "player": "Jaxon Smith-Njigba",
       "pos": "WR",
       "value": 92,
       "tier": "WR1",
-      "trend": "up",
-      "note": "12-134 / 16 tgt TNF. Already scored. Hold"
+      "trend": "flat",
+      "note": "12-134 / 16 tgt TNF. Hold"
     },
     {
       "player": "Amon-Ra St. Brown",
@@ -1608,7 +1478,7 @@
       "value": 80,
       "tier": "WR1",
       "trend": "flat",
-      "note": "6-69 / 11 tgt. W6 bye"
+      "note": "W6 bye"
     },
     {
       "player": "Ja'Marr Chase",
@@ -1616,7 +1486,7 @@
       "value": 74,
       "tier": "WR1",
       "trend": "flat",
-      "note": "6-77-1. W6 bye"
+      "note": "W6 bye"
     },
     {
       "player": "CeeDee Lamb",
@@ -1624,7 +1494,7 @@
       "value": 72,
       "tier": "WR1",
       "trend": "flat",
-      "note": "Official Thu Full. SNF start. Do not smash-sell"
+      "note": "SNF start. Do not smash-sell"
     },
     {
       "player": "Justin Jefferson",
@@ -1632,7 +1502,7 @@
       "value": 66,
       "tier": "WR1",
       "trend": "flat",
-      "note": "6-79-1. W6 bye"
+      "note": "W6 bye"
     },
     {
       "player": "Drake London",
@@ -1640,7 +1510,7 @@
       "value": 66,
       "tier": "WR1",
       "trend": "flat",
-      "note": "7-118"
+      "note": "vs CHI"
     },
     {
       "player": "Puka Nacua",
@@ -1648,29 +1518,29 @@
       "value": 64,
       "tier": "WR1",
       "trend": "flat",
-      "note": "17-138-1 / 24 tgt. vs ARI"
+      "note": "17-138-1. vs ARI"
     },
     {
       "player": "Chris Olave",
       "pos": "WR",
       "value": 56,
-      "tier": "WR2",
+      "tier": "WR1",
       "trend": "flat",
-      "note": "Official Thu DNP x2 illness. Sit-lean. Friday names it"
+      "note": "Official Q illness. Start-lean not a lock"
     },
     {
       "player": "Nico Collins",
       "pos": "WR",
       "value": 56,
-      "tier": "WR2",
+      "tier": "WR1",
       "trend": "flat",
-      "note": "5-56. Thu LP. MHJ debut is not a sit"
+      "note": "London start. MHJ is not a sit"
     },
     {
       "player": "Malik Nabers",
       "pos": "WR",
       "value": 56,
-      "tier": "WR2",
+      "tier": "WR1",
       "trend": "flat",
       "note": "11-121-1"
     },
@@ -1679,8 +1549,8 @@
       "pos": "WR",
       "value": 54,
       "tier": "WR2",
-      "trend": "up",
-      "note": "Hurts OUT / McKee. at PHI. Do not drop"
+      "trend": "flat",
+      "note": "at PHI vs McKee. Do not drop"
     },
     {
       "player": "Davante Adams",
@@ -1704,47 +1574,39 @@
       "value": 42,
       "tier": "WR2",
       "trend": "flat",
-      "note": "Thursday smash. WR1 only if CeeDee sits - he is Full"
-    },
-    {
-      "player": "DK Metcalf",
-      "pos": "WR",
-      "value": 40,
-      "tier": "WR2",
-      "trend": "flat",
-      "note": "3-12. Bernard ate. Still a WR3"
+      "note": "WR2 with CeeDee active"
     },
     {
       "player": "DeVonta Smith",
       "pos": "WR",
-      "value": 38,
-      "tier": "WR3",
+      "value": 42,
+      "tier": "WR2",
       "trend": "up",
-      "note": "Official Thu Limited not DNP. Start-lean not a lock"
+      "note": "Off report. Will play vs CAR"
     },
     {
       "player": "Zay Flowers",
       "pos": "WR",
-      "value": 36,
-      "tier": "WR3",
-      "trend": "flat",
-      "note": "Thu Limited toe. Huntley tax. Start-lean not a lock"
+      "value": 38,
+      "tier": "WR2",
+      "trend": "up",
+      "note": "Off report. Plays at CLE. Huntley tax"
     },
     {
       "player": "Tee Higgins",
       "pos": "WR",
       "value": 36,
-      "tier": "WR3",
+      "tier": "WR2",
       "trend": "flat",
-      "note": "2-22. W6 bye"
+      "note": "W6 bye"
     },
     {
-      "player": "Mike Evans",
+      "player": "DK Metcalf",
       "pos": "WR",
-      "value": 32,
-      "tier": "WR3",
+      "value": 36,
+      "tier": "WR2",
       "trend": "down",
-      "note": "Shanahan rib plus Achilles. Thu DNP. Sit-lean MNF"
+      "note": "Official Q illness Friday DNP. Sit-lean"
     },
     {
       "player": "A.J. Brown",
@@ -1752,7 +1614,15 @@
       "value": 32,
       "tier": "WR3",
       "trend": "flat",
-      "note": "IR designated. Thu Limited. Sit until activated"
+      "note": "IR / Q. Vrabel Saturday. Sit"
+    },
+    {
+      "player": "Mike Evans",
+      "pos": "WR",
+      "value": 32,
+      "tier": "WR3",
+      "trend": "flat",
+      "note": "Fri side work. Sit-lean MNF"
     },
     {
       "player": "Emeka Egbuka",
@@ -1768,31 +1638,15 @@
       "value": 30,
       "tier": "WR3",
       "trend": "flat",
-      "note": "HOU. London debut. Not Nico"
+      "note": "HOU London debut. Not Nico"
     },
     {
       "player": "Rashee Rice",
       "pos": "WR",
-      "value": 28,
+      "value": 24,
       "tier": "WR3",
-      "trend": "flat",
-      "note": "Official Thu DNP x2 ham/knee. Sit. Do not drop"
-    },
-    {
-      "player": "Jordan Addison",
-      "pos": "WR",
-      "value": 26,
-      "tier": "WR3",
-      "trend": "flat",
-      "note": "INACTIVE W5. W6 bye"
-    },
-    {
-      "player": "Terry McLaurin",
-      "pos": "WR",
-      "value": 26,
-      "tier": "WR3",
-      "trend": "flat",
-      "note": "Played 4-62. Thu Limited MNF"
+      "trend": "down",
+      "note": "Official OUT. Do not drop"
     },
     {
       "player": "DJ Moore",
@@ -1800,31 +1654,23 @@
       "value": 24,
       "tier": "WR3",
       "trend": "flat",
-      "note": "INACTIVE MNF. Official Thu DNP. Sit"
-    },
-    {
-      "player": "Christian Watson",
-      "pos": "WR",
-      "value": 22,
-      "tier": "WR3",
-      "trend": "flat",
-      "note": "6-143-2. SNF vs DAL"
+      "note": "Official Q. Sit W5 pattern"
     },
     {
       "player": "Keon Coleman",
       "pos": "WR",
-      "value": 20,
-      "tier": "WR4",
-      "trend": "flat",
-      "note": "1-7-1 / 2 tgt. Dart only if Moore sits W6"
+      "value": 22,
+      "tier": "WR3",
+      "trend": "up",
+      "note": "Dart if Moore sits. 2-tgt ceiling"
     },
     {
       "player": "Germie Bernard",
       "pos": "WR",
-      "value": 20,
-      "tier": "WR4",
-      "trend": "flat",
-      "note": "6-80 / 9 tgt. Pittman IR. Roman Wilson OUT"
+      "value": 22,
+      "tier": "WR3",
+      "trend": "up",
+      "note": "Pittman IR plus Roman OUT plus DK Q"
     },
     {
       "player": "Stefon Diggs",
@@ -1832,23 +1678,15 @@
       "value": 20,
       "tier": "WR4",
       "trend": "flat",
-      "note": "Official Thu DNP. Sit"
+      "note": "Thu DNP. Sit-lean MNF"
     },
     {
-      "player": "Michael Wilson",
+      "player": "Ladd McConkey",
       "pos": "WR",
-      "value": 20,
+      "value": 14,
       "tier": "WR4",
-      "trend": "flat",
-      "note": "4-30. Still ARI WR1 ROS"
-    },
-    {
-      "player": "Parker Washington",
-      "pos": "WR",
-      "value": 18,
-      "tier": "WR4",
-      "trend": "flat",
-      "note": "6-124-2. London dart"
+      "trend": "up",
+      "note": "No designation / plays at KC. Not a smash"
     },
     {
       "player": "Deebo Samuel",
@@ -1856,55 +1694,7 @@
       "value": 16,
       "tier": "WR4",
       "trend": "flat",
-      "note": "Shanahan hold-off-IR / OUT W6 / expected W9"
-    },
-    {
-      "player": "Romeo Doubs",
-      "pos": "WR",
-      "value": 16,
-      "tier": "WR4",
-      "trend": "flat",
-      "note": "1-16"
-    },
-    {
-      "player": "Dontayvion Wicks",
-      "pos": "WR",
-      "value": 14,
-      "tier": "WR4",
-      "trend": "flat",
-      "note": "Thu DNP ham. GUESS"
-    },
-    {
-      "player": "Rashid Shaheed",
-      "pos": "WR",
-      "value": 12,
-      "tier": "WR5",
-      "trend": "flat",
-      "note": "5-66 TNF plus 2 FUM. Not a WR2. GUESS"
-    },
-    {
-      "player": "Ladd McConkey",
-      "pos": "WR",
-      "value": 10,
-      "tier": "WR5",
-      "trend": "flat",
-      "note": "Official Thu Limited x2. Inactive W5. Do not drop"
-    },
-    {
-      "player": "Christian Kirk",
-      "pos": "WR",
-      "value": 8,
-      "tier": "WR5",
-      "trend": "flat",
-      "note": "IR window Limited. Not a 10-team start. GUESS"
-    },
-    {
-      "player": "Jalen Coker",
-      "pos": "WR",
-      "value": 8,
-      "tier": "WR5",
-      "trend": "flat",
-      "note": "Do not FAAB"
+      "note": "OUT-lean W6 / W9 expected"
     },
     {
       "player": "Brock Bowers",
@@ -1912,7 +1702,7 @@
       "value": 58,
       "tier": "TE1",
       "trend": "flat",
-      "note": "Official Thu Full. Still start vs BUF"
+      "note": "Off report after Fulls. Start vs BUF"
     },
     {
       "player": "Trey McBride",
@@ -1920,7 +1710,7 @@
       "value": 56,
       "tier": "TE1",
       "trend": "flat",
-      "note": "Keep TE1. MHJ gone is a crumb"
+      "note": "Keep TE1"
     },
     {
       "player": "George Kittle",
@@ -1928,15 +1718,7 @@
       "value": 42,
       "tier": "TE1",
       "trend": "flat",
-      "note": "5-24. Still a start vs WAS"
-    },
-    {
-      "player": "Tyler Warren",
-      "pos": "TE",
-      "value": 38,
-      "tier": "TE1",
-      "trend": "flat",
-      "note": "7-83. vs TEN"
+      "note": "vs WAS"
     },
     {
       "player": "Tucker Kraft",
@@ -1947,12 +1729,12 @@
       "note": "SNF vs DAL"
     },
     {
-      "player": "Colston Loveland",
+      "player": "Tyler Warren",
       "pos": "TE",
       "value": 34,
-      "tier": "TE2",
-      "trend": "flat",
-      "note": "Not a locked TE1"
+      "tier": "TE1",
+      "trend": "down",
+      "note": "Official Q groin Friday pop-up"
     },
     {
       "player": "Travis Kelce",
@@ -1960,7 +1742,7 @@
       "value": 32,
       "tier": "TE2",
       "trend": "flat",
-      "note": "Back from bye. vs LAC"
+      "note": "vs LAC"
     },
     {
       "player": "Sam LaPorta",
@@ -1968,7 +1750,7 @@
       "value": 32,
       "tier": "TE2",
       "trend": "flat",
-      "note": "5-88-1. Then W6 bye"
+      "note": "W6 bye"
     },
     {
       "player": "T.J. Hockenson",
@@ -1976,7 +1758,7 @@
       "value": 30,
       "tier": "TE2",
       "trend": "flat",
-      "note": "1-7. W6 bye"
+      "note": "W6 bye"
     },
     {
       "player": "Tyler Higbee",
@@ -1984,55 +1766,7 @@
       "value": 22,
       "tier": "TE2",
       "trend": "flat",
-      "note": "5-83. Ferguson IR. Stream vs ARI"
-    },
-    {
-      "player": "Dallas Goedert",
-      "pos": "TE",
-      "value": 18,
-      "tier": "TE2",
-      "trend": "flat",
-      "note": "6-38. Fine TE2. McKee tax"
-    },
-    {
-      "player": "Pat Freiermuth",
-      "pos": "TE",
-      "value": 16,
-      "tier": "TE3",
-      "trend": "flat",
-      "note": "5-44-2"
-    },
-    {
-      "player": "Kyle Pitts Sr.",
-      "pos": "TE",
-      "value": 16,
-      "tier": "TE3",
-      "trend": "flat",
-      "note": "Not a locked TE1"
-    },
-    {
-      "player": "Brenton Strange",
-      "pos": "TE",
-      "value": 14,
-      "tier": "TE3",
-      "trend": "flat",
-      "note": "14/16 last two. Stream only. GUESS"
-    },
-    {
-      "player": "Kenyon Sadiq",
-      "pos": "TE",
-      "value": 12,
-      "tier": "TE3",
-      "trend": "flat",
-      "note": "Official Limited concussion. Not a TE1"
-    },
-    {
-      "player": "Terrance Ferguson",
-      "pos": "TE",
-      "value": 6,
-      "tier": "TE3",
-      "trend": "flat",
-      "note": "IR"
+      "note": "5-83. Ferguson IR. vs ARI. Warren Q bump"
     }
   ],
   "trade_rules_of_thumb": [
@@ -2042,75 +1776,74 @@
     "Half-PPR: WRs hold value. Committee RBs are discounted unless they have a path to 15+ touches as the lead.",
     "10-team benches are shallow. A 4th RB is worth less than in 12-team. Do not overpay for depth.",
     "Side getting the best player in a 2-for-1 sends extra. 3-for-1s usually lose in 10-team unless you are dumping IR dead.",
-    "Never invent a value from vibes. Friday designations still name Sunday for Lamar/Caleb/Saquon/Olave/Flowers/Evans. TNF is CLOSED.",
-    "Friday 08:15 vs Thursday 18:15: JSN 90 to 92. DeVonta 36 to 38. Young 36 to 38. Tet 52 to 54. NEW McKee 18 GUESS. Hurts 74 to 66. Darnold 32 to 28. Nix 52 to 46. Wilson 32 to 30. Evans 36 to 32. Rest FLAT.",
+    "Never invent a value from vibes. Friday Sunday-game designations are IN. MNF tags Saturday. TNF is CLOSED.",
+    "Friday 18:15 vs Friday 08:15: DeVonta 38 to 42. Pierce 22 to 26. Allen 26 to 28. Huntley 30 to 32. Flowers 36 to 38. McConkey 10 to 14. Allgeier 24 to 26. Coleman 20 to 22. Bernard 20 to 22. Saquon 32 to 30. Shipley 14 to 8. Hall 30 to 28. Rice 28 to 24. Warren 38 to 34. DK 40 to 36. Henderson 20 to 16. Sampson 10 to 6. Rest FLAT.",
     "Hurts official OUT W6 is a 66, not a 40 and not a start.",
     "McKee named starter is an 18 GUESS, not Hurts 66.",
-    "JSN 12-134 is a 92 hold, not a re-set.",
-    "Darnold 278/0/2 is a 28, not a smash ROS.",
-    "Nix 107 yards is a 46 fade confirmed.",
-    "Lamar official Thu DNP x2 is a sit-lean 86, not a smash-sell to 50.",
-    "Huntley is a 30 after two Lamar DNPs, not Lamar 86.",
-    "Caleb official Thu Full is not a name. 52 hold. Sit until named.",
-    "Penix official Thu Full / good to go is a 30 start-lean, not a 50.",
-    "CeeDee official Thu Full is a 72 SNF start, not a smash-sell to 40.",
-    "Rice official Thu DNP x2 is a 28 sit, not a drop.",
-    "Hall official Thu DNP x2 / Doubtful is a 30 sit. Allen is 26.",
-    "AJ Brown designated Limited is a 32 sit until Saturday activation.",
-    "Saquon official Thu DNP x2 is a 32 sit-lean, not a smash-sell to 20.",
-    "Pierce leftover PHI lead is a 22, not a 40.",
-    "Montgomery official OUT is a 22 sit. Marks is a 30, not a 50.",
-    "Olave two illness DNPs is a 56 sit-lean, not a drop.",
-    "Flowers Thursday toe Limited is a 36 start-lean, not a lock.",
-    "Evans rib plus Achilles DNP is a 32 sit-lean, not a locked SF WR1.",
-    "CMC Thursday DNP on an MNF week is rest-lean 74, not a sit.",
-    "DeVonta Thursday Limited is a 38 start-lean, not a lock.",
+    "Lamar official OUT W6 is an 86, not a smash-sell to 50.",
+    "Huntley confirmed start is a 32, not Lamar 86.",
+    "Caleb official Q unnamed is a 52 hold. Sit until named.",
+    "Penix no designation / plays is a 30 start.",
+    "Saquon official OUT is a 30 hold, not a smash-sell to 20.",
+    "Pierce confirmed PHI lead is a 26, not Saquon 30 ROS.",
+    "Shipley IR is an 8, not a W6 lead.",
+    "DeVonta off report / will play is a 42 start.",
+    "Hall official OUT is a 28. Allen is 28.",
+    "Rice official OUT is a 24 sit, not a drop.",
+    "Flowers off report is a 38 start.",
+    "McConkey plays at KC is a 14, not a smash.",
+    "Warren Q groin is a 34. Have a TE pivot.",
+    "Olave Q illness is a 56 start-lean, not a lock.",
+    "Moore official Q is a 24 sit (W5 pattern). CONFLICT vs one NFL.com OUT grouping.",
+    "Evans Friday side work is a 32 sit-lean, not a locked SF WR1.",
+    "CMC Thursday rest is a 74. Do not sit.",
     "MHJ is a 30 after the HOU trade, not Nico 56.",
+    "Marks is a 30, not a 50.",
     "Default Sleeper Tuesday FAAB has PROCESSED. Today leftover FA only.",
     "TNF is CLOSED. Do not re-set JSN / Wilson / Darnold / Nix."
   ],
   "ripoff_flags": [
     "Starting Hurts Sunday \u2014 official OUT W6 66",
-    "Paying McKee as Hurts \u2014 18 vs 66",
-    "Smash-selling Hurts to 40 \u2014 clot ESPN W7 lean still a 66",
-    "Starting any CIN/DET/MIA/MIN in Week 6",
-    "Starting Saquon as a W6 lock after official Thursday DNP x2 \u2014 32 sit-lean",
-    "Starting Shipley as a W6 lock \u2014 14 plantar tear out weeks",
-    "Starting Kamara as a volume RB2 \u2014 Thu Limited back 22",
-    "Starting Bagent as a paid W6 QB2 after a benching \u2014 16",
-    "Starting McConkey as a smash \u2014 Limited x2 10",
-    "Starting Hampton as a locked RB2 at KC \u2014 14-33 / 38",
-    "Starting Coleman as a locked WR2 \u2014 1-7-1 / 2 tgt / 20",
-    "Starting Moore as a W6 lock \u2014 official Thu DNP 24",
-    "Starting Hall \u2014 official Thu DNP x2 Doubtful 30",
-    "Starting Monangai \u2014 official Thu DNP 26",
-    "Starting Mayfield \u2014 not quite ready 22",
-    "Starting Mixon \u2014 unsigned 2",
-    "Starting Bigsby \u2014 IR / surgery 8",
-    "Starting Deebo \u2014 OUT W6 16",
+    "Starting Lamar Sunday \u2014 official OUT W6 86",
+    "Starting Saquon Sunday \u2014 official OUT W6 30",
+    "Starting Hall Sunday \u2014 official OUT 28",
     "Starting Montgomery as a London lock \u2014 official OUT 22",
-    "Starting Huntley if Lamar is Full Friday \u2014 30 vs 86",
-    "Starting AJ Brown before an IR activation \u2014 32",
-    "Starting Judkins as a lock \u2014 official DNP x2 10 GUESS",
-    "Starting Estime as a 10-team lead \u2014 4 GUESS",
-    "Starting Rice as a lock after official DNP x2 \u2014 28",
-    "Starting Holani as a 10-team flex \u2014 6 GUESS",
-    "Starting Olave as a lock after two illness DNPs \u2014 56 sit-lean",
-    "Starting Flowers as a lock after Thursday toe Limited \u2014 36 start-lean",
-    "Starting Evans as a locked MNF WR1 after rib plus Achilles DNP \u2014 32 sit-lean",
-    "Sitting CMC on Thursday MNF rest \u2014 74 do not sit yet",
-    "Starting McKee as a smash \u2014 18 GUESS desperation only",
+    "Starting Mayfield \u2014 official OUT 22",
+    "Starting Rice \u2014 official OUT 24",
+    "Starting Shipley as a W6 lead \u2014 IR 8",
+    "Starting Monangai \u2014 official OUT 26",
+    "Paying McKee as Hurts \u2014 18 vs 66",
+    "Paying Huntley as Lamar \u2014 32 vs 86",
+    "Smash-selling Hurts to 40 \u2014 clot ESPN W7 lean still a 66",
     "Smash-selling Lamar to 50 \u2014 he is an 86",
-    "Smash-selling CeeDee to 40 \u2014 he is Full / 72",
+    "Starting any CIN/DET/MIA/MIN in Week 6",
+    "Starting Caleb until he is named \u2014 52 Q unnamed",
+    "Starting Kamara as a volume RB2 \u2014 Q back 22",
+    "Starting Bagent as a paid W6 QB2 after a benching \u2014 16",
+    "Starting McConkey as a smash \u2014 plays at KC 14 not a smash",
+    "Starting Hampton as a locked RB2 at KC \u2014 14-33 / 38",
+    "Starting Coleman as a locked WR2 \u2014 1-7-1 / 2 tgt / 22",
+    "Starting Moore as a W6 lock \u2014 official Q sit 24 W5 pattern",
+    "Starting Mixon \u2014 unsigned 2",
+    "Starting Deebo \u2014 OUT-lean W6 16",
+    "Starting AJ Brown before an IR activation \u2014 32",
+    "Starting Judkins as a lock \u2014 official Q 10 GUESS",
+    "Starting Estime as a 10-team lead \u2014 4 GUESS",
+    "Starting Holani as a 10-team flex \u2014 6 GUESS",
+    "Starting Olave as a lock \u2014 official Q 56 start-lean",
+    "Starting Evans as a locked MNF WR1 \u2014 32 sit-lean",
+    "Sitting CMC on Thursday MNF rest \u2014 74 do not sit",
+    "Starting McKee as a smash \u2014 18 GUESS desperation only",
+    "Starting Warren as a locked TE1 \u2014 34 Q groin",
+    "Starting DK as a lock \u2014 official Q illness 36 sit-lean",
+    "Smash-selling CeeDee to 40 \u2014 he is 72",
     "Smash-selling Chase / Gibbs / Burrow / Jefferson / Amon-Ra because of a Week 6 bye",
-    "Smash-selling Saquon to 20 \u2014 he is a 32",
-    "Smash-selling Jeanty to 40 after official Full \u2014 he is a 62",
+    "Smash-selling Saquon to 20 \u2014 he is a 30",
+    "Smash-selling Jeanty to 40 \u2014 he is a 62",
     "Smash-selling JSN after 12-134 \u2014 he is a 92",
     "Paying MHJ as Nico \u2014 30 vs 56",
-    "Paying Pierce as Saquon \u2014 22 vs 32",
-    "Paying Huntley as Lamar \u2014 30 vs 86",
+    "Paying Pierce as Saquon ROS \u2014 26 vs 30",
     "Paying Marks as a 50 / Bijan \u2014 30 vs 94",
-    "Paying Estime as a lead \u2014 4 GUESS",
     "Paying Mixon after the physical kill",
     "Dumping Tet because of last week's bye \u2014 he is a 54",
     "FAABing Mixon / Bigsby / Thornton / Henry Jr / Tyreek-rumor / Bagent-as-a-new-paid-QB2 / MHJ-as-a-paid-WR1 / Huntley-as-Lamar / McKee-as-Hurts / Shipley-as-W6-lead / Tua-as-paid-QB2 / Estime-as-a-lead / Dell / Charbonnet-as-flex / Holani-as-flex / DST / K",
