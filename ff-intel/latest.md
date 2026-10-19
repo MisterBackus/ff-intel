@@ -1,189 +1,150 @@
 # FF-Intel — 10-team Superflex Half-PPR (no K / no DST)
 
-- **Generated:** Saturday, October 17, 2026, 6:15 PM ET (America/New_York)
-- **NFL week:** Week 6 (TNF **CLOSED**; London **Sun 9:30 AM ET** ~15 hours; Sunday-game designations **HOLD**; MNF WAS/SF designations **IN** on Commanders.com + beat / Footballguys — 49ers.com Saturday column still **LAG**)
+- **Generated:** Monday, October 19, 2026, 8:15 AM ET (America/New_York)
+- **NFL week:** Week 6 (Sunday + SNF **CLOSED**; **MNF WAS @ SF 8:15 PM ET** remaining) / Week 7 FAAB window
 - **Season:** 2026 NFL · Platform: Sleeper · $100 FAAB
 - **Data freshness:**
   - 53-man rosters locked Sunday, Aug 30, 6:00 PM ET
-  - **Weeks 1–4 CLOSED** (unchanged).
-  - **Week 5 FULLY CLOSED.** MNF **BUF 37–LAR 34 OT** unchanged.
-  - **TNF CLOSED: DEN 17–SEA 14 OT.** JSN **12–134 / 16 tgt.** Darnold **27/51 278 / 0 TD / 2 INT.** Wilson **14–52.** Holani **5–20–1.** Nix **17/27 107.** Dobbins **17–41–1.**
-  - **No Saturday NFL game.** Friday Sunday-game designations **HOLD**. Sunday 1:00 inactives still **MISSING** (~11:30 AM ET Sunday).
-  - **Jalen Hurts official IR Saturday** (superficial calf clot). Team + NFL.com / Schefter / Rapoport. ESPN W7 lean is **STALE**. Misses **W6 CAR, W7 DAL, W8 WAS, W9 NYG** (four-game min). Eligible **W11 vs PIT (Nov 22)**. Blood thinners can run ~6 weeks. Hold **58**. Do not smash-sell to 40. **McKee starts** and is the multi-week QB now (**22**, not 58).
-  - **A.J. Brown ACTIVATED** Patriots.com **Sat 4:00 PM ET**. Still official Q (high-ankle). Schefter: **expected to play**. Hold **36**. Toss-up / WR3 start-lean — not a smash. Have a Sunday-inactive pivot.
-  - **Caleb Williams expected to start** (Rapoport / Garafolo / Schefter Saturday). Official Q. Three Fulls. Johnson public name still **MISSING**. Start-lean vs ATL **52.5 indoor**. Have Keenum as the pair. Do not drop **52**.
-  - **DK Metcalf removed from the Steelers report Saturday** — **plays / start (38)**. NFL.com aggregator still listing Q is **LAG**.
-  - **Deebo Samuel official OUT W6** (hamstring). Sit **16**.
-  - **Mike Evans official Q** (ribs + Achilles, DNP Thu+Fri). Sit-lean **30**. Do not lock as SF WR1.
-  - **Christian McCaffrey no designation / Friday Full** after Thursday rest. **Start 74. Do not sit.**
-  - **Terry McLaurin Saturday Limited / no designation** after Friday DNP (ham + NIR-rest). **Plays. Start-lean 26.** Not a smash.
-  - **Stefon Diggs official Q** (hamstring). Toss-up **20**.
-  - **Jayden Daniels Full Thu–Sat / no designation.** Start MNF **62**.
-  - **Christian Kirk official Q** (calf). Shanahan: possible Monday activate. **8 GUESS**. Not a 10-team start.
-  - **Jacory Croskey-Merritt official OUT** (groin). White / Ekeler committee. Not a 10-team lead.
-  - **Marcus Mariota official OUT** (knee).
-  - **Lamar Jackson official OUT W6** (ankle). Huntley starts @ CLE. Hold Lamar **86**.
-  - **Saquon Barkley official OUT W6** (hamstring). Pierce is the PHI lead. Shipley **IR**.
-  - **DeVonta Smith OFF the report / Friday Full** — plays vs CAR. Start **42**.
-  - **Penix Jr. Friday Full / no designation** — plays vs CHI. Start **30**.
-  - **Zay Flowers OFF the report** — plays @ CLE (Huntley tax). Start **38**.
-  - **Ladd McConkey no designation** — plays @ KC. Not a smash **14**.
-  - **Breece Hall official OUT** (quad). Allen is the NYJ RB.
-  - **Rashee Rice official OUT** (ham/knee). Sit. Do not drop **24**.
-  - **Baker Mayfield official OUT** (thumb). Jalon starts vs PIT.
-  - **Kyle Monangai official OUT** (thumb/toe). Swift is CHI.
-  - **Chris Olave official Q** (illness). Friday Limited. Footballguys optimistic. Start-lean, not a lock **56**.
-  - **DJ Moore official Q** (shoulder). Conservative **sit** (W5 Q→inactive) **24**.
-  - **Tyler Warren official Q** (groin). Have a TE pivot **34**.
-  - **TreVeyon Henderson official Q** (high-ankle). Sit **16**.
-  - **Quinshon Judkins official Q** (ankle). Sit-lean **10 GUESS**.
-  - **Nico Collins: NFL.com aggregator Limited is LAG** vs morning Texans.com not listed. **Start Nico 56.** MHJ is the dart.
-  - **Pat Freiermuth added Q Saturday** (calf). Sit-lean if you have a TE1.
-  - **Roman Wilson official IR Saturday** (finger).
-  - Mixon **still unsigned**.
-  - Lines (Sat evening Slimsports / ESPN): JAX **−2.5 / 42.5 HOLDS.** CHI **−1.5 / 52.5** (AM 52.0). BAL **−3 / 39.5 HOLDS.** IND **−7 / 44.5 HOLDS.** NE **−7.5 / 43.5 HOLDS.** NO **−1.5 / 46.5** (AM 46.0). CAR **−3 / 39.5** (AM −3.5 / 39.0). PIT **−2.5 / 38.5** (AM 39.0). LAR **−12.5 / 51.5 HOLDS.** KC **−7.5 / 41.5 HOLDS.** BUF **−4.5 / 53.5 HOLDS** (ESPN schedule −5.5 **CONFLICT**). GB **−1.5 / 53.5** (AM −1.0 / 53.0). SF **−7.5 / 52.5** (AM 52.0).
-  - Weather: FootballDB Sat **5:20 PM ET**. **London 56° / NNE 12 / 0%** vs NFLWeather **60% showers** vs GameDayWeather **8–20%**. Friday DK 31–59% is **STALE**. Conservative: rain watch **weaker / toward dry**, **not** a Marks/Nico sit. **TB:** FootballDB 75° / NNE 14 / 0% vs NFLWeather 15 mph / DK 17–18 — trims deep, **not** a DK sit. **GB:** 50° / SSW 8 / 0% — start CeeDee. Indoor: CHI@ATL (roof expected closed), TEN@IND, BUF@LV. SoFi canopy. MNF Levi’s dry. Rest of outdoor slate dry.
-  - Default Sleeper Tuesday FAAB **PROCESSED**. Leftover FA only.
-  - Superflex values: same **1–100** scale. Trends vs Saturday **8:15 AM ET** published board: **Hurts 66→58. McKee 18→22. AJ Brown 32→36. McLaurin 24→26. DK 36→38.** Rest **FLAT**. Thin spots **GUESS**.
-  - NFL.com homepage widgets (Lamar “back” Limited, Daniels London OUT, Achane ACL) remain **STALE Week 3–4**. Ignore. NFL.com injury aggregator **LAG** on Hurts-IR / DK-off-report / WAS-SF Saturday tags / Nico Limited.
+  - **Weeks 1–5 CLOSED** (unchanged). Week 5 MNF **BUF 37–LAR 34 OT** unchanged.
+  - **TNF CLOSED: DEN 17–SEA 14 OT.** JSN **12–134 / 16 tgt.** Darnold **278/0/2.** Wilson **14–52.** Nix **107.**
+  - **London CLOSED: HOU 34–JAX 31.** Stroud **24/34 312/3.** Lawrence **24/41 306/4.** Marks **15–56 + 2–25.** Noel **4–107–1.** Nico **3–74.** MHJ **3–34.** Tuten **12–39 + 4–48–2.**
+  - **Sunday 1:00 CLOSED.** CHI **31–ATL 23.** BAL **10–CLE 13.** TEN **26–IND 20.** NE **26–NYJ 19.** NO **34–NYG 27.** CAR **25–PHI 14.** PIT **26–TB 19 OT.**
+  - **Sunday 4:05/4:25 CLOSED.** ARI **18–LAR 16.** KC **22–LAC 6.** BUF **33–LV 30.**
+  - **SNF CLOSED: GB 23–DAL 13.** Love **23/41 276/1 INT + rush TD.** Dak **34/54 258/1/2.** CeeDee **9–70 / 18 tgt.** Golden **6–104–1.** Pickens **6–73 / 11 tgt.**
+  - **SET MNF tonight 8:15 ET: WAS @ SF.** SF **−7.5 / 52.5.** Weather: **64° / wind 12 gusting 21 / rain 0%** — trims deep, **not** a CMC sit. Official 90-min inactives **MISSING** (~6:45 PM ET).
+  - **Deebo official OUT.** Evans **official Q sit-lean** (ribs + Achilles, DNP Thu+Fri). CMC **Friday Full / no designation — START. Do not sit.** Daniels **Full week / no designation — START.** McLaurin **Sat Limited / no tag — start-lean.** Diggs **official Q.** Kirk **official Q / possible activate — not a 10-team start.** Croskey-Merritt **OUT.** Mariota **OUT.**
+  - **Davante Adams non-contact left knee** late vs ARI. 3–39, DNR. McVay Monday update **MISSING.** Sit-lean W7 until named. **48→36 GUESS.**
+  - **Josh Jacobs off Commissioner Exempt List today.** Eligible to practice/play. W7 @ DET. League investigation **still open.** Do not lock as GB RB1 until named. **NEW 38 GUESS.**
+  - **Hurts remains IR** (calf clot). Eligible W11. McKee is the multi-week QB. **Winston BENCHED;** McCarthy **243/1/1** in the 4th. W7 NYG starter **MISSING** (Harbaugh: not answering 10 minutes after the game).
+  - **Lamar W7 vs CIN: MISSING.** Zero practice since Oct 4. Wednesday participation is the tell. Huntley is the pair. Do not smash-sell **86.**
+  - **Saquon W7 vs DAL: MISSING.** Sirianni’s earlier W7-realistic lean is not a name. Sit until named. Pierce is still the PHI back.
+  - **Mayfield W7 @ CAR: Pelissero “optimism” is not a name.** Jalon is the pair.
+  - **Hall still week-to-week.** Allen is NYJ. **Rice / Warren / Moore / Judkins were W6 INACTIVE.**
+  - Mixon **still unsigned.** Default Sleeper FAAB = **Week 7 Tuesday.**
+  - Superflex values: same **1–100** scale. Trends vs **Sunday evening 6:15 ET** memory board (late window was FLAT): **Walker 78→82. Cook 72→74. Love 60→62. Kelce 32→34. Swift 30→34. Tet 54→56. DK 38→40. NEW Golden 24. NEW Knight 22. NEW Worthy 20. NEW Likely 24. NEW Jacobs 38 GUESS. NEW Roschon 18. Jeanty 62→58. Stafford 64→60. Nacua 64→62. Kyren 54→50. Herbert 54→48. Hampton 38→32. Mahomes 78→76. CeeDee 72→70. Dak 70→64. Adams 48→36 GUESS. McConkey 14→12. Allgeier 26→20. McKee 22→20. Pierce 26→24. Kamara 20→18.** Rest **FLAT** vs Sunday evening. Thin spots **GUESS**.
+  - NFL.com homepage widgets (Lamar “back” Limited, Daniels London OUT, Achane ACL) remain **STALE Week 3–4.** Ignore.
 
 ---
 
 ## 1. League week context
 
-**Now:** Saturday 6:15 PM ET. TNF **scored.** No Saturday NFL game. First remaining kick is **London Sun 9:30 AM ET** (~15 hours). AJ Brown **activated**. Hurts **IR**. MNF tags **IN**. Sunday 1:00 inactives tomorrow ~11:30 AM ET. Byes last week: **CAR, KC**. **Week 6 byes: CIN, DET, MIA, MIN.**
+**Now:** Monday 8:15 AM ET. Every Sunday game **scored.** First remaining kick is **MNF WAS @ SF 8:15 PM ET** (~12 hours). Week 7 TNF is **NE @ CHI Thu 8:15 PM ET.** Week 7 FAAB processes **Tuesday.**
 
-**Closed Week 5 — do not re-set**
-
-| When (ET) | Game | Final | What still matters |
-|---|---|---|---|
-| Thu 8:15 | TB @ DAL | **TB 24–DAL 16** | Irving / Pickens smash. CeeDee bruise, no structural. |
-| Sun 9:30 | PHI @ JAX | **JAX 19–PHI 17** | Shipley now **IR**. Pierce is the W6 lead. Hurts now **IR**. |
-| Sun 1:00–4:25 | 11 games | See Mon packet | Marks named load. Deebo out weeks. Hall OUT. |
-| Sun 8:20 | BAL @ ATL | **BAL 30–ATL 23 OT** | Huntley smash; starts again W6. Penix cleared. |
-| **Mon 8:15** | **BUF @ LAR** | **BUF 37–LAR 34 OT** | Allen / Cook / Stafford / Nacua / Adams scored. Moore sat. Coleman 1–7–1. |
-
-**Closed TNF — do not re-set**
+**Closed Week 6 Sunday — do not re-set**
 
 | When (ET) | Game | Final | What still matters |
 |---|---|---|---|
-| **Thu 8:15** | **SEA @ DEN** | **DEN 17–SEA 14 OT** | **JSN 12–134 / 16 tgt (92).** Darnold 278/0/2 — **not a smash ROS (28).** Wilson 14–52. Holani vulture. **Nix 107 fade (46).** Dobbins 17–41–1. Charbonnet **OUT.** Mixon unsigned. |
+| Sun 9:30 London | HOU 34–JAX 31 | Stroud / Lawrence smash. Marks 17 touches. Noel dart. MHJ quiet. Tuten 2 rec TD. **JAX on W7 bye.** |
+| Sun 1:00 | CHI 31–ATL 23 | **Caleb 30/36 305/1 — 52→56.** Swift **16–44–2.** Roschon **13–51–1.** Penix **225/3.** Bijan **9–61.** London **4–62 / 10.** |
+| Sun 1:00 | BAL 10–CLE 13 | Huntley **165/1.** Henry **17–58.** Flowers **6–66.** Lamar still **86.** Judkins **INACTIVE.** |
+| Sun 1:00 | TEN 26–IND 20 | Taylor **21–94–1** in a loss. Warren **INACTIVE.** Keenan **8–82 / 11.** |
+| Sun 1:00 | NE 26–NYJ 19 | Maye **235/3.** AJ Brown rust **3–27 / 10 tgt.** Allen **17–78.** Omar Cooper **6–103–1.** Henderson not the lead. |
+| Sun 1:00 | NO 34–NYG 27 | Shough **144/3.** Miller **20–70.** Olave **4–43–1.** **Winston BENCHED 14/26 152/1/2.** McCarthy **11/21 243/1/1.** Nabers **12–165.** Likely **6–99–1.** W7 NYG QB **MISSING.** |
+| Sun 1:00 | CAR 25–PHI 14 | Young **281/2.** Hubbard **28–120–1.** Tet **6–86.** Coker **6–97.** McKee **215/1.** DeVonta **7–75–1.** Pierce **12–35–1.** Hurts IR. |
+| Sun 1:00 | PIT 26–TB 19 OT | Rodgers **253/2.** DK **11–93.** Bernard **11–87–1.** Jalon **164/1/2.** Irving **19–46.** Egbuka **7–48–1.** Mayfield still OUT. |
+| Sun 4:05 | ARI 18–LAR 16 | Knight **15–80.** Allgeier **18–38.** Stafford **222/2.** Nacua **6–80.** Kyren **10–50.** **Adams 3–39 then non-contact left knee DNR.** |
+| Sun 4:25 | KC 22–LAC 6 | Walker **19–128–2.** Worthy **7–73.** Kelce **4–53.** Mahomes **272/0 TD.** Herbert **204/0/1.** Hampton **7–18 + 4–21.** McConkey **1–17.** **LAC W7 bye.** Rice still OUT. |
+| Sun 4:25 | BUF 33–LV 30 | Allen **255/2.** Cook **22–95–1.** Coleman **4–59–1** (Moore INACTIVE). Jeanty **10–22–1 + 4–36.** Bowers **4–70 / 9 tgt.** Tucker **5–97–2.** **BUF W7 bye.** |
+| Sun 8:20 | GB 23–DAL 13 | Love + rush TD. Golden **6–104–1.** CeeDee **9–70 / 18 tgt inefficient.** Dak 2 INT. Lloyd **8–10.** **Jacobs eligible today.** |
 
-**Week 6 remaining slate (Sun Oct 18 – Mon Oct 19)**
+**SET MNF — WAS @ SF, Mon 8:15 PM ET, SF −7.5 / 52.5**
 
-| When (ET) | Game | Line (Sat evening) | Call |
+- **Start:** Purdy, Daniels, CMC (**do not sit on rest**), Kittle, McLaurin **start-lean.**
+- **Sit:** Deebo **OUT.** Evans **sit-lean** (Q, DNP ×2). Croskey-Merritt **OUT.** Mariota **OUT.** Kirk **not a 10-team start.** Hurts / Lamar / W6 byes already scored-or-sat.
+- **Toss-up:** Diggs Q. Have a pivot.
+- **Inactives ~6:45 PM ET.** Conservative until then: do not lock Evans.
+
+**Byes last week (W6, already sat):** CIN, DET, MIA, MIN — they **play this week.** Do not sit Chase / Gibbs / Amon-Ra / Burrow / Jefferson / LaPorta on a stale bye.
+
+**Week 7 byes (sit these after tonight):** **BUF, JAX, LAC, WAS.** Sit Allen / Cook / Lawrence / Daniels (after MNF) / Herbert / Hampton / McConkey / Tuten / Coleman / Moore / McLaurin / Diggs. Do **not** dump them.
+
+**Week 7 slate (plan FAAB / lineups now)**
+
+| When (ET) | Game | Line (Mon AM FOX/bet365) | Call |
 |---|---|---|---|
-| **Sun 9:30 London** | HOU @ JAX | **JAX −2.5 / 42.5** | **Monty OUT.** Marks lock. MHJ debut dart. Nico start. Dell **OUT**. Rain **CONFLICT** (FootballDB 0% vs NFLWeather 60%) — **not** a sit. |
-| Sun 1:00 | CHI @ ATL | **CHI −1.5 / 52.5 indoor** | **Caleb expected to start** (sources). Official Q / Johnson name **MISSING**. Start-lean. **Penix plays.** Bijan / London smash. |
-| Sun 1:00 | BAL @ CLE | **BAL −3 / 39.5** | **Lamar OUT. Huntley starts.** Henry volume. **Flowers start.** Judkins Q / sit-lean. Dry. Huntley is a pair, not Allen. |
-| Sun 1:00 | TEN @ IND | **IND −7 / 44.5 indoor** | Taylor start. **Warren Q groin — pivot.** Keenan flex only. |
-| Sun 1:00 | NYJ @ NE | **NE −7.5 / 43.5** | Maye smash. **Hall OUT.** Allen is NYJ. **AJ Brown activated / expected — WR3 lean, not a smash.** Henderson high-ankle sit. Dry. |
-| Sun 1:00 | NO @ NYG | **NO −1.5 / 46.5** | Winston vs Shough. Kamara Q / sit volume. **Olave Q start-lean, not a lock.** Dry. |
-| Sun 1:00 | CAR @ PHI | **CAR −3 / 39.5** | **Hurts IR. McKee starts.** Saquon OUT. Shipley IR. **DeVonta plays.** Pierce lead. **Tet start.** |
-| Sun 1:00 | PIT @ TB | **PIT −2.5 / 38.5** | **Mayfield OUT.** Jalon. **DK off report / start.** Wind 14–18 trims deep, not a DK sit. Bernard is WR2 now. |
-| Sun 4:05 | ARI @ LAR | **LAR −12.5 / 51.5** | Stafford / Nacua / Kyren smash. **Love OUT.** Allgeier uptick. SoFi. |
-| Sun 4:25 | LAC @ KC | **KC −7.5 / 41.5** | Mahomes / Kelce / Walker-KC / Worthy. **Rice OUT.** Herbert / Hampton fade. **McConkey plays, not a smash.** |
-| Sun 4:25 | BUF @ LV | **BUF −4.5 / 53.5 indoor** | Allen / Cook. Jeanty. **Moore Q / sit (W5 pattern).** Bowers start. ESPN −5.5 **CONFLICT**; total holds. |
-| Sun 8:20 NBC | DAL @ GB | **GB −1.5 / 53.5** | CeeDee / Love / Pickens / Watson. **Dry 50° — start CeeDee.** |
-| Mon 8:15 ESPN | WAS @ SF | **SF −7.5 / 52.5** | Daniels plays. CMC plays — **do not sit.** **Evans Q sit-lean.** Deebo **OUT**. Diggs Q. McLaurin **plays / start-lean.** Kirk possible activate, not a start. |
+| Thu 8:15 | NE @ CHI | CHI **−2.5 / 49.5** | Maye smash. Caleb start. Swift / Burden. AJ Brown not a smash after rust. |
+| Sun 9:30 Paris | PIT vs NO | PIT **−2.5 / 44.5** | Rodgers / DK / Bernard. Shough / Olave / Miller. |
+| Sun 1:00 | CIN @ BAL | BAL **−3.5 / 50.5** | Burrow / Chase / Higgins **back.** Lamar **MISSING** — Huntley pair. Henry / Flowers. |
+| Sun 1:00 | SF @ ATL | SF **−3.5 / 50.5** | After MNF. CMC / Purdy if healthy. Bijan / London / Penix. |
+| Sun 1:00 | TB @ CAR | CAR **−3.5 / 44.5** | Tet / Hubbard / Young. Mayfield **unnamed.** Irving / Egbuka. |
+| Sun 1:00 | NYG @ HOU | HOU **−9.5 / 43.5** | Marks / Nico / Stroud. Nabers. NYG QB **MISSING.** |
+| Sun 1:00 | IND @ MIN | MIN **−5.5 / 42.5** | Jefferson / Kyler **back.** Taylor. Warren if active. |
+| Sun 1:00 | MIA @ NYJ | NYJ **−5.5 / 39.5** | Gordon / Allen-NYJ. MIA off bye. |
+| Sun 1:00 | CLE @ TEN | CLE **−1.5 / 36.5** | Dead total. Judkins if active. Pollard. |
+| Sun 4:05 | DEN @ ARI | DEN **−4.5 / 43.5** | Nix fade-lean. Knight if Love sits. |
+| Sun 4:25 | GB @ DET | DET **−3.5 / 52.5** | **Highest remaining total.** Gibbs / Amon-Ra smash. Love / Golden. Jacobs **until named.** |
+| Sun 4:25 | LAR @ LV | LAR **−5.5 / 47.5** | Stafford / Nacua. Adams **sit-lean.** Jeanty / Bowers vs LAR. |
+| Sun 8:20 | KC @ SEA | SEA **−2.5 / 42.5** | Mahomes / Walker / JSN. Rice if active. Wilson until Charbonnet is actually activated. |
+| Mon 8:15 | DAL @ PHI | DAL **−4.5 / 44.5** | CeeDee / Pickens / Dak vs McKee / DeVonta. **Hurts IR.** Saquon **until named.** |
 
-**Byes Week 6 — sit these:** **CIN, DET, MIA, MIN.** Sit Burrow / Chase / Higgins / Chase Brown / Gibbs / Amon-Ra / Goff / LaPorta / Jefferson / Addison / Kyler / Jones / Hockenson / Gordon / Wright. Do **not** dump them.
-
-**Week 7 byes coming:** BUF, JAX, LAC, WAS. Do not smash-sell Allen / Cook / Lawrence / Daniels this week just because a bye is next.
-
-**Weather:** TNF Denver **CLOSED DRY.** London rain **CONFLICT / weaker toward dry** (FootballDB 0% vs NFLWeather 60%) — not a Marks/Nico sit. TB wind **14–18 mph** — trims Rodgers/Jalon/DK deep, not a DK sit. GB **clear / dry** — start CeeDee. Indoor: CHI@ATL, TEN@IND, BUF@LV. No other weather sits.
+**Weather:** MNF Levi’s **dry, wind 12–21.** Not a CMC sit. Week 7 TNF Chicago outdoor **MISSING** until later in the week. Paris / indoor (MIN, LV, DET, ATL roof) are not sits.
 
 **Deadlines**
-- **NOW (Saturday 6:15 PM ET):** Leftover FA. Set Sunday lineups. TNF is scored. AJ Brown **is activated**. Hurts **is IR**.
-- **Saturday night / Sun 9:30 AM ET:** London HOU@JAX lock.
-- **Sun ~11:30 AM ET:** 1:00 inactives (Olave / Moore / Warren / Henderson / Judkins / Kamara / Caleb / AJ Brown).
-- **Mon ~7:15 PM ET:** MNF inactives (Evans / Diggs / Kirk).
-- **NFL trade deadline:** Tue Nov 10, 4:00 PM ET. MHJ is **done**. League deadline: commissioner-set. **MISSING**.
+- **Tonight ~6:45 PM ET:** MNF 90-min inactives (Evans / Diggs / Kirk).
+- **Tonight 8:15 PM ET:** WAS @ SF locks.
+- **Tuesday (default Sleeper):** Week 7 FAAB.
+- **Thursday 8:15 PM ET:** NE @ CHI TNF lock.
+- **NFL trade deadline:** Tue Nov 10, 4:00 PM ET. League deadline: commissioner-set. **MISSING.**
 
 ---
 
 ## 2. Injuries and availability (most important)
 
-Week 5 inactives **CLOSED.** TNF **CLOSED.** **Friday Sunday-game designations HOLD.** MNF designations **IN** (Commanders.com + beat; 49ers.com Saturday column **LAG**). Conservative when sources conflict.
+Sunday inactives **CLOSED.** MNF designations **IN.** Official MNF 90-min inactives **MISSING** (~6:45 PM ET). Conservative when sources conflict.
 
-### Must act today (leftover FA / locked sits / confirmed starts / IR / activation)
+### Must act today (MNF locks / W7 FAAB / IR / landmines)
 
 | Player | Pos | Team | Status | Injury | If they play | If they sit | Handcuff in THIS league | Flag |
 |---|---|---|---|---|---|---|---|---|
-| Jalen Hurts | QB | PHI | **Official IR** | Superficial calf clot. 4-game min (W6–W9). Eligible W11. Thinners ~6 weeks possible | N/A | **McKee starts** (multi-week) | Hold **58**. Do not smash-sell to 40 | **MUST ACT — sit Hurts. W7 lean is STALE** |
-| Tanner McKee | QB | PHI | **Named multi-week starter** | None | Stream vs CAR in a **39.5** dead game | N/A | **22**. Not Hurts **58** | leftover SF2 only if QB-desperate |
-| Lamar Jackson | QB | BAL | **Official OUT W6** | Ankle. Zero practice since Oct 4 | N/A | **Huntley starts** | Hold **86**. Do not smash-sell | **MUST ACT — sit Lamar. Pair Huntley** |
-| Tyler Huntley | QB | BAL | **Named W6 starter** | None. 201/2 + rush TD W5 | Stream @ CLE **39.5** | N/A | **32**. Not Lamar **86** | **MUST ACT — leftover if you own Lamar. Start Huntley** |
-| Caleb Williams | QB | CHI | **Official Q / expected start** | Hamstring tear (his words). Three Fulls. Sources: will start | @ ATL **52.5 indoor — start-lean** | **Keenum** pair; do not start Bagent | Hold **52** | **MUST ACT — start-lean. Johnson name MISSING. Have a pivot** |
-| Michael Penix Jr. | QB | ATL | **Friday Full / plays** | Ribs. Cleared | Start vs CHI 52.5 indoor | N/A | **30** | **MUST ACT — start. Do not drop** |
-| Saquon Barkley | RB | PHI | **Official OUT W6** | Hamstring. Zero practice. Sirianni: W7 realistic | N/A | **Pierce** lead | Hold **30**. Do not smash-sell | **MUST ACT — sit Saquon** |
-| Dameon Pierce | RB | PHI | **Healthy / named W6 lead** | None. Ugly 11–14. McKee game | W6 lead (Saquon OUT + Shipley IR) | Steele / Blue **$0** | **26**. Not Saquon **30** | leftover must-add / start if you have him |
-| Will Shipley | RB | PHI | **IR** | Partial plantar tear. 4+ weeks | N/A | Pierce | **8**. Not a W6 lead | do not re-bid |
-| DeVonta Smith | WR | PHI | **Off report / Friday Full** | Hamstring/toe. Missed last two | WR2 vs CAR / McKee | Cooper dart | Hold **42** | **MUST ACT — start** |
-| Breece Hall | RB | NYJ | **Official OUT** | Quad. Week-to-week | N/A | **Allen** | Hold **28** | **MUST ACT — sit. Allen leftover / hold** |
-| Braelon Allen | RB | NYJ | **Healthy / lead** | None. 24–116–1 | W6 @ NE lead | Hall if he returns later | **28**. Not Hall ROS forever | leftover / must-add / start |
-| A.J. Brown | WR | NE | **Activated / official Q** | High-ankle. Patriots.com 4:00 PM ET. Schefter expected | WR3 / flex vs NYJ if active | Doubs / Kyle Williams | Hold **36**. Not a smash | **MUST ACT — start-lean, not a lock. Have a Sunday pivot** |
-| TreVeyon Henderson | RB | NE | **Official Q** | MRI high-ankle. “Hoping to play” | Pitch-count if active | Stevenson | **16** | **MUST ACT — sit** |
-| Woody Marks | RB | HOU | **Healthy / named load** | None. 19 touches after Monty left | London **lock** | Ogunbowale crumbs | **30**. Not a 50 | leftover #1 FAAB if free |
-| David Montgomery | RB | HOU | **Official OUT** | Groin. Did not travel | N/A London | **Marks** | **22**. Hold, sit W6 | **MUST ACT — sit. Do not smash-sell to 10** |
-| Rashee Rice | WR | KC | **Official OUT** | Ham / knee | N/A | Worthy / Kelce | Hold **24**. Do not drop | **MUST ACT — sit** |
-| DJ Moore | WR | BUF | **Official Q** | AC / shoulder. Friday non-contact. W5 was Q then inactive | Only if Sunday-active | Coleman dart | **24** | **MUST ACT — sit** |
-| Keon Coleman | WR | BUF | **Healthy / Friday Full** | None. 1–7–1 / 2 tgt | Flex only if Moore sits | Moore if he returns | **22**. Not a WR2 | leftover if Moore is yours. Do not smash-bid |
-| Baker Mayfield | QB | TB | **Official OUT** | Dislocated thumb. Expected W7 | N/A | Jalon | Hold **22** | **MUST ACT — sit W6. Do not drop** |
-| Chris Olave | WR | NO | **Official Q** | Illness. Fri Limited after two DNPs. Optimistic | WR1 @ NYG if active | Hold **56** | **MUST ACT — start-lean, not a lock. Have a pivot** |
-| Zay Flowers | WR | BAL | **Off report / plays** | Toe. Limited Thu/Fri, no tag | WR2 @ CLE / Huntley | Bateman if he were out | Hold **38** | **MUST ACT — start** |
-| Kyle Monangai | RB | CHI | **Official OUT** | Thumb/toe. Specialist | N/A | Swift is CHI | **26**. Still the ROS add | **MUST ACT — sit. Do not drop ROS** |
-| Ladd McConkey | WR | LAC | **No designation / plays** | Foot. Inactive W5 | WR3 @ KC, not a smash | N/A | Hold **14** | flex only if desperate. Do not drop |
-| Tyler Warren | TE | IND | **Official Q** | Groin. Friday pop-up Limited | TE1 vs TEN if active | Downs/Keenan crumbs; Higbee stream | Hold **34** | have a TE pivot. Sit-lean if you have Bowers/McBride/Kelce/Higbee |
-| DK Metcalf | WR | PIT | **Off report Saturday / plays** | Illness. Friday DNP. Removed Sat | WR1 @ TB. Wind trims deep | N/A — he plays | Hold **38** | **MUST ACT — start. Bernard is no longer the dart** |
-| Quinshon Judkins | RB | CLE | **Official Q** | Ankle/foot. Fri Limited after two DNPs | Estime crumbs if he sits | **10 GUESS**. Sit-lean | sit-lean. Do not FAAB Estime as a lead |
-| Deebo Samuel | WR | SF | **Official OUT W6** | Ham. Shanahan: possible IR, W8 bye is why they wait | N/A W6–W8 | Evans if he plays; Kirk IR dart | **16** | **MUST ACT — sit. Do not start Deebo** |
-| Mike Evans | WR | SF | **Official Q** | Ribs + Achilles. DNP Thu+Fri | MNF vs WAS only if active | Kirk Q / Cooks / Cowing | Hold **30**. Sit-lean | **MUST ACT — sit-lean. Do not lock as SF WR1** |
-| Christian McCaffrey | RB | SF | **No designation / Fri Full** | Rest on MNF week | vs WAS | Hold **74**. Do not sit on rest | **MUST ACT — do not sit CMC** |
-| Terry McLaurin | WR | WAS | **Sat Limited / no designation** | Hamstring. Fri DNP rest. Plays | MNF start-lean | Diggs also Q | **26**. Start-lean, not a smash | **MUST ACT — start-lean. Not a lock WR1** |
-| Jaxon Smith-Njigba | WR | SEA | **Played smash** | Ankle. **12–134 / 16 tgt** | Already scored. Hold **92** | N/A | scored. Do not re-set. Do not smash-sell |
-| Nico Collins | WR | HOU | **Not listed / plays** | NFL.com Limited is **LAG** | London **start** | MHJ is not Nico | Hold **56** | **MUST ACT — start Nico. MHJ is the dart** |
+| Christian McCaffrey | RB | SF | **No designation / Fri Full** | Rest on MNF week | vs WAS — **START** | N/A | Hold **74. Do not sit.** | **MUST ACT — start CMC** |
+| Jayden Daniels | QB | WAS | **Full week / no designation** | Elbow listed; Full all week | @ SF smash-lean | Mariota OUT | Hold **62.** Then **W7 bye** | **MUST ACT — start tonight, sit W7** |
+| Deebo Samuel | WR | SF | **Official OUT W6** | Ham. Shanahan possible IR; W8 bye is why they wait | N/A | Evans if active; Kirk dart | **16** | **MUST ACT — sit Deebo** |
+| Mike Evans | WR | SF | **Official Q** | Ribs + Achilles. DNP Thu+Fri | Only if 6:45 active | Kirk / Cooks / Cowing | Hold **30.** Sit-lean | **MUST ACT — sit-lean. Do not lock as SF WR1** |
+| Terry McLaurin | WR | WAS | **Sat Limited / no tag** | Hamstring. Plays | MNF start-lean | Diggs also Q | **26.** Then **W7 bye** | **MUST ACT — start-lean tonight, sit W7** |
+| Stefon Diggs | WR | WAS | **Official Q** | Hamstring. Limited Fri+Sat | Toss-up | McLaurin plays | **20.** Then **W7 bye** | have a pivot |
+| Christian Kirk | WR | SF | **Official Q / IR window** | Calf. Shanahan: possible Monday activate | Dart only if Evans sits | N/A | **8 GUESS.** Not a 10-team start | do not start |
+| Jacory Croskey-Merritt | RB | WAS | **Official OUT** | Groin. DNP all week | N/A | White / Ekeler committee | Not a 10-team lead. **W7 bye** | sit |
+| Jalen Hurts | QB | PHI | **Official IR** | Superficial calf clot. 4-game min (W6–W9). Eligible W11 | N/A | **McKee** multi-week | Hold **58.** Do not smash-sell to 40 | **MUST ACT — sit. W7 vs DAL is McKee** |
+| Tanner McKee | QB | PHI | **Named multi-week starter** | None. 215/1 vs CAR | W7 vs DAL −4.5 is the best remaining McKee spot | N/A | **20.** Not Hurts **58** | leftover SF2 / FAAB if QB-desperate |
+| Lamar Jackson | QB | BAL | **OUT W6; W7 MISSING** | Ankle. Zero practice since Oct 4 | Only if Wednesday+ practice and named | **Huntley** vs CIN | Hold **86.** Do not smash-sell | **MUST ACT — do not start until named. Pair Huntley** |
+| Tyler Huntley | QB | BAL | **Started W5–W6** | None. 165/1 W6 | Stream vs CIN **50.5** if Lamar sits | N/A | **28.** Not Lamar **86** | FAAB/hold if Lamar is yours |
+| Saquon Barkley | RB | PHI | **OUT W6; W7 MISSING** | Hamstring. Sirianni earlier: W7 realistic — **not a name** | vs DAL only if named | **Pierce** | Hold **30.** Do not smash-sell | **MUST ACT — sit until named** |
+| Dameon Pierce | RB | PHI | **W6 lead / W7 lead until Saquon named** | None. Ugly 12–35–1 | W7 vs DAL if Saquon sits | Steele / Blue **$0** | **24.** Not Saquon **30** | hold / start if Saquon sits |
+| Davante Adams | WR | LAR | **Non-contact left knee DNR** | Late vs ARI. 3–39. McVay Mon update **MISSING** | Only if named W7 @ LV | Nacua / Parkinson | **36 GUESS.** Was 48 | **MUST ACT — sit-lean W7. Have Nacua** |
+| Josh Jacobs | RB | GB | **Eligible today (off exempt list)** | Personal-conduct review **still open** | W7 @ DET **52.5** if named | Lloyd / Strong crumbs | **38 GUESS.** Not Walker **82** | **MUST ACT — FAAB if free. Do not start until named** |
+| Baker Mayfield | QB | TB | **OUT W6; W7 unnamed** | Dislocated thumb. Pelissero “optimism” | @ CAR only if named | Jalon | Hold **22.** Do not drop | sit until named |
+| Breece Hall | RB | NYJ | **OUT W6; week-to-week** | Quad | vs MIA only if named | **Allen** | Hold **28** | sit until named. Allen is NYJ |
+| Rashee Rice | WR | KC | **INACTIVE W6** | Ham / knee | @ SEA only if named | Worthy / Kelce | Hold **24.** Do not drop | sit until named |
+| DJ Moore | WR | BUF | **INACTIVE W6** | AC / shoulder | **W7 bye** anyway | Coleman | **24** | sit W7. Do not drop |
+| Tyler Warren | TE | IND | **INACTIVE W6** | Groin | @ MIN only if named | Keenan crumbs; Higbee | Hold **34** | have a TE pivot |
+| Kyle Monangai | RB | CHI | **OUT W6** | Thumb/toe | TNF vs NE if named | Swift / Roschon | **26.** Still the ROS CHI add | do not drop. Swift is CHI TNF until named |
+| David Montgomery | RB | HOU | **OUT W6** | Groin. Did not travel | vs NYG if named | **Marks** | **22.** Hold | Marks is HOU vs NYG |
+| TreVeyon Henderson | RB | NE | **Played limited** | High-ankle. Not the W6 lead | TNF @ CHI pitch-count | Stevenson / Kiner | **16** | sit as a lock RB2 |
+| Quinshon Judkins | RB | CLE | **INACTIVE W6** | Ankle | @ TEN if named | McLaughlin crumbs | **10 GUESS** | do not FAAB Estime as a lead |
 
 ### Other relevant names
 
 | Player | Pos | Team | Status | One-line | Role if play / sit | Replacement startable here? |
 |---|---|---|---|---|---|---|
-| Josh Allen | QB | BUF | **Played smash** | 12/19 210/1 INT + 10–121–1 | Already scored. @ LV smash | Hold **100** |
-| James Cook | RB | BUF | **Played smash / fumble** | 25–111–2 | Already scored. @ LV | **72** |
-| Drake Maye | QB | NE | **No designation / Full week** | Right shoulder listed earlier. vs NYJ smash | Do not sit | Hold **88** |
-| Patrick Mahomes | QB | KC | **No designation / Full week** | Knee listed earlier. vs LAC | Must-start | Hold **78** |
-| Matthew Stafford | QB | LAR | **Played smash** | 40/54 383/3 | Already scored. vs ARI −12.5 | **64** |
-| Puka Nacua | WR | LAR | **Played smash** | 17–138–1 / 24 tgt | Already scored. vs ARI | **64** |
-| CeeDee Lamb | WR | DAL | **Healthy / Friday Full / start SNF** | Quad bruise, no structural | SNF start | Hold **72** |
-| Derrick Henry | RB | BAL | **Healthy** | 24–102. Huntley game | Volume either QB — Huntley confirmed | Hold **62** |
-| Bijan Robinson | RB | ATL | **Healthy** | 17–86 | vs CHI 52.5 indoor | Hold **94** |
-| Drake London | WR | ATL | **Fri Limited hip / no tag** | 7–118. Start vs CHI | vs CHI — start | Hold **66** |
-| Marvin Harrison Jr. | WR | HOU | **Healthy / London debut** | Inactive W5 | Dart with Stroud, not Nico | **30**. Not Nico **56** |
-| Alvin Kamara | RB | NO | **Official Q** | Back. Limited all week. 3–12 last week | Dead volume if he plays | **22**. Sit as RB2 |
-| Jeremiyah Love | RB | ARI | **Official OUT** | Ankle. LaFleur: IR not discussed | **Allgeier** uptick @ LAR | Allgeier **26 GUESS** |
-| Tyjae Spears | RB | TEN | **Official Q** | Knee. Friday Full | If active, change-of-pace | Sit as a 10-team lead |
-| Tank Dell | WR | HOU | **Official OUT / IR lean** | Knee. Did not travel | N/A London | Parker Washington is the JAX dart, not Dell |
-| Stefon Diggs | WR | WAS | **Official Q** | Hamstring. Limited Fri+Sat | McLaurin plays | **20**. Toss-up |
-| Jayden Daniels | QB | WAS | **Full Thu–Sat / no designation** | Elbow listed; Full all week | @ SF smash-lean | Hold **62** |
-| Brock Bowers | TE | LV | **No designation / Full Thu+Fri** | Was Limited Wed | Start vs BUF | **58** |
-| Ashton Jeanty | RB | LV | **Healthy / Full week** | vs BUF indoor | Start, not a smash-sell | **62** |
-| Omarion Hampton | RB | LAC | **Healthy** | 14–33 + rec. Committee @ KC | Fade as locked RB2 | **38** |
-| Joe Mixon | RB | FA | **Unsigned** | SEA physical kill Oct 6 | N/A | **2**. **$0** |
-| Ja'Marr Chase | WR | CIN | **Played / cleared** | Concussion cleared. 6–77–1 | **W6 bye** | Hold **74** |
-| Jahmyr Gibbs | RB | DET | **Played smash** | 25–151–2 | **W6 bye** | Hold **95** |
-| Jameis Winston | QB | NYG | **Healthy / named ROS** | 326/3 | Stream vs NO | **32** |
-| Emanuel Wilson | RB | SEA | **Played / volume** | 14–52. Holani vulture | ROS lead while Charbonnet OUT | **30** |
-| Jalon Daniels | QB | TB | **Healthy / 3rd straight start** | Mayfield OUT | Stream vs PIT, wind trims deep | **20** |
-| Case Keenum | QB | CHI | **Healthy / pair if Caleb sits** | None | Only if Caleb is Sunday-inactive | **18**. Not a paid QB2 |
-| Christian Kirk | WR | SF | **IR window / official Q** | Calf. Shanahan: possible Monday activate | Dart only if Evans sits | **8 GUESS**. Not a 10-team start |
-| Dontayvion Wicks | WR | PHI | **Off report / Friday Full** | Ham. NBC: off the report | Depth behind DeVonta | **16 GUESS** |
-| Kenyon Sadiq | TE | NYJ | **Official Q (concussion)** | Friday Full | Not a TE1 | **12**. Sit as a lock |
-| Jacory Croskey-Merritt | RB | WAS | **Official OUT** | Groin. DNP all week | White / Ekeler committee | Not a 10-team lead |
-| Dylan Sampson | RB | CLE | **Official OUT (knee)** | Knee | N/A | **6 GUESS** |
-| Pat Freiermuth | TE | PIT | **Official Q (calf)** | Added Saturday | Sit-lean if you have a TE1 | Higbee / Kraft / Goedert |
-| Travis Etienne Jr. | RB | CAR | **Activated / official Q** | Ankle. IR window | Not a 10-team lead @ PHI | **16**. Sit |
-| Jaydon Blue | RB | PHI | **Signed to 53 Saturday** | None | Steele/Blue crumbs behind Pierce | **0**. Do not FAAB |
-| Roman Wilson | WR | PIT | **IR Saturday** | Finger | Bernard is the WR2 behind DK | do not roster |
+| Josh Allen | QB | BUF | **Played smash** | 23/33 255/2 | Already scored. **W7 bye** | Hold **100** |
+| James Cook | RB | BUF | **Played smash** | 22–95–1 | Already scored. **W7 bye** | **74** |
+| Drake Maye | QB | NE | **Played smash** | 18/32 235/3 | TNF @ CHI **49.5** — start | Hold **88** |
+| Caleb Williams | QB | CHI | **Started / healthy enough** | 30/36 305/1 after hamstring tear | TNF vs NE — start | Hold **56.** Do not smash-sell to 40 |
+| Patrick Mahomes | QB | KC | **Played** | 23/30 272/0 TD/1 INT | SNF @ SEA — start | Hold **76** |
+| Brock Purdy | QB | SF | **Healthy / MNF start** | vs WAS | Must-start tonight | Hold **76** |
+| Kenneth Walker III | RB | KC | **Played smash** | 19–128–2 | SNF @ SEA — start | Hold **82** |
+| CeeDee Lamb | WR | DAL | **Played inefficient** | 9–70 / 18 tgt. 2-pt fail | MNF @ PHI — still a WR1 | Hold **70.** Do not smash-sell |
+| Jaxon Smith-Njigba | WR | SEA | **Already scored TNF** | 12–134 / 16 tgt | SNF vs KC — start | Hold **92** |
+| Jahmyr Gibbs | RB | DET | **Off W6 bye** | 25–151–2 W5 | vs GB **52.5** smash | Hold **95** |
+| Ja'Marr Chase | WR | CIN | **Off W6 bye** | 6–77–1 W5 | @ BAL **50.5** | Hold **74** |
+| Ashton Jeanty | RB | LV | **Played inefficient** | 10–22–1 + 4–36 | vs LAR — start, not a smash-sell | Hold **58** |
+| Brock Bowers | TE | LV | **Played** | 4–70 / 9 tgt. Season lows, still TE1 | vs LAR — start | Hold **58** |
+| Omarion Hampton | RB | LAC | **Committee fade** | 7–18 + 4–21. **W7 bye** | Sit W7 | **32** |
+| Ladd McConkey | WR | LAC | **Quiet return** | 1–17 / 1 tgt. **W7 bye** | Sit W7. Do not drop | **12** |
+| Joe Mixon | RB | FA | **Unsigned** | SEA physical kill Oct 6 | N/A | **2.** **$0** |
+| Zach Charbonnet | RB | SEA | **PUP / activation talk** | PFN: last chance to add; official activation **MISSING** | Wilson is SEA until he is actually up | **16 GUESS.** Wilson **30** |
+| J.J. McCarthy | QB | NYG | **Relieved Winston** | 11/21 243/1/1 + 26 rush. W7 start **MISSING** | Stream @ HOU only if named | **24.** Winston **22** |
+| MarShawn Lloyd | RB | GB | **Buried** | 8–10. Strong 11–28 | Jacobs/committee | **12.** Not a 10-team lead |
 
 ---
 
@@ -191,29 +152,30 @@ Week 5 inactives **CLOSED.** TNF **CLOSED.** **Friday Sunday-game designations H
 
 **Facts (snaps / usage / status — not rumors)**
 
-- **Hurts IR Saturday** (calf clot). **McKee is the multi-week QB.** W7 lean is **STALE**. Eligible W11. Do not smash-sell Hurts **58**.
-- **AJ Brown activated 4:00 PM ET.** Still Q. Schefter expected. First high-ankle game — WR3 lean, not a smash.
-- **Caleb expected to start** (three national sources). Official Q. Johnson name **MISSING**. Start-lean @ ATL indoor.
-- **DK off the report Saturday.** Start. Bernard is no longer the WR1 dart.
-- **Deebo official OUT.** Evans official Q (sit-lean). CMC plays. Kirk possible Monday activate — not a 10-team start.
-- **McLaurin plays** (Sat Limited, no tag). Diggs official Q. Croskey-Merritt OUT.
-- **Lamar OUT W6.** **Huntley starts** @ CLE **39.5**. Do not smash-sell Lamar **86**.
-- **Saquon OUT W6.** **Shipley IR.** **Pierce is the PHI back.** DeVonta **plays**. Jaydon Blue signed — crumbs.
-- **Hall OUT.** **Allen is NYJ.**
-- **Montgomery OUT** London. **Marks is HOU.** MHJ London debut is a dart, not Nico. Start Nico.
-- **Rice OUT.** Worthy / Kelce eat. McConkey **plays**, not a smash @ KC.
-- **Mayfield OUT.** Jalon’s third start.
-- **Monangai OUT.** Swift is CHI.
-- **Love OUT** @ LAR. Allgeier committee bump. Not a 10-team smash.
-- **Warren Q groin.** Colts passing tree already thin (Dulin OUT).
-- **Flowers off report** — Huntley tax, still the BAL WR1.
-- **Olave Q** after Friday Limited. Illness, not a ham. Start-lean.
-- **Moore Q / sit** (W5 pattern). Coleman is a 2-tgt dart, not a WR2.
-- **Roman Wilson IR.** Freiermuth Q calf (Saturday add).
-- **Etienne activated / Q.** Sit in 10-team.
-- **Mixon still unsigned** after the SEA physical kill. **$0**.
-- **Darnold job not in jeopardy** (Macdonald Fri). Still a **28** after 278/0/2.
-- **London rain Friday 31–59% is STALE.** FootballDB Sat 5:20 PM **0%** vs NFLWeather **60% CONFLICT**. Not a sit.
+- **Adams non-contact left knee DNR** vs ARI. 3–39. McVay Monday update **MISSING.** Sit-lean W7. **48→36 GUESS.**
+- **Jacobs off exempt list today.** Eligible W7 @ DET. Investigation open. **NEW 38 GUESS.** Do not pay him as Walker.
+- **Walker 19–128–2** in a 22–6 win. **78→82.**
+- **Hampton 7–18 + 4–21** and McConkey **1–17** in a 6-point game. **LAC W7 bye.** Hampton **38→32.** McConkey **14→12.**
+- **Herbert 204/0/1, Chargers 0–6.** **54→48.** Bye this week — do not panic-drop a starting SF QB.
+- **CeeDee 9–70 / 18 tgt.** Volume holds; efficiency died. **72→70.** Do not smash-sell. MNF @ PHI is still a WR1.
+- **Dak 258/1/2, 17–0 at half.** **70→64.**
+- **Love 276/1/1 + rush TD. Golden 6–104–1.** Love **60→62.** **NEW Golden 24.**
+- **Jeanty 10–22–1 + 4 rec.** Inefficient, still the LV back. **62→58.** Do not smash-sell to 40.
+- **Stafford 222/2 in a home upset loss as −12.5.** **64→60.** Nacua **6–80** still the WR1. Kyren **10–50 → 50.**
+- **Knight 15–80** outplayed Allgeier **18–38** with Love OUT. **NEW Knight 22.** Allgeier **26→20.**
+- **Caleb started and smashed.** **52→56** (Sunday). TNF vs NE is a start.
+- **Winston benched.** McCarthy 4th-quarter rally. W7 starter **MISSING.** Winston **32→22.** McCarthy **16→24.**
+- **Hurts IR holds.** McKee 215/1 in a 14-point home loss. **22→20.** W7 vs DAL is the stream spot, not a 58.
+- **Lamar still unnamed for W7.** Huntley lost 10–13. **32→28.**
+- **Swift 16–44–2** while Monangai sat. Roschon **13–51–1.** Swift **28→34.** **NEW Roschon 18.**
+- **Miller 20–70.** Kamara is not a 10-team volume RB2. Miller **10→20.** Kamara **22→18.**
+- **Bernard 11–87–1** with DK **11–93.** Bernard is a WR2, not a one-week dart. **22→26.**
+- **Omar Cooper 6–103–1** off IR. **NEW 18.**
+- **Noel 4–107–1.** MHJ **3–34** is not Nico. Noel **NEW 20→22.**
+- **Tuten 2 rec TD** then **W7 bye.** Hold **36.**
+- **AJ Brown 3–27 / 10 tgt / 3 drops.** Activated, rust. **36→32.** TNF WR3 lean, not a smash.
+- **Mixon still unsigned.** **$0.**
+- **Charbonnet activation is PFN, not an official 53-man move.** Wilson is SEA until the transaction posts.
 
 **No rumor filler.** No Tyreek. No kicker. No DST.
 
@@ -221,39 +183,43 @@ Week 5 inactives **CLOSED.** TNF **CLOSED.** **Friday Sunday-game designations H
 
 ## 4. Waiver / FAAB board ($100 FAAB)
 
-Default Sleeper **Tuesday FAAB has processed.** This is **leftover FA** (first-come). Bids below are “if he somehow slipped” ranges, not a new Tuesday run.
+Default Sleeper **Week 7 FAAB processes Tuesday.** This is a real bid week (W7 byes punch holes at QB). Bids are % of $100 **and** dollars.
 
 ### Week-winning streamers (especially QB in Superflex)
 
 | Player | Pos | Team | Why this week / ROS | Bid | Priority |
 |---|---|---|---|---|---|
-| Woody Marks | RB | HOU | Monty OUT. Named load. London. 19 touches last week | 6–12% / **$6–$12** | **Must-add** |
-| Braelon Allen | RB | NYJ | Hall OUT. 24–116–1 already | 4–8% / **$4–$8** | **Must-add** |
-| Dameon Pierce | RB | PHI | Saquon OUT + Shipley IR + McKee. Ugly, but the touches | 4–8% / **$4–$8** | **Must-add** |
-| Jameis Winston | QB | NYG | Named ROS. vs NO. SF hole with Hurts-IR + Lamar + Mayfield + bye QBs out | 4–8% / **$4–$8** | **Strong** |
-| Tyler Huntley | QB | BAL | **Confirmed start** @ CLE **39.5**. Pair if you own Lamar | 3–6% / **$3–$6** | **Strong** (if Lamar is yours) |
-| Tanner McKee | QB | PHI | Now a **multi-week** start (Hurts IR). Dead 39.5. Desperation SF2 | 3–6% / **$3–$6** | **Strong** if QB-needy (was speculative) |
-| Bryce Young | QB | CAR | @ PHI vs McKee. Dead 39.5 but a startable SF2 | 2–4% / **$2–$4** | **Strong** if QB-needy |
-| Tyler Higbee | TE | LAR | 5–83. Ferguson IR. vs ARI. Warren Q + Freiermuth Q | 2–4% / **$2–$4** | **Strong** if TE-needy |
-| Case Keenum | QB | CHI | Only if Caleb is Sunday-inactive. Not a paid QB2 | 2–4% / **$2–$4** | **Speculative** |
-| Parker Washington | WR | JAX | 6–124–2. London dart with Hollywood out | 2–5% / **$2–$5** | **Speculative** |
-| Tyler Allgeier | RB | ARI | Love OUT. Committee @ LAR −12.5. Not a smash | 1–3% / **$1–$3** | **Speculative** |
-| Germie Bernard | WR | PIT | Pittman IR + Roman Wilson IR. DK **plays** — WR2 only | 1–3% / **$1–$3** | **Speculative** (was Strong) |
-| Keon Coleman | WR | BUF | Only if Moore sits again. 2-tgt ceiling | 1–3% / **$1–$3** | **Speculative** |
+| Germie Bernard | WR | PIT | 11–87–1. Pittman + Roman IR. DK plays — this is the WR2. Paris vs NO | 8–14% / **$8–$14** | **Must-add** |
+| Omar Cooper Jr. | WR | NYJ | Off IR. 6–103–1 / 7 tgt. WR2 even when Mitchell returns | 6–12% / **$6–$12** | **Must-add** |
+| Jaylin Noel | WR | HOU | 4–107–1. Third straight double-digit game. vs NYG | 5–10% / **$5–$10** | **Strong** |
+| Kendre Miller | RB | NO | 20–70. Kamara is done as a lead. Paris vs PIT | 6–10% / **$6–$10** | **Strong** |
+| Bam Knight | RB | ARI | 15–80 with Love OUT. Outplayed Allgeier. vs DEN if Love sits | 4–8% / **$4–$8** | **Strong** |
+| J.J. McCarthy | QB | NYG | 243/1/1 in the 4th. W7 start **MISSING.** If named, stream @ HOU | 4–8% / **$4–$8** | **Strong** if QB-needy |
+| Aaron Rodgers | QB | PIT | 253/2. Fourth straight multi-TD. Paris vs NO covers Allen/Lawrence byes | 4–8% / **$4–$8** | **Strong** if covering a W7 bye QB |
+| Josh Jacobs | RB | GB | Eligible today. @ DET **52.5.** Do not pay as a 78 | 5–10% / **$5–$10** if somehow free | **Strong** (likely rostered) |
+| Isaiah Likely | TE | NYG | 6–99–1. Stream @ HOU if TE-needy | 3–6% / **$3–$6** | **Strong** if TE-needy |
+| Tyler Huntley | QB | BAL | Pair if Lamar sits vs CIN **50.5** | 3–6% / **$3–$6** | **Strong** if Lamar is yours |
+| Tanner McKee | QB | PHI | Multi-week. Best remaining spot is MNF vs DAL | 3–6% / **$3–$6** | **Strong** if QB-desperate |
+| Matthew Golden | WR | GB | 6–104–1 / 13 tgt. @ DET. Watson/Kraft still there | 3–6% / **$3–$6** | **Speculative** |
+| Keenan Allen | WR | IND | 8–82 / 11 tgt. Warren INACTIVE bump. @ MIN | 3–6% / **$3–$6** | **Speculative** |
+| Jalen Coker | WR | CAR | 6–97. Tet is the WR1; Coker is WR2 vs TB | 2–5% / **$2–$5** | **Speculative** |
+| Xavier Worthy | WR | KC | 7–73 with Rice out. SNF @ SEA | 2–5% / **$2–$5** | **Speculative** |
+| Roschon Johnson | RB | CHI | 13–51–1 with Monangai out. TNF vs NE only if Monangai sits again | 2–4% / **$2–$4** | **Speculative** |
 
 ### Season-long stash / cheap handcuffs
 
-- **Monangai 26** — OUT W6, still the CHI ROS add. Do not drop if you have him.
-- **Emanuel Wilson 30** — already scored TNF. ROS while Charbonnet OUT + Mixon unsigned.
-- **Ollie Gordon II 32** — MIA lead, **W6 bye**. Hold.
-- **Huntley 32** — W6 start + Lamar pair. Drop after Lamar returns unless you need a QB3.
-- **McKee 22** — multi-week while Hurts is IR. Still not a 58.
+- **Zach Charbonnet 16 GUESS** — add only if the 53-man activation actually posts. Wilson **30** is SEA until then.
+- **Monangai 26** — OUT W6, still the CHI ROS add. Do not drop for Roschon.
+- **Ollie Gordon II 32** — MIA lead, off bye @ NYJ.
+- **Huntley 28** — drop after Lamar returns unless you need a QB3.
+- **McKee 20** — multi-week while Hurts is IR. Still not a 58.
+- **Marks 30** — vs NYG is a start, not a 50.
 
 ### Typical drops in this format
-Rush, Wentz, Haener, Coker, Steele, Blue, Holani-as-flex, Estime-as-a-lead, Mixon, Tua-as-paid-QB2, Bagent, Kaliakmanis as a paid QB2, Shipley-as-W6-lead, Bernard-if-you-only-stashed-him-for-DK, any K/DST.
+Rush, Wentz, Haener, Steele, Blue, Holani-as-flex, Estime-as-a-lead, Mixon, Tua-as-paid-QB2, Bagent, Kaliakmanis as a paid QB2, Shipley-as-lead, Jalon-if-Mayfield-is-back, Keenum, any K/DST, a 4th RB who just lost the job (Allgeier-as-lead, Lloyd-as-lead).
 
 ### Do not FAAB
-Mixon, Bigsby, Thornton, Henry Jr., Estime-as-a-lead, Dell, Coker, Bagent-as-new-paid-QB2, MHJ-as-paid-WR1, Steele, Blue, Lance, Huntley-as-Lamar, McKee-as-Hurts, Shipley-as-W6-lead, Tua-as-paid-QB2, Charbonnet-as-flex, Holani-as-flex, Evans-as-locked-WR1, Kirk-as-a-start, Etienne-as-a-lead, DST, K.
+Mixon, Bigsby, Thornton, Henry Jr., Estime-as-a-lead, Dell, Bagent-as-new-paid-QB2, MHJ-as-paid-WR1, Steele, Blue, Lance, Huntley-as-Lamar, McKee-as-Hurts, Tua-as-paid-QB2, Charbonnet-before-the-transaction, Holani-as-flex, Kirk-as-a-start, Etienne-as-a-lead, Jacobs-as-Walker, DST, K.
 
 ---
 
@@ -261,68 +227,71 @@ Mixon, Bigsby, Thornton, Henry Jr., Estime-as-a-lead, Dell, Coker, Bagent-as-new
 
 ### QB (Superflex — including startable QB2/QB3 streamers)
 
-**Already played:** Allen **100**. Huntley already scored W5; **starts again**. Darnold **28** already scored TNF. Jalon already scored; starts again.
+**Already played W6:** Allen **100** (then **W7 bye**). Maye **88.** Caleb **56.** Mahomes **76.** Love **62.** Stroud **42.** Young **42.** Dak **64.** Stafford **60.** Huntley **28.** McKee **20.** Winston **22.** Jalon **16.**
 
-**Must-start:** Maye vs NYJ. Mahomes vs LAC. Purdy vs WAS (MNF). Stafford vs ARI. Dak @ GB. Love vs DAL. Lawrence London. Daniels @ SF (MNF, Full week). **Penix vs CHI (cleared).**
+**Must-start tonight:** Purdy vs WAS. Daniels @ SF (then **W7 bye** — do not start him Thursday).
 
-**Strong start (SF2):** **Huntley @ CLE (Lamar OUT / 39.5).** **Caleb start-lean @ ATL 52.5** (sources; official name MISSING — have a pivot). Stroud London. Winston vs NO. **Young @ PHI (McKee).** Cousins vs BUF (tough, still a SF2 if you have no Huntley/Winston). Rodgers @ TB (wind trims deep).
+**W7 must-start:** Maye @ CHI. Caleb vs NE. Burrow @ BAL (off bye). Goff vs GB (off bye). Mahomes @ SEA. Love @ DET. Purdy @ ATL if healthy after MNF. Stafford @ LV.
 
-**Toss-up:** Herbert @ KC fade. Brissett @ LAR −12.5. **McKee vs CAR** — only if you are QB-desperate (39.5 dead), but he is now multi-week. Jones vs TEN (Taylor game). Keenum only if Caleb is inactive.
+**W7 strong SF2:** Kyler vs IND (off bye). Penix vs SF. Stroud vs NYG. Young vs TB. Rodgers in Paris. Shough in Paris. Huntley vs CIN **if Lamar sits.** McKee vs DAL **if you are QB-desperate.** McCarthy @ HOU **only if named.**
 
-**Sit / trap:** **Hurts (IR).** **Lamar (OUT).** **Mayfield (OUT).** Burrow / Goff / Kyler (**bye**). Bagent (benched). Tua (not named). McKee as a smash. Huntley as if he were Lamar.
+**Toss-up:** Herbert (**bye** — sit). Nix @ ARI. Jones @ MIN. Brissett vs DEN. Jalon @ CAR if Mayfield sits.
 
-**Weekly Superflex QB ranks (remaining W6, startable names only):** Maye, Mahomes, Purdy, Stafford, Dak, Love, Lawrence, Daniels, Penix, **Caleb-if-active**, **Huntley**, Stroud, Winston, Young, Cousins, Rodgers, Jalon, McKee-desperate, Keenum-if-Caleb-inactive. **Not** Hurts/Lamar/Mayfield/Bagent.
+**Sit / trap:** **Hurts (IR).** **Lamar until named.** **Mayfield until named.** **Daniels W7 (bye).** **Allen W7 (bye).** **Lawrence W7 (bye).** McCarthy-as-lock (starter MISSING). McKee-as-Hurts. Huntley-as-Lamar. Bagent. Tua.
+
+**Weekly Superflex QB ranks (W7, startable names only):** Maye, Caleb, Burrow, Goff, Mahomes, Love, Purdy, Stafford, Kyler, Penix, Stroud, Young, Rodgers, Shough, Huntley-if-Lamar-sits, McKee-desperate, McCarthy-if-named. **Not** Hurts / Allen-bye / Daniels-bye / Lawrence-bye / Herbert-bye / Lamar-until-named / Mayfield-until-named.
 
 ### RB
 
-**Must-start:** Bijan vs CHI. CMC vs WAS (**do not sit on rest**). Taylor vs TEN. Irving vs PIT. Walker-KC vs LAC. Cook @ LV. Kyren vs ARI. Jeanty vs BUF. Henry @ CLE. **Marks (Monty OUT).** **Allen (Hall OUT).** Hubbard @ PHI (McKee). Tuten London.
+**Must-start tonight:** **CMC vs WAS. Do not sit.**
 
-**Strong start:** Swift (Monangai OUT). **Pierce (Saquon OUT + Shipley IR).** Javonte already scored. Dobbins already scored. Hampton is a **fade as locked RB2** @ KC but playable if you are thin.
+**W7 must-start:** Gibbs vs GB. Bijan vs SF. Walker @ SEA. Taylor @ MIN. Swift vs NE (until Monangai is named). Hubbard vs TB. Henry vs CIN. Marks vs NYG. Cook is **bye.**
 
-**Toss-up:** Allgeier (Love OUT) @ LAR. Stevenson if Henderson sits.
+**W7 strong start:** Jeanty vs LAR (inefficient, still the back). Irving @ CAR. Kyren @ LV. Allen-NYJ vs MIA. Pierce vs DAL **if Saquon sits.** Miller in Paris. Gordon @ NYJ (off bye). Jones (off bye). Chase Brown @ BAL (off bye).
 
-**Sit / trap:** **Saquon (OUT).** **Hall (OUT).** **Montgomery (OUT).** **Monangai (OUT).** **Shipley (IR).** Gibbs / Gordon / Jones / Chase Brown (**bye**). **Henderson (high-ankle).** Judkins Q. Mixon. Bigsby. Achane. Price. Charbonnet. Holani-as-flex. Estime-as-lead. **Kamara as a volume RB2.** Hampton as a smash. Croskey-Merritt. Etienne. Blue.
+**Toss-up:** Knight vs DEN if Love sits. Jacobs @ DET **only if named.** Hampton **bye.** Tuten **bye.**
+
+**Sit / trap:** **Saquon until named.** **Hall until named.** **CMC rest sit (he plays tonight).** **Cook / Allen-BUF (bye).** **Hampton / any LAC (bye).** **WAS RBs after tonight (bye).** Kamara as a volume RB2. Lloyd as a lead. Allgeier as a smash. Mixon. Holani-as-flex. Estime-as-lead. Henderson as a lock RB2.
 
 ### WR
 
-**Must-start:** London. **Nico.** Nabers. **Tet @ PHI (McKee).** Nacua vs ARI. Adams vs ARI. **CeeDee SNF.** **DeVonta vs CAR (plays).** **Flowers @ CLE (off report).** **DK @ TB (off report).** JSN already scored.
+**Must-start tonight:** McLaurin **start-lean.** Not Evans-as-lock. Not Deebo.
 
-**Strong start:** Pickens (CeeDee plays, still WR2). G. Wilson. Watson SNF. **Olave start-lean (Q / illness).** **McLaurin MNF start-lean.** MHJ is a **dart, not Nico**.
+**W7 must-start:** Chase @ BAL (off bye). Amon-Ra vs GB (off bye). Jefferson vs IND (off bye). JSN vs KC. CeeDee @ PHI. Nico vs NYG. Nabers @ HOU. Tet vs TB. London vs SF. Nacua @ LV. DK in Paris. DeVonta vs DAL.
 
-**Toss-up:** **AJ Brown activated / expected — WR3 flex, not a smash.** **McConkey plays @ KC — flex only.** Parker Washington London. Coleman only if Moore sits. Evans MNF sit-lean. Diggs Q.
+**W7 strong start:** Flowers vs CIN. Bernard in Paris. Pickens @ PHI. G. Wilson vs MIA. Burden vs NE. Olave in Paris. Higgins @ BAL (off bye). Noel vs NYG. Omar Cooper vs MIA.
 
-**Sit / trap:** Chase / Higgins / Amon-Ra / Jefferson / Addison (**bye**). **Rice (OUT).** **Moore (Q / sit).** Coleman as a locked WR2. Diggs as a lock. **Deebo (OUT).** MHJ as a locked WR1. **Evans as a locked MNF WR1.** McConkey as a smash. Bernard as a locked WR1 (DK plays).
+**Toss-up:** **AJ Brown @ CHI — WR3 lean, not a smash.** Worthy @ SEA if Rice sits. Golden @ DET. Coker vs TB. Evans **only if he plays tonight and you already started him.** Adams **sit-lean.**
+
+**Sit / trap:** **Deebo (OUT tonight).** **Evans as a locked WR1.** **Rice until named.** **Moore / Coleman (W7 bye).** **McConkey (bye + 1-17).** Any WAS WR after tonight. MHJ as Nico. AJ Brown as a smash WR1. Adams as a lock after the knee.
 
 ### TE
 
-**Must-start:** Bowers vs BUF. McBride @ LAR. Kelce vs LAC. Kittle vs WAS.
+**Must-start tonight:** Kittle vs WAS.
 
-**Strong start:** Kraft SNF. **Higbee vs ARI** (especially if Warren sits). Goedert (McKee tax, still TE2).
+**W7 must-start:** Bowers vs LAR. McBride vs DEN. Kelce @ SEA. LaPorta vs GB (off bye). Kraft @ DET.
 
-**Toss-up:** **Warren Q groin — sit-lean if you have a pivot.** Loveland.
+**Strong start:** Hockenson vs IND (off bye). Higbee @ LV (especially if Adams sits). Goedert vs DAL (McKee tax, still TE2). Likely @ HOU if you streamed him.
 
-**Sit:** LaPorta / Hockenson (**bye**). Ferguson IR. Sadiq (Q concussion). Kincaid as a TE1. **Freiermuth Q calf.**
+**Toss-up:** Warren @ MIN — sit-lean until active.
 
-**Blind-start traps this week:** Hurts, Lamar, Saquon, Hall, Montgomery, Mayfield, Rice, Shipley, Moore, Deebo, Evans-as-lock, Caleb-if-inactive, Kamara-as-volume, McConkey-as-smash, Hampton-as-smash, Warren-as-lock, AJ Brown-as-smash, CIN/DET/MIA/MIN.
+**Sit:** **Freiermuth if you have a TE1.** Sadiq. Kincaid as a TE1. Ferguson IR.
+
+**Blind-start traps this week:** Hurts, Lamar-until-named, Saquon-until-named, Deebo, Evans-as-lock, Adams-as-lock, McCarthy-as-lock, Jacobs-as-lock, Allen/Cook/Daniels/Lawrence/Herbert W7 byes, Kamara-as-volume, McConkey-as-smash, Hampton-as-smash, McKee-as-Hurts, Huntley-as-Lamar, AJ Brown-as-smash.
 
 ---
 
 ## 6. Matchups that matter
 
-- **TNF SEA @ DEN CLOSED.** JSN smash. Nix fade confirmed. Wilson volume. Do not re-set.
-- **London HOU @ JAX. JAX −2.5 / 42.5. Rain CONFLICT (FootballDB 0% vs NFLWeather 60%).** Monty OUT → Marks lock. Nico start. MHJ dart. Dell OUT. Weaker/dry lean is **not** a Nico sit and **not** a reason to sit Marks.
-- **CHI @ ATL. 52.5 indoor.** Highest 1:00 total. **Penix plays. Caleb start-lean.** Bijan / London smash. Monangai OUT → Swift.
-- **NYJ @ NE. NE −7.5.** Maye smash. Hall OUT → Allen. AJ Brown activated / expected — WR3 lean. Henderson sit.
-- **TEN @ IND. IND −7 indoor.** Taylor start. **Warren Q — pivot to Higbee if you have him.**
-- **CAR @ PHI. 39.5 dead.** Hurts **IR** / McKee multi-week. Saquon OUT / Pierce. DeVonta plays. **Tet start.** Young is a startable SF2, not a smash.
-- **BAL @ CLE. 39.5 / BAL −3.** Lamar OUT / Huntley. Henry volume. Flowers start. Judkins sit-lean. Low total = Huntley is a pair, not Allen.
-- **LAC @ KC. KC −7.5.** Mahomes / Kelce / Walker-KC smash. Rice OUT. Herbert / Hampton fade. McConkey plays, not a smash.
-- **BUF @ LV. 53.5 indoor / BUF −4.5.** Allen / Cook. Jeanty start. Moore sit. Bowers start. Coleman only if Moore inactive.
-- **DAL @ GB SNF. 53.5 / dry.** CeeDee / Love / Pickens / Watson / Kraft. Start CeeDee.
-- **WAS @ SF MNF. SF −7.5.** Daniels plays. CMC plays — do not sit. Evans sit-lean. Deebo OUT. Diggs Q. McLaurin plays / start-lean. Kirk not a start.
-- **ARI @ LAR. LAR −12.5 / 51.5.** Stafford / Nacua / Kyren / Adams smash. Love OUT → Allgeier crumbs. Blowout can vulture Corum.
-- **PIT @ TB. 38.5 / wind 14–18.** Mayfield OUT / Jalon. **DK plays / start.** Wind trims deep, not a DK sit.
-- **W6 byes CIN / DET / MIA / MIN.** Do not start. Do not dump.
+- **MNF WAS @ SF. SF −7.5 / 52.5. Wind 12–21, dry.** CMC / Purdy / Daniels start. McLaurin start-lean. Deebo OUT. Evans sit-lean. Then WAS is on **W7 bye.**
+- **TNF NE @ CHI. 49.5.** Highest short-week total. Maye / Caleb start. Swift until Monangai is named. AJ Brown is rust, not a smash.
+- **GB @ DET. 52.5.** Gibbs / Amon-Ra / LaPorta smash. Love / Golden. Jacobs **until named.**
+- **CIN @ BAL. 50.5.** Chase / Burrow / Higgins **back.** Lamar **MISSING** — do not start him on a widget. Huntley is a pair vs a 50.5, not Allen.
+- **NYG @ HOU. HOU −9.5.** Marks / Nico / Stroud smash-lean. Nabers still a WR1. NYG QB **MISSING.**
+- **DAL @ PHI MNF. DAL −4.5 / 44.5.** CeeDee / Pickens vs McKee. Hurts IR. Saquon **until named.** DeVonta start.
+- **KC @ SEA SNF. SEA −2.5 / 42.5.** Walker / Mahomes / JSN. Rice until named. Wilson is SEA until Charbonnet is actually activated.
+- **LAR @ LV. LAR −5.5 / 47.5.** Nacua / Stafford. **Adams sit-lean.** Jeanty / Bowers. Kyren is a start, not a smash after 10–50.
+- **W7 byes BUF / JAX / LAC / WAS.** Do not start those names. Do not dump them.
 
 ---
 
@@ -330,7 +299,7 @@ Mixon, Bigsby, Thornton, Henry Jr., Estime-as-a-lead, Dell, Coker, Bagent-as-new
 
 **Scale (10-team Superflex Half-PPR):** 90–100 = 1.01–1.04. 75–89 = late 1st / early 2nd. 55–74 = 2nd. 40–54 = 3rd. 25–39 = 4th–6th starter. 12–24 = streamer / cuff. <12 = cuttable / IR.
 
-Trends vs the **Saturday 8:15 AM ET** published board: **Hurts 66→58. McKee 18→22. AJ Brown 32→36. McLaurin 24→26. DK 36→38.** Rest **FLAT**.
+Trends vs the **Sunday evening 6:15 ET** memory board (late window was FLAT; this packet closes it + SNF + Adams/Jacobs).
 
 ### A. Tier list by position
 
@@ -338,43 +307,39 @@ Trends vs the **Saturday 8:15 AM ET** published board: **Hurts 66→58. McKee 18
 
 | Player | Val | Trend | Why |
 |---|---|---|---|
-| Josh Allen | 100 | flat | 210/1 + 10–121–1. Still SF 1.01. @ LV |
-| Joe Burrow | 90 | flat | 190/4. **W6 bye**. Do not dump |
-| Drake Maye | 88 | flat | 374/4. vs NYJ smash |
-| Lamar Jackson | 86 | flat | **Official OUT W6.** Do not smash-sell |
-| Patrick Mahomes | 78 | flat | vs LAC. Must-start |
-| Brock Purdy | 76 | flat | vs WAS MNF |
-| Trevor Lawrence | 72 | flat | London vs HOU |
-| Dak Prescott | 70 | flat | SNF @ GB |
-| Matthew Stafford | 64 | flat | 383/3. vs ARI −12.5 |
-| Jayden Daniels | 62 | flat | @ SF MNF. Full week / plays |
-| Jared Goff | 62 | flat | **W6 bye** |
-| Jordan Love | 60 | flat | SNF vs DAL |
-| Jalen Hurts | 58 | **down** | **IR Saturday.** 4-game min. Eligible W11. Do not smash-sell to 40 |
-| Justin Herbert | 54 | flat | @ KC fade |
-| Caleb Williams | 52 | flat | **Expected start** (sources). Official Q. Start-lean |
-| Bo Nix | 46 | flat | 107 TNF. Fade confirmed |
-| Kirk Cousins | 44 | flat | Tough vs BUF |
-| Kyler Murray | 44 | flat | **W6 bye** |
-| Tyler Shough | 40 | flat | 96/2 INT |
-| C.J. Stroud | 38 | flat | MHJ + Marks London |
-| Bryce Young | 38 | flat | @ PHI vs McKee |
-| Jameis Winston | 32 | flat | 326/3. ROS hold. vs NO |
-| Tyler Huntley | 32 | flat | **Confirmed W6 start.** 201/2 + rush TD. Not Lamar. Total 39.5 |
-| Michael Penix Jr. | 30 | flat | **Cleared / plays.** Start vs CHI |
-| Sam Darnold | 28 | flat | 278/0/2 TNF. Macdonald: job safe. Still not a smash |
-| Jacoby Brissett | 28 | flat | Tough @ LAR −12.5 |
-| Daniel Jones | 26 | flat | Taylor game |
-| Aaron Rodgers | 24 | flat | Stream @ TB. Wind trims deep |
-| Baker Mayfield | 22 | flat | **Official OUT.** Expected W7 |
-| Tanner McKee | 22 | **up** | Multi-week now (Hurts IR). Dead 39.5. Not Hurts |
-| Jalon Daniels | 20 | flat | 3rd straight start vs PIT |
-| Case Keenum | 18 | flat | Pair if Caleb is inactive |
-| Tyson Bagent | 16 | flat | Started, **benched** |
-| Marcus Mariota | 16 | flat | OUT. MCL |
-| J.J. McCarthy | 16 | flat | Dressed. **GUESS** |
-| Athan Kaliakmanis | 12 | flat | Stash only. **GUESS** |
-| Jaxson Dart | 12 | flat | IR + surgery |
+| Josh Allen | 100 | flat | 255/2. Still SF 1.01. **W7 bye** — do not dump |
+| Joe Burrow | 90 | flat | Off W6 bye. @ BAL 50.5 |
+| Drake Maye | 88 | flat | 235/3. TNF @ CHI 49.5 |
+| Lamar Jackson | 86 | flat | W7 vs CIN **MISSING.** Do not smash-sell |
+| Patrick Mahomes | 76 | **down** | 272/0 TD. SNF @ SEA. Still a start |
+| Brock Purdy | 76 | flat | MNF vs WAS then @ ATL |
+| Trevor Lawrence | 72 | flat | 306/4. **W7 bye** |
+| Dak Prescott | 64 | **down** | 258/1/2. Ugly SNF. MNF @ PHI still a start |
+| Jordan Love | 62 | **up** | 276/1/1 + rush TD. @ DET 52.5 |
+| Jayden Daniels | 62 | flat | MNF @ SF then **W7 bye** |
+| Jared Goff | 62 | flat | Off bye vs GB 52.5 |
+| Matthew Stafford | 60 | **down** | 222/2, lost as −12.5. @ LV |
+| Jalen Hurts | 58 | flat | IR. Eligible W11. Do not smash-sell to 40 |
+| Caleb Williams | 56 | flat | 305/1. TNF vs NE. Do not smash-sell to 40 |
+| Justin Herbert | 48 | **down** | 204/0/1. 0–6. **W7 bye.** Do not drop |
+| Bo Nix | 46 | flat | 107 TNF. @ ARI fade-lean |
+| Kirk Cousins | 44 | flat | 313/2. vs LAR |
+| Kyler Murray | 44 | flat | Off bye vs IND |
+| Tyler Shough | 42 | **up** | 144/3. Paris vs PIT |
+| C.J. Stroud | 42 | flat | 312/3. vs NYG |
+| Bryce Young | 42 | flat | 281/2. vs TB |
+| Michael Penix Jr. | 32 | flat | 225/3. vs SF |
+| Jacoby Brissett | 30 | **up** | Won @ LAR. vs DEN |
+| Tyler Huntley | 28 | flat | 165/1. Pair if Lamar sits |
+| Sam Darnold | 28 | flat | 278/0/2 TNF. Job safe. vs KC |
+| Aaron Rodgers | 26 | **up** | 253/2. Paris stream |
+| Daniel Jones | 24 | **down** | Lost to TEN. @ MIN |
+| J.J. McCarthy | 24 | **up** | 243/1/1. W7 start **MISSING** |
+| Baker Mayfield | 22 | flat | Optimism is not a name |
+| Jameis Winston | 22 | **down** | Benched. Not a paid QB2 until named |
+| Tanner McKee | 20 | **down** | 215/1. Multi-week. Not Hurts |
+| Jalon Daniels | 16 | flat | Mayfield pair |
+| Geno Smith | 24 | **up** | 252/1/1. vs MIA stream. **GUESS** as roster-priority |
 | Tua Tagovailoa | 8 | flat | Not a paid smash |
 | Rush / Wentz / Haener | 6/12/2 | flat | Drops |
 
@@ -382,248 +347,200 @@ Trends vs the **Saturday 8:15 AM ET** published board: **Hurts 66→58. McKee 18
 
 | Player | Val | Trend | Why |
 |---|---|---|---|
-| Jahmyr Gibbs | 95 | flat | 25–151–2. **W6 bye**. Do not dump |
-| Bijan Robinson | 94 | flat | vs CHI lock |
-| Kenneth Walker III | 78 | flat | vs LAC |
-| Jonathan Taylor | 74 | flat | vs TEN |
-| Christian McCaffrey | 74 | flat | No designation / Fri Full. **Do not sit** |
-| James Cook | 72 | flat | 25–111–2. @ LV |
-| Ashton Jeanty | 62 | flat | vs BUF. Do not smash-sell |
-| Derrick Henry | 62 | flat | 24–102. Huntley confirmed |
-| Kyren Williams | 54 | flat | vs ARI |
-| Bucky Irving | 44 | flat | vs PIT |
-| Chase Brown | 44 | flat | **W6 bye** |
-| Javonte Williams | 42 | flat | Already scored TNF week |
-| Jaylen Warren | 42 | flat | 15–101–1 |
-| Aaron Jones | 40 | flat | **W6 bye** |
-| Chuba Hubbard | 40 | flat | @ PHI vs McKee |
-| Omarion Hampton | 38 | flat | Committee. @ KC fade |
-| Bhayshul Tuten | 36 | flat | London vs HOU |
-| Ollie Gordon II | 32 | flat | MIA lead. **W6 bye** |
-| Emanuel Wilson | 30 | flat | 14–52 TNF. ROS while Charbonnet OUT |
-| Saquon Barkley | 30 | flat | **Official OUT W6.** Hold, not a 20. W7 realistic |
-| Woody Marks | 30 | flat | Monty OUT. London lock. Not a 50 |
-| Breece Hall | 28 | flat | **Official OUT.** Week-to-week |
-| Braelon Allen | 28 | flat | Hall OUT. 24–116–1 |
-| D'Andre Swift | 28 | flat | CHI lead while Monangai OUT |
-| Kyle Monangai | 26 | flat | **Official OUT.** Still the ROS CHI add |
-| Dameon Pierce | 26 | flat | Confirmed PHI lead. Saquon OUT + Shipley IR |
-| Tyler Allgeier | 26 | flat | Love OUT. Committee @ LAR. **GUESS** |
-| J.K. Dobbins | 24 | flat | 17–41–1 TNF. Harvey committee |
-| Alvin Kamara | 22 | flat | Official Q (back). Dead volume |
-| David Montgomery | 22 | flat | Groin. **OUT London.** Hold, not a 40 |
-| Jadarian Price | 22 | flat | IR |
-| Brian Robinson Jr. | 20 | flat | Vulture / Bijan cuff |
-| Rhamondre Stevenson | 18 | flat | Henderson Q |
-| TreVeyon Henderson | 16 | flat | MRI high-ankle. Sit |
-| MarShawn Lloyd | 16 | flat | 10–31–2. Not a 40 |
-| Travis Etienne Jr. | 16 | flat | Activated / Q ankle. Sit |
-| Jaylen Wright | 16 | flat | **W6 bye** |
-| Zach Charbonnet | 12 | flat | OUT TNF. PUP. **GUESS** |
-| Kimani Vidal | 12 | flat | 8–57–1. **GUESS** |
-| Mike Washington Jr. | 10 | flat | Jeanty healthy. **GUESS** |
-| Kendre Miller | 10 | flat | **GUESS** |
-| Blake Corum | 10 | flat | Vulture. **GUESS** |
-| Quinshon Judkins | 10 | flat | Official Q. Sit-lean. **GUESS** |
-| Will Shipley | 8 | flat | **IR.** Plantar. 4+ weeks |
-| Tank Bigsby | 8 | flat | IR / surgery |
-| De'Von Achane | 6 | flat | IR / ACL / season |
-| George Holani | 6 | flat | TNF vulture. Wilson cuff. **GUESS** |
-| Dylan Sampson | 6 | flat | Official OUT (knee). **GUESS** |
-| Audric Estime | 4 | flat | Not a 10-team lead. **GUESS** |
+| Jahmyr Gibbs | 95 | flat | Off bye vs GB 52.5. Do not dump |
+| Bijan Robinson | 94 | flat | 9–61. vs SF. Do not smash-sell on volume dip |
+| Kenneth Walker III | 82 | **up** | 19–128–2. SNF @ SEA |
+| James Cook | 74 | **up** | 22–95–1. **W7 bye** |
+| Jonathan Taylor | 74 | flat | 21–94–1 in a loss. @ MIN |
+| Christian McCaffrey | 74 | flat | MNF start. **Do not sit** |
+| Ashton Jeanty | 58 | **down** | 10–22–1 + rec. vs LAR. Do not smash-sell to 40 |
+| Derrick Henry | 58 | flat | 17–58 Huntley game. vs CIN |
+| Kyren Williams | 50 | **down** | 10–50. @ LV |
+| Chuba Hubbard | 46 | flat | 28–120–1. vs TB |
+| Chase Brown | 44 | flat | Off bye @ BAL |
+| Bucky Irving | 40 | flat | 19–46. @ CAR |
+| Javonte Williams | 42 | flat | 11–41–1. @ PHI |
+| Jaylen Warren | 42 | flat | 14–50. Paris |
+| Aaron Jones | 40 | flat | Off bye vs GB |
+| Josh Jacobs | 38 | **up** | Eligible today. @ DET. **GUESS** until named |
+| Omarion Hampton | 32 | **down** | 7–18. **W7 bye** |
+| Ollie Gordon II | 32 | flat | Off bye @ NYJ |
+| D'Andre Swift | 34 | **up** | 16–44–2. TNF vs NE |
+| Emanuel Wilson | 30 | flat | SEA until Charbonnet is actually activated |
+| Saquon Barkley | 30 | flat | W7 vs DAL **MISSING.** Hold, not a 20 |
+| Woody Marks | 30 | flat | 17 touches. vs NYG. Not a 50 |
+| Breece Hall | 28 | flat | Week-to-week. Allen is NYJ |
+| Braelon Allen | 28 | flat | 17–78. vs MIA |
+| Kyle Monangai | 26 | flat | OUT W6. Still the ROS CHI add |
+| Dameon Pierce | 24 | **down** | 12–35–1. Lead until Saquon is named |
+| J.K. Dobbins | 24 | flat | 17–41–1 TNF |
+| Bam Knight | 22 | **up** | 15–80. Love OUT. **GUESS** |
+| David Montgomery | 22 | flat | Groin. Hold, not a 40 |
+| Tyler Allgeier | 20 | **down** | 18–38. Lost the better-back argument |
+| Kendre Miller | 20 | **up** | 20–70. Kamara is not the lead |
+| Alvin Kamara | 18 | **down** | 3rd-snap back. Sit as volume RB2 |
+| TreVeyon Henderson | 16 | flat | High-ankle. Sit as a lock |
+| Zach Charbonnet | 16 | flat | Activation talk. Official move **MISSING.** **GUESS** |
+| Roschon Johnson | 18 | **up** | 13–51–1. Only if Monangai sits TNF |
+| Will Shipley | 8 | flat | IR. Plantar |
 | Joe Mixon | 2 | flat | Unsigned. **$0** |
 
 **WR**
 
 | Player | Val | Trend | Why |
 |---|---|---|---|
-| Jaxon Smith-Njigba | 92 | flat | 12–134 / 16 tgt TNF. Hold |
-| Amon-Ra St. Brown | 80 | flat | **W6 bye** |
-| Ja'Marr Chase | 74 | flat | **W6 bye** |
-| CeeDee Lamb | 72 | flat | SNF start. Do not smash-sell |
-| Justin Jefferson | 66 | flat | **W6 bye** |
-| Drake London | 66 | flat | vs CHI |
-| Puka Nacua | 64 | flat | 17–138–1. vs ARI |
-| Chris Olave | 56 | flat | Official Q (illness). Start-lean, not a lock |
-| Nico Collins | 56 | flat | London start. NFL.com Limited LAG. MHJ is not a sit |
-| Malik Nabers | 56 | flat | 11–121–1 |
-| Tetairoa McMillan | 54 | flat | @ PHI vs McKee. Do not drop |
-| Davante Adams | 48 | flat | 5–51–2. vs ARI |
-| Garrett Wilson | 44 | flat | 7–104–1 |
-| George Pickens | 42 | flat | WR2 with CeeDee active |
-| DeVonta Smith | 42 | flat | Off report / Friday Full. Will play vs CAR |
-| Zay Flowers | 38 | flat | Off report. Plays @ CLE. Huntley tax |
-| DK Metcalf | 38 | **up** | Off report Saturday. Start @ TB. Wind trims deep |
-| Tee Higgins | 36 | flat | **W6 bye** |
-| A.J. Brown | 36 | **up** | **Activated 4 PM ET.** Still Q. Expected. WR3 lean, not a smash |
-| Mike Evans | 30 | flat | Official Q. DNP ×2 ribs+Achilles. Sit-lean. Not a locked SF WR1 |
-| Emeka Egbuka | 30 | flat | Thursday jet TD |
-| Marvin Harrison Jr. | 30 | flat | HOU London debut. Not Nico |
-| Jordan Addison | 26 | flat | **W6 bye** |
-| Terry McLaurin | 26 | **up** | Sat Limited / no designation. Plays. Start-lean, not a smash |
-| Rashee Rice | 24 | flat | **Official OUT.** Do not drop |
-| DJ Moore | 24 | flat | Official Q. Sit (W5 pattern) |
-| Christian Watson | 22 | flat | SNF vs DAL |
-| Keon Coleman | 22 | flat | Dart if Moore sits. 2-tgt ceiling |
-| Germie Bernard | 22 | flat | Pittman IR + Roman IR. DK plays — WR2 only |
-| Stefon Diggs | 20 | flat | Official Q. Toss-up MNF |
-| Michael Wilson | 20 | flat | ARI WR1 ROS |
-| Parker Washington | 18 | flat | 6–124–2. London dart |
-| Dontayvion Wicks | 16 | flat | Off report. Depth. **GUESS** |
-| Deebo Samuel | 16 | flat | **Official OUT W6.** W9 expected |
-| Romeo Doubs | 16 | flat | 1–16 |
-| Ladd McConkey | 14 | flat | No designation / plays @ KC. Not a smash |
-| Dohnte Meyers | 12 | flat | Chase + Higgins bye |
-| Ryan Flournoy | 12 | flat | CeeDee plays. **GUESS** |
-| Josh Downs | 12 | flat | Warren Q is a crumb, not a WR2 |
-| Kyle Williams | 12 | flat | One-game. **GUESS** |
-| Kendrick Bourne | 12 | flat | **GUESS** |
-| Darius Cooper | 12 | flat | DeVonta plays. **GUESS** |
-| Rashid Shaheed | 12 | flat | 5–66 TNF + 2 FUM. **GUESS** |
-| Christian Kirk | 8 | flat | Q / possible Monday activate. Not a 10-team start. **GUESS** |
-| Jalen Coker | 8 | flat | Do not FAAB |
-| Tyquan Thornton | 6 | flat | IR |
-| Xavier Legette | 6 | flat | IR |
-| Jayden Reed | 6 | flat | IR / season |
+| Jaxon Smith-Njigba | 92 | flat | 12–134 TNF. vs KC |
+| Amon-Ra St. Brown | 80 | flat | Off bye vs GB |
+| Ja'Marr Chase | 74 | flat | Off bye @ BAL |
+| CeeDee Lamb | 70 | **down** | 9–70 / 18 tgt. Still a WR1 @ PHI. Do not smash-sell |
+| Justin Jefferson | 66 | flat | Off bye vs IND |
+| Drake London | 62 | **down** | 4–62 / 10 tgt. vs SF |
+| Puka Nacua | 62 | **down** | 6–80. Adams hurt — Nacua is the lock |
+| Malik Nabers | 62 | flat | 12–165. @ HOU |
+| Nico Collins | 56 | flat | 3–74. vs NYG. MHJ is not a sit |
+| Tetairoa McMillan | 56 | **up** | 6–86. vs TB. Do not drop |
+| Chris Olave | 54 | flat | 4–43–1. Paris |
+| Davante Adams | 36 | **down** | Non-contact left knee DNR. McVay **MISSING.** **GUESS** |
+| George Pickens | 42 | flat | 6–73 / 11. @ PHI |
+| DeVonta Smith | 42 | flat | 7–75–1. vs DAL / McKee |
+| Zay Flowers | 38 | flat | 6–66 Huntley tax. vs CIN |
+| DK Metcalf | 40 | **up** | 11–93. Paris vs NO |
+| Tee Higgins | 36 | flat | Off bye @ BAL |
+| A.J. Brown | 32 | flat | 3–27 / 10 tgt rust. WR3 lean @ CHI |
+| Mike Evans | 30 | flat | Q sit-lean MNF |
+| Emeka Egbuka | 30 | flat | 7–48–1 |
+| Marvin Harrison Jr. | 26 | flat | 3–34. Not Nico |
+| Germie Bernard | 26 | flat | 11–87–1. Pittman/Roman IR. Paris |
+| Terry McLaurin | 26 | flat | MNF start-lean then **W7 bye** |
+| Rashee Rice | 24 | flat | INACTIVE W6. Do not drop |
+| DJ Moore | 24 | flat | INACTIVE. **W7 bye** |
+| Keon Coleman | 24 | **up** | 4–59–1. **W7 bye** |
+| Matthew Golden | 24 | **up** | 6–104–1. @ DET |
+| Jaylin Noel | 22 | **up** | 4–107–1. vs NYG |
+| Luther Burden | 22 | flat | 8–95. TNF vs NE |
+| Stefon Diggs | 20 | flat | Q MNF then **W7 bye** |
+| Xavier Worthy | 20 | **up** | 7–73. Rice out. @ SEA |
+| Omar Cooper Jr. | 18 | **up** | 6–103–1 off IR |
+| Jalen Coker | 18 | **up** | 6–97 |
+| Keenan Allen | 18 | **up** | 8–82 / 11 tgt |
+| Isaiah Likely | 24 | **up** | 6–99–1 (TE listed in TE table too; WR-eligible dart) |
+| Deebo Samuel | 16 | flat | OUT W6 |
+| Ryan Flournoy | 16 | **up** | 7–40–1 |
+| Ladd McConkey | 12 | **down** | 1–17. **W7 bye** |
+| Christian Kirk | 8 | flat | Q / possible activate. Not a start. **GUESS** |
 
 **TE**
 
 | Player | Val | Trend | Why |
 |---|---|---|---|
-| Brock Bowers | 58 | flat | Off report after Fulls. Start vs BUF |
-| Trey McBride | 56 | flat | Keep TE1 |
-| George Kittle | 42 | flat | vs WAS |
-| Tucker Kraft | 36 | flat | SNF vs DAL |
-| Colston Loveland | 34 | flat | Not a locked TE1 |
-| Tyler Warren | 34 | flat | Official Q groin Friday pop-up |
-| Travis Kelce | 32 | flat | vs LAC |
-| Sam LaPorta | 32 | flat | **W6 bye** |
-| T.J. Hockenson | 30 | flat | **W6 bye** |
-| Tyler Higbee | 22 | flat | 5–83. Ferguson IR. vs ARI. Warren + Freiermuth Q bump |
-| Dallas Goedert | 18 | flat | McKee tax. Fine TE2 |
-| Pat Freiermuth | 16 | flat | Q calf Saturday. Sit-lean |
-| Kyle Pitts Sr. | 16 | flat | Not a locked TE1 |
-| Brenton Strange | 14 | flat | Stream only. **GUESS** |
-| Juwan Johnson | 12 | flat | Stream only. **GUESS** |
-| Kenyon Sadiq | 12 | flat | Q concussion. Not a TE1 |
-| Terrance Ferguson | 6 | flat | IR |
+| Brock Bowers | 58 | flat | 4–70 / 9 tgt. vs LAR. Keep TE1 |
+| Trey McBride | 56 | flat | 7–53. vs DEN |
+| George Kittle | 42 | flat | MNF vs WAS then @ ATL |
+| Tucker Kraft | 36 | flat | 5–37 / 8 tgt. @ DET |
+| Colston Loveland | 36 | flat | Not a locked TE1 |
+| Tyler Warren | 34 | flat | INACTIVE W6. Have a pivot |
+| Travis Kelce | 34 | **up** | 4–53. Rice out. @ SEA |
+| Sam LaPorta | 32 | flat | Off bye vs GB |
+| T.J. Hockenson | 30 | flat | Off bye vs IND |
+| Isaiah Likely | 24 | **up** | 6–99–1. Stream @ HOU |
+| Tyler Higbee | 22 | flat | Ferguson IR. Adams-knee bump @ LV |
+| Dallas Goedert | 20 | flat | McKee tax. vs DAL |
+| Kyle Pitts Sr. | 22 | flat | vs SF |
+| Pat Freiermuth | 16 | flat | Q calf W6. Paris only if desperate |
 
-### B. Biggest risers / fallers since Saturday 8:15 AM ET
+### B. Biggest risers / fallers since Sunday evening 6:15 ET
 
-**Up:** McKee **18→22** (Hurts IR makes him multi-week). AJ Brown **32→36** (activated / expected). McLaurin **24→26** (Sat Limited, no tag — plays). DK **36→38** (off report).
+**Up:** Walker **78→82** (19–128–2). Cook **72→74.** Love **60→62.** Swift **30→34.** Tet **54→56.** DK **38→40.** Kelce **32→34.** **NEW Golden 24. NEW Knight 22. NEW Worthy 20. NEW Jacobs 38 GUESS. NEW Roschon 18. NEW Likely 24.**
 
-**Down:** Hurts **66→58** (official IR; W7 lean STALE; 4-game min).
+**Down:** Adams **48→36 GUESS** (non-contact knee). Herbert **54→48.** Hampton **38→32.** Stafford **64→60.** Nacua **64→62.** Kyren **54→50.** CeeDee **72→70** (do not smash-sell). Dak **70→64.** Jeanty **62→58** (do not smash-sell). Mahomes **78→76.** McConkey **14→12.** Allgeier **26→20.** McKee **22→20.** Pierce **26→24.** Kamara **20→18.**
 
-**Facts (not values):** Caleb **expected to start** (sources; official name MISSING). Deebo **official OUT**. Evans **official Q**. CMC **plays**. Diggs **official Q**. London FootballDB **0%** vs NFLWeather **60%**. CHI total **52.0→52.5**. Mixon unsigned. FAAB **processed**.
+**Facts (not values):** SNF + late window now **CLOSED.** Adams knee grade **MISSING.** Jacobs eligible today. Mixon unsigned. MNF inactives **MISSING** ~6:45. FAAB = Week 7 Tuesday.
 
 ### C. Fair 1-for-1 examples
 
-- Maye (88) ≈ Lamar (86) — **do not smash-sell Lamar because he is OUT W6**
-- Chase (74) ≈ CeeDee (72) — do not smash-sell either
-- Gibbs (95) ≈ Bijan (94) — Gibbs **W6 bye** is not a smash-sell
-- Hurts (58) ≈ Love (60) — **do not smash-sell Hurts to McKee (22)**
-- Nabers (56) ≈ Nico (56) ≈ Olave (56) — not MHJ (30)
-- DeVonta (42) ≈ Pickens (42) — not Nacua (64)
-- Stafford (64) ≈ Daniels (62) — not Allen (100)
-- Huntley (32) ≈ Marks (30) ≈ Hall (28) — stream / temporary / injured RB3, **not** Lamar (86) / Bijan (94)
-- Penix (30) ≈ MHJ (30) — startable QB2 vs a debut dart
-- Tet (54) ≈ Caleb (52) — do not drop Tet for a 4th RB
-- Cook (72) ≈ Taylor (74) — not Gibbs (95)
-- Pierce (26) is **not** Saquon (30) ROS
-- McKee (22) is **not** Hurts (58)
-- Hampton (38) is **not** CMC (74)
-- MHJ (30) ≈ Egbuka (30) — **not** Nico (56)
+- Maye (88) ≈ Lamar (86) — **do not smash-sell Lamar because W7 is unnamed**
+- Chase (74) ≈ CeeDee (70) — do not smash-sell CeeDee after 9–70 / 18 tgt
+- Gibbs (95) ≈ Bijan (94)
+- Hurts (58) ≈ Love (62) — **do not smash-sell Hurts to McKee (20)**
+- Nabers (62) ≈ Nico (56) ≈ London (62) — not MHJ (26)
+- Walker (82) is **not** Jacobs (38 GUESS)
+- Huntley (28) is **not** Lamar (86)
+- McKee (20) is **not** Hurts (58)
+- Pierce (24) is **not** Saquon (30)
 - Marks (30) is **not** CMC (74)
-- Higbee (22) is **not** Bowers (58)
-- Evans (30) is **not** a locked SF WR1
-- AJ Brown (36) is **not** Nico (56) or a smash WR1 this week
-- Mixon (2) / Bigsby (8) / Deebo-as-a-W6-start (16) are not 40s
+- Hampton (32) is **not** Walker (82)
+- Adams (36 GUESS) is **not** Nacua (62)
+- Golden (24) is **not** JSN (92)
+- Mixon (2) is not a 40
 
 ### D. Fair 2-for-1 / 3-for-1 shape
 
 - Side getting the **best player** sends extra.
-- Lamar (86) for Winston (32) + Huntley (32) is a panic hedge — **do not do this**.
-- Hurts (58) for McKee (22) + Young (38) is the IR hedge only if you need a start — **do not smash-sell Hurts ROS**.
-- Saquon (30) for Pierce (26) + Shipley (8) is **not** fair anymore (Shipley IR). Do not smash-sell Saquon for Pierce alone.
-- CeeDee (72) for Pickens (42) + Flournoy (12) is a panic hedge — **he is a start. Do not smash-sell**.
-- Chase (74) for Higgins (36) + Coleman (22) is **not** fair.
-- Nacua (64) for Adams (48) + Higbee (22) is **not** fair.
-- MHJ (30) + Wilson (20) is **not** a Nico (56) package.
-- Marks (30) + Pierce (26) is **not** a Taylor (74) package.
-- Gibbs (95) for Bijan (94) is the only clean RB 1-for-1. The bye is not a discount to 70.
+- Lamar (86) for Huntley (28) + Winston (22) is a panic hedge — **do not do this**.
+- Hurts (58) for McKee (20) + Young (42) is the IR hedge only if you need a start — **do not smash-sell Hurts ROS**.
+- CeeDee (70) for Pickens (42) + Flournoy (16) is a panic hedge — **do not smash-sell**.
+- Adams (36 GUESS) for Higbee (22) + Golden (24) is guessing on a knee — wait for McVay.
+- Walker (82) for Jacobs (38) + Lloyd (12) is a ripoff.
 - **3-for-1s usually lose in 10-team.**
 
 ### E. Ripoff flags
 
-- Starting Hurts / Lamar / Saquon / Hall / Montgomery / Mayfield / Rice / Shipley / Monangai / Deebo Sunday
-- Paying McKee as Hurts — 22 vs 58
-- Paying Huntley as Lamar — 32 vs 86
-- Smash-selling Hurts to 40 or Lamar to 50
-- Starting any CIN / DET / MIA / MIN in Week 6
+- Starting Hurts / Lamar-until-named / Saquon-until-named / Deebo / Evans-as-lock / Adams-as-lock tonight or W7
+- Starting Allen / Cook / Daniels / Lawrence / Herbert / Hampton / McConkey in **Week 7** (bye)
+- Paying McKee as Hurts — 20 vs 58
+- Paying Huntley as Lamar — 28 vs 86
+- Paying Jacobs as Walker — 38 GUESS vs 82
+- Smash-selling CeeDee to 50 after 18 targets
+- Smash-selling Lamar / Hurts / Gibbs / Chase / JSN / Jeanty / Saquon
 - Starting Kamara as a volume RB2
-- Starting Bagent as a paid W6 QB2
-- Starting McConkey as a smash
-- Starting Hampton as a locked RB2 @ KC
-- Starting Coleman as a locked WR2 after 2 targets
-- Starting Moore as a W6 lock after official Q (W5 Q→inactive)
-- Starting Mixon / Bigsby / Charbonnet / Steele / Deebo / Judkins / Holani-as-flex
-- Starting Evans as a locked MNF WR1
-- Sitting CMC on Thursday MNF rest — he has no designation after Friday Full
+- Starting McCarthy before Harbaugh names him
+- Starting Mixon / Bigsby / Holani-as-flex / Estime-as-lead
 - Starting MHJ as Nico
-- Starting AJ Brown as a smash WR1 — activated, still Q, high-ankle return
-- Smash-selling CeeDee / Chase / Gibbs / Burrow / Jefferson / Amon-Ra / JSN / Saquon / Jeanty / Hurts-to-40
-- Paying Pierce as Saquon ROS — 26 vs 30, and Saquon is still the back
-- Paying Marks as a 50 / Bijan
-- Paying Warren as a locked TE1 this week — 34 Q
-- FAABing Mixon / Bigsby / Thornton / Henry Jr. / Estime-as-a-lead / Dell / Bagent / MHJ-as-paid-WR1 / Shipley / Tua / McKee-as-Hurts / Charbonnet / Holani / DST / K
+- Starting AJ Brown as a smash WR1 after 3 drops
+- Sitting CMC on MNF rest
+- FAABing Mixon / Jacobs-as-Walker / Huntley-as-Lamar / McKee-as-Hurts / DST / K
 - Any kicker or DST package
 
 ### F. Position scarcity this week
 
-- **QB is scarce.** W6 loses **Burrow + Goff + Kyler + Hurts-IR + Lamar + Mayfield**. Caleb is a start-lean, not a lock. Stash Winston / Huntley / Stroud / Penix / Young / McKee-if-desperate / Keenum-if-Caleb-inactive. Do not pay Huntley as Lamar. Do not pay McKee as Hurts.
-- **RB is secondary-scarce.** Saquon OUT + Shipley IR + Hall OUT + Monty OUT + Monangai OUT + Love OUT + Bigsby IR + Price IR + Achane IR + Mixon unsigned + Charbonnet OUT + **W6 loses Gibbs / Gordon / Jones / Chase Brown**. **Marks / Allen / Pierce are the leftover must-adds.** Do not overpay a 4th RB.
-- **WR:** Chase / Jefferson / Amon-Ra **bye**. JSN already scored. CeeDee start. Rice OUT. DeVonta **plays**. Flowers **plays**. Nico **plays**. DK **plays**. Olave Q start-lean. Moore sit. McConkey plays, not a smash. Tet is a start vs McKee. MHJ is a 30 debut, not a 56. AJ Brown activated / WR3 lean. Evans sit-lean MNF. McLaurin start-lean MNF.
-- **TE:** Bowers **58**. McBride **56**. Kelce back. LaPorta / Hockenson **bye**. **Warren 34 Q — have Higbee 22 as the stream.** Freiermuth Q. Kittle 42 still a start.
+- **QB is scarce.** W7 loses **Allen + Lawrence + Daniels + Herbert** on bye, plus **Hurts IR + Lamar unnamed + Mayfield unnamed.** Stash Rodgers / Huntley / McKee / McCarthy-if-named / Shough / Penix. Do not pay Huntley as Lamar. Do not pay McKee as Hurts.
+- **RB is secondary-scarce.** Saquon unnamed + Hall unnamed + Cook bye + Hampton bye + WAS bye + Mixon unsigned + Charbonnet not officially up. **Miller / Knight / Allen-NYJ / Marks are the useful adds.** Do not overpay a 4th RB. Jacobs is a **38 GUESS**, not an 82.
+- **WR:** Chase / Jefferson / Amon-Ra **back.** CeeDee start. Adams **sit-lean.** Rice unnamed. Deebo OUT. Evans sit-lean. McConkey bye. Tet is a start. Bernard is a WR2. AJ Brown is rust.
+- **TE:** Bowers **58.** McBride **56.** Kelce **34.** LaPorta **back.** Warren **INACTIVE last week** — have Higbee / Likely.
 
 ---
 
 ## 8. Rookies and sleepers (snap path in the next 1–3 weeks)
 
-- **Woody Marks** — path is now (Monty OUT, Ryans load). **30**.
-- **Braelon Allen** — path is now (Hall OUT, 24–116–1). **28**.
-- **Dameon Pierce** — path is W6 (Saquon OUT + Shipley IR + McKee). **26**.
-- **Tyler Huntley** — path is now (Lamar OUT). **32**.
-- **Tanner McKee** — path is **multi-week** (Hurts IR through W9 min). **22**.
-- **Parker Washington** — London with Hollywood out. **18**.
-- **Emanuel Wilson** — ROS while Charbonnet OUT. Already scored. **30**.
-- **Ollie Gordon II** — MIA lead. **W6 bye**. **32**.
-- **Kyle Monangai** — OUT W6; path Week 7. **26**.
-- **Tyler Allgeier** — Love OUT this week. Committee. **26 GUESS**.
-- **Marvin Harrison Jr.** — HOU London debut. Not a WR1. **30**.
-- **Jalon Daniels** — Mayfield OUT. **20**.
-- **Caleb Williams** — path is W6 @ ATL **expected**. **52**.
-- **Michael Penix Jr.** — path is now (cleared). **30**.
-- **A.J. Brown** — activated / expected. WR3 lean. **36**.
-- **Mike Evans** — SF WR1 **if** active. Sit-lean. **30**.
-- **Tyler Higbee** — Ferguson IR + Warren Q + Freiermuth Q. Stream vs ARI. **22**.
-- **Ladd McConkey** — plays @ KC, not a smash. **14**.
-- **Germie Bernard** — Pittman + Roman IR; DK plays. WR2 only. **22**.
-- **Keon Coleman** — only if Moore sits. **22**.
-- **Do not roster as a 10-team dart:** Mixon, Bigsby, Thornton, Henry Jr., Estime-as-a-lead, Dell, Kaliakmanis as a paid QB2, Tyreek (rumor), Coker, Sadiq as a TE1, Charbonnet-as-flex, Holani-as-flex, Steele, Blue, Pittman, MHJ as a paid WR1, Lance, Bagent as a paid QB2, Shipley-as-W6-lead, Tua-as-paid-QB2, Deebo-as-a-W6-start, Coleman-as-a-locked-WR2, McKee-as-Hurts, Evans-as-a-locked-MNF-WR1, Kirk-as-a-start, Etienne-as-a-lead.
+- **Woody Marks** — vs NYG is now. **30.**
+- **Braelon Allen** — Hall week-to-week. vs MIA. **28.**
+- **Kendre Miller** — 20-carry path while Kamara fades. **20.**
+- **Bam Knight** — Love OUT path vs DEN. **22 GUESS.**
+- **Germie Bernard** — WR2 with Pittman/Roman IR. **26.**
+- **Omar Cooper Jr.** — off-IR WR2. **18.**
+- **Jaylin Noel** — splash path vs NYG. **22.**
+- **Matthew Golden** — 13 targets SNF. @ DET. **24.**
+- **Tanner McKee** — multi-week vs DAL. **20.**
+- **J.J. McCarthy** — path only if named. **24.**
+- **Josh Jacobs** — eligible today. Path W7 **if named.** **38 GUESS.**
+- **Roschon Johnson** — TNF only if Monangai sits. **18.**
+- **Zach Charbonnet** — path when the transaction posts, not before. **16 GUESS.**
+- **Isaiah Likely** — 6–99–1. @ HOU dart. **24.**
+- **Do not roster as a 10-team dart:** Mixon, Bigsby, Estime-as-a-lead, Dell, Kaliakmanis as a paid QB2, Tyreek (rumor), Steele, Blue, MHJ as a paid WR1, Lance, Bagent as a paid QB2, Tua-as-paid-QB2, Deebo-as-a-W6-start, McKee-as-Hurts, Evans-as-a-locked-MNF-WR1, Kirk-as-a-start, Etienne-as-a-lead, Jacobs-as-Walker, Charbonnet-before-the-move.
 
 ---
 
 ## 9. What a manager should do today
 
-1. **TNF is scored.** Do not re-set JSN (**92**), Wilson (**30**), Darnold (**28**), Nix (**46**), Dobbins (**24**). Hold JSN.
-2. **Sit the official OUTs / IR:** Hurts (**IR 58**), Lamar, Saquon, Hall, Montgomery, Mayfield, Rice, Shipley (IR), Monangai, **Deebo (OUT)**. Pair **Huntley / Pierce / Allen / Marks**.
-3. **Start the newly cleared / confirmed:** DeVonta (**42**), Flowers (**38**), Penix (**30**), Nico (**56**), **DK (38, off report)**, Tet, CeeDee, CMC (do not sit). **McLaurin start-lean (26).**
-4. **Leftover FA only.** If a name slipped: **Marks $6–$12**, **Allen $4–$8**, **Pierce $4–$8**, **Winston $4–$8**, **Huntley $3–$6 if Lamar is yours**, **McKee $3–$6 if QB-desperate (multi-week now)**, **Higbee $2–$4**, **Young $2–$4**, **Parker Washington $2–$5**, **Keenum $2–$4 if you need a Caleb pair**, **Allgeier $1–$3**. Do **not** FAAB Mixon / Bigsby / Estime-as-lead / Bagent / MHJ-as-WR1 / Shipley / McKee-as-Hurts / Bernard-as-DK-replacement / DST / K.
-5. **Have Sunday pivots:** Caleb (expected, official name MISSING), AJ Brown (activated / expected / still Q), Olave (start-lean), Moore (sit), Henderson (sit), Warren (sit-lean if pivot), Judkins (sit-lean), Kamara (sit volume).
-6. **MNF:** Start CMC and Daniels. McLaurin start-lean. Evans sit-lean. Deebo OUT. Diggs toss-up. Kirk not a start.
-7. **Hold, do not smash-sell:** Lamar **86**, Hurts **58**, CeeDee **72**, Chase **74**, Saquon **30**, Jeanty **62**, Tet **54**, Gibbs **95**, Burrow **90**, Amon-Ra **80**, JSN **92**. Huntley is **32**, not 86. McKee is **22**, not 58. Marks is **30**, not 50. Pierce is **26**, not Saquon. Rice is **24**, not a drop. Evans is **30**, not a locked WR1. AJ Brown is **36**, not a smash WR1.
-8. **Week 6 byes are CIN / DET / MIA / MIN.** Sit those names. Do **not** dump them for a 4th RB.
-9. **W6 locks now:** Maye, Mahomes, Purdy, Stafford, Penix, Young, Huntley, Bijan, CMC (do not sit), Taylor, Irving, Walker-KC, Cook, Kyren, Jeanty, London, Nico, Nacua, Adams, Tet, CeeDee, DeVonta, Flowers, **DK**, Bowers, Kelce, Marks, Allen-NYJ, Pierce. **Caleb start-lean.** **AJ Brown WR3 lean.** **McLaurin start-lean.** **Not** Hurts, Lamar, Saquon, McConkey-as-smash, Hampton-as-smash, Deebo, Shipley, Moore, Coleman-as-WR2, Judkins, Rice, Hall, Mayfield, Charbonnet, Montgomery, Olave-as-lock, Evans-as-lock, McKee-as-smash, Warren-as-lock, AJ Brown-as-smash.
-10. **Watch tonight / tomorrow:** London lock ~15 hours. Sunday inactives: Caleb / AJ Brown / Olave / Moore / Warren / Henderson / Judkins / Kamara. Monday inactives: Evans / Diggs / Kirk. Mixon still unsigned.
+1. **Set MNF now.** Start CMC (**74**), Purdy (**76**), Daniels (**62**), Kittle (**42**), McLaurin **start-lean (26).** Sit Deebo (**OUT 16**), Evans-as-lock (**30 sit-lean**), Croskey-Merritt, Kirk-as-a-start. Diggs is a toss-up — have a pivot for 6:45 inactives.
+2. **Sit the closed OUTs / IR:** Hurts (**IR 58**), Lamar until named, Saquon until named, Hall, Mayfield until named, Rice until named, Adams **sit-lean (36 GUESS).**
+3. **Do not start W7 byes after tonight:** Allen, Cook, Lawrence, Daniels, Herbert, Hampton, McConkey, Tuten, Moore, Coleman, McLaurin, Diggs, any WAS skill player.
+4. **Week 7 FAAB (Tuesday).** If a name is free: **Bernard $8–$14**, **Omar Cooper $6–$12**, **Noel $5–$10**, **Miller $6–$10**, **Knight $4–$8**, **McCarthy $4–$8 if QB-needy**, **Rodgers $4–$8 if covering Allen/Lawrence**, **Likely $3–$6**, **Huntley $3–$6 if Lamar is yours**, **McKee $3–$6 if desperate**, **Golden $3–$6**, **Jacobs $5–$10 only if somehow unrostered.** Do **not** FAAB Mixon / Estime-as-lead / Huntley-as-Lamar / McKee-as-Hurts / Jacobs-as-Walker / DST / K.
+5. **Hold, do not smash-sell:** Lamar **86**, Hurts **58**, CeeDee **70**, Chase **74**, Saquon **30**, Jeanty **58**, Tet **56**, Gibbs **95**, Burrow **90**, Amon-Ra **80**, JSN **92**, Caleb **56**, Walker **82.** Huntley is **28**, not 86. McKee is **20**, not 58. Jacobs is **38 GUESS**, not 82. Marks is **30**, not 50. Adams is **36 GUESS**, not Nacua **62.**
+6. **W7 locks if you are setting early:** Maye, Caleb, Burrow, Goff, Gibbs, Bijan, Walker, Taylor, Swift, Hubbard, Chase, Amon-Ra, Jefferson, JSN, CeeDee, Nico, Tet, Nacua, DK, Bowers, Marks. **Not** Hurts, Lamar-until-named, Saquon-until-named, Adams-as-lock, Jacobs-as-lock, McCarthy-as-lock, Allen-bye, Daniels-bye, McConkey, Hampton.
+7. **Watch today:** MNF inactives ~6:45 (Evans / Diggs / Kirk). McVay on **Adams.** Jacobs practice eligibility. Mixon still unsigned. Do not invent a Lamar start or a Saquon start.
+8. **Watch Wednesday:** Lamar practice. Saquon / Mayfield / Hall / Rice / Warren / Monangai / Montgomery / Judkins / Love tags. Harbaugh NYG QB name. Charbonnet transaction.
+9. **TNF preview:** Maye / Caleb / Swift / Burden. AJ Brown is a WR3 lean. Henderson sit. CHI −2.5 / 49.5.
+10. **Conservative lineup call:** start CMC / Purdy / Daniels / McLaurin-lean tonight; sit Deebo / Evans-as-lock / Hurts / Lamar / Saquon / Adams-as-lock / W7-bye names; bid Bernard / Cooper / Miller / Noel; do not smash-sell CeeDee / Lamar / Hurts / Gibbs / JSN.
 
-**Sources:** Patriots.com Sat 4:00 PM ET (AJ Brown activated). NFL.com (Hurts IR; Caleb expected start; AJ Brown activate). ESPN Schefter / Rapoport / Garafolo Saturday. Commanders.com Saturday game status (Croskey-Merritt / Mariota OUT; McLaurin Sat Limited no tag; Diggs Q; Daniels Full). Footballguys Saturday Night Injury Watch 5:00 PM ET (Deebo OUT; Evans Q; Kirk Q; DK removed; Hurts IR). CBS / NBC (Evans Q; Deebo OUT; Kirk may activate). Texans.com morning (Nico not listed; Monty/Dell OUT) vs NFL.com aggregator Limited **LAG**. 49ers.com REG6 Saturday column still empty (**LAG** vs beat designations). FootballDB weather Sat 5:20 PM ET. NFLWeather (London 60% CONFLICT). GameDayWeather 8–20%. DK Network Fri PM weather is **STALE on London**. Slimsports / ESPN Saturday lines. Conservative lineup call: start Maye / Mahomes / Penix / Huntley / Young / Caleb-lean / Marks / Allen / Pierce / Taylor / CeeDee / Tet / Nico / DeVonta / Flowers / DK / CMC / McLaurin-lean; sit Hurts-IR / Lamar / Saquon / Montgomery / Moore / Deebo / Shipley / Hall / Mayfield / Rice / Evans-as-lock / McKee-as-smash / AJ Brown-as-smash.
+**Sources:** NFL.com schedule/injuries (W6 MNF tags; Hurts IR). FootballDB Week 6 boxes + SNF. ESPN SNF recap (Love / Dak / Golden). Rams Wire / Yahoo (Adams non-contact left knee; McVay Mon update MISSING). AP / NFL.com (Jacobs off exempt list Oct 19; investigation open). ESPN Raanan (Winston benched; McCarthy 243; Harbaugh W7 QB unnamed). NBC Pelissero (Mayfield optimism — not a name). Commanders.com / 49ers.com Saturday designations (Deebo OUT; Evans Q; CMC Full; Daniels Full; McLaurin no tag). PFN Week 7 waiver (Bernard / Cooper / Miller / Knight / Charbonnet — Charbonnet activation **not official**). FOX/bet365 Week 7 lines. Conservative: start CMC/Purdy/Daniels tonight; sit Deebo/Evans-as-lock/Hurts/Lamar-until-named/Saquon-until-named/Adams-as-lock/W7 byes.
