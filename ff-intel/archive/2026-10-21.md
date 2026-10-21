@@ -1,6 +1,6 @@
 # FF Intel trade board — Bot or Not Fantasy
 
-Generated 2026-10-21 12:35 PM EDT
+Generated 2026-10-21 12:37 PM EDT
 
 - **NFL week:** 7
 - **League:** 10-team Superflex Half-PPR (Sleeper `1395904889149739008`)
