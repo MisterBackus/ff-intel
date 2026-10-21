@@ -1,0 +1,3 @@
+FORMULA_VERSION = "1.0.0"
+
+__all__ = ["FORMULA_VERSION"]

@@ -1,0 +1,24 @@
+[project]
+name = "ff-intel"
+version = "1.0.0"
+description = "ROS Superflex Half-PPR trade value board for Sleeper league 1395904889149739008"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+ff-intel = "ff_intel.generate:main"
+
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
