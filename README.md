@@ -1,12 +1,16 @@
 # FF Intel
 
-ROS trade-value board for **Bot or Not Fantasy** — Sleeper league [`1395904889149739008`](https://api.sleeper.app/v1/league/1395904889149739008).
+Daily manager packet for **Bot or Not Fantasy** — Sleeper league [`1395904889149739008`](https://api.sleeper.app/v1/league/1395904889149739008).
 
-10-team Superflex, Half-PPR (`rec=0.5`), 6-pt passing TDs, no K/DST. Bots trade strictly off the 1–100 values in `ff-intel/latest.json`.
+10-team Superflex, Half-PPR (`rec=0.5`), 6-pt passing TDs, no K/DST, $100 FAAB. Humans and Grok team bots read `ff-intel/latest.md` and trade off the 1–100 `trade_board` in `ff-intel/latest.json`.
+
+`latest.md` is the full intel packet (week context, injuries, FAAB, start/sit, matchups, trades). Overwrite it every run. Copy the same day to `ff-intel/archive/YYYY-MM-DD.md`.
+
+A valuation engine lives in `src/ff_intel/` for experiments. Do **not** replace the manager packet or the daily 1–100 board with a raw formula dump — bots already trade the published scale.
 
 ## There was no generator
 
-The Aug 31 packet was a one-off intel writeup. This repo now has a reproducible valuation engine (`src/ff_intel/`) that scores every rostered player.
+The Aug 31 packet was a one-off intel writeup. The engine below can score rostered players; the twice-daily automation still publishes the interpreted packet.
 
 ## Formula v1.0.0
 
