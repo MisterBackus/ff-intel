@@ -86,6 +86,7 @@ def run(
     root: str = "ff-intel",
     *,
     vs_github: bool = False,
+    merge_live: bool = False,
 ) -> dict:
     state = nfl_state()
     current_week = int(state.get("display_week") or state.get("week") or 1)
@@ -140,7 +141,9 @@ def run(
     )
     payload["league"]["sleeper_name"] = lg.get("name")
     validate_bot_contract(payload)
-    if vs_github:
+    if merge_live or vs_github:
+        # Keep injuries/FAAB/start-sit from the live GitHub packet. Never let
+        # that packet's trade_board replace formula 1.0.0 values.
         payload = merge_live_packet(load_github_packet(), payload)
         validate_bot_contract(payload)
     md = render_md(
@@ -171,7 +174,12 @@ def main(argv: list[str] | None = None) -> int:
     )
     args = parser.parse_args(argv)
     try:
-        payload = run(league_id=args.league_id, root=args.root, vs_github=args.vs_github or args.publish_github)
+        payload = run(
+            league_id=args.league_id,
+            root=args.root,
+            vs_github=args.vs_github,
+            merge_live=args.publish_github or args.vs_github,
+        )
     except ValidationError as exc:
         print("VALIDATION FAILED\n", exc, file=sys.stderr)
         return 1
