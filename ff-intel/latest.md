@@ -1,6 +1,193 @@
+# FF Intel — Bot or Not Fantasy
+
+Generated 2026-10-29 08:15 AM EDT
+
+- **NFL week:** 8
+- **League:** 10-team Superflex Half-PPR (Sleeper `1395904889149739008`)
+- **Kickoff window:** **TNF TONIGHT 8:15 PM ET**; Sunday 1:00 / 4:05 / 4:25 / SNF 8:20; MNF Mon 8:15
+- **Sources:** NFL.com official Week 8 injury report (Thu 08:00 ET pull); Chargers.com Wed sheet; Sharp/CBS/NBC Wed tables; Sleeper player directory + league 1395904889149739008 rosters/transactions; NWS / FootballDB / WBAY TNF weather; VegasInsider / FOX / ESPN / CBS lines
+- Curated values are 1–100 Superflex Half-PPR 10-team. `GUESS` = inferred role. `MISSING` = no official tag yet.
+- Formula 1.0.0 dump at the bottom / in `trade_board` is **NOT** this scale. Bots trade the formula board. Managers use the curated numbers in the intel sections.
+
+## Data freshness
+
+- Thursday 8:15 AM ET. Week 7 **FULLY CLOSED** (MNF DAL 38–PHI 21). **TNF LOCK TONIGHT.**
+- Sleeper `display_week=8` / `last_scored_leg=7` / `daily_waivers_last_ran=28` / Week 8 txs **0**.
+- Official **TNF designations HOLD**. Inactives **MISSING** ~18:45 ET.
+- Thursday Sunday-team columns **MISSING**. CHI / SEA first sheets still **EMPTY** (NFL.com “No Injuries Reported”).
+- **NEW vs Wednesday 18:15:** PHI official Wed DNP **CLOSED** (Saquon / DeVonta). NFL.com SNF empty is **LAG**. McConkey official **FP** (Chargers.com); NFL.com LAC empty is **LAG**. Love-ARI official **LP**. Allgeier official **DNP**. TNF weather gusts **13–15** (Wed 19 **STALE**).
+- Willis / Concepcion / Douglas still **OWNED**. Do not add.
+
+## 1. League week context
+
+- **Week 8.** TNF: CAR @ GB **TONIGHT** 8:15 Prime. GB **-3.5 / 47.5** HOLDS (early ESPN -4.5 **STALE**).
+- **Byes:** HOU / NO / NYG / SF. Sit Nico, Stroud, Purdy, CMC, Nabers, Shough, Skattebo, Olave, Kittle.
+- **Sunday 1:00 ET:** BAL @ BUF (BUF **-3 / 54.5**; FOX/CBS **-3.5** **CONFLICT**), TEN @ CIN (CIN **-10 / 46.5**; FOX **-10.5** **CONFLICT**), ARI @ DAL (DAL **-6.5 / 54.5**; Vegas **-7** **CONFLICT**), MIN @ DET (DET **-3 / 46.5**; FOX **-3.5** **CONFLICT**), IND @ JAX (JAX **-9.5 / 46.5**; Vegas **-10** **CONFLICT**), LV @ NYJ (NYJ **-1.5 / 45.5**), CLE @ PIT (PIT **-3.5 / 39.5**), ATL @ TB (TB **-2.5 / 44.5**; Wed 45.5 **STALE**).
+- **Sunday late:** LAC @ LAR 4:05 (LAR **-6.5 / 45.5**; FOX 44.5 **CONFLICT**). KC @ DEN 4:25 (KC **-1.5 / 40.5**; Wed 41.5 **STALE**). NE @ MIA 4:25 (NE **-7 / 43.5**; FOX **-6.5** **CONFLICT**).
+- **SNF:** PHI @ WAS 8:20. WAS **-5.5 / 40.5** (Vegas **-6** **CONFLICT**).
+- **MNF:** CHI @ SEA 8:15. SEA **-3 / 46.5** (FOX **-3.5** **CONFLICT**).
+- **Deadlines:** TNF lock **tonight 8:15**. Daily waivers already ran (`last_ran=28`). Leftover FA is $0. Thursday columns ~16:00 ET. Friday designations ~16:00 ET. League trade deadline **Week 12**. NFL trade deadline **Tue Nov 10 16:00 ET**.
+- **Weather:** Lambeau **53–54° / 5–7 mph / gusts 13–15 / 0% dry**. Wed gusts-19 **STALE**. Not a sit. No other weather that changes a start/sit as of this packet.
+
+## 2. Injuries and availability
+
+**Must act today**
+
+- **SET TNF NOW.** Love / Jacobs / Tet / Young / Coker **START**. Golden **Q sit** until ~18:45 inactives.
+- **Saquon Barkley** RB PHI — Official Wed **DNP** ham/back. NFL.com SNF empty **LAG**. Sit until named. 30 GUESS.
+- **DeVonta Smith** WR PHI — Official Wed **DNP** ham. Sit. 36. Lemon OWNED 16 GUESS.
+- **Ladd McConkey** WR LAC — Official Wed **FP**. Still concussion. Needs Friday neurologist. 10→12 GUESS start-lean, not a lock.
+- **Aaron Jones Sr.** RB MIN — Official **DNP** knee. Sit until named. Mason 26 GUESS is the lead-lean @ DET.
+- **Jaylen Waddle** WR DEN — Official **DNP** chest. Sit-lean. 20 GUESS. Sutton OWNED.
+- **Matthew Golden** WR GB — Official **LP + Q**. TNF sit until inactives. 24.
+
+**TNF (lock tonight)**
+
+- **Jordan Love / Josh Jacobs / Tetairoa McMillan / Bryce Young / Jalen Coker** — Official FP / no tag. **START**.
+- **Golden** — Q. Sit until inactives.
+
+**Sunday names**
+
+- **Lamar Jackson** QB BAL — Official **FP** / Sleeper Q. Ankle. First full since W4. Start-lean. Friday designation **MISSING**. 86 HOLD. Huntley OWNED 30 hedge.
+- **Jahmyr Gibbs** RB DET — Official **DNP shoulder**. Campbell off-their-feet. Not a sit-yet. 95 HOLD. Vaki FA is not startable here.
+- **Amon-Ra St. Brown** WR DET — Official DNP ankle. Scheduled rest. Start-lean. 82 HOLD.
+- **Ja'Marr Chase** WR CIN — DNP NIR-rest/ankle. Start-lean vs TEN if he practices Thursday. 74 HOLD.
+- **Breece Hall** RB NYJ — Official LP quad. Sit until named. 28 HOLD. **Braelon Allen** also LP ankle; 32 if Hall sits.
+- **Brock Bowers** TE LV — Official LP calf. Start-lean. 58.
+- **Rashee Rice** WR KC — Official LP ham/knee. Not a locked WR3. 24.
+- **Tyler Warren** TE IND — Official LP groin. Watch. 24.
+- **Emeka Egbuka** WR TB — Official LP concussion/foot. Sit until named. 24.
+- **DJ Moore** WR BUF — Official LP AC. Sit. 24. Coleman OWNED.
+- **George Pickens** WR DAL — Official LP shoulder/**ham**. Start-lean not a smash. 42 HOLD.
+- **Drake London** WR ATL — Not on ATL sheet. Head **CLEARED**. Start-lean. 64.
+- **Brian Robinson Jr.** RB ATL — Official DNP ham. Sit. Bijan is the 94.
+- **Jeremiyah Love** RB ARI — Official **LP** ankle. FA. Sit until named. 12 GUESS. **Allgeier official DNP**. Knight OWNED 24.
+- **Stefon Diggs** WR WAS — Official Wed DNP (hand/ham/rest). Quinn: full Thursday. SNF start-lean if he practices. 28 GUESS.
+- **Dallas Goedert** TE PHI — Official Wed **FP**. SNF start-lean. 24.
+
+**MNF / bye / season**
+
+- **Kyle Monangai** RB CHI — Sleeper Q toe. CHI sheet still empty. Sit. Swift 36 GUESS.
+- **Zach Charbonnet** RB SEA — Sleeper Q Knee-ACL. SEA sheet still empty. Sit until named. Wilson-SEA 36.
+- **Christian McCaffrey** RB SF — Q ham vs Sleeper Calf **CONFLICT**. W8 bye. 72 HOLD.
+- **Jalen Hurts** QB PHI — IR season. 8. McKee 26.
+- **Dameon Pierce** RB PHI — **IR**. Undisclosed. Min 4. 8. Sit.
+- **Terry McLaurin** WR WAS — Season FA. 6. Do not add.
+- **Davante Adams** WR LAR — IR ham. 10.
+
+## 3. News that changes value
+
+- **PHI Wed tags CLOSED** — Saquon DNP. DeVonta DNP. Goedert FP. Wednesday “walkthrough MISSING” is **STALE**. Sit both skill players until named.
+- **McConkey official FP** — Chargers.com Wed full. NFL.com LAC empty **LAG**. Protocol clearance still Friday. **10→12 GUESS**.
+- **Love-ARI official LP** — NFL.com ARI empty **CONFLICT CLOSED**. Allgeier DNP. Still not a W8 start. 12 GUESS HOLD.
+- **Pickens ham** — Official LP shoulder/ham. Not a locked smash. 42 HOLD.
+- **TNF is tonight** — set lineups now. Weather not a sit.
+- **Willis / Concepcion / Douglas OWNED** — still. Do not add.
+- **Pierce IR HOLDS** — Blue / Mitchell are the leftover PHI darts.
+- **Lamar FP HOLDS** — start-lean. 86. Do not smash-sell.
+- **Gibbs shoulder DNP HOLDS** — watch Thursday. 95. Do not smash-sell.
+
+## 4. Waiver / FAAB ($100, leftover $0)
+
+FAAB already processed (`last_ran=28`). **Do not bid.** Adds are leftover $0.
+
+**Week-winning / must-act leftover**
+
+- **Jaydon Blue** RB PHI — Strong. Pierce-IR dart. Startable only if Saquon sits. 8 GUESS. $0.
+- **Elijah Mitchell** RB PHI — Strong. Same dart. Trending leftover. 8 GUESS. $0.
+- **Hunter Henry** TE NE — Strong if TE-needy. @ MIA. 14 GUESS. $0.
+
+**Season-long / speculative $0**
+
+- **Mason Taylor** TE NYJ — TE-needy only. 16 GUESS.
+- **Ryan Flournoy** WR DAL — Turpin official DNP. vs ARI. 10 GUESS.
+- **Jeremiyah Love** RB ARI — Official LP. Stash, not a W8 start. 12 GUESS.
+- **Tez Johnson** WR TB — Egbuka dart. 10 GUESS.
+- **Jakobi Meyers** WR JAX — Official LP ham. Not a locked WR3. 12 GUESS.
+
+**Do not add**
+
+- Willis / Concepcion / Douglas / Lemon / Coleman / Cooper / Pierce — **OWNED**.
+- Cam Ward / Daniel Jones — Superflex traps this week.
+- McLaurin / Shaheed / Noel — season or skip.
+- Any W8 bye as a Week 8 start.
+
+Typical drops here: injured WR4s, bye-week leftovers you will not start, Ward, unsigned Mixon (2).
+
+## 5. Start / sit and landmines
+
+**Must-start:** Allen, Burrow, Maye, Love, Dak, Gibbs (if named), Bijan, Walker, Taylor, Cook, Javonte, JSN, Chase (if Thu practice), CeeDee, Nacua, Tet, Coker, Amon-Ra (if named), London, McBride, Bowers (if not a second DNP).
+
+**Strong:** Jacobs (42 not 82), Swift, Allen-NYJ if Hall sits, Wilson-SEA if Charbonnet sits, Mason if Jones sits, Flowers, Pickens start-lean, Daniels, Cousins, Lamar start-lean, McKee as SF2, McConkey start-lean if Friday-cleared.
+
+**Toss-up:** Young TNF SF2, Willis OWNED SF2/3, Saquon until named, Lemon if DeVonta sits, Diggs if he practices Thursday.
+
+**Sit / trap:** Golden TNF, Jones until named, Waddle, Ward, Monangai, DeVonta until named, Saquon until named, Charbonnet until named, Egbuka until named, Hall until named, Pierce IR, Hurts, McLaurin, Worthy-as-WR3, **all W8 byes**.
+
+**Weekly Superflex QB:** 1 Allen 100 · 2 Burrow 90 · 3 Maye 88 · 4 Lamar 86 start-lean · 5 Dak 64 · 6 Love 62 · 7 Daniels 62 · 8 Cousins 44 · 9 Young 36 · 10 Willis 28 OWNED · Huntley hedge 30 · McKee 26 · Darnold 32 MNF. Do not stream Ward or Daniel Jones.
+
+## 6. Matchups that matter
+
+- **CAR @ GB TNF 47.5** — start Love / Jacobs / Tet / Young / Coker **tonight**. Sit Golden. Weather is not a sit.
+- **BAL @ BUF 54.5** — smash environment if Lamar is named. Allen / Cook / Henry / Flowers up. Conservative: sit Lamar until Friday designation.
+- **ARI @ DAL 54.5** — Dak / CeeDee / Javonte smash-lean. Pickens start-lean (ham). McBride still must-start. Love-ARI is not a start. Flournoy only if Turpin sits.
+- **TEN @ CIN -10** — Burrow / Chase / Higgins smash. Do not stream Ward.
+- **IND @ JAX -9.5** — Taylor still starts. Do not stream Daniel Jones. Warren is a watch not a smash.
+- **PHI @ WAS 40.5** — lowest total. Daniels strong. McKee SF2. Sit Saquon / DeVonta until named. Diggs is the WAS WR1 if he practices Thursday.
+- **MIN @ DET** — Gibbs / Amon-Ra start if named. Mason fade-lean @ DET even as the lead.
+- **NE @ MIA** — Maye must-start. Willis is the MIA SF2, not Maye.
+- **LAC @ LAR** — Nacua must-start. McConkey start-lean only after Friday clearance.
+- **Game-script wreckers:** trailing PHI RB if Saquon sits (Blue/Mitchell are pass-down GUESS). CIN will throw; TEN will trail.
+
+## 7. Trade values (curated 1–100)
+
+Same scale every day. Superflex. Half-PPR. 10-team.
+
+**QB:** Allen 100 · Burrow 90 · Maye 88 · Lamar 86 HOLD · Purdy 76 (bye) · Dak 64 · Love 62 · Daniels 62 · Caleb 58 · Lawrence 56 · Mahomes 72 HOLD · Cousins 44 · Young 36 · Darnold 32 · Huntley 30 · Willis 28 GUESS OWNED · McKee 26 · Stroud 42 (bye) · Hurts 8.
+
+**RB:** Gibbs 95 HOLD · Bijan 94 · Walker 78 · Taylor 74 · Cook 74 · CMC 72 (bye) · Henry 54 · Javonte 46 · Jacobs 42 · Hubbard 38 · Swift 36 GUESS · Wilson-SEA 36 · Allen-NYJ 32 · Saquon 30 GUESS · Jones 30 · Hall 28 · Mason 26 GUESS · Pierce 8 IR · Blue 8 GUESS · Mitchell 8 GUESS.
+
+**WR:** JSN 94 · Amon-Ra 82 HOLD · Chase 74 HOLD · CeeDee 70 · Nacua 68 · Jefferson 66 · London 64 · Nabers 64 (bye) · Tet 52 · Nico 48 (bye) · Flowers 46 · Higgins 44 · Pickens 42 · DeVonta 36 · Golden 24 · Waddle 20 GUESS · Coker 16 GUESS · Lemon 16 GUESS · Worthy 16 · McConkey 12 GUESS.
+
+**TE:** McBride 58 · Bowers 58 · Kittle 44 (bye) · Kelce 32 · LaPorta 28 · Warren 24 · Goedert 24.
+
+**Risers / fallers since Wednesday 18:15:** McConkey **10→12 GUESS**. Rest **FLAT**. PHI tags / Love-ARI LP / TNF weather are facts, not value moves.
+
+**Fair 1-for-1:** Love ≈ Daniels. Tet ≈ Flowers. Jacobs ≈ Javonte. Mason ≈ Hall (both injured-lead questions). McKee ≈ Huntley as SF3.
+
+**Fair 2-for-1:** side getting Allen / Gibbs / JSN / Lamar gives a startable QB2 or WR2 back. Example shape: Dak + Tet for Lamar is short; Dak + a 42-ish RB is closer.
+
+**Ripoff flags:** Jacobs as an 82. Lamar at Huntley price. Gibbs/Chase for a Wednesday DNP discount. Pierce or Blue as if they are Saquon. Paying a 2nd for a 4th RB. Mixing formula 93/70/30 with this board.
+
+**Scarcity this week:** Superflex QB (Ward/Jones are traps; Willis already owned). PHI RB if Saquon sits (only leftover darts). TE-needy managers can $0 Henry.
+
+## 8. Rookies and sleepers (1–3 week snap path)
+
+- **Jaydon Blue** — real path this week if Saquon sits. GUESS.
+- **Jalen Coker** — locked TNF snap path. Start tonight.
+- **KC Concepcion Jr.** — OWNED. CLE volume already showed. Not a FA.
+- **Caleb Douglas** — OWNED. Willis chemistry. Not a FA.
+- **Tez Johnson** — only if Egbuka sits.
+- **Jeremiyah Love** — official LP. Path if cleared, but Knight + Allgeier-DNP still a committee. Not a W8 start.
+- **Ladd McConkey** — FP + protocol. Real snap path Sunday if Friday-cleared.
+- Do not stash Noel (IR to W13) or McLaurin.
+
+## 9. What a manager should do today
+
+1. **SET TNF NOW:** start **Love, Jacobs, Tet, Young, Coker**. **Sit Golden** until ~18:45 inactives. Weather is not a sit.
+2. Do **not** add Willis / Concepcion / Douglas. They are owned.
+3. $0 leftover: **Blue**, then **Mitchell**, then **Henry** if TE-needy. Flournoy only as a Turpin-out dart.
+4. **Sit Saquon / DeVonta** — official Wed DNP. NFL.com SNF empty is LAG.
+5. **Lamar start-lean** after official FP. Keep Huntley until Friday designation. Do not smash-sell 86.
+6. **McConkey 12 GUESS** start-lean only after Friday clearance. Not a lock.
+7. **Start-lean** Gibbs / Chase / Amon-Ra / London / Bowers. Watch Thursday practice.
+8. Hold JSN / Gibbs / Amon-Ra / Walker / Taylor / Chase / CMC / CeeDee / Nacua / Mahomes / Lamar.
+9. Trades: do not buy Jacobs as a 1st. Do not sell Lamar cheap. Formula board is for bots; this list is for managers.
+
+---
 # FF Intel trade board — Bot or Not Fantasy
 
-Generated 2026-10-29 08:00 AM EDT
+Generated 2026-10-29 08:03 AM EDT
 
 - **NFL week:** 8
 - **League:** 10-team Superflex Half-PPR (Sleeper `1395904889149739008`)

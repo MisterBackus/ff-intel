@@ -1,6 +1,6 @@
 {
   "formula_version": "1.0.0",
-  "generated_at_et": "2026-10-29 08:00 AM EDT",
+  "generated_at_et": "2026-10-29 08:15 AM EDT",
   "nfl_week": "8",
   "league": {
     "id": "1395904889149739008",
@@ -29,7 +29,7 @@
     "Sleeper player directory for injury status, depth chart, search_rank",
     "Sleeper trending adds (48h) for the news/trend component"
   ],
-  "commit_message": "intel: 2026-10-29 week 8 values 1.0.0",
+  "commit_message": "intel: 2026-10-29 week 8",
   "sanity_gaps": [
     {
       "player": "Josh Jacobs",
@@ -6009,30 +6009,27 @@
     }
   ],
   "data_freshness": [
-    "Wednesday 6:15 PM ET. Week 7 FULLY CLOSED including MNF DAL 38-PHI 21. Week 8 leftover FA open.",
-    "Sleeper state week=8 display_week=8 last_scored_leg=7 daily_waivers_last_ran=28. Week 8 txs 0. Wednesday daily waiver processed, no claims.",
-    "CORRECTION: Willis / Concepcion / Douglas are OWNED (Tue W7 waivers). Morning leftover-FA #1 Willis is STALE. Do not add them.",
-    "NEW official TNF designations CLOSED. Young FP no tag START. Coker FP no tag START. Golden LP + Q sit-lean until Thu inactives.",
-    "NEW official Sunday-team Wednesday sheets IN for most 1:00/4:00 clubs. Lamar FP. Jones DNP. Gibbs DNP shoulder. Chase DNP NIR-rest/ankle. Amon-Ra DNP scheduled. Hall LP. Waddle DNP. Rice LP. Warren LP. Egbuka LP. Bowers LP. DJ Moore LP.",
-    "NEW Pierce IR undisclosed. Min 4 games, earliest Dec 6. Blue signed to 53. PHI RB room: Saquon / Mitchell FA / Blue FA.",
-    "PHI Wednesday was a walkthrough. Saquon and DeVonta official Wed tags MISSING. NFL.com SNF both sides still empty. Sit Saquon / DeVonta until named.",
-    "MNF CHI/SEA first official sheet Thursday. Monangai still Sleeper Q toe. Charbonnet Sleeper Q Knee-ACL / Macdonald practice-full chance. Shaheed Q knee FA skip.",
-    "LAC NFL.com empty. Harbaugh: McConkey still concussion protocol, will practice. Sit until cleared.",
-    "London not on ATL Wed sheet. Head CLEARED. Start-lean.",
-    "TNF weather 54F / 5-7 mph / gusts 19 / 0% dry. Morning gusts-20 STALE. Not a sit. GB -3.5 / 47.5 (early ESPN -4.5 STALE).",
+    "Thursday 8:15 AM ET. Week 7 FULLY CLOSED including MNF DAL 38-PHI 21. TNF LOCK TONIGHT 8:15 PM ET.",
+    "Sleeper state week=8 display_week=8 last_scored_leg=7 daily_waivers_last_ran=28. Week 8 txs 0. Leftover FA is $0.",
+    "Official TNF designations HOLD. Young FP no tag START. Coker FP no tag START. Golden LP + Q sit until ~18:45 inactives.",
+    "Thursday Sunday-team columns MISSING. CHI/SEA first official sheets still EMPTY (NFL.com No Injuries Reported).",
+    "NEW: PHI official Wed DNP CLOSED. Saquon DNP ham/back. DeVonta DNP ham. Goedert FP. NFL.com SNF empty is LAG.",
+    "NEW: McConkey official Wed FP (Chargers.com). NFL.com LAC empty is LAG. Still concussion. Friday neurologist MISSING. 10->12 GUESS.",
+    "NEW: Love-ARI official LP. Allgeier official DNP. NFL.com ARI empty CONFLICT CLOSED.",
+    "TNF weather 53-54F / 5-7 mph / gusts 13-15 / 0% dry. Wed gusts-19 STALE. Not a sit. GB -3.5 / 47.5 HOLDS.",
+    "Willis / Concepcion / Douglas OWNED. Do not add. Blue / Mitchell / Henry still leftover FA.",
     "Week 8 byes HOU NO NYG SF. League trade deadline Week 12. NFL trade deadline Tue Nov 10 16:00 ET.",
-    "Curated values 1-100 Superflex Half-PPR 10-team vs Wednesday 08:15 board: Pierce 24->8 IR. NEW Blue 8 GUESS. Rest FLAT. Formula dump is NOT this scale."
+    "Curated values 1-100 Superflex Half-PPR 10-team vs Wednesday 18:15 board: McConkey 10->12 GUESS. Rest FLAT. Formula dump is NOT this scale."
   ],
   "must_act_today": [
-    "SET TNF NOW. Start Love Jacobs Tet Young Coker. Sit Golden until Thursday inactives. 54F / 5-7 mph / dry. Not a weather sit.",
-    "CORRECTION: do not add Willis Concepcion Douglas. They are OWNED. Morning leftover board STALE.",
-    "Leftover FA $0: Blue (NEW Pierce IR dart). Then Mitchell if Saquon sits. Henry if TE-needy. Flournoy if Turpin sits. Do not bid.",
+    "SET TNF NOW. Start Love Jacobs Tet Young Coker. Sit Golden until ~18:45 inactives. 53-54F / 5-7 mph / gusts 13-15 / dry. Not a weather sit.",
+    "Sit Saquon and DeVonta. Official Wed DNP CLOSED. NFL.com SNF empty is LAG. 30 GUESS / 36.",
+    "McConkey official FP. 10->12 GUESS start-lean pending Friday protocol clearance. Not a lock.",
+    "Leftover FA $0: Blue, then Mitchell if Saquon sits, Henry if TE-needy, Flournoy if Turpin sits. Do not bid. Do not add Willis Concepcion Douglas.",
     "Lamar official FP. Start-lean @ BUF. Still wait Friday designation to lock. Huntley OWNED hedge. 86 HOLD. Do not smash-sell.",
-    "Pierce IR CLOSED. 8. Sit. Blue / Mitchell are the $0 PHI darts. Sit Saquon until PHI names him. 30 GUESS.",
     "Jones official DNP. Mason is the W8 MIN lead-lean @ DET. Sit Jones until named. 30 / 26 GUESS.",
-    "Gibbs NEW shoulder DNP. Campbell off-their-feet day. Not a sit-yet. Watch Thursday. 95 HOLD. Do not smash-sell.",
-    "Chase DNP NIR-rest/ankle. Start-lean vs TEN if he practices Thursday. 74 HOLD.",
-    "Sit confirmed landmines: Golden TNF, Saquon until named, DeVonta until named, Waddle DNP, Monangai until CHI sheet, Charbonnet until named, McConkey until protocol clear, Ward @ CIN, W8 byes."
+    "Gibbs shoulder DNP HOLDS. Campbell off-their-feet. Not a sit-yet. Watch Thursday. 95 HOLD. Do not smash-sell.",
+    "Sit confirmed landmines: Golden TNF, Saquon until named, DeVonta until named, Waddle DNP, Monangai until CHI sheet, Charbonnet until named, Egbuka until named, Hall until named, Ward @ CIN, W8 byes."
   ],
   "injuries": [
     {
@@ -6040,7 +6037,7 @@
       "pos": "QB",
       "team": "BAL",
       "status": "Official FP / Sleeper Q",
-      "note": "Ankle. First full practice since W4. Rapoport expect-to-play. NBC assume-play. Start-lean. Friday designation still MISSING. 86 HOLD.",
+      "note": "Ankle. First full since W4. Rapoport expect-to-play. Start-lean. Friday designation MISSING. 86 HOLD.",
       "replacement": "Tyler Huntley OWNED 30 hedge."
     },
     {
@@ -6048,7 +6045,7 @@
       "pos": "RB",
       "team": "PHI",
       "status": "IR",
-      "note": "Undisclosed. IR Wednesday. Min 4 games, earliest Dec 6. 24->8.",
+      "note": "Undisclosed. IR Wednesday. Min 4 games. 8.",
       "replacement": "Saquon if named. Else Mitchell FA / Blue FA $0 darts."
     },
     {
@@ -6056,7 +6053,7 @@
       "pos": "RB",
       "team": "PHI",
       "status": "Healthy / leftover FA",
-      "note": "Signed from PS to 53 after Pierce IR. NEW 8 GUESS. Only startable if Saquon sits.",
+      "note": "Signed from PS to 53 after Pierce IR. 8 GUESS. Only startable if Saquon sits.",
       "replacement": "Elijah Mitchell leftover FA 8 GUESS."
     },
     {
@@ -6064,24 +6061,32 @@
       "pos": "RB",
       "team": "PHI",
       "status": "Healthy / leftover FA",
-      "note": "3-11 + 3-23 MNF after both RBs left. 8 GUESS. $0 leftover.",
+      "note": "3-11 + 3-23 MNF after both RBs left. 8 GUESS. $0 leftover. Trending add.",
       "replacement": "Only startable if Saquon sits."
     },
     {
       "player": "Saquon Barkley",
       "pos": "RB",
       "team": "PHI",
-      "status": "Sleeper Q / official Wed tag MISSING",
-      "note": "Hamstring + new back. PHI walkthrough. NFL.com SNF empty. Sit until named. 30 GUESS.",
+      "status": "Official Wed DNP / Sleeper Q",
+      "note": "Hamstring + back. Official Wed DNP CLOSED. NFL.com SNF empty LAG. Sit until named. 30 GUESS.",
       "replacement": "Mitchell / Blue leftover FA. Neither is a locked RB2."
     },
     {
       "player": "DeVonta Smith",
       "pos": "WR",
       "team": "PHI",
-      "status": "Sleeper Q / official Wed tag MISSING",
-      "note": "Hamstring. PHI walkthrough. Sit until named. 36.",
+      "status": "Official Wed DNP / Sleeper Q",
+      "note": "Hamstring. Official Wed DNP CLOSED. Sit. 36.",
       "replacement": "Makai Lemon OWNED 16 GUESS."
+    },
+    {
+      "player": "Dallas Goedert",
+      "pos": "TE",
+      "team": "PHI",
+      "status": "Official Wed FP",
+      "note": "Knee. Official FP. SNF start-lean. 24.",
+      "replacement": "No locked PHI TE stream."
     },
     {
       "player": "Aaron Jones Sr.",
@@ -6096,7 +6101,7 @@
       "pos": "RB",
       "team": "DET",
       "status": "Official DNP / Sleeper Q",
-      "note": "NEW shoulder. Campbell said many stars off their feet. Awkward W7 slide was the leg, sheet says shoulder. Not a sit-yet. Watch Thursday. 95 HOLD.",
+      "note": "Shoulder. Campbell off-their-feet day. Not a sit-yet. Watch Thursday. 95 HOLD.",
       "replacement": "Sione Vaki FA. Not startable in this 10-team if Gibbs sits."
     },
     {
@@ -6112,7 +6117,7 @@
       "pos": "WR",
       "team": "CIN",
       "status": "Official DNP NIR-rest/ankle / Sleeper Q",
-      "note": "Maintenance. Seen in locker room. Start-lean vs TEN if he practices Thursday. 74 HOLD.",
+      "note": "Maintenance. Start-lean vs TEN if he practices Thursday. 74 HOLD.",
       "replacement": "Tee Higgins OWNED."
     },
     {
@@ -6120,15 +6125,15 @@
       "pos": "WR",
       "team": "GB",
       "status": "Official LP + Q",
-      "note": "Shoulder + foot. Upgraded DNP/DNP to LP. Still Q. TNF sit-lean until inactives. 24 HOLD.",
-      "replacement": "Christian Watson 24. Tet crumbs."
+      "note": "Shoulder + foot. TNF sit until ~18:45 inactives. 24 HOLD.",
+      "replacement": "Christian Watson OWNED. Tet crumbs."
     },
     {
       "player": "Jalen Coker",
       "pos": "WR",
       "team": "CAR",
       "status": "Official FP / no tag",
-      "note": "TNF START. Morning LP/Q STALE. 16 GUESS.",
+      "note": "TNF START tonight. 16 GUESS.",
       "replacement": "Tet is the 52."
     },
     {
@@ -6136,15 +6141,39 @@
       "pos": "QB",
       "team": "CAR",
       "status": "Official FP / no tag",
-      "note": "TNF START as SF2. 36.",
+      "note": "TNF START as SF2 tonight. 36.",
       "replacement": "None tonight."
+    },
+    {
+      "player": "Jordan Love",
+      "pos": "QB",
+      "team": "GB",
+      "status": "Healthy / no tag",
+      "note": "TNF START tonight. 62.",
+      "replacement": "None tonight."
+    },
+    {
+      "player": "Josh Jacobs",
+      "pos": "RB",
+      "team": "GB",
+      "status": "Healthy / no tag",
+      "note": "TNF START. 42 not 82.",
+      "replacement": "Not a 20-touch lock. Still start."
+    },
+    {
+      "player": "Tetairoa McMillan",
+      "pos": "WR",
+      "team": "CAR",
+      "status": "Healthy / no tag",
+      "note": "TNF START tonight. 52.",
+      "replacement": "Coker is the 16 GUESS."
     },
     {
       "player": "Breece Hall",
       "pos": "RB",
       "team": "NYJ",
       "status": "Official LP / Sleeper Q",
-      "note": "Quad. Limited Wednesday. Yahoo return appears likely. Sit until named. 28 HOLD.",
+      "note": "Quad. Limited Wednesday. Sit until named. 28 HOLD.",
       "replacement": "Braelon Allen OWNED 32. Also official LP ankle."
     },
     {
@@ -6204,6 +6233,14 @@
       "replacement": "Keon Coleman OWNED 22."
     },
     {
+      "player": "George Pickens",
+      "pos": "WR",
+      "team": "DAL",
+      "status": "Official LP shoulder/ham / Sleeper Q",
+      "note": "NEW ham on the sheet. Start-lean not a smash. 42 HOLD.",
+      "replacement": "Flournoy leftover FA if both Pickens and Turpin sit."
+    },
+    {
       "player": "Drake London",
       "pos": "WR",
       "team": "ATL",
@@ -6212,36 +6249,44 @@
       "replacement": "Pitts / Bijan crumbs."
     },
     {
+      "player": "Ladd McConkey",
+      "pos": "WR",
+      "team": "LAC",
+      "status": "Official Wed FP / Sleeper Q / protocol",
+      "note": "Chargers.com FP. NFL.com LAC empty LAG. Still concussion. Friday neurologist MISSING. 10->12 GUESS start-lean not a lock.",
+      "replacement": "Not a locked WR3 until Friday clearance."
+    },
+    {
+      "player": "Jeremiyah Love",
+      "pos": "RB",
+      "team": "ARI",
+      "status": "Official LP / Sleeper Q / leftover FA",
+      "note": "Ankle. Official Wednesday LP. Allgeier official DNP. Sit until named. 12 GUESS.",
+      "replacement": "Zonovan Knight OWNED 24."
+    },
+    {
+      "player": "Stefon Diggs",
+      "pos": "WR",
+      "team": "WAS",
+      "status": "Official Wed DNP / Sleeper Q",
+      "note": "Hand/ham/rest. Quinn said full Thursday. SNF start-lean if he practices. 28 GUESS.",
+      "replacement": "WAS WR1 if active. Burks leftover FA not a 10-team start."
+    },
+    {
       "player": "Kyle Monangai",
       "pos": "RB",
       "team": "CHI",
-      "status": "Sleeper Q / CHI official sheet Thursday",
-      "note": "Toe. Not seen Tuesday. Bears promoted Zavier Scott. Sit until Thursday sheet. 18.",
+      "status": "Sleeper Q / CHI official sheet still EMPTY",
+      "note": "Toe. NFL.com CHI No Injuries Reported. Sit until Thursday sheet. 18.",
       "replacement": "D'Andre Swift 36 GUESS. Roschon 18 GUESS."
     },
     {
       "player": "Zach Charbonnet",
       "pos": "RB",
       "team": "SEA",
-      "status": "Sleeper Q Knee-ACL / SEA sheet Thursday",
+      "status": "Sleeper Q Knee-ACL / SEA sheet still EMPTY",
       "note": "Macdonald: will practice fully, chance to debut MNF. Sit until named. 16 GUESS. Hold if rostered.",
       "replacement": "Emanuel Wilson 36."
-    },
-    {
-      "player": "Ladd McConkey",
-      "pos": "WR",
-      "team": "LAC",
-      "status": "Sleeper Q / protocol",
-      "note": "Harbaugh: still concussion protocol, will practice. LAC NFL.com empty. Sit until cleared. 10.",
-      "replacement": "Not a locked WR3 this week."
-    },
-    {
-      "player": "Jeremiyah Love",
-      "pos": "RB",
-      "team": "ARI",
-      "status": "Beat LP / Sleeper Q / leftover FA",
-      "note": "Ankle. LaFleur limited Wednesday. NFL.com ARI empty CONFLICT. Sit until named. 12 GUESS.",
-      "replacement": "Zonovan Knight OWNED 24."
     },
     {
       "player": "Christian McCaffrey",
@@ -6294,79 +6339,69 @@
   ],
   "news": [
     {
-      "player": "Dameon Pierce",
-      "note": "Eagles placed Pierce on IR Wednesday. Jaydon Blue signed to 53. Martin Frank / CBS / NBC.",
-      "impact": "24->8 IR. PHI backfield is Saquon plus leftover Mitchell / Blue. Must-act leftover dart."
+      "player": "Saquon Barkley",
+      "note": "Official Wednesday DNP ham/back CLOSED. Wednesday walkthrough-MISSING is STALE. NFL.com SNF empty is LAG.",
+      "impact": "30 GUESS sit until named. Blue / Mitchell remain the $0 PHI darts."
+    },
+    {
+      "player": "DeVonta Smith",
+      "note": "Official Wednesday DNP ham CLOSED.",
+      "impact": "36 sit. Lemon OWNED 16 GUESS is the flex dart."
+    },
+    {
+      "player": "Dallas Goedert",
+      "note": "Official Wednesday FP.",
+      "impact": "24 SNF start-lean."
+    },
+    {
+      "player": "Ladd McConkey",
+      "note": "Chargers.com official Wednesday FP. NFL.com LAC empty LAG. Still concussion protocol.",
+      "impact": "10->12 GUESS. Start-lean only after Friday neurologist. Not a lock."
+    },
+    {
+      "player": "Jeremiyah Love",
+      "note": "Official Wednesday LP. Allgeier official DNP. NFL.com ARI empty CONFLICT CLOSED.",
+      "impact": "12 GUESS HOLD. Stash not a W8 start. Knight OWNED 24."
+    },
+    {
+      "player": "George Pickens",
+      "note": "Official LP now lists shoulder/ham.",
+      "impact": "42 HOLD start-lean not a smash. Flournoy dart if he and Turpin sit."
     },
     {
       "player": "Malik Willis",
-      "note": "CORRECTION. Claimed Tuesday W7 waivers by AnalyticsOverlord. Still owned. last_ran=28 / W8 txs 0.",
-      "impact": "Morning leftover #1 STALE. 28 GUESS OWNED. Do not add."
-    },
-    {
-      "player": "KC Concepcion Jr.",
-      "note": "CORRECTION. Claimed Tuesday W7 waivers by QuietSniper.",
-      "impact": "OWNED. 16 GUESS. Do not add."
-    },
-    {
-      "player": "Caleb Douglas",
-      "note": "CORRECTION. Claimed Tuesday W7 waivers by TradeHurricane.",
-      "impact": "OWNED. 16 GUESS. Do not add."
+      "note": "Still OWNED. last_ran=28 / W8 txs 0.",
+      "impact": "28 GUESS OWNED. Do not add."
     },
     {
       "player": "Lamar Jackson",
-      "note": "Official Wednesday FP. First full since W4. Rapoport expect-to-play HOLDS.",
+      "note": "Official Wednesday FP HOLDS. First full since W4.",
       "impact": "86 HOLD. Start-lean. Huntley stays the hedge until Friday designation."
     },
     {
       "player": "Jahmyr Gibbs",
-      "note": "NEW official DNP shoulder. Campbell off-their-feet. Not previously reported.",
+      "note": "Official DNP shoulder HOLDS. Campbell off-their-feet.",
       "impact": "95 HOLD. Watch Thursday. Do not smash-sell. Vaki is not a 10-team start."
     },
     {
-      "player": "Ja'Marr Chase",
-      "note": "Official DNP NIR-rest/ankle. Maintenance. In locker room after practice.",
-      "impact": "74 HOLD. Start-lean vs TEN if he practices Thursday."
-    },
-    {
-      "player": "Aaron Jones Sr.",
-      "note": "Official Wednesday DNP knee.",
-      "impact": "30 HOLD sit-until-named. Mason 26 GUESS is the W8 lead-lean @ DET."
-    },
-    {
       "player": "Matthew Golden",
-      "note": "Official TNF LP + Q after Mon/Tue DNP.",
-      "impact": "24 HOLD. Sit-lean until Thursday inactives. Watson/Tet absorb."
+      "note": "Official TNF LP + Q HOLDS.",
+      "impact": "24 HOLD. Sit until ~18:45 inactives. Watson/Tet absorb."
     },
     {
       "player": "Jalen Coker",
-      "note": "Official TNF FP / no tag.",
-      "impact": "16 GUESS START tonight-window. Morning Q STALE."
+      "note": "Official TNF FP / no tag HOLDS.",
+      "impact": "16 GUESS START tonight."
     },
     {
       "player": "Jaylen Waddle",
-      "note": "Official Wednesday DNP chest.",
+      "note": "Official Wednesday DNP chest HOLDS.",
       "impact": "20 GUESS sit-lean. Sutton OWNED is the bump."
     },
     {
-      "player": "Brock Bowers",
-      "note": "Official Wednesday LP calf.",
-      "impact": "58 start-lean. Second DNP would flip."
-    },
-    {
-      "player": "Breece Hall",
-      "note": "Official Wednesday LP quad. Allen also LP ankle.",
-      "impact": "Hall 28 sit-until-named. Allen 32 if Hall sits. Committee if both play."
-    },
-    {
-      "player": "Drake London",
-      "note": "Not on ATL Wednesday sheet.",
-      "impact": "Head CLEARED. 64 start-lean @ TB."
-    },
-    {
-      "player": "Jaylin Noel",
-      "note": "HOU IR toe. Bye this week. Eligible W13.",
-      "impact": "FA skip. Not a stash in 10-team."
+      "player": "Dameon Pierce",
+      "note": "IR HOLDS. Blue still leftover FA.",
+      "impact": "8 IR. PHI dart board is leftover Mitchell / Blue."
     }
   ],
   "faab": [
@@ -6376,7 +6411,7 @@
       "priority": "Strong",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "NEW leftover after Pierce IR. Signed to 53. Only startable if Saquon sits SNF. 8 GUESS. $0 add."
+      "why": "Leftover after Pierce IR. Signed to 53. Only startable if Saquon sits SNF. 8 GUESS. $0 add."
     },
     {
       "player": "Elijah Mitchell",
@@ -6384,7 +6419,7 @@
       "priority": "Strong",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Leftover FA. Last man MNF. Same dart as Blue. 8 GUESS. $0 add. Prefer if you need a body tonight; both are GUESS."
+      "why": "Leftover FA. Last man MNF. Same dart as Blue. Trending. 8 GUESS. $0 add."
     },
     {
       "player": "Hunter Henry",
@@ -6408,7 +6443,7 @@
       "priority": "Speculative",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Leftover FA. 4-70. Turpin official DNP ribs. vs ARI smash-lean. 10 GUESS. $0 add."
+      "why": "Leftover FA. Turpin official DNP ribs. vs ARI smash-lean. 10 GUESS. $0 add."
     },
     {
       "player": "Jeremiyah Love",
@@ -6416,7 +6451,7 @@
       "priority": "Speculative",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Leftover FA. Beat LP Wednesday. Not a W8 start. Stash only. 12 GUESS. $0 add."
+      "why": "Leftover FA. Official LP Wednesday. Allgeier DNP. Not a W8 start. Stash only. 12 GUESS. $0 add."
     },
     {
       "player": "Tez Johnson",
@@ -6456,7 +6491,7 @@
       "priority": "Owned",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "OWNED. Morning must-add STALE. 28 GUESS."
+      "why": "OWNED. 28 GUESS. Do not add."
     },
     {
       "player": "KC Concepcion Jr.",
@@ -6464,7 +6499,7 @@
       "priority": "Owned",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "OWNED. Morning leftover STALE."
+      "why": "OWNED. Do not add."
     },
     {
       "player": "Caleb Douglas",
@@ -6472,7 +6507,7 @@
       "priority": "Owned",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "OWNED. Morning leftover STALE."
+      "why": "OWNED. Do not add."
     },
     {
       "player": "Terry McLaurin",
@@ -6514,7 +6549,7 @@
       "player": "Jordan Love",
       "pos": "QB",
       "call": "Must-start",
-      "note": "TNF vs CAR. Official no tag. 62."
+      "note": "TNF vs CAR TONIGHT. Official no tag. 62."
     },
     {
       "player": "Dak Prescott",
@@ -6526,7 +6561,7 @@
       "player": "Jahmyr Gibbs",
       "pos": "RB",
       "call": "Must-start",
-      "note": "vs MIN if named. NEW shoulder DNP is not a sit-yet. 95 HOLD."
+      "note": "vs MIN if named. Shoulder DNP is not a sit-yet. 95 HOLD."
     },
     {
       "player": "Bijan Robinson",
@@ -6586,13 +6621,13 @@
       "player": "Tetairoa McMillan",
       "pos": "WR",
       "call": "Must-start",
-      "note": "TNF @ GB. Official no tag. 52."
+      "note": "TNF @ GB TONIGHT. Official no tag. 52."
     },
     {
       "player": "Jalen Coker",
       "pos": "WR",
       "call": "Must-start",
-      "note": "TNF @ GB. Official FP no tag. 16 GUESS."
+      "note": "TNF @ GB TONIGHT. Official FP no tag. 16 GUESS."
     },
     {
       "player": "Amon-Ra St. Brown",
@@ -6622,7 +6657,7 @@
       "player": "Josh Jacobs",
       "pos": "RB",
       "call": "Strong start",
-      "note": "TNF vs CAR. 42 not 82."
+      "note": "TNF vs CAR TONIGHT. 42 not 82."
     },
     {
       "player": "D'Andre Swift",
@@ -6658,7 +6693,7 @@
       "player": "George Pickens",
       "pos": "WR",
       "call": "Strong start",
-      "note": "vs ARI. Official LP. Start. 42."
+      "note": "vs ARI. Official LP shoulder/ham. Start-lean not smash. 42."
     },
     {
       "player": "Jayden Daniels",
@@ -6685,10 +6720,16 @@
       "note": "SNF @ WAS as SF2. 26. Not Daniels."
     },
     {
+      "player": "Ladd McConkey",
+      "pos": "WR",
+      "call": "Strong start",
+      "note": "Official FP. Start-lean only after Friday protocol clearance. 12 GUESS."
+    },
+    {
       "player": "Bryce Young",
       "pos": "QB",
       "call": "Toss-up",
-      "note": "TNF @ GB startable SF2. Official no tag. 36."
+      "note": "TNF @ GB startable SF2 TONIGHT. Official no tag. 36."
     },
     {
       "player": "Malik Willis",
@@ -6700,13 +6741,19 @@
       "player": "Saquon Barkley",
       "pos": "RB",
       "call": "Toss-up",
-      "note": "Sit until named. 30 GUESS. Pierce IR."
+      "note": "Official Wed DNP. Sit until named. 30 GUESS."
     },
     {
       "player": "Makai Lemon",
       "pos": "WR",
       "call": "Toss-up",
       "note": "Flex only if DeVonta sits. 16 GUESS."
+    },
+    {
+      "player": "Stefon Diggs",
+      "pos": "WR",
+      "call": "Toss-up",
+      "note": "Wed DNP. Quinn full Thursday. SNF start-lean if he practices. 28 GUESS."
     },
     {
       "player": "Matthew Golden",
@@ -6736,13 +6783,13 @@
       "player": "Kyle Monangai",
       "pos": "RB",
       "call": "Sit / trap",
-      "note": "Q toe. CHI sheet Thursday. 18."
+      "note": "Q toe. CHI sheet still empty. 18."
     },
     {
       "player": "DeVonta Smith",
       "pos": "WR",
       "call": "Sit / trap",
-      "note": "PHI tag MISSING. Sit until named. 36."
+      "note": "Official Wed DNP. Sit. 36."
     },
     {
       "player": "Christian McCaffrey",
@@ -6791,6 +6838,18 @@
       "pos": "WR",
       "call": "Sit / trap",
       "note": "Dart only. Not a locked WR3. 16."
+    },
+    {
+      "player": "Zach Charbonnet",
+      "pos": "RB",
+      "call": "Sit / trap",
+      "note": "SEA sheet empty. Sit until named. 16 GUESS."
+    },
+    {
+      "player": "Emeka Egbuka",
+      "pos": "WR",
+      "call": "Sit / trap",
+      "note": "LP concussion/foot. Sit until named. 24."
     }
   ],
   "streamers_qb": [
@@ -6799,10 +6858,10 @@
     "Drake Maye @ MIA \u2014 88.",
     "Lamar Jackson @ BUF \u2014 official FP. Start-lean. Friday lock. 86 HOLD.",
     "Dak Prescott vs ARI \u2014 64.",
-    "Jordan Love TNF vs CAR \u2014 official no tag. 62.",
+    "Jordan Love TNF vs CAR TONIGHT \u2014 official no tag. 62.",
     "Jayden Daniels SNF vs PHI \u2014 62.",
     "Kirk Cousins @ NYJ \u2014 named. 44.",
-    "Bryce Young TNF @ GB \u2014 official no tag. Startable SF2. 36.",
+    "Bryce Young TNF @ GB TONIGHT \u2014 official no tag. Startable SF2. 36.",
     "Malik Willis vs NE \u2014 OWNED. 28 GUESS. Not a leftover add.",
     "Tyler Huntley \u2014 OWNED hedge 30. Not Lamar if Lamar is named.",
     "Tanner McKee SNF @ WAS \u2014 SF2. 26. Not Daniels.",
@@ -6810,14 +6869,15 @@
     "Do not stream Ward @ CIN. Do not stream Daniel Jones @ JAX. Do not start Hurts. Do not start Lamar as a lock until Friday designation."
   ],
   "actions_today": [
-    "SET TNF skeleton now. Start Love Jacobs Tet Young Coker. Sit Golden until Thursday inactives.",
-    "CORRECTION: Willis Concepcion Douglas OWNED. Do not add. Do not bid.",
+    "SET TNF NOW. Start Love Jacobs Tet Young Coker. Sit Golden until ~18:45 inactives. Weather is not a sit.",
+    "Sit Saquon and DeVonta. Official Wed DNP CLOSED. NFL.com SNF empty is LAG.",
+    "McConkey official FP. 10->12 GUESS start-lean after Friday clearance. Not a lock.",
+    "Willis Concepcion Douglas OWNED. Do not add. Do not bid.",
     "Add Blue $0 leftover if you need a PHI RB dart. Then Mitchell. Henry if TE-needy. Flournoy if you want the Turpin-out dart. Love-ARI is a stash not a start.",
     "Lamar official FP. Start-lean. Pair Huntley until Friday designation. 86 HOLD. Do not smash-sell.",
-    "Hold JSN 94. Hold Gibbs 95. Hold Amon-Ra 82. Hold Walker 78. Hold Taylor 74. Hold Chase 74. Hold CMC 72. Hold CeeDee 70. Hold Nacua 68. Hold Mahomes 72. Do not smash-sell on a Wednesday DNP.",
-    "Pierce IR 8. Saquon 30 GUESS sit until named. Mason is the Jones fill. Waddle sit-lean.",
-    "Watch Thursday: Gibbs shoulder, Chase rest/ankle, Hall/Allen, PHI Saquon/DeVonta tags, CHI/SEA first sheets, TNF inactives Golden.",
-    "Sit W8 byes. Sit Ward. Sit Hurts. Sit McLaurin. Sit Shaheed."
+    "Hold JSN 94. Hold Gibbs 95. Hold Amon-Ra 82. Hold Walker 78. Hold Taylor 74. Hold Chase 74. Hold CMC 72. Hold CeeDee 70. Hold Nacua 68. Hold Mahomes 72.",
+    "Watch Thursday: Gibbs shoulder, Chase rest/ankle, Hall/Allen, Diggs, CHI/SEA first sheets, TNF inactives Golden.",
+    "Sit W8 byes. Sit Ward. Sit Hurts. Sit McLaurin. Sit Shaheed. Sit Jones until named. Sit Waddle."
   ],
   "trade_rules_of_thumb": [
     "Bots trade off latest.json trade_board (formula 1.0.0). Manager intel uses the curated 1-100 scale in this packet. Do not mix the two.",
@@ -6826,8 +6886,9 @@
     "10-team benches are shallow. Do not pay a 2nd for a 4th RB. Depth pieces are leftovers.",
     "Side getting the best player gives extra in 2-for-1 / 3-for-1.",
     "Do not smash-sell a Wednesday DNP (Gibbs / Chase / Amon-Ra) or a mild return (Lamar FP).",
-    "IR is a discount not a drop if the player was a starter (Pierce is now an 8, not a stash).",
-    "Bye-week sit is not a trade-down (CMC 72 / Purdy 76 / Nabers 64)."
+    "IR is a discount not a drop if the player was a starter (Pierce is an 8, not a stash).",
+    "Bye-week sit is not a trade-down (CMC 72 / Purdy 76 / Nabers 64).",
+    "McConkey 12 GUESS is a protocol start-lean, not a buy-up to WR2."
   ],
   "ripoff_flags": [
     "Buying Jacobs as an 82. He is a 42. Startable TNF, not a top-5 RB.",
@@ -6837,6 +6898,7 @@
     "Streaming Ward @ CIN or Daniel Jones @ JAX as a paid Superflex.",
     "Adding McLaurin or Shaheed. Season / knee. FA skip.",
     "Paying for a 4th RB or a bye-week stash in this 10-team.",
-    "Treating formula 1.0.0 numbers (Gibbs 93 / Lamar 70 / Jacobs 30) as the curated board."
+    "Treating formula 1.0.0 numbers (Gibbs 93 / Lamar 70 / Jacobs 30) as the curated board.",
+    "Buying McConkey as a locked WR2 before Friday protocol clearance."
   ]
 }
