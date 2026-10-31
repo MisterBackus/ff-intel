@@ -1,6 +1,6 @@
 {
   "formula_version": "1.0.0",
-  "generated_at_et": "2026-10-31 06:00 PM EDT",
+  "generated_at_et": "2026-10-31 06:15 PM EDT",
   "nfl_week": "8",
   "league": {
     "id": "1395904889149739008",
@@ -29,7 +29,7 @@
     "Sleeper player directory for injury status, depth chart, search_rank",
     "Sleeper trending adds (48h) for the news/trend component"
   ],
-  "commit_message": "intel: 2026-10-31 week 8 values 1.0.0",
+  "commit_message": "intel: 2026-10-31 week 8",
   "sanity_gaps": [
     {
       "player": "Josh Jacobs",
@@ -6009,16 +6009,16 @@
     }
   ],
   "must_act_today": [
-    "Set Sunday 1:00 now. Do not wait for MNF tags. Lamar START (no Friday tag / Minter / NFL.com).",
-    "Sit Hall (Q quad). Start Braelon Allen. Sit AJB (Q, two DNP, Saturday look pending). Sit DJ Moore (Q AC). Sit Egbuka (OUT).",
+    "Set Sunday 1:00 now. Lamar START. Sit Hall / AJB / Henderson / DJ Moore / Egbuka. Start Allen-NYJ over Hall. Start Stevenson (Henderson OUT).",
+    "AJB official OUT (did not travel; knee flare). Sit. 18 GUESS HOLD. Douglas OWNED is the NE WR. Chism / Kyle Williams are $0 darts, not 10-team starts.",
+    "Henderson official OUT illness. Stevenson STARTS. 22 GUESS.",
+    "MNF tags IN. Monangai official OUT. Start Swift. Charbonnet PLAYS (Macdonald). Loveland PLAYS (removed). Sit Price until activated.",
     "DeVonta official OUT. Sit SNF. Lemon OWNED 18 GUESS is the PHI WR2.",
-    "Saquon Fri LP / no designation. Start-lean not a smash. 32 GUESS. Blue/Mitchell OWNED handcuffs.",
-    "Leftover FA $0: Mitchell OWNED. Tez is still #1 (Egbuka OUT; TB now 43.5). Then Flournoy (Turpin OUT). Ferguson if TE-needy. Do not bid.",
-    "MNF tags MISSING ~16:00. Sit Monangai (second DNP) / Charbonnet (Thu FP to Fri LP) / Loveland (NEW Q neck). Start Swift / JSN.",
-    "LV -1.5 flip STALE. NYJ -1.5 again. Cousins is a named SF2, not a smash favorite.",
-    "JAX -10 / 16 mph / gusts 25: start Taylor. Do not stream Daniel Jones. Warren is a start-lean.",
-    "Hold Watson 28 GUESS after broken rib. Hold Golden 28. Do not smash-sell either.",
-    "AJB Saturday look still pending. Conservative sit until inactives."
+    "Saquon Fri LP / no designation. Start-lean not a smash. 32 GUESS. Blue OWNED. Mitchell FA again after the Tez claim.",
+    "Leftover FA $0: Tez OWNED. Flournoy is #1 (Turpin OUT; 54.5). Then Chism (AJB OUT dart). Ferguson if TE-needy. Do not bid.",
+    "JAX wind HOLDS 15-17 mph; rain faded 36-37%. Start Taylor. Do not stream Daniel Jones. Warren is a start-lean.",
+    "Hold Watson 28 GUESS after broken rib. Hold Golden 28. Do not smash-sell AJB to 8.",
+    "TB rain BACK UP 64-69%. 43.5 still the smash-kill. London / Bijan / Irving still start."
   ],
   "injuries": [
     {
@@ -6058,7 +6058,7 @@
       "pos": "TE",
       "team": "LV",
       "status": "Official FP / Healthy",
-      "note": "Calf cleared. Start. NYJ now -1.5 again. 58.",
+      "note": "Calf cleared. Start. NYJ -1.5. 58.",
       "replacement": "No locked LV TE stream."
     },
     {
@@ -6074,8 +6074,8 @@
       "pos": "RB",
       "team": "PHI",
       "status": "Fri LP / no designation / Sleeper Healthy",
-      "note": "Ham/back. CBS expected to play. Start-lean not a smash. 32 GUESS.",
-      "replacement": "Mitchell OWNED $0. Blue OWNED $3. Neither is a locked RB2 if Saquon is expected."
+      "note": "Ham/back. Expected to play. Start-lean not a smash. 32 GUESS.",
+      "replacement": "Blue OWNED. Mitchell FA again after Tez claim. Neither is a locked RB2 if Saquon is expected."
     },
     {
       "player": "DeVonta Smith",
@@ -6097,9 +6097,25 @@
       "player": "A.J. Brown",
       "pos": "WR",
       "team": "NE",
-      "status": "Official Q / Saturday look pending",
-      "note": "Ankle/knee. Missed Thu+Fri. Vrabel: Saturday decides. No clearance yet. Sit. 22 GUESS.",
-      "replacement": "Maye still the 88. Douglas OWNED. No locked NE WR2."
+      "status": "Official OUT",
+      "note": "Ankle/knee. Did not travel. Knee flare after high-ankle. Sit. 18 GUESS HOLD.",
+      "replacement": "Maye still the 88. Douglas OWNED. Chism / Kyle Williams $0 darts, not 10-team starts."
+    },
+    {
+      "player": "TreVeyon Henderson",
+      "pos": "RB",
+      "team": "NE",
+      "status": "Official OUT",
+      "note": "Illness. Did not travel. Sit. 16 GUESS (W9 back).",
+      "replacement": "Rhamondre Stevenson OWNED STARTS. 22 GUESS."
+    },
+    {
+      "player": "Rhamondre Stevenson",
+      "pos": "RB",
+      "team": "NE",
+      "status": "Healthy / START",
+      "note": "Henderson OUT. Storms + NE -7 lean run. 22 GUESS.",
+      "replacement": "Lan Larison / Corey Kiner FA crumbs. Not 10-team starts."
     },
     {
       "player": "Aaron Jones Sr.",
@@ -6202,7 +6218,7 @@
       "pos": "WR",
       "team": "DEN",
       "status": "Official Q",
-      "note": "Chest. Sit-lean. 22 GUESS.",
+      "note": "Chest. Sit-lean. 22 GUESS. Footballguys Sat 17:00 lean active \u2014 still not a lock WR2 vs KC.",
       "replacement": "Courtland Sutton OWNED."
     },
     {
@@ -6226,15 +6242,15 @@
       "pos": "WR",
       "team": "TB",
       "status": "Official OUT",
-      "note": "NFL/CBS foot vs Yahoo concussion CONFLICT. Sit either way. 16. Expected W9.",
-      "replacement": "Tez Johnson FA 10 GUESS. Godwin available after rest DNP."
+      "note": "NFL/CBS foot vs Yahoo concussion CONFLICT. Sit either way. 16.",
+      "replacement": "Tez Johnson OWNED 10 GUESS. Godwin available after rest DNP."
     },
     {
       "player": "DJ Moore",
       "pos": "WR",
       "team": "BUF",
       "status": "Official Q",
-      "note": "AC. Sit. 24.",
+      "note": "AC. Sit. 24. Footballguys optimistic \u2014 still sit as a lock.",
       "replacement": "Keon Coleman OWNED."
     },
     {
@@ -6243,14 +6259,14 @@
       "team": "DAL",
       "status": "Official Q",
       "note": "Shoulder/ham. Start-lean not a smash. 42 HOLD.",
-      "replacement": "CeeDee is the 70. Flournoy FA if Turpin-out dart."
+      "replacement": "CeeDee is the 70. Flournoy FA leftover #1."
     },
     {
       "player": "Drake London",
       "pos": "WR",
       "team": "ATL",
       "status": "Healthy",
-      "note": "Head cleared. Start. TB 43.5 is a smash-kill not a sit. 64.",
+      "note": "Head cleared. Start. TB 43.5 + 64-69% storms is a smash-kill not a sit. 64.",
       "replacement": "Zaccheaus Q. Not a 10-team add."
     },
     {
@@ -6281,24 +6297,16 @@
       "player": "RJ Harvey",
       "pos": "RB",
       "team": "DEN",
-      "status": "Official OUT",
-      "note": "Knee. Sit.",
+      "status": "IR",
+      "note": "Knee. Placed on IR Saturday. 4+ weeks. Sit. 8 GUESS.",
       "replacement": "Dobbins / Jonah Coleman OWNED committee. Neither is a smash."
-    },
-    {
-      "player": "TreVeyon Henderson",
-      "pos": "RB",
-      "team": "NE",
-      "status": "Official Q / Sleeper Q Ankle CONFLICT",
-      "note": "Illness vs ankle. Sit-lean as a lock RB2.",
-      "replacement": "Rhamondre Stevenson if Henderson sits."
     },
     {
       "player": "Bucky Irving",
       "pos": "RB",
       "team": "TB",
       "status": "Rest DNP / no Friday tag",
-      "note": "Start. Storm is a watch. 43.5 is not a sit.",
+      "note": "Start. Storms + 43.5 are a watch not a sit.",
       "replacement": "Gainwell official Q hip."
     },
     {
@@ -6313,32 +6321,32 @@
       "player": "Kyle Monangai",
       "pos": "RB",
       "team": "CHI",
-      "status": "Sleeper Q / Thu+Fri DNP / MNF tag MISSING",
-      "note": "Thumb/toe. Sit until Saturday ~16:00 named.",
+      "status": "Official OUT",
+      "note": "Thumb/toe. Sat DNP x3. Fourth straight. Sit.",
       "replacement": "D'Andre Swift OWNED 36 GUESS."
     },
     {
       "player": "Zach Charbonnet",
       "pos": "RB",
       "team": "SEA",
-      "status": "Sleeper Q Knee-ACL / Thu FP to Fri LP / MNF tag MISSING",
-      "note": "Sit until Saturday named. Return path weaker than Friday.",
-      "replacement": "Emanuel Wilson OWNED 36."
+      "status": "Sat FP / no tag / PLAYS",
+      "note": "ACL season debut. Macdonald: will play. 32 GUESS start-lean, not a smash (pitch-count).",
+      "replacement": "Emanuel Wilson OWNED 30 sit-lean as a lock RB2."
     },
     {
       "player": "Colston Loveland",
       "pos": "TE",
       "team": "CHI",
-      "status": "Sleeper Q neck / Fri LP / MNF tag MISSING",
-      "note": "NEW Friday. Sit-lean until Saturday named. 16 GUESS.",
+      "status": "Sat FP / removed / PLAYS",
+      "note": "Minor neck. Johnson said minor. Start-lean. 18 GUESS.",
       "replacement": "No locked CHI TE stream if he sits."
     },
     {
       "player": "Jeremiyah Love",
       "pos": "RB",
       "team": "ARI",
-      "status": "Not on Fri Out/Q / FA",
-      "note": "Thu LP ankle. Stash not a W8 start. 12 GUESS.",
+      "status": "Returns / Cardinals clear / FA",
+      "note": "Stash not a W8 start. 12 GUESS.",
       "replacement": "Knight OWNED 24. Allgeier off report."
     },
     {
@@ -6353,9 +6361,9 @@
       "player": "Jadarian Price",
       "pos": "RB",
       "team": "SEA",
-      "status": "IR / Fri FP / FA",
-      "note": "Eligible but not activated. Do not add.",
-      "replacement": "Wilson-SEA is the MNF RB until Charbonnet is named."
+      "status": "IR / Sat FP / no tag / FA",
+      "note": "Eligible but not activated. Schefter expected if rostered Monday. Do not add until activated. Not a W8 start.",
+      "replacement": "Charbonnet is the MNF RB lean. Wilson is the committee."
     },
     {
       "player": "Christian McCaffrey",
@@ -6379,7 +6387,7 @@
       "team": "PHI",
       "status": "IR FA",
       "note": "Do not add. 8.",
-      "replacement": "Blue / Mitchell OWNED."
+      "replacement": "Blue OWNED. Mitchell FA cuff."
     },
     {
       "player": "KaVontae Turpin",
@@ -6387,7 +6395,7 @@
       "team": "DAL",
       "status": "Official OUT",
       "note": "Ribs.",
-      "replacement": "Ryan Flournoy FA 10 GUESS."
+      "replacement": "Ryan Flournoy FA 10 GUESS leftover #1."
     },
     {
       "player": "Tyjae Spears",
@@ -6396,53 +6404,84 @@
       "status": "Official OUT",
       "note": "Knee. FA. Do not add.",
       "replacement": "Pollard is the start."
+    },
+    {
+      "player": "Dalton Kincaid",
+      "pos": "TE",
+      "team": "BUF",
+      "status": "Official Q",
+      "note": "Chest. Footballguys optimistic. Start-lean if you need the BUF TE. OWNED.",
+      "replacement": "No locked BUF TE stream if he sits."
+    },
+    {
+      "player": "Tez Johnson",
+      "pos": "WR",
+      "team": "TB",
+      "status": "Healthy / OWNED",
+      "note": "Saturday $0 claim. Egbuka OUT. 43.5 + 64-69% storms. 10 GUESS dart, not a smash.",
+      "replacement": "Godwin available after rest DNP."
     }
   ],
   "news": [
     {
+      "player": "A.J. Brown",
+      "note": "Official OUT Saturday. Did not travel. Knee flare after high-ankle. Patriots.com 16:00 / NFL.com.",
+      "impact": "Sit. 22\u219218 GUESS HOLD. Douglas OWNED. Chism / Kyle Williams leftover darts."
+    },
+    {
+      "player": "TreVeyon Henderson",
+      "note": "Official OUT illness. Did not travel.",
+      "impact": "Sit. Stevenson STARTS. 22 GUESS."
+    },
+    {
       "player": "MNF designations",
-      "note": "Bears.com / Seahawks.com Saturday columns still blank as of 08:15 ET.",
-      "impact": "Sit Monangai / Charbonnet / Loveland until ~16:00 ET named."
+      "note": "Bears.com / Seahawks.com Saturday columns IN. Monangai OUT. Charbonnet no tag. Loveland removed.",
+      "impact": "Morning sit-until-named is STALE. Start Swift. Charbonnet start-lean. Loveland start-lean."
     },
     {
       "player": "Zach Charbonnet",
-      "note": "Thu FP to Fri LP knee. No Saturday tag.",
-      "impact": "Return path weaker than Friday. Wilson-SEA stays the MNF RB."
+      "note": "Sat FP / no tag. Macdonald confirmed he will play. ACL season debut.",
+      "impact": "32 GUESS start-lean, not a smash. Wilson-SEA 36\u219230 sit-lean."
     },
     {
       "player": "Colston Loveland",
-      "note": "NEW Friday LP / Sleeper Q neck.",
-      "impact": "Sit-lean until Saturday named. 16 GUESS."
+      "note": "Sat FP / removed. Johnson: minor neck.",
+      "impact": "Start-lean. 16\u219218 GUESS."
     },
     {
-      "player": "LV @ NYJ line",
-      "note": "eDraft Sat 7:03 AM NYJ -1.5 / 45.5. Friday LV -1.5 flip STALE.",
-      "impact": "Cousins is a named SF2, not a smash favorite."
+      "player": "Kyle Monangai",
+      "note": "Official OUT. Sat DNP x3. Fourth straight.",
+      "impact": "Sit. Swift is the MNF RB."
     },
     {
-      "player": "ATL @ TB total",
-      "note": "eDraft Sat 43.5. Friday 48.5 STALE. NWS rain ~45% vs Friday DK 78%.",
-      "impact": "London / Bijan / Irving still start. Not a smash. Tez is a dart."
+      "player": "Tez Johnson",
+      "note": "Saturday $0 waiver complete. Dropped Elijah Mitchell. last_ran=31. Week 8 txs 6.",
+      "impact": "OWNED. Leftover #1 is now Flournoy. Mitchell FA again."
     },
     {
-      "player": "IND @ JAX line/weather",
-      "note": "JAX -10 / 46.5. NWS 76 / E 16 / gusts 25 / 54-55% rain.",
+      "player": "RJ Harvey",
+      "note": "Placed on IR Saturday. Knee. 4+ weeks.",
+      "impact": "Sit. 8 GUESS. Dobbins / Coleman committee."
+    },
+    {
+      "player": "Jadarian Price",
+      "note": "No designation but still IR. Schefter expected if activated Monday.",
+      "impact": "Do not add until the roster move. Not a W8 start."
+    },
+    {
+      "player": "IND @ JAX weather",
+      "note": "NWS Sat 3:20: 77 / E 15 / 36-37% rain. GDW 17 mph. Morning 54-55% STALE. Wind HOLDS.",
       "impact": "Start Taylor. Do not stream Daniel Jones. Warren start-lean."
     },
     {
-      "player": "TEN @ CIN line",
-      "note": "CIN -12.5 confirmed. Friday -10 listing CONFLICT resolved.",
-      "impact": "Burrow / Chase / Higgins smash. Do not start owned Ward."
-    },
-    {
-      "player": "A.J. Brown",
-      "note": "Vrabel: Saturday look decides. No Saturday clearance as of 08:15.",
-      "impact": "Sit. Two DNP + Q. 22 GUESS."
+      "player": "ATL @ TB weather",
+      "note": "NWS/GDW Sat PM 64-69% storms. Morning ~45% STALE. Total still 43.5.",
+      "impact": "London / Bijan / Irving still start. Not a smash. Tez owned dart."
     },
     {
       "player": "Emeka Egbuka",
       "note": "Official OUT. NFL/CBS foot vs Yahoo concussion CONFLICT.",
-      "impact": "Sit either way. 16. Tez leftover #1."
+      "impact": "Sit either way. 16. Tez owned."
     },
     {
       "player": "Lamar Jackson",
@@ -6456,31 +6495,26 @@
     },
     {
       "player": "Saquon Barkley",
-      "note": "Fri LP / no designation HOLD. CBS expected to play.",
+      "note": "Fri LP / no designation HOLD. Expected to play.",
       "impact": "Start-lean not a smash. 32 GUESS."
-    },
-    {
-      "player": "Elijah Mitchell",
-      "note": "Friday $0 waiver complete. last_ran still 30. No Saturday claim.",
-      "impact": "OWNED. Tez / Flournoy / Ferguson still FA."
     }
   ],
   "faab": [
     {
-      "player": "Tez Johnson",
+      "player": "Ryan Flournoy",
       "pos": "WR",
       "priority": "Strong",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Leftover #1. Egbuka OUT. vs ATL 43.5 storm watch. 10 GUESS. $0 add. Not a smash after the total crash."
+      "why": "New leftover #1. Turpin OUT ribs. vs ARI 54.5 dome. 10 GUESS. $0 add."
     },
     {
-      "player": "Ryan Flournoy",
+      "player": "Efton Chism III",
       "pos": "WR",
       "priority": "Speculative",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Turpin official OUT ribs. vs ARI 54.5 dome. 10 GUESS. $0 add."
+      "why": "AJB OUT. Douglas / Henry owned. Storms + NE -7 run script. Not a 10-team start. 8 GUESS. $0 add."
     },
     {
       "player": "Jake Ferguson",
@@ -6491,12 +6525,20 @@
       "why": "Dropped in Ward claim. vs ARI 54.5 dome. TE-needy only now that Henry is owned. 12 GUESS. $0 add."
     },
     {
+      "player": "Elijah Mitchell",
+      "pos": "RB",
+      "priority": "Speculative",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "FA again after Tez claim. Elevated Saturday. Saquon cuff only. Not a W8 start if Saquon is expected. 8 GUESS. $0 add."
+    },
+    {
       "player": "Mason Taylor",
       "pos": "TE",
       "priority": "Speculative",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Leftover FA. vs LV (NYJ -1.5 again). TE-needy only. 16 GUESS. $0 add."
+      "why": "Leftover FA. vs LV (NYJ -1.5). TE-needy only. 16 GUESS. $0 add."
     },
     {
       "player": "Jeremiyah Love",
@@ -6504,7 +6546,15 @@
       "priority": "Speculative",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Leftover FA. Off Fri Out/Q. Not a W8 start. Stash only. 12 GUESS. $0 add."
+      "why": "Returns / Cardinals clear. Not a W8 start. Stash only. 12 GUESS. $0 add."
+    },
+    {
+      "player": "Kyle Williams",
+      "pos": "WR",
+      "priority": "Speculative",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "AJB OUT boom/bust. One 3-91-1 flash. Behind Chism as a floor dart. 8 GUESS. $0 add."
     },
     {
       "player": "Roschon Johnson",
@@ -6512,111 +6562,23 @@
       "priority": "Speculative",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Swift handcuff if Monangai is sat. Not a start. $0 after tags, not before."
-    },
-    {
-      "player": "Jakobi Meyers",
-      "pos": "WR",
-      "priority": "Speculative",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "Leftover FA / official Q ham/ankle + JAX wind. Only if desperate. 12 GUESS."
-    },
-    {
-      "player": "Elijah Mitchell",
-      "pos": "RB",
-      "priority": "Owned",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "OWNED $0 Friday (drop Higbee). 8 GUESS. Do not add."
-    },
-    {
-      "player": "Jaydon Blue",
-      "pos": "RB",
-      "priority": "Owned",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "OWNED $3. 8 GUESS."
-    },
-    {
-      "player": "Hunter Henry",
-      "pos": "TE",
-      "priority": "Owned",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "OWNED $0. 14."
-    },
-    {
-      "player": "Cam Ward",
-      "pos": "QB",
-      "priority": "Owned",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "OWNED $0 trap. Do not start @ CIN. Curated 12."
-    },
-    {
-      "player": "Malik Willis",
-      "pos": "QB",
-      "priority": "Owned",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "OWNED. 28 GUESS. Do not add."
-    },
-    {
-      "player": "KC Concepcion Jr.",
-      "pos": "WR",
-      "priority": "Owned",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "OWNED. Do not add."
-    },
-    {
-      "player": "Caleb Douglas",
-      "pos": "WR",
-      "priority": "Owned",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "OWNED. Do not add."
-    },
-    {
-      "player": "Dameon Pierce",
-      "pos": "RB",
-      "priority": "Sit",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "IR FA after Blue claim. Do not add. 8."
-    },
-    {
-      "player": "Daniel Jones",
-      "pos": "QB",
-      "priority": "Sit",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "Leftover FA. @ JAX -10 + 16 mph / gusts 25. Do not stream. 20."
+      "why": "Swift handcuff with Monangai OUT. Not a W8 start. $0 dart."
     },
     {
       "player": "Jadarian Price",
       "pos": "RB",
-      "priority": "Sit",
+      "priority": "Skip",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "IR FA. Fri FP but not activated. Do not add."
+      "why": "Still IR. Do not add until activated. Not a W8 start."
     },
     {
-      "player": "Terry McLaurin",
+      "player": "Tez Johnson",
       "pos": "WR",
-      "priority": "Sit",
+      "priority": "Owned",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Season. FA. Do not add. 6."
-    },
-    {
-      "player": "Rashid Shaheed",
-      "pos": "WR",
-      "priority": "Sit",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "Knee. FA. Do not add."
+      "why": "Saturday $0 claim. Do not add. 10 GUESS owned dart."
     }
   ],
   "start_sit": [
@@ -6636,7 +6598,7 @@
       "player": "Drake Maye",
       "pos": "QB",
       "call": "Must-start",
-      "note": "@ MIA 83-89% storms. 88. Still a must-start."
+      "note": "@ MIA 66-89% storms. 88. Still a must-start. AJB OUT."
     },
     {
       "player": "Lamar Jackson",
@@ -6666,7 +6628,7 @@
       "player": "Bijan Robinson",
       "pos": "RB",
       "call": "Must-start",
-      "note": "@ TB 43.5. 94. Start, not a smash."
+      "note": "@ TB 43.5 + 64-69% storms. 94. Start, not a smash."
     },
     {
       "player": "Kenneth Walker III",
@@ -6678,7 +6640,7 @@
       "player": "Jonathan Taylor",
       "pos": "RB",
       "call": "Must-start",
-      "note": "@ JAX wind. RB lean. 74."
+      "note": "@ JAX wind 15-17. RB lean. 74."
     },
     {
       "player": "James Cook III",
@@ -6726,7 +6688,7 @@
       "player": "Drake London",
       "pos": "WR",
       "call": "Must-start",
-      "note": "@ TB 43.5. 64. Start, not a smash."
+      "note": "@ TB 43.5 + storms. 64. Start, not a smash."
     },
     {
       "player": "Trey McBride",
@@ -6747,6 +6709,12 @@
       "note": "Hall Q. Start. 32."
     },
     {
+      "player": "Rhamondre Stevenson",
+      "pos": "RB",
+      "call": "Strong",
+      "note": "Henderson OUT. Start. 22 GUESS."
+    },
+    {
       "player": "Tony Pollard",
       "pos": "RB",
       "call": "Strong",
@@ -6756,7 +6724,19 @@
       "player": "Bucky Irving",
       "pos": "RB",
       "call": "Strong",
-      "note": "Rest DNP / no tag. Start. 43.5 / storm is a watch not a sit."
+      "note": "Rest DNP / no tag. Start. Storms + 43.5 are a watch not a sit."
+    },
+    {
+      "player": "D'Andre Swift",
+      "pos": "RB",
+      "call": "Strong",
+      "note": "MNF. Monangai official OUT. 36 GUESS."
+    },
+    {
+      "player": "Zach Charbonnet",
+      "pos": "RB",
+      "call": "Strong",
+      "note": "PLAYS. Macdonald confirmed. ACL debut. 32 GUESS start-lean, not a smash."
     },
     {
       "player": "Stefon Diggs",
@@ -6789,6 +6769,12 @@
       "note": "Off report. Start-lean. 32."
     },
     {
+      "player": "Colston Loveland",
+      "pos": "TE",
+      "call": "Strong",
+      "note": "Cleared. Sat FP / removed. 18 GUESS start-lean."
+    },
+    {
       "player": "George Pickens",
       "pos": "WR",
       "call": "Strong",
@@ -6798,19 +6784,13 @@
       "player": "Kirk Cousins",
       "pos": "QB",
       "call": "Strong",
-      "note": "Named SF2. NYJ -1.5 again (LV flip STALE). 44."
+      "note": "Named SF2. NYJ -1.5. 44."
     },
     {
       "player": "Jayden Daniels",
       "pos": "QB",
       "call": "Strong",
       "note": "SNF vs PHI 40.5. 62."
-    },
-    {
-      "player": "D'Andre Swift",
-      "pos": "RB",
-      "call": "Strong",
-      "note": "MNF. Monangai sit until Saturday. 36 GUESS."
     },
     {
       "player": "Caleb Williams",
@@ -6852,7 +6832,13 @@
       "player": "Tez Johnson",
       "pos": "WR",
       "call": "Toss-up",
-      "note": "FA dart if you need a TB WR. 43.5. 10 GUESS."
+      "note": "OWNED dart. Egbuka OUT. 43.5 + storms. 10 GUESS."
+    },
+    {
+      "player": "Emanuel Wilson",
+      "pos": "RB",
+      "call": "Toss-up",
+      "note": "Sit-lean as a lock now that Charbonnet plays. 30."
     },
     {
       "player": "Breece Hall",
@@ -6864,7 +6850,13 @@
       "player": "A.J. Brown",
       "pos": "WR",
       "call": "Sit / trap",
-      "note": "Q. Two DNP. Saturday look pending. Sit. 22 GUESS."
+      "note": "Official OUT. Did not travel. 18 GUESS."
+    },
+    {
+      "player": "TreVeyon Henderson",
+      "pos": "RB",
+      "call": "Sit / trap",
+      "note": "Official OUT illness. 16 GUESS."
     },
     {
       "player": "DeVonta Smith",
@@ -6906,25 +6898,13 @@
       "player": "Kyle Monangai",
       "pos": "RB",
       "call": "Sit / trap",
-      "note": "Thu+Fri DNP toe. Sit until Saturday ~16:00. Swift is the MNF RB."
-    },
-    {
-      "player": "Zach Charbonnet",
-      "pos": "RB",
-      "call": "Sit / trap",
-      "note": "Thu FP to Fri LP. MNF tag MISSING. Sit until Saturday named."
-    },
-    {
-      "player": "Colston Loveland",
-      "pos": "TE",
-      "call": "Sit / trap",
-      "note": "NEW Q neck. Sit until Saturday named. 16 GUESS."
+      "note": "Official OUT thumb/toe. Fourth straight. Swift is the MNF RB."
     },
     {
       "player": "RJ Harvey",
       "pos": "RB",
       "call": "Sit / trap",
-      "note": "Official OUT knee."
+      "note": "IR knee. 4+ weeks. 8 GUESS."
     },
     {
       "player": "Dameon Pierce",
@@ -6943,17 +6923,23 @@
       "pos": "QB",
       "call": "Sit / trap",
       "note": "IR season. 8."
+    },
+    {
+      "player": "Jadarian Price",
+      "pos": "RB",
+      "call": "Sit / trap",
+      "note": "Still IR. Do not add. Not a W8 start."
     }
   ],
   "streamers_qb": [
     "Josh Allen vs BAL \u2014 100. Shootout 54.5. Dry.",
     "Joe Burrow vs TEN \u2014 90. -12.5 confirmed.",
-    "Drake Maye @ MIA \u2014 88. Storm watch, still must-start.",
+    "Drake Maye @ MIA \u2014 88. Storm watch, still must-start. AJB OUT.",
     "Lamar Jackson @ BUF \u2014 no Friday tag. START. 86 HOLD.",
     "Dak Prescott vs ARI \u2014 64.",
     "Jordan Love TNF vs CAR \u2014 USED 288/3/1. 62 HOLD.",
     "Jayden Daniels SNF vs PHI \u2014 62.",
-    "Kirk Cousins @ NYJ \u2014 named. NYJ -1.5 again (LV flip STALE). 44.",
+    "Kirk Cousins @ NYJ \u2014 named. NYJ -1.5. 44.",
     "Bryce Young TNF @ GB \u2014 USED 209/1/1. 32.",
     "Malik Willis vs NE \u2014 OWNED. 28 GUESS. Not a leftover add.",
     "Tyler Huntley \u2014 OWNED hedge 30. Bench. Lamar starts.",
@@ -6964,17 +6950,17 @@
   ],
   "actions_today": [
     "Set Sunday 1:00 now. Start Lamar / Allen / Burrow / Maye / Dak / Gibbs / Bijan / Walker / Taylor / Cook / Chase / CeeDee / London / Amon-Ra / Bowers / McBride.",
-    "Sit Hall / AJB / DJ Moore / Egbuka / Harvey / BRob / Ward / Daniel Jones / W8 byes. Start Allen-NYJ over Hall. AJB Saturday look is not a start.",
+    "Sit Hall / AJB / Henderson / DJ Moore / Egbuka / Harvey / BRob / Ward / Daniel Jones / W8 byes. Start Allen-NYJ over Hall. Start Stevenson over Henderson.",
     "SNF: sit DeVonta. Start Diggs. Saquon start-lean not a smash. Lemon if you need a PHI WR.",
-    "Willis Concepcion Douglas Blue Henry Ward Mitchell OWNED. Do not add. Do not bid.",
-    "Add Tez $0 leftover (Egbuka OUT; TB 43.5 dart). Then Flournoy (Turpin OUT). Ferguson if TE-needy. Love-ARI is a stash not a start.",
+    "Willis Concepcion Douglas Blue Henry Ward Tez OWNED. Do not add. Do not bid.",
+    "Add Flournoy $0 leftover (Turpin OUT; 54.5). Then Chism (AJB OUT dart). Ferguson if TE-needy. Mitchell is a cuff not a start. Love-ARI is a stash not a start.",
     "McConkey off report. 18 GUESS start-lean. Not a WR1.",
     "Jones plays. Sit-lean as a lock RB2 @ DET. Mason is the safer W8 play. 30 HOLD.",
-    "Hold Watson 28 GUESS after the broken rib. Hold Golden 28. Hubbard 40. Young 32.",
-    "JAX wind: start Taylor. Sit Daniel Jones. Warren is a start-lean.",
-    "Watch Saturday ~16:00 MNF tags: Monangai / Charbonnet / Loveland. Start Swift / JSN / Caleb. Sit the three until named.",
+    "Hold Watson 28 GUESS after the broken rib. Hold Golden 28. Hubbard 40. Young 32. Do not smash-sell AJB to 8.",
+    "JAX wind: start Taylor. Sit Daniel Jones. Warren is a start-lean. Rain faded; wind holds.",
+    "MNF is set: Monangai OUT. Start Swift / JSN / Caleb. Charbonnet start-lean (plays; pitch-count). Loveland start-lean. Sit Wilson-SEA as a lock. Sit Price until activated.",
     "Hold JSN 94. Hold Gibbs 95. Hold Amon-Ra 82. Hold Walker 78. Hold Taylor 74. Hold Chase 74. Hold CMC 72. Hold CeeDee 70. Hold Nacua 68. Hold Mahomes 72. Hold Lamar 86.",
-    "Sit W8 byes. Sit Ward. Sit Hurts. Sit McLaurin. Sit Shaheed. Sit Hall. Sit AJB. Sit Waddle as a lock."
+    "Sit W8 byes. Sit Ward. Sit Hurts. Sit McLaurin. Sit Shaheed. Sit Hall. Sit AJB. Sit Henderson. Sit Waddle as a lock."
   ],
   "trade_rules_of_thumb": [
     "Bots trade off latest.json trade_board (formula 1.0.0). Manager intel uses the curated 1-100 scale in this packet. Do not mix the two.",
@@ -6984,12 +6970,15 @@
     "Side getting the best player gives extra in 2-for-1 / 3-for-1.",
     "Do not smash-sell a locked start (Lamar / Gibbs / Chase / Amon-Ra) or buy Saquon as a 70 because he has no tag.",
     "Do not smash-sell Watson after 8-113 because of a broken-rib headline. 28 GUESS HOLD.",
-    "IR is a discount not a drop if the player was a starter (Pierce is an 8 FA skip, not a stash).",
+    "Do not smash-sell AJB to 8 because he did not travel. 18 GUESS HOLD.",
+    "Do not buy Charbonnet as a locked RB1 on an ACL debut. 32 GUESS start-lean.",
+    "IR is a discount not a drop if the player was a starter (Harvey is an 8 IR sit, Pierce is an 8 FA skip).",
     "Bye-week sit is not a trade-down (CMC 72 / Purdy 76 / Nabers 64).",
     "McConkey 18 GUESS is a cleared start-lean, not a buy-up to WR2.",
     "TNF boxes are not in formula PPG yet (last_scored_leg=7). Do not wait for formula to move Love / Golden / Hubbard.",
     "DeVonta OUT is a weekly sit, not a smash-sell to 10.",
-    "Line/weather moves (TB 43.5, JAX -10, NYJ -1.5) change Week 8 starts, not ROS prices."
+    "Line/weather moves (TB 43.5, JAX wind, NYJ -1.5) change Week 8 starts, not ROS prices.",
+    "Formula AJB 22 / Henderson 18 / Charbonnet 36 are Out/IR/volume artifacts \u2014 use the curated board."
   ],
   "ripoff_flags": [
     "Buying Jacobs as an 82. He is a 42. 27 TNF touches, 1.9 YPC, not a top-5 RB.",
@@ -6999,21 +6988,24 @@
     "Starting Ward @ CIN or Daniel Jones @ JAX as a paid Superflex. Formula Ward 45 is not a start.",
     "Adding McLaurin, Shaheed, IR Pierce, or IR Price. Season / knee / IR. FA skip.",
     "Paying for a 4th RB or a bye-week stash in this 10-team.",
-    "Treating formula 1.0.0 numbers (Gibbs 98 / Lamar 74 / Jacobs 30 / Ward 45 / Huntley 55) as the curated board.",
+    "Treating formula 1.0.0 numbers (Gibbs 98 / Lamar 74 / Jacobs 30 / Ward 45 / Huntley 55 / AJB 22 / Charbonnet 36) as the curated board.",
     "Buying McConkey as a locked WR2 after a protocol clearance. He is an 18 GUESS start-lean.",
     "Buying Saquon as a 70 because Friday had no designation. He is a 32 GUESS start-lean.",
     "Smash-selling DeVonta to 10 because of one more OUT. He is a 32 ROS hold.",
+    "Smash-selling AJB to 8 because he did not travel. He is an 18 GUESS hold.",
     "Smash-selling Watson after 8-113 because of the rib. 28 GUESS HOLD.",
     "Buying Golden as a WR1 after one 13-target night. He is a 28.",
-    "Buying Tez as a WR2 because Egbuka is OUT in a 43.5. He is a $0 dart.",
+    "Buying Tez as a WR2 because Egbuka is OUT in a 43.5. He is a 10 GUESS owned dart.",
+    "Buying Charbonnet as a locked RB1 on an ACL debut. He is a 32 GUESS start-lean.",
+    "Buying Chism as a locked WR2 in this 10-team. Storms + Douglas/Henry. Dart only.",
     "Buying Cousins as a stream smash because Friday had LV -1.5. That flip is STALE."
   ],
   "notes": [
-    "Saturday 2026-10-31 08:15 AM EDT. TNF CLOSED GB 27-CAR 19. Friday Sunday-team designations HOLD. MNF tags still MISSING ~16:00 ET.",
-    "Sleeper display_week=8 last_scored_leg=7 daily_waivers_last_ran=30 Week 8 txs 5. No overnight claim.",
-    "Willis / Concepcion / Douglas / Blue / Henry / Ward / Mitchell OWNED. Do not add. Tez is leftover #1.",
+    "Saturday 2026-10-31 06:15 PM EDT. TNF CLOSED GB 27-CAR 19. Friday Sunday-team designations HOLD. MNF tags IN.",
+    "Sleeper display_week=8 last_scored_leg=7 daily_waivers_last_ran=31 Week 8 txs 6. Tez $0 Saturday claim. Mitchell FA again.",
+    "Willis / Concepcion / Douglas / Blue / Henry / Ward / Tez OWNED. Do not add. Flournoy is leftover #1.",
     "Week 8 byes HOU NO NYG SF. League trade deadline Week 12. NFL trade deadline Tue Nov 10 16:00 ET. DST ends Sunday 2:00 AM.",
-    "IND@JAX E 16 mph / gusts 25 / 54-55% rain is the real weather downgrade. TB NWS ~45% / 43.5 total. MIA 83-89% is a watch.",
-    "Curated values 1-100 Superflex Half-PPR 10-team vs Friday 18:08 board: FLAT. NEW Loveland 16 GUESS sit-lean. Formula dump is NOT this scale. TNF boxes not in formula PPG yet."
+    "IND@JAX E 15-17 mph / 36-37% rain is the real weather downgrade (wind). TB 64-69% / 43.5 total. MIA 66-89% is a watch.",
+    "Curated values 1-100 Superflex Half-PPR 10-team vs Saturday 08:15: AJB 22\u219218 GUESS. Charbonnet sit\u219232 GUESS. Wilson-SEA 36\u219230. Loveland 16\u219218 GUESS. Harvey \u2192 8 GUESS IR. NEW Stevenson 22 GUESS. Formula dump is NOT this scale. TNF boxes not in formula PPG yet."
   ]
 }
