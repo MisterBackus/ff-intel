@@ -1,11 +1,11 @@
 # FF Intel trade board — Bot or Not Fantasy
 
-Generated 2026-10-31 06:00 PM EDT
+Generated 2026-11-01 07:00 AM EST
 
 - **NFL week:** 8
 - **League:** 10-team Superflex Half-PPR (Sleeper `1395904889149739008`)
 - **Formula:** 1.0.0 — 35% ROS proj / 25% ppg / 20% role / 15% upside / 5% news
-- **Commit:** `intel: 2026-10-31 week 8 values 1.0.0`
+- **Commit:** `intel: 2026-11-01 week 8 values 1.0.0`
 - **Sources:** Sleeper weekly projections (remaining regular-season weeks), converted to this league's Half-PPR / 6-pt pass TD scoring; Sleeper league matchup players_points for production (played weeks only); Sleeper weekly player stats for snap / carry / target share; Sleeper player directory for injury status, depth chart, search_rank; Sleeper trending adds (48h) for the news/trend component
 - Values are 1–100 ROS trade prices for bots. `GUESS` = inferred role, return week, or projection.
 
@@ -66,24 +66,24 @@ Healthy named QB1 floor **45**. Backup QB cap **25** (unless the starter is hurt
 | 82 | — | Chuba Hubbard | CAR | 16.8 | RB1 | Healthy |  |  |
 | 80 | — | Christian McCaffrey | SF | 18.1 | RB1 | Questionable | BYE |  |
 | 79 | — | Kyren Williams | LAR | 17.3 | RB1 | Healthy |  |  |
-| 77 | -1 | Ashton Jeanty | LV | 15.0 | RB1 | Healthy |  |  |
-| 74 | -1 | Bucky Irving | TB | 14.4 | RB1 | Healthy |  |  |
+| 77 | — | Ashton Jeanty | LV | 15.0 | RB1 | Healthy |  |  |
+| 74 | — | Bucky Irving | TB | 14.4 | RB1 | Healthy |  |  |
 | 72 | — | Jaylen Warren | PIT | 15.4 | RB1 | Healthy |  |  |
 | 69 | — | Bhayshul Tuten | JAX | 13.7 | RB1 | Healthy |  |  |
-| 69 | -1 | D'Andre Swift | CHI | 16.0 | RB1 | Healthy |  |  |
+| 69 | — | D'Andre Swift | CHI | 16.0 | RB1 | Healthy |  |  |
 | 69 | — | Ollie Gordon II | MIA | 16.2 | RB1-split | Healthy |  |  |
-| 68 | -1 | Tony Pollard | TEN | 12.7 | RB1 | Healthy |  |  |
-| 67 | -1 | Chase Brown | CIN | 10.1 | RB1 | Healthy |  |  |
-| 64 | -1 | Aaron Jones Sr. | MIN | 11.2 | RB1 | Healthy |  |  |
-| 63 | -1 | Quinshon Judkins | CLE | 11.7 | RB1 | Healthy |  |  |
-| 57 | -2 | Omarion Hampton | LAC | 8.8 | RB1 | Healthy |  |  |
-| 54 | +1 | Cam Skattebo | NYG | 9.3 | RB1 | Questionable | BYE |  |
-| 52 | -1 | Rhamondre Stevenson | NE | 11.0 | RB1-split | Healthy |  |  |
-| 48 | -1 | Braelon Allen | NYJ | 10.8 | RB1 | Healthy |  |  |
-| 43 | — | Emanuel Wilson | SEA | 11.8 | RB1 | Healthy |  |  |
+| 68 | — | Tony Pollard | TEN | 12.7 | RB1 | Healthy |  |  |
+| 67 | — | Chase Brown | CIN | 10.1 | RB1 | Healthy |  |  |
+| 64 | — | Aaron Jones Sr. | MIN | 11.2 | RB1 | Healthy |  |  |
+| 63 | — | Quinshon Judkins | CLE | 11.7 | RB1 | Healthy |  |  |
+| 57 | — | Omarion Hampton | LAC | 8.8 | RB1 | Healthy |  |  |
+| 54 | — | Cam Skattebo | NYG | 9.3 | RB1 | Questionable | BYE |  |
+| 52 | — | Rhamondre Stevenson | NE | 11.0 | RB1-split | Healthy |  |  |
+| 48 | — | Braelon Allen | NYJ | 10.8 | RB1 | Healthy |  |  |
 | 43 | — | J.K. Dobbins | DEN | 7.7 | RB1 | Healthy |  |  |
-| 38 | -1 | Woody Marks | HOU | 7.4 | RB1 | Questionable | BYE |  |
-| 36 GUESS (36.04) | +2 | Zach Charbonnet | SEA | — | RB1 | Healthy |  | buy-low: volume > points; GUESS inputs |
+| 42 | -1 | Emanuel Wilson | SEA | 11.8 | RB1 | Healthy |  |  |
+| 38 | — | Woody Marks | HOU | 7.4 | RB1 | Questionable | BYE |  |
+| 36 GUESS (36.04) | — | Zach Charbonnet | SEA | — | RB1 | Healthy |  | buy-low: volume > points; GUESS inputs |
 | 30 | — | Blake Corum | LAR | 9.2 | committee | Healthy |  |  |
 | 30 | — | Breece Hall | NYJ | 12.5 | committee | Questionable |  |  |
 | 30 | — | Jonah Coleman | DEN | 7.9 | committee | Healthy |  |  |
@@ -92,20 +92,20 @@ Healthy named QB1 floor **45**. Backup QB cap **25** (unless the starter is hurt
 | 30 | — | Kyle Monangai | CHI | 14.2 | committee | Out |  |  |
 | 30 | — | Saquon Barkley | PHI | 7.0 | committee | Healthy |  |  |
 | 30 GUESS (30) | — | Travis Etienne Jr. | NO | 8.5 | committee | IR | BYE | IR x0.82; committee RB 21% cap 30; GUESS inputs |
-| 29 | -1 | Alvin Kamara | NO | 9.1 | committee | Healthy | BYE |  |
+| 29 | — | Alvin Kamara | NO | 9.1 | committee | Healthy | BYE |  |
 | 29 | — | Tyler Allgeier | ARI | 5.7 | committee | Healthy |  |  |
 | 28 | — | David Montgomery | HOU | 8.4 | committee | Out | BYE |  |
-| 28 GUESS (28.1) | +5 | RJ Harvey | DEN | 9.2 | committee | IR |  | IR x0.82; committee RB 18% cap 30; GUESS inputs |
+| 28 GUESS (28.1) | — | RJ Harvey | DEN | 9.2 | committee | IR |  | IR x0.82; committee RB 18% cap 30; GUESS inputs |
 | 23 | — | Chris Rodriguez Jr. | JAX | 5.0 | committee | Healthy |  |  |
-| 23 | -1 | Kimani Vidal | LAC | 5.5 | committee | Healthy |  |  |
-| 21 | -1 | Kendre Miller | NO | 4.3 | committee | Healthy | BYE |  |
-| 18 | -11 | TreVeyon Henderson | NE | 5.2 | committee | Out |  | -11 vs last board; Out x0.65; committee RB 32% cap 30; buy-low: volume > points |
+| 23 | — | Kimani Vidal | LAC | 5.5 | committee | Healthy |  |  |
+| 21 | — | Kendre Miller | NO | 4.3 | committee | Healthy | BYE |  |
+| 18 | — | TreVeyon Henderson | NE | 5.2 | committee | Out |  |  |
 | 17 GUESS (17) | — | De'Von Achane | MIA | 7.0 | committee | IR |  | IR x0.50; committee RB 25% cap 30; GUESS inputs |
-| 17 | -2 | Zonovan Knight | ARI | 7.8 | committee | Healthy |  |  |
-| 16 | -1 | Emmett Johnson | KC | 3.6 | committee | Healthy |  |  |
-| 15 | -1 | Jaleel McLaughlin | CLE | 7.5 | committee | Healthy |  |  |
-| 13 GUESS (12.97) | -1 | Jaydon Blue | PHI | — | committee | Healthy |  | committee RB 20% cap 30; GUESS inputs |
-| 12 | -1 | Brian Robinson Jr. | ATL | 2.2 | committee | Out |  |  |
+| 17 | — | Zonovan Knight | ARI | 7.8 | committee | Healthy |  |  |
+| 16 | — | Emmett Johnson | KC | 3.6 | committee | Healthy |  |  |
+| 15 | — | Jaleel McLaughlin | CLE | 7.5 | committee | Healthy |  |  |
+| 13 GUESS (12.61) | — | Jaydon Blue | PHI | — | committee | Healthy |  | committee RB 20% cap 30; GUESS inputs |
+| 12 | — | Brian Robinson Jr. | ATL | 2.2 | committee | Out |  |  |
 
 ## WR
 
@@ -126,40 +126,40 @@ Healthy named QB1 floor **45**. Backup QB cap **25** (unless the starter is hurt
 | 73 | — | Christian Watson | GB | 16.1 | WR1 | Questionable |  |  |
 | 73 | — | Matthew Golden | GB | 13.2 | WR2 | Healthy |  |  |
 | 72 | — | Justin Jefferson | MIN | 12.1 | WR1 | Healthy |  |  |
-| 70 | +1 | Garrett Wilson | NYJ | 11.6 | WR1 | Healthy |  |  |
-| 66 | +1 | Tre Tucker | LV | 18.8 | WR1 | Healthy |  |  |
-| 64 | +1 | Nico Collins | HOU | 12.8 | WR1 | Healthy | BYE |  |
+| 70 | — | Garrett Wilson | NYJ | 11.6 | WR1 | Healthy |  |  |
+| 66 | — | Tre Tucker | LV | 18.8 | WR1 | Healthy |  |  |
+| 64 | — | Nico Collins | HOU | 12.8 | WR1 | Healthy | BYE |  |
 | 61 | — | Jalen Coker | CAR | 11.5 | WR2 | Healthy |  |  |
 | 60 | — | Luther Burden III | CHI | 11.4 | WR1 | Healthy |  |  |
 | 58 | — | Michael Wilson | ARI | 9.1 | WR1 | Healthy |  |  |
-| 57 | +1 | George Pickens | DAL | 11.3 | WR2 | Questionable |  |  |
-| 57 | +1 | Jameson Williams | DET | 12.0 | WR2 | Healthy |  |  |
+| 57 | — | George Pickens | DAL | 11.3 | WR2 | Questionable |  |  |
+| 57 | — | Jameson Williams | DET | 12.0 | WR2 | Healthy |  |  |
 | 57 | — | Stefon Diggs | WAS | 11.5 | WR1 | Healthy |  |  |
 | 56 | — | Omar Cooper Jr. | NYJ | 20.0 | WR2 | Healthy |  |  |
 | 52 | — | DK Metcalf | PIT | 8.6 | WR1 | Healthy |  |  |
-| 52 | +1 | Jaylen Waddle | DEN | 7.3 | WR1 | Questionable |  |  |
-| 49 | +1 | Rashee Rice | KC | 7.9 | WR1 | Healthy |  |  |
+| 52 | — | Jaylen Waddle | DEN | 7.3 | WR1 | Questionable |  |  |
+| 49 | — | Rashee Rice | KC | 7.9 | WR1 | Healthy |  |  |
 | 45 | — | DJ Moore | BUF | 7.6 | WR1 | Questionable |  |  |
 | 45 | — | Germie Bernard | PIT | 12.2 | WR2 | Healthy |  |  |
 | 45 | — | Mike Evans | SF | 12.6 | WR | Out | BYE |  |
-| 40 | +1 | DeVonta Smith | PHI | 14.0 | WR | Out |  |  |
-| 40 | +1 | Ladd McConkey | LAC | 6.5 | WR1 | Healthy |  |  |
-| 40 | +1 | Rome Odunze | CHI | 6.9 | WR2 | Healthy |  |  |
+| 40 | — | DeVonta Smith | PHI | 14.0 | WR | Out |  |  |
+| 40 | — | Ladd McConkey | LAC | 6.5 | WR1 | Healthy |  |  |
+| 40 | — | Rome Odunze | CHI | 6.9 | WR2 | Healthy |  |  |
 | 40 | — | Xavier Worthy | KC | 6.1 | WR2 | Healthy |  |  |
 | 38 | — | Keon Coleman | BUF | 10.6 | WR | Healthy |  |  |
-| 37 | +1 | Denzel Boston | CLE | 6.1 | WR1 | Healthy |  |  |
-| 37 | +1 | KC Concepcion Jr. | CLE | — | WR2 | Healthy |  |  |
-| 36 | +1 | Emeka Egbuka | TB | 9.5 | WR | Out |  |  |
-| 33 | +1 | Jordan Addison | MIN | 6.2 | WR2 | Healthy |  |  |
-| 32 | +1 | Chris Godwin Jr. | TB | 5.6 | WR1 | Healthy |  |  |
-| 29 | +1 | Courtland Sutton | DEN | 4.4 | WR2 | Healthy |  |  |
-| 29 GUESS (28.68) | +1 | Davante Adams | LAR | 14.5 | WR | IR |  | IR x0.50; GUESS inputs |
-| 29 | +1 | Makai Lemon | PHI | 5.3 | WR1 | Healthy |  |  |
-| 27 | +1 | Rashod Bateman | BAL | 6.9 | WR2 | Healthy |  |  |
-| 24 GUESS (23.65) | +1 | Romeo Doubs | NE | 8.5 | WR | IR |  | IR x0.82; GUESS inputs |
-| 22 | -11 | A.J. Brown | NE | 4.9 | WR | Out |  | -11 vs last board; Out x0.65 |
-| 22 | +1 | DeMario Douglas | NE | 3.8 | WR1 | Healthy |  |  |
-| 21 | +1 | Marvin Harrison Jr. | HOU | 4.8 | WR | Healthy | BYE |  |
+| 37 | — | Denzel Boston | CLE | 6.1 | WR1 | Healthy |  |  |
+| 37 | — | KC Concepcion Jr. | CLE | — | WR2 | Healthy |  |  |
+| 36 | — | Emeka Egbuka | TB | 9.5 | WR | Out |  |  |
+| 33 | — | Jordan Addison | MIN | 6.2 | WR2 | Healthy |  |  |
+| 32 | — | Chris Godwin Jr. | TB | 5.6 | WR1 | Healthy |  |  |
+| 29 | — | Courtland Sutton | DEN | 4.4 | WR2 | Healthy |  |  |
+| 29 GUESS (28.68) | — | Davante Adams | LAR | 14.5 | WR | IR |  | IR x0.50; GUESS inputs |
+| 29 | — | Makai Lemon | PHI | 5.3 | WR1 | Healthy |  |  |
+| 27 | — | Rashod Bateman | BAL | 6.9 | WR2 | Healthy |  |  |
+| 24 GUESS (23.65) | — | Romeo Doubs | NE | 8.5 | WR | IR |  | IR x0.82; GUESS inputs |
+| 22 | — | A.J. Brown | NE | 4.9 | WR | Out |  |  |
+| 22 | — | DeMario Douglas | NE | 3.8 | WR1 | Healthy |  |  |
+| 21 | — | Marvin Harrison Jr. | HOU | 4.8 | WR | Healthy | BYE |  |
 | 19 | — | Brian Thomas Jr. | JAX | 3.5 | WR | Healthy |  |  |
 | 19 | — | Caleb Douglas | MIA | — | WR2 | Healthy |  |  |
 | 15 | — | Jerry Jeudy | CLE | 3.6 | WR | Healthy |  |  |
@@ -182,7 +182,7 @@ Healthy named QB1 floor **45**. Backup QB cap **25** (unless the starter is hurt
 | 46 | — | Dalton Kincaid | BUF | 8.2 | TE1 | Questionable |  |  |
 | 45 | — | T.J. Hockenson | MIN | 6.3 | TE1 | Healthy |  |  |
 | 43 | — | Tucker Kraft | GB | 8.1 | TE1 | Healthy |  |  |
-| 42 | +2 | Colston Loveland | CHI | 7.1 | TE1 | Healthy |  |  |
+| 42 | — | Colston Loveland | CHI | 7.1 | TE1 | Healthy |  |  |
 | 23 | — | Kyle Pitts Sr. | ATL | 7.6 | TE1 | Healthy |  |  |
 | 22 | — | Dallas Goedert | PHI | 6.0 | TE1 | Healthy |  |  |
 | 21 | — | Mark Andrews | BAL | 3.8 | TE1 | Healthy |  |  |
