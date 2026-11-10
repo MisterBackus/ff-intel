@@ -1,6 +1,6 @@
 {
   "formula_version": "1.0.0",
-  "generated_at_et": "2026-11-10 05:15 PM EST",
+  "generated_at_et": "2026-11-10 05:20 PM EST",
   "nfl_week": "10",
   "league": {
     "id": "1395904889149739008",
@@ -375,7 +375,7 @@
       "value": 52,
       "tier": "QB1 / strong SF2",
       "trend": "up",
-      "note": "Traded LV->MIN. Sleeper MIN QB/1. Schefter expected @ GB. Was 46. GUESS. Startable SF1/2, not a smash first week."
+      "note": "Traded LV\u2192MIN. Sleeper MIN QB/1. Schefter expected @ GB. 46\u219252 GUESS. Startable SF1/2, not smash."
     },
     {
       "player": "Kyren Williams",
@@ -455,7 +455,7 @@
       "value": 42,
       "tier": "WR2",
       "trend": "flat",
-      "note": "Sleeper still Q. McVay likely IR MCL+PCL+turf toe, earliest W15. 42 GUESS HOLD. Sit / IR stash."
+      "note": "Sleeper still Q. McVay likely IR; Schefter Tue PM Rams moving to IR. CONFLICT vs tag. Sit. 42 GUESS HOLD. Park IR when Sleeper posts."
     },
     {
       "player": "Chuba Hubbard",
@@ -615,7 +615,7 @@
       "value": 28,
       "tier": "QB2 streamer",
       "trend": "flat",
-      "note": "Full Tuesday. Expected TNF vs WAS. Sleeper Q. 28 GUESS HOLD."
+      "note": "Giants.com official FP Tuesday (hip). Expected TNF vs WAS. Sleeper still Q. 28 GUESS HOLD."
     },
     {
       "player": "Luther Burden III",
@@ -632,6 +632,14 @@
       "tier": "WR3 / stash",
       "trend": "flat",
       "note": "4-60-1. W10 CHI bye."
+    },
+    {
+      "player": "Tyler Warren",
+      "pos": "TE",
+      "value": 28,
+      "tier": "TE1",
+      "trend": "up",
+      "note": "Colts.com: Downs+Keenan gone. Warren is the pass-catcher vs MIA. 24\u219228 GUESS. Must-start."
     },
     {
       "player": "Jonah Coleman",
@@ -690,14 +698,6 @@
       "note": "Sit-lean until Monken names Watson. 24 GUESS."
     },
     {
-      "player": "Tyler Warren",
-      "pos": "TE",
-      "value": 24,
-      "tier": "TE2",
-      "trend": "flat",
-      "note": "4-44. HOLD."
-    },
-    {
       "player": "Aaron Rodgers",
       "pos": "QB",
       "value": 22,
@@ -743,7 +743,7 @@
       "value": 22,
       "tier": "RB3 / committee",
       "trend": "flat",
-      "note": "STILL FA after leftover 0 claims. Jacobs surgery. vs MIN. 22 GUESS. Must-add $0 now."
+      "note": "STILL FA after leftover 0 claims. Jacobs surgery. 14-68-1. vs MIN. 22 GUESS. Must-add $0 now."
     },
     {
       "player": "Rachaad White",
@@ -767,7 +767,7 @@
       "value": 20,
       "tier": "RB3 / committee",
       "trend": "flat",
-      "note": "Full Tuesday. Expected TNF vs WAS. Sleeper still Out ham. Confirm Thu. 20 GUESS."
+      "note": "Giants.com official FP Tuesday (ham). Expected TNF vs WAS. Sleeper still Out. Confirm Thu. 20 GUESS."
     },
     {
       "player": "Emmett Johnson",
@@ -800,6 +800,14 @@
       "tier": "stash / IR",
       "trend": "flat",
       "note": "W9 bye tonight. vs JAX W10 sit-lean."
+    },
+    {
+      "player": "Daniel Jones",
+      "pos": "QB",
+      "value": 18,
+      "tier": "QB2 streamer",
+      "trend": "up",
+      "note": "FA. Colts.com still QB1 vs McCord/MIA. 16\u219218 GUESS leftover Superflex stream, not a ROS QB1. $0 now."
     },
     {
       "player": "Denzel Boston",
@@ -839,7 +847,7 @@
       "value": 18,
       "tier": "TE2",
       "trend": "flat",
-      "note": "STILL FA. Nacua likely IR. 18 GUESS. Strong $0 now."
+      "note": "STILL FA. Nacua likely IR. Depth 1 vs ARI. 18 GUESS. Strong $0 now."
     },
     {
       "player": "Audric Estime",
@@ -850,12 +858,12 @@
       "note": "FA. 15-72-1. Not a lock. vs CAR W10. GUESS."
     },
     {
-      "player": "Daniel Jones",
+      "player": "Carson Beck",
       "pos": "QB",
       "value": 16,
-      "tier": "stash / IR",
+      "tier": "stash / FA",
       "trend": "flat",
-      "note": "FA. 20/34 180/1/1. Not a Superflex buy."
+      "note": "FA. Minshew UCL likely season. First start vs LAR. Sit-lean. 16 GUESS Superflex stash."
     },
     {
       "player": "DeMario Douglas",
@@ -869,9 +877,9 @@
       "player": "Fernando Mendoza",
       "pos": "QB",
       "value": 16,
-      "tier": "stash / IR",
+      "tier": "stash / FA",
       "trend": "up",
-      "note": "NEW FA. Schefter: first career start vs SEA after Cousins trade. Sit-lean this week. Superflex stash. GUESS."
+      "note": "FA. Schefter: first career start vs SEA. Sit-lean this week. Superflex ROS stash. 16 GUESS. $0 leftover."
     },
     {
       "player": "Harold Fannin Jr.",
@@ -5831,14 +5839,15 @@
     }
   ],
   "must_act_today": [
-    "Leftover POSTED last_ran=10, 0 claims: $0 NOW Kaleb (must-add), Higbee (Nacua/TE), Dell (WR), Mendoza (SF stash, sit vs SEA), Downs dart.",
+    "Leftover POSTED last_ran=10, 0 claims: $0 NOW Kaleb (must-add), Higbee (Nacua/TE), Dell (WR), Jones (SF stream vs MIA), Mendoza (ROS stash, sit vs SEA), Downs dart.",
     "Cousins LV->MIN 46->52 GUESS. Expected @ GB. Startable SF1/2. Sit Wentz. Jefferson still starts. Kyler 36 HOLD.",
+    "Warren 24->28 GUESS. Colts.com: Downs+Keenan gone. Start Warren vs MIA.",
     "Sit W10 byes CHI/DEN/PHI/TB. Sit Nacua, Jacobs, Stevenson, Kyler, Darnold, Willis IR, Wentz, Shedeur until named, Pickens, Worthy.",
-    "TNF Thu 8:15: Daniels/Nabers must-start. McCarthy full Tue expected. Skattebo full Tue expected. Confirm Thu inactives. Singletary sit-lean.",
+    "TNF Thu 8:15: Daniels/Nabers must-start. McCarthy+Skattebo official Giants.com FP Tue. Confirm Thu inactives. Singletary sit-lean.",
     "NFL deadline CLOSED. Taylor 70 HOLD (not traded). Pollard 40 HOLD. Henry 24 HOLD.",
-    "Nacua IR still not posted 42 HOLD. Sit. Park on the 1 IR slot when Sleeper posts it.",
-    "Lock vs Mendoza is the cleanest owned SF stream. Skip McCord as a paid Superflex.",
-    "Do not smash-sell Taylor / Bowers / Kyler / Nacua-to-a-12 / Allen after MNF grind. Do not buy Mendoza as a locked QB1 vs SEA."
+    "Nacua: Schefter moving to IR vs Sleeper still Q. CONFLICT. Sit. 42 HOLD. Park on the 1 IR slot when Sleeper posts it.",
+    "Lock vs Mendoza is the cleanest owned SF stream. Jones FA if you still have a bye hole. Skip McCord as a paid Superflex.",
+    "Do not smash-sell Taylor / Bowers / Kyler / Nacua-to-a-12 / Warren / Allen after MNF grind. Do not buy Mendoza or Jones as a locked QB1."
   ],
   "injuries": [
     {
@@ -5870,15 +5879,23 @@
       "pos": "QB",
       "team": "LV",
       "status": "Healthy",
-      "note": "FA. First career start vs SEA. NEW 16 GUESS. Sit-lean. Stash.",
+      "note": "FA. First career start vs SEA. 16 GUESS. Sit-lean. ROS stash.",
       "replacement": "O'Connell Out. Cousins gone."
+    },
+    {
+      "player": "Daniel Jones",
+      "pos": "QB",
+      "team": "IND",
+      "status": "Healthy",
+      "note": "FA. Colts.com still QB1 vs MIA. 16->18 GUESS leftover stream.",
+      "replacement": "Richardson FA skip."
     },
     {
       "player": "Puka Nacua",
       "pos": "WR",
       "team": "LAR",
       "status": "Questionable",
-      "note": "Sleeper still Q. McVay likely IR MCL+PCL+turf toe, earliest W15. 42 GUESS. Sit.",
+      "note": "Sleeper still Q. McVay likely IR; Schefter moving to IR. CONFLICT. 42 GUESS. Sit.",
       "replacement": "Higbee FA $0. Skip Mumpfield."
     },
     {
@@ -5895,7 +5912,7 @@
       "team": "GB",
       "status": "Healthy",
       "note": "STILL FA leftover 0 claims. 22 GUESS. Must-add $0 now.",
-      "replacement": "Lloyd Out; Brooks IR."
+      "replacement": "Lloyd Out; Brooks IR; skip Strong."
     },
     {
       "player": "Malik Willis",
@@ -5910,7 +5927,7 @@
       "pos": "QB",
       "team": "NYG",
       "status": "Questionable",
-      "note": "Full Tuesday. Expected TNF. 28 GUESS HOLD.",
+      "note": "Giants.com official FP Tue. Expected TNF. 28 GUESS HOLD.",
       "replacement": "Winston FA cuff only."
     },
     {
@@ -5918,7 +5935,7 @@
       "pos": "RB",
       "team": "NYG",
       "status": "Out",
-      "note": "Full Tuesday. Expected TNF. Sleeper still Out ham. 20 GUESS. Confirm Thu.",
+      "note": "Giants.com official FP Tue. Expected TNF. Sleeper still Out ham. 20 GUESS. Confirm Thu.",
       "replacement": "Singletary sit-lean TNF."
     },
     {
@@ -6007,7 +6024,7 @@
       "team": "ARI",
       "status": "Questionable",
       "note": "UCL likely season. 4 GUESS. Drop-lean.",
-      "replacement": "not a Superflex buy"
+      "replacement": "Beck FA sit vs LAR."
     },
     {
       "player": "Michael Wilson",
@@ -6038,24 +6055,32 @@
       "pos": "WR",
       "team": "SF",
       "status": "Healthy",
-      "note": "NEW FA after trade to SF. 12 GUESS. Spec leftover.",
-      "replacement": "not a 10-team WR2 lock"
+      "note": "NEW FA after trade to SF. 12 GUESS. Not a 10-team WR2.",
+      "replacement": "Purdy/CMC owned"
     },
     {
-      "player": "Justin Jefferson",
-      "pos": "WR",
-      "team": "MIN",
-      "status": "Healthy",
-      "note": "START with Cousins @ GB. 72 HOLD.",
-      "replacement": "OBJ skip"
-    },
-    {
-      "player": "Jonathan Taylor",
-      "pos": "RB",
+      "player": "Tyler Warren",
+      "pos": "TE",
       "team": "IND",
       "status": "Healthy",
-      "note": "NOT traded. 70 HOLD. vs MIA.",
-      "replacement": "McGowan skip"
+      "note": "Downs+Keenan gone. 24->28 GUESS. Must-start vs MIA.",
+      "replacement": "none needed"
+    },
+    {
+      "player": "A.J. Brown",
+      "pos": "WR",
+      "team": "NE",
+      "status": "Out",
+      "note": "Knee. Plans to travel Munich, no decision. 18 GUESS. Sit until named.",
+      "replacement": "Douglas owned dart"
+    },
+    {
+      "player": "Malik Nabers",
+      "pos": "WR",
+      "team": "NYG",
+      "status": "Healthy",
+      "note": "Giants.com FP Tue (knee). Must-start TNF. 64 HOLD.",
+      "replacement": "n/a"
     }
   ],
   "news": [
@@ -6067,7 +6092,7 @@
     {
       "player": "Fernando Mendoza",
       "note": "Schefter: first career start vs SEA after Cousins trade. No. 1 overall pick.",
-      "impact": "NEW 16 GUESS FA. Sit-lean vs SEA. Superflex stash."
+      "impact": "NEW 16 GUESS FA. Sit-lean vs SEA. Superflex ROS stash."
     },
     {
       "player": "Josh Downs",
@@ -6078,6 +6103,16 @@
       "player": "Keenan Allen",
       "note": "49ers acquired him from IND for a 2027 6th.",
       "impact": "NEW 12 GUESS FA. Spec leftover."
+    },
+    {
+      "player": "Tyler Warren",
+      "note": "Colts.com Tue depth chart: Downs and Keenan gone. Warren is the pass-catcher vs MIA.",
+      "impact": "24->28 GUESS. Must-start."
+    },
+    {
+      "player": "Daniel Jones",
+      "note": "Colts.com: still QB1 vs MIA. FA in this league. McCord starts for Miami.",
+      "impact": "16->18 GUESS FA leftover Superflex stream, not a ROS QB1."
     },
     {
       "player": "Jonathan Taylor",
@@ -6091,7 +6126,7 @@
     },
     {
       "player": "Malik Willis",
-      "note": "Dolphins placed him on IR (groin). McCord first start @ IND.",
+      "note": "Dolphins placed him on IR (groin). Schefter: McCord first start @ IND.",
       "impact": "18->8 GUESS. Skip McCord as paid SF2."
     },
     {
@@ -6101,17 +6136,17 @@
     },
     {
       "player": "Puka Nacua",
-      "note": "Sleeper still Q. McVay likely IR not posted.",
-      "impact": "42 HOLD. Sit. Higbee $0 now."
+      "note": "Sleeper still Q. McVay likely IR. Schefter Tue PM: Rams moving him to IR.",
+      "impact": "CONFLICT vs tag. 42 HOLD. Sit. Higbee $0 now."
     },
     {
       "player": "J.J. McCarthy",
-      "note": "Full Tuesday practice (PFT). Expected TNF.",
+      "note": "Giants.com official FP Tuesday (hip). Expected TNF.",
       "impact": "28 HOLD. Winston cuff only."
     },
     {
       "player": "Cam Skattebo",
-      "note": "Full Tuesday practice (PFT). Expected TNF.",
+      "note": "Giants.com official FP Tuesday (ham). Expected TNF.",
       "impact": "20 GUESS. Singletary sit-lean. Confirm Thu."
     },
     {
@@ -6161,12 +6196,20 @@
       "why": "STILL FA. Stroud path @ CLE. $0 now."
     },
     {
+      "player": "Daniel Jones",
+      "pos": "QB",
+      "priority": "Strong",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "Colts.com still QB1 vs McCord/MIA. Bye-week Superflex stream. $0 now / $2-$6 if claimed. Not a ROS QB1."
+    },
+    {
       "player": "Fernando Mendoza",
       "pos": "QB",
       "priority": "Strong",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Named LV starter. Sit-lean vs SEA. Superflex stash. $0 now / $2-$6 if claimed."
+      "why": "Named LV starter. Sit-lean vs SEA. Superflex ROS stash. $0 now / $2-$6 if claimed."
     },
     {
       "player": "Josh Downs",
@@ -6193,6 +6236,14 @@
       "why": "BUF WR2 vs NYJ. $0 now."
     },
     {
+      "player": "Carson Beck",
+      "pos": "QB",
+      "priority": "Speculative",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "Minshew UCL likely season. Sit vs LAR. $0 leftover stash."
+    },
+    {
       "player": "Keenan Allen",
       "pos": "WR",
       "priority": "Speculative",
@@ -6209,12 +6260,12 @@
       "why": "First start @ IND. Not a paid Superflex."
     },
     {
-      "player": "Kayshon Boutte",
-      "pos": "WR",
+      "player": "Pierre Strong Jr.",
+      "pos": "RB",
       "priority": "Skip",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "5-tgt TD luck. Dell has the path."
+      "why": "GB committee. Kaleb had the carry lead + TD. Skip in 10-team."
     }
   ],
   "start_sit": [
@@ -6243,6 +6294,12 @@
       "note": "@ GB with Cousins. 72 HOLD."
     },
     {
+      "player": "Tyler Warren",
+      "pos": "TE",
+      "call": "Must-start",
+      "note": "vs MIA after Downs+Keenan trades. 28 GUESS."
+    },
+    {
       "player": "Jayden Daniels",
       "pos": "QB",
       "call": "Must-start",
@@ -6252,7 +6309,7 @@
       "player": "Malik Nabers",
       "pos": "WR",
       "call": "Must-start",
-      "note": "TNF vs WAS. 64."
+      "note": "TNF vs WAS. Giants.com FP. 64."
     },
     {
       "player": "Kirk Cousins",
@@ -6270,13 +6327,19 @@
       "player": "J.J. McCarthy",
       "pos": "QB",
       "call": "Strong start",
-      "note": "Full Tue. Expected TNF. 28 GUESS."
+      "note": "Official FP Tue. Expected TNF. 28 GUESS."
     },
     {
       "player": "Cam Skattebo",
       "pos": "RB",
       "call": "Strong start",
-      "note": "Full Tue. Expected TNF. Confirm Thu. 20 GUESS."
+      "note": "Official FP Tue. Expected TNF. Confirm Thu. 20 GUESS."
+    },
+    {
+      "player": "Daniel Jones",
+      "pos": "QB",
+      "call": "Strong start",
+      "note": "If rostered vs MIA. Bye fill, not a smash. 18 GUESS."
     },
     {
       "player": "Kaleb Johnson",
@@ -6343,6 +6406,12 @@
       "pos": "QB",
       "call": "Sit / trap",
       "note": "IR groin. 8 GUESS."
+    },
+    {
+      "player": "Carson Beck",
+      "pos": "QB",
+      "call": "Sit / trap",
+      "note": "First start vs LAR. Sit-lean. 16 GUESS stash."
     }
   ],
   "streamers_qb": [
@@ -6358,52 +6427,57 @@
     "Kirk Cousins @ GB \u2014 EXPECTED. 52 GUESS. Startable SF1/2, not smash.",
     "Drew Lock vs Mendoza / LV \u2014 EXPECTED. 24 HOLD. Cleanest owned SF2.",
     "Jacoby Brissett vs LAC MNF \u2014 EXPECTED. 30 GUESS. Not a smash.",
-    "J.J. McCarthy vs WAS TNF \u2014 EXPECTED (full Tue). 28 GUESS.",
+    "J.J. McCarthy vs WAS TNF \u2014 EXPECTED (Giants.com FP Tue). 28 GUESS.",
+    "Daniel Jones vs MIA \u2014 FA leftover stream. 18 GUESS. Bye fill, not a QB1.",
     "Aaron Rodgers @ CIN SNF \u2014 startable stream. 22 GUESS.",
     "Justin Herbert @ BAL MNF \u2014 good to go, start-lean not smash. 48 GUESS.",
-    "Fernando Mendoza vs SEA \u2014 NEW FA. Sit-lean first start. 16 GUESS stash.",
+    "Fernando Mendoza vs SEA \u2014 FA. Sit-lean first start. 16 GUESS ROS stash.",
     "Shedeur Sanders vs HOU \u2014 sit-lean until named. 24 GUESS.",
     "Deshaun Watson vs HOU \u2014 22 GUESS if named. Sleeper still Out.",
     "Carson Wentz \u2014 SIT. Cousins is the MIN start. 12 GUESS.",
     "Kyle McCord @ IND \u2014 SKIP as paid Superflex.",
+    "Carson Beck vs LAR \u2014 FA stash, sit-lean. 16 GUESS.",
     "Kyler Murray / Sam Darnold / Malik Willis IR / Caleb-Nix-Milton bye \u2014 sit.",
     "Do not stream Brosmer/Milroe/Fagnano/Winston-as-paid-QB2/Fields-until-Mahomes-Out/Minshew/McCord."
   ],
   "actions_today": [
-    "Add $0 leftover NOW (posted, 0 claims): Kaleb, Higbee, Dell, Mendoza (stash/sit vs SEA), Downs dart. Skip McCord/Boutte/Brosmer.",
+    "Add $0 leftover NOW (posted, 0 claims): Kaleb, Higbee, Dell, Jones (stream vs MIA), Mendoza (stash/sit vs SEA), Downs dart. Skip McCord/Boutte/Strong/Brosmer.",
     "Cousins LV->MIN 46->52 GUESS. Start him @ GB if you need SF2. Sit Wentz. Jefferson still starts. Kyler 36 HOLD.",
+    "Warren 24->28 GUESS. Start him vs MIA. Downs and Keenan are gone.",
     "Sit W10 byes CHI/DEN/PHI/TB. Sit Nacua, Jacobs, Stevenson, Darnold, Willis, Shedeur until named, Pickens, Worthy.",
-    "TNF Thu 8:15: Daniels/Nabers must-start. McCarthy+Skattebo full Tue expected \u2014 confirm Thu. Singletary sit-lean.",
+    "TNF Thu 8:15: Daniels/Nabers must-start. McCarthy+Skattebo official Giants.com FP \u2014 confirm Thu. Singletary sit-lean.",
     "NFL deadline CLOSED. Taylor 70 HOLD. Pollard 40 HOLD. Do not smash-sell because they stayed.",
-    "Nacua IR still not posted 42 HOLD. Sit. Higbee $0 now. Park Nacua on the 1 IR slot when posted.",
-    "Lock vs Mendoza is the cleanest owned SF stream. Skip McCord. Willis 18->8 GUESS IR.",
-    "NEW Mendoza 16 / Downs 16 / Keenan 12 GUESS FA. Do not buy Mendoza as a locked QB1 vs SEA or Downs as a WR1.",
-    "Do not smash-sell Allen / Gibbs / JSN / Taylor / Bowers / Kyler / Nacua-to-a-12 / Jacobs-to-zero.",
-    "Watch: Thu inactives (McCarthy/Skattebo), Nacua IR post, Monken CLE name, Mahomes Fri, Wednesday leftover if these FA names get claimed."
+    "Nacua Schefter IR vs Sleeper still Q. CONFLICT. Sit. 42 HOLD. Higbee $0 now. Park Nacua on the 1 IR slot when posted.",
+    "Lock vs Mendoza is the cleanest owned SF stream. Jones FA if you still have a bye hole. Skip McCord. Willis 18->8 GUESS IR.",
+    "NEW Mendoza 16 / Downs 16 / Keenan 12 / Jones 18 GUESS FA. Do not buy Mendoza or Jones as a locked QB1 vs SEA/MIA or Downs as a WR1.",
+    "Watch: Thu inactives (McCarthy/Skattebo), Nacua Sleeper IR post, Monken CLE name, Mahomes Fri, Wednesday leftover if these FA names get claimed."
   ],
   "trade_rules_of_thumb": [
     "Manager intel and this trade_board use the curated 1-100 scale. Formula 1.0.0 lives in players[] \u2014 do not mix the two.",
-    "Superflex: healthy named QB1s are premium. Cousins is a 52 GUESS MIN starter, not Maye and not Wentz. Mendoza is a 16 GUESS first start / stash, sit vs SEA. McCord is skip. Lock is a 24 expected start vs Mendoza. Wentz is a 12 backup. Kyler is a 36 Out HOLD.",
+    "Superflex: healthy named QB1s are premium. Cousins is a 52 GUESS MIN starter, not Maye and not Wentz. Jones is an 18 GUESS leftover stream vs MIA, not a QB1. Mendoza is a 16 GUESS first start / ROS stash, sit vs SEA. McCord is skip. Lock is a 24 expected start vs Mendoza. Wentz is a 12 backup. Kyler is a 36 Out HOLD.",
     "Half-PPR: WRs hold. Downs is a 16 GUESS dart behind Rice (30), not a WR1. Keenan is a 12 GUESS, not a 10-team WR2.",
-    "10-team benches are shallow. Do not pay a 2nd for a 4th RB. Depth pieces are leftovers. 1 IR slot: park Nacua there.",
+    "10-team benches are shallow. Do not pay a 2nd for a 4th RB. Depth pieces are leftovers. 1 IR slot: park Nacua there when Sleeper posts IR.",
     "Side getting the best player gives extra in 2-for-1 / 3-for-1.",
     "Deadline closed: Taylor 70 HOLD, Pollard 40 HOLD, Henry 24 HOLD. Staying put is not a fade.",
     "Do not smash-sell Bowers because Mendoza starts. He is 62 HOLD.",
     "Do not smash-sell Kyler to Cousins. 36 GUESS HOLD. WTW, not IR.",
     "Do not smash-sell Nacua to a 12 dart. He is a 42 GUESS playoff stash.",
+    "Do not smash-sell Warren after the Colts dumped WRs. He is 28 GUESS. Start him.",
     "IR/Out is a discount not a drop if the player was a starter (Nacua 42, Willis 8, Lamar 12, Kyler 36, Darnold 16, Jacobs 16, Pickens 34).",
     "Bye-week sit is not a trade-down (Caleb 58 / Irving 56 / Nix 50 / Swift 36 / Saquon 32).",
     "W8+W9 boxes including MNF are in formula 1.0.0 players[] from the 2026-11-10 05:00 PM EST generate (last_scored_leg=9). Still do not mix it with this curated trade_board.",
-    "Leftover POSTED last_ran=10: $0 FA now #1 Kaleb then Higbee then Dell then Mendoza. Wednesday leftover if they are claimed overnight.",
+    "Leftover POSTED last_ran=10: $0 FA now #1 Kaleb then Higbee then Dell then Jones (stream) then Mendoza (stash). Wednesday leftover if they are claimed overnight.",
     "TNF lock Thu 8:15 ET. NFL deadline CLOSED. League trade deadline Week 12."
   ],
   "ripoff_flags": [
     "Buying Mendoza as a locked Superflex QB1 vs SEA. He is a 16 GUESS first start / stash. Sit-lean.",
+    "Buying Jones as a locked Superflex QB1. He is an 18 GUESS leftover stream vs MIA.",
     "Buying Downs as a WR1 because he went to KC. Rice is 30. Downs is a 16 GUESS dart.",
     "Buying Keenan Allen as a 10-team WR2. He is 12 GUESS.",
     "Buying McCord as a paid Superflex after Willis IR. Skip.",
     "Smash-selling Taylor because the deadline passed without a deal. He is 70 HOLD.",
     "Smash-selling Bowers because Mendoza starts. He is 62 HOLD.",
+    "Smash-selling Warren because IND dumped WRs. He is 28 GUESS. Start him.",
     "Smash-selling Kyler to Cousins. Kyler is 36 HOLD. Cousins is 52. Different players.",
     "Sitting Jefferson now that Cousins is in, or sitting him under Wentz. He is 72. Start him.",
     "Selling Nacua for a 12 dart because likely IR. He is a 42 GUESS playoff stash.",
@@ -6413,10 +6487,11 @@
     "Paying WR2 money for Shakir. He is a leftover stash, not a must."
   ],
   "notes": [
-    "Tuesday evening 2026-11-10 05:15 PM EST. Week 9 FULLY CLOSED including MNF BUF 23-MIN 6. Leftover POSTED last_ran=10, 0 claims. NFL deadline CLOSED 4:00 PM ET.",
+    "Tuesday evening 2026-11-10 05:20 PM EST. Week 9 FULLY CLOSED including MNF BUF 23-MIN 6. Leftover POSTED last_ran=10, 0 claims. NFL deadline CLOSED 4:00 PM ET.",
     "Sleeper display_week=9 week=10 last_scored_leg=9 daily_waivers_last_ran=10. Week 9 txs 15 / 5 complete. Week 10 txs 0.",
-    "NEW vs Tue 7:15 AM: Cousins LV->MIN 46->52 GUESS expected @ GB. NEW Mendoza 16 GUESS FA. NEW Downs 16 GUESS FA. NEW Keenan 12 GUESS FA. Willis IR 18->8 GUESS. Taylor 70 HOLD not traded. Leftover 0 claims \u2014 Kaleb/Higbee/Dell/Mendoza still FA $0.",
-    "W10 byes CHI/DEN/PHI/TB. TNF WAS@NYG Thu 8:15 ET. McCarthy+Skattebo full Tue. Munich NE@DET 9:30 ET. SNF PIT@CIN. MNF LAC@BAL. League trade deadline Week 12.",
+    "NEW vs Tue 7:15 AM: Cousins LV->MIN 46->52 GUESS expected @ GB. NEW Mendoza 16 GUESS FA. NEW Downs 16 GUESS FA. NEW Keenan 12 GUESS FA. Willis IR 18->8 GUESS. Taylor 70 HOLD not traded. Leftover 0 claims.",
+    "Tue PM adds: Giants.com McCarthy+Skattebo official FP. Colts.com Jones still QB1. Warren 24->28 GUESS. Jones 16->18 GUESS FA stream vs MIA. Schefter Nacua moving to IR vs Sleeper still Q.",
+    "W10 byes CHI/DEN/PHI/TB. TNF WAS@NYG Thu 8:15 ET. McCarthy+Skattebo official FP. Munich NE@DET 9:30 ET. SNF PIT@CIN. MNF LAC@BAL. League trade deadline Week 12.",
     "Formula 1.0.0 players[] from 2026-11-10 05:00 PM EST generate is NOT this curated scale. last_scored_leg=9 so MNF boxes are in formula PPG. Do not mix."
   ]
 }
