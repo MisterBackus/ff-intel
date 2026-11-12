@@ -5,10 +5,10 @@ Generated **2026-11-12 07:15 AM EST**
 - **NFL week:** 10 — Week 9 including MNF **CLOSED** / leftover **last_ran still 11** (Thursday window **not posted**) / **TNF LOCK TONIGHT** / TNF final designations **CLOSED** / Sunday-team Wednesday columns **IN** / Friday game statuses **MISSING**
 - **League:** 10-team Superflex Half-PPR, no K/DST, $100 FAAB, 1 IR slot (Sleeper `1395904889149739008`)
 - **Freshness:** Thursday 7:15 AM ET. Sleeper `display_week=10` `week=10` `leg=10` `last_scored_leg=9` **`daily_waivers_last_ran=11`**. Week 10/11 txs **0**. **Kaleb / Dell / Mendoza / Shakir OWNED.** Remaining leftover **still $0 FA**. TNF 7-man inactives **MISSING ~6:45 PM ET**. O’Connell **still has not named** Cousins.
-- **Sources:** Sleeper tags + depth + rosters; NFL.com Week 10 injury report (TNF final + Wednesday Sunday-team); Giants.com / Commanders.com final TNF report; CBS Week 10 Wednesday wrap; Seahawks.com Lock plan; NWS/SI MetLife rain; prior packet 2026-11-11 05:20 PM EST.
+- **Sources:** Sleeper tags + depth + rosters (display_week=10, last_scored_leg=9, last_ran=11, W10/W11 txs 0); NFL.com Week 10 injury report (TNF final + Wednesday Sunday-team); NBC Lloyd absent from Packers Wed report; Seahawks.com Lock LP / Macdonald expected start; NWS/SI MetLife rain ~74%; prior packet 2026-11-11 05:20 PM EST.
 - **Scale:** Curated 1–100 Superflex Half-PPR 10-team. Formula 1.0.0 in `players[]` from 2026-11-12 07:00 AM EST generate (`last_scored_leg=9`) — **do not mix the two**. Formula dump is NOT this scale.
 
-**NEW vs Wednesday 5:20 PM:** TNF final report **CLOSED** — McCarthy / Skattebo / Nabers / Daniels **no game designation, START**. Henderson **official OUT** illness **12→8 GUESS**. Dell **Q hand LP** sit-lean. leftover **last_ran still 11** — Higbee / Kiner / Jones **still FA $0**. Rain **HOLDS ~74% / 52° / 11 mph, gusts ~23** — **GUESS not a sit**. Rest **FLAT**.
+**NEW vs Wednesday 5:20 PM:** TNF final report **CLOSED** — McCarthy / Skattebo / Nabers / Daniels **no game designation, START**. Henderson **official OUT** illness **12→8 GUESS**. Dell **Q hand LP** sit-lean. leftover **last_ran still 11** — Higbee / Kiner / Jones **still FA $0**. Rain **HOLDS ~74% / 52° / 11 mph, gusts ~23** — **GUESS not a sit**. **Lloyd off Wed injury report** — Kaleb weekly call **Strong → Toss-up** vs MIN (value **22 HOLD**). Rest **FLAT**.
 
 ---
 
@@ -49,7 +49,8 @@ Facts first. **Conservative lineup call when sources conflict.**
 - **Kirk Cousins (QB, MIN)** — Sleeper **QB/1**. O’Connell **still unnamed** (“too early”). LaFleur “fairly confident.” MIN estimated Wed: Kyler **DNP**, Wentz **LP**. Conservative: **Cousins start-lean, not a smash**. **52 HOLD.** Jefferson **starts anyway**.
 - **Patrick Mahomes (QB, KC)** — Wed **FP**. Sleeper **Healthy**. **74 HOLD. Must-start @ ATL.**
 - **Puka Nacua (WR, LAR)** — Sleeper **Out / Knee-MCL**. Wed **DNP**. McVay **will not IR**. Still out extended (W14/W15). **Sit. 42 HOLD.** Do not start because he is not on IR.
-- **Josh Jacobs (RB, GB)** — **Out / surgery**. Wed **DNP**. 2–3 weeks. **16 HOLD.** Sit. Kaleb **owned** startable vs MIN.
+- **Josh Jacobs (RB, GB)** — **Out / surgery**. Wed **DNP**. 2–3 weeks. **16 HOLD.** Sit. Kaleb **owned 22 HOLD** — weekly **toss-up** vs MIN (Lloyd **off the injury report**, committee, MIN D). Do not start Kaleb as a locked RB2.
+- **MarShawn Lloyd (RB, GB)** — **FA.** Not on Wed injury report (NBC: absent / good to go). Sleeper **Healthy RB/1**. Passing-down mix with Kaleb / Strong. **Skip** over Kiner in 10-team. Not a paid RB2 vs MIN.
 - **Rhamondre Stevenson (RB, NE)** — **DNP / Doubtful**. Sit Munich. **12 HOLD.**
 - **Kyler Murray (QB, MIN)** — Estimated **DNP / Doubtful**. Sit. **36 HOLD.**
 - **Carson Wentz (QB, MIN)** — Estimated **LP / Q ankle**. Sit unless Cousins scratches. **12.**
@@ -80,6 +81,8 @@ Facts first. **Conservative lineup call when sources conflict.**
 | Mahomes | Must-start @ ATL | Fields skip until Out | Fields FA | Wed FP |
 | Dell | Sit-lean until Fri FP | Nico still starts | — | Q hand LP |
 | Tuten | Sit-lean until Fri | ETN IR; not a smash cuff | — | DNP Wed |
+| Jacobs | Do not start | Kaleb owned toss-up | Lloyd FA skip; Strong skip | Lloyd off report |
+| Kaleb vs MIN | Toss-up, not locked RB2 | Committee / Lloyd | Lloyd FA skip over Kiner | **22 HOLD** |
 
 ---
 
@@ -90,6 +93,7 @@ Facts first. **Conservative lineup call when sources conflict.**
 - **Leftover last_ran still 11 (fact).** Thursday window **not posted**. Higbee / Kiner / Jones **still FA $0**.
 - **Dell Q Hand LP (fact).** Call flip to sit-lean. **16 HOLD.**
 - **Lock expected vs Mendoza (fact, Macdonald).** Darnold Out. **24 HOLD.**
+- **Lloyd off Packers Wed injury report (fact, NBC).** Knee tag gone. Committee with Kaleb / Strong. **Skip FA.** Kaleb weekly call **toss-up**, value **22 HOLD**.
 - **Mahomes Wed FP (fact).** Must-start @ ATL. **74 HOLD.**
 - **Cousins still unnamed (fact).** O’Connell Wednesday. **52 HOLD start-lean.**
 - **Nacua Wed DNP / not IR (fact).** **42 HOLD. Sit.**
@@ -111,7 +115,7 @@ Facts first. **Conservative lineup call when sources conflict.**
 | **Speculative** | Keenan Allen | WR | SF | **$0 now** | Not a 10-team WR2 lock. |
 | **Speculative** | Carson Beck | QB | ARI | **$0 now** | Minshew IR. Sit vs LAR. |
 | **Skip** | Kyle McCord | QB | MIA | $0 | First start @ IND. Not a paid Superflex. |
-| **Skip** | Pierre Strong Jr. / MarShawn Lloyd | RB | GB | $0 | Kaleb owned. Lloyd FA RB/1 is a committee dart, not a 10-team add over Kiner. |
+| **Skip** | Pierre Strong Jr. / MarShawn Lloyd | RB | GB | $0 | Kaleb owned. Lloyd off the injury report / FA RB/1 is a committee dart, not a 10-team add over Kiner. |
 | **Skip** | Kaleb / Dell / Mendoza / Shakir | — | — | — | **Already owned.** |
 
 **Typical drops:** Huntley (2), Minshew (2), Wilson-ARI if no IR (8), Henderson this week (8), Wentz if you have 3 healthy QBs (12).
@@ -134,8 +138,8 @@ Superflex Half-PPR. **W10.** **TNF LOCK TONIGHT.**
 ### RB
 
 - **Must-start:** Gibbs vs NE. Bijan vs KC. Walker @ ATL. Cook @ NYJ. CMC @ DAL (rest DNP, start-lean). Taylor vs MIA. White vs NYG (**TNF**).
-- **Strong start:** Kyren @ ARI. Warren @ CIN. Javonte vs SF. Pollard vs JAX. Hubbard @ NO (rest DNP, start-lean). Kaleb vs MIN (**owned**). Skattebo vs WAS (**TNF, no tag**). Marks @ CLE **if active**.
-- **Toss-up:** Hall / Allen-NYJ vs BUF. Jones-MIN @ GB. Henry vs LAC. Corum @ ARI. Kiner vs DET **if rostered**. Tuten @ TEN **if Friday FP**.
+- **Strong start:** Kyren @ ARI. Warren @ CIN. Javonte vs SF. Pollard vs JAX. Hubbard @ NO (rest DNP, start-lean). Skattebo vs WAS (**TNF, no tag**). Marks @ CLE **if active**.
+- **Toss-up:** Kaleb vs MIN (**owned**, Lloyd back, MIN D — not a locked RB2). Hall / Allen-NYJ vs BUF. Jones-MIN @ GB. Henry vs LAC. Corum @ ARI. Kiner vs DET **if rostered**. Tuten @ TEN **if Friday FP**.
 - **Sit / trap:** Jacobs Out. Stevenson DNP. Henderson **OUT**. Irving / Swift / Saquon **bye**. Singletary if Skattebo plays. Kamara until named.
 
 ### WR
@@ -159,7 +163,7 @@ Superflex Half-PPR. **W10.** **TNF LOCK TONIGHT.**
 ## 6. Matchups that matter
 
 - **WAS @ NYG TNF TONIGHT:** Daniels / Nabers / Diggs / White must-start. McCarthy / Skattebo **START** (no tag). Singletary sit-lean. Rain **GUESS not a sit**. Confirm ~6:45. Patrick / Yankoff **OUT**.
-- **MIN @ GB:** Cousins **start-lean** (unnamed). Jefferson starts. Love smash-lean. Kaleb owned startable. Do not start Wentz / Kyler.
+- **MIN @ GB:** Cousins **start-lean** (unnamed). Jefferson starts. Love smash-lean. Kaleb **owned toss-up** (Lloyd back, MIN D). Skip Lloyd. Do not start Wentz / Kyler.
 - **HOU @ CLE:** Stroud start. Watson **named** not smash. Dell **sit-lean** (Q hand). Shedeur sit.
 - **SEA @ LV:** Lock stream vs Mendoza’s first start. Bowers must-start. JSN **starts** (rest). Mendoza sit-lean.
 - **KC @ ATL:** Mahomes must-start (Wed FP) + Walker + Kelce. Worthy **Wed FP** — Downs weaker.
@@ -189,7 +193,7 @@ Same scale every day. Superflex: starting QBs premium. Half-PPR: WRs hold. 10-te
 ### B. Biggest risers / fallers since last packet (Wed 5:20 PM)
 
 - **Fallers:** Henderson **12→8 GUESS** (official OUT).
-- **HOLD:** McCarthy 30 / Skattebo 20 (TNF no-tag is a call flip). Dell 16 (Q hand is a call flip). Cousins 52. Mahomes 74. Nacua 42. Kiner 16 FA. Watson 26. Tuten 36.
+- **HOLD:** McCarthy 30 / Skattebo 20 (TNF no-tag is a call flip). Dell 16 (Q hand is a call flip). Cousins 52. Mahomes 74. Nacua 42. Kiner 16 FA. Watson 26. Tuten 36. Kaleb **22** (Lloyd-back is a call flip, not a smash-down).
 - **Claimed off FA (not value flips):** Kaleb, Dell, Mendoza, Shakir.
 
 ### C. Fair 1-for-1
@@ -221,6 +225,7 @@ Same scale every day. Superflex: starting QBs premium. Half-PPR: WRs hold. 10-te
 - Sitting JSN because of a rest DNP. **94. Start him.**
 - Treating formula 1.0.0 as this board.
 - Starting CHI/DEN/PHI/TB. Starting Jacobs / Wentz / Shedeur / Mendoza-as-smash / Dell-as-lock.
+- Starting Kaleb as a locked RB2 vs MIN now that Lloyd is off the injury report. He is a **22 GUESS toss-up**.
 
 ### F. Position scarcity this week
 
@@ -238,7 +243,7 @@ Only names with a snap path in the next 1–3 weeks.
 - **Corey Kiner (RB, NE)** — still FA. Sleeper RB/1. Henderson OUT. Stevenson Doubtful. **Add $0.**
 - **Tyler Higbee (TE, LAR)** — still FA. Nacua Out. **Add $0.**
 - **Daniel Jones (QB, IND)** — still FA. One-week stream vs McCord.
-- **Kaleb / Mendoza** — already owned. Kaleb startable. Mendoza sit vs SEA.
+- **Kaleb / Mendoza** — already owned. Kaleb **toss-up** vs MIN (Lloyd back). Mendoza sit vs SEA.
 - **Do not add:** McCord as a paid SF2, Strong, Lloyd over Kiner, Boutte, Mumpfield, Beck as a W10 start, Ekeler as a paid RB2 if White plays.
 
 ---
@@ -251,7 +256,7 @@ Only names with a snap path in the next 1–3 weeks.
 4. **Cousins start-lean @ GB.** Jefferson still starts. Sit Wentz (Q ankle) and Kyler (DNP).
 5. **Mahomes must-start @ ATL** (Wed FP).
 6. **Sit Nacua** (Out, not IR). Sit Jacobs, Stevenson, **Henderson**, W10 byes, Mendoza vs SEA.
-7. **Start owned adds:** Kaleb vs MIN. Shakir @ NYJ. Mendoza **bench**. Dell **sit-lean** until Friday FP.
+7. **Owned leftover adds:** Kaleb **toss-up** vs MIN (Lloyd off report — not a locked RB2). Shakir @ NYJ **start**. Mendoza **bench**. Dell **sit-lean** until Friday FP.
 8. **Lock vs Mendoza** is still the cleanest owned SF stream if you do not like Watson’s matchup.
 9. **Do not smash-sell** Taylor / Bowers / Kyler / Nacua-to-a-12 / Allen / Gibbs / JSN / Mahomes.
 10. **Watch:** TNF inactives ~6:45, Friday designations (Pickens, Dell, McConkey, AJB, Tuten, Goff/Amon-Ra, Herbert), Cousins name, leftover claims on Kiner/Higbee/Jones.
@@ -262,4 +267,4 @@ Only names with a snap path in the next 1–3 weeks.
 
 Equal: Burrow≈Maye · Chase≈Amon-Ra · Purdy≈CeeDee · Cook≈Mahomes · Jefferson≈CMC · Love≈Dak≈Taylor.
 
-Do not: start-Nacua-because-not-IR · Mendoza-as-smash · McCord-as-SF2 · Downs-as-WR2-now-Worthy-FP · sit-Jefferson · sit-JSN-on-rest · Bowers-for-a-dart · start-W10-byes · start-Henderson-OUT · formula-scale-as-this-board.
+Do not: start-Nacua-because-not-IR · Mendoza-as-smash · McCord-as-SF2 · Downs-as-WR2-now-Worthy-FP · sit-Jefferson · sit-JSN-on-rest · Bowers-for-a-dart · start-W10-byes · start-Henderson-OUT · Kaleb-as-locked-RB2-vs-MIN · formula-scale-as-this-board.

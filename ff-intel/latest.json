@@ -23,11 +23,18 @@
     "news": 0.05
   },
   "sources": [
-    "Sleeper weekly projections (remaining regular-season weeks), converted to this league's Half-PPR / 6-pt pass TD scoring",
-    "Sleeper league matchup players_points for production (played weeks only)",
-    "Sleeper weekly player stats for snap / carry / target share",
-    "Sleeper player directory for injury status, depth chart, search_rank",
-    "Sleeper trending adds (48h) for the news/trend component"
+    "Sleeper NFL state + league 1395904889149739008 tags/depth/rosters (display_week=10 last_scored_leg=9 daily_waivers_last_ran=11 W10 txs 0 W11 txs 0)",
+    "NFL.com official Week 10 injury report: TNF final designations CLOSED (Yankoff/Patrick Out; Harrison Q LB; McCarthy/Skattebo/Nabers/Daniels no tag)",
+    "NFL.com Wednesday Sunday-team columns: Henderson Out illness; Mahomes FP; Dell LP; Pickens LP; Nacua DNP; Stevenson DNP; Jacobs DNP; Tuten DNP",
+    "NBC Sports: MarShawn Lloyd absent from Packers Wednesday injury report / good to go Week 10; Kaleb still projects early-down mix",
+    "Seahawks.com Wed report: Drew Lock LP elbow/oblique, Macdonald expected start; Darnold Out; JSN rest DNP",
+    "NWS / SI / Forecaster HQ: MetLife TNF ~52F, NE 11 mph, gusts ~23, rain ~74% at kick — GUESS not a sit",
+    "O'Connell Wednesday: too early to commit Cousins; LaFleur fairly confident he starts; Sleeper MIN QB/1",
+    "Browns.com: Watson named starter vs HOU",
+    "McVay / PFT: Nacua Out, will not go on IR, W14/W15 target",
+    "Rapoport: Jacobs surgery 2-3 weeks",
+    "Formula 1.0.0 players[] from 2026-11-12 07:00 AM EST generate (51feffa) — do not mix with curated trade_board",
+    "Prior packet 2026-11-11 05:20 PM EST"
   ],
   "commit_message": "intel: 2026-11-12 week 10",
   "sanity_gaps": [
@@ -743,7 +750,7 @@
       "value": 22,
       "tier": "RB2 / committee",
       "trend": "flat",
-      "note": "OWNED. Jacobs Out surgery 2-3 weeks. Startable vs MIN. 22 GUESS HOLD."
+      "note": "OWNED. Jacobs Out surgery 2-3 weeks. Lloyd off injury report (committee). Toss-up vs MIN, not a locked RB2. 22 GUESS HOLD."
     },
     {
       "player": "Zach Charbonnet",
@@ -5694,15 +5701,15 @@
   ],
   "must_act_today": [
     "TNF LOCK TONIGHT 8:15 ET: Daniels / Nabers / Diggs / White must-start. McCarthy START (no tag). Skattebo START (no tag). Singletary sit-lean. Confirm 7-man ~6:45. Rain ~74% GUESS not a sit.",
-    "Leftover last_ran still 11 \u2014 Thursday window NOT posted. Kaleb / Dell / Mendoza / Shakir OWNED. Remaining FA is $0 now.",
+    "Leftover last_ran still 11 — Thursday window NOT posted. Kaleb / Dell / Mendoza / Shakir OWNED. Remaining FA is $0 now.",
     "Add $0 leftover NOW: Kiner (Henderson OUT + Stevenson Doubtful / Sleeper RB/1), Higbee (Nacua Out not IR), Jones if you need a bye-week SF stream.",
     "Henderson official OUT illness. 12->8 GUESS. Sit. Kiner is the add.",
-    "Watson NAMED vs HOU \u2014 startable SF2, not a smash. Sit Shedeur.",
+    "Watson NAMED vs HOU — startable SF2, not a smash. Sit Shedeur.",
     "Cousins Sleeper QB/1. O'Connell still unnamed; LaFleur fairly confident. Start-lean @ GB. Sit Wentz (Q ankle) and Kyler (DNP).",
     "Mahomes Wed FP. Must-start @ ATL.",
     "Sit Nacua (Out, will not go on IR). Sit Jacobs, Stevenson, Henderson, W10 byes CHI/DEN/PHI/TB, Mendoza vs SEA.",
-    "Dell OWNED but Q Hand LP \u2014 sit-lean @ CLE until Friday FP. Shakir startable. Kaleb startable vs MIN. Mendoza bench.",
-    "Lock expected vs Mendoza \u2014 cleanest owned SF2 stream if you do not like Watson's matchup."
+    "Dell OWNED but Q Hand LP — sit-lean @ CLE until Friday FP. Shakir startable. Kaleb toss-up vs MIN (Lloyd off report, not a locked RB2). Mendoza bench.",
+    "Lock expected vs Mendoza — cleanest owned SF2 stream if you do not like Watson's matchup."
   ],
   "injuries": [
     {
@@ -5719,7 +5726,7 @@
       "team": "GB",
       "status": "Out",
       "note": "Surgery. Wed DNP. Back 2-3 weeks. Sit.",
-      "replacement": "Kaleb owned startable vs MIN"
+      "replacement": "Kaleb owned toss-up vs MIN (Lloyd off report, committee)"
     },
     {
       "player": "TreVeyon Henderson",
@@ -5831,7 +5838,7 @@
       "team": "SEA",
       "status": "Questionable",
       "note": "Wed LP elbow/oblique. Macdonald expected start vs Mendoza. Darnold Out.",
-      "replacement": "n/a \u2014 clean owned SF2 stream"
+      "replacement": "n/a — clean owned SF2 stream"
     },
     {
       "player": "Sam Darnold",
@@ -5944,6 +5951,14 @@
       "status": "Out",
       "note": "TNF Out concussion. Allegretti starts at C. Not a fantasy sit for Daniels.",
       "replacement": "n/a"
+    },
+    {
+      "player": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
+      "status": "Healthy",
+      "note": "Off Wed injury report (NBC). Sleeper Healthy RB/1 FA. Passing-down mix. Skip over Kiner.",
+      "replacement": "Kaleb owned 22 HOLD toss-up; skip Strong"
     }
   ],
   "news": [
@@ -5966,6 +5981,11 @@
       "player": "Tank Dell",
       "note": "Sleeper Q Hand. Wed LP.",
       "impact": "Sit-lean @ CLE until Friday FP. 16 HOLD."
+    },
+    {
+      "player": "MarShawn Lloyd",
+      "note": "Absent from Packers Wednesday injury report (NBC). Knee tag gone.",
+      "impact": "Committee with Kaleb / Strong. Skip FA over Kiner. Kaleb weekly call toss-up, 22 HOLD."
     },
     {
       "player": "Drew Lock",
@@ -6064,7 +6084,7 @@
       "priority": "Skip",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "FA GB RB/1 is a committee dart. Do not add over Kiner in 10-team."
+      "why": "Off Wed injury report. FA GB RB/1 is a committee dart. Do not add over Kiner in 10-team."
     }
   ],
   "start_sit": [
@@ -6143,8 +6163,8 @@
     {
       "player": "Kaleb Johnson",
       "pos": "RB",
-      "call": "Strong start",
-      "note": "OWNED. Jacobs Out. vs MIN."
+      "call": "Toss-up",
+      "note": "OWNED. Jacobs Out. Lloyd off report. Committee vs MIN D. Not a locked RB2. 22 HOLD."
     },
     {
       "player": "Tank Dell",
@@ -6238,22 +6258,22 @@
     }
   ],
   "streamers_qb": [
-    "J.J. McCarthy vs WAS TNF \u2014 no game designation, START, confirm ~6:45",
-    "Drew Lock vs Mendoza \u2014 expected, cleanest owned SF2 stream",
-    "Deshaun Watson vs HOU \u2014 named, startable SF2, not smash",
-    "Kirk Cousins @ GB \u2014 start-lean, still unnamed",
-    "Daniel Jones vs MIA \u2014 still FA $0 bye-week stream",
-    "Jacoby Brissett vs LAC MNF \u2014 startable SF2, low total",
+    "J.J. McCarthy vs WAS TNF — no game designation, START, confirm ~6:45",
+    "Drew Lock vs Mendoza — expected, cleanest owned SF2 stream",
+    "Deshaun Watson vs HOU — named, startable SF2, not smash",
+    "Kirk Cousins @ GB — start-lean, still unnamed",
+    "Daniel Jones vs MIA — still FA $0 bye-week stream",
+    "Jacoby Brissett vs LAC MNF — startable SF2, low total",
     "Sit: Mendoza vs SEA, McCord @ IND, Shedeur, Wentz, Kyler, Beck vs LAR"
   ],
   "actions_today": [
     "Add $0 leftover now: Kiner (Henderson OUT + Stevenson Doubtful), Higbee (Nacua Out), Jones if you have a bye-week SF hole. Skip McCord / Downs-as-WR2 / Strong / Lloyd.",
     "SET TNF TONIGHT: Daniels / Nabers / Diggs / White must-start. McCarthy START. Skattebo START. Singletary sit-lean. Confirm 7-man ~6:45. Rain is not a sit.",
-    "Start Watson (named) if you need a SF2 vs HOU \u2014 not a smash. Sit Shedeur.",
+    "Start Watson (named) if you need a SF2 vs HOU — not a smash. Sit Shedeur.",
     "Cousins start-lean @ GB. Jefferson still starts. Sit Wentz (Q ankle) and Kyler (DNP).",
     "Mahomes must-start @ ATL (Wed FP).",
     "Sit Nacua (Out, not IR). Sit Jacobs, Stevenson, Henderson, W10 byes CHI/DEN/PHI/TB, Mendoza vs SEA.",
-    "Start owned leftover adds: Kaleb vs MIN. Shakir @ NYJ. Mendoza bench. Dell sit-lean until Friday FP.",
+    "Owned leftover adds: Kaleb toss-up vs MIN (Lloyd off report). Shakir @ NYJ start. Mendoza bench. Dell sit-lean until Friday FP.",
     "Lock vs Mendoza is still the cleanest owned SF stream if you do not like Watson's matchup.",
     "Do not smash-sell Taylor / Bowers / Kyler / Nacua-to-a-12 / Allen / Gibbs / JSN / Mahomes.",
     "Watch: TNF inactives ~6:45, Friday designations (Pickens, Dell, McConkey, AJB, Tuten, Goff/Amon-Ra, Herbert), Cousins name, leftover claims on Kiner/Higbee/Jones."
@@ -6282,14 +6302,15 @@
     "Treating formula 1.0.0 as this board.",
     "Starting CHI/DEN/PHI/TB. Starting Jacobs / Wentz / Shedeur / Mendoza-as-smash / Dell-as-lock.",
     "Cousins 52 + a 16 != Burrow 90.",
-    "Nacua 42 + a 20 != Chase 80."
+    "Nacua 42 + a 20 != Chase 80.",
+    "Starting Kaleb as a locked RB2 vs MIN now that Lloyd is off the injury report. He is a 22 GUESS toss-up."
   ],
   "notes": [
     "Curated overlay on formula 1.0.0 dump 2026-11-12 07:00 AM EST (51feffa). Do not mix scales.",
-    "Sleeper display_week=10 last_scored_leg=9 daily_waivers_last_ran=11. W10 txs 0. W11 txs 0.",
+    "Sleeper display_week=10 last_scored_leg=9 daily_waivers_last_ran=11. W10 txs 0. W11 txs 0. Live-reconfirmed this run.",
     "TNF LOCK TONIGHT. Final designations CLOSED. McCarthy/Skattebo/Nabers/Daniels START.",
     "Leftover last_ran still 11. Kaleb/Dell/Mendoza/Shakir OWNED. Higbee/Kiner/Jones still FA $0.",
-    "NEW vs Wed 5:20 PM: Henderson 12->8 GUESS OUT. Dell Q hand sit-lean. Rest HOLD."
+    "NEW vs Wed 5:20 PM: Henderson 12->8 GUESS OUT. Dell Q hand sit-lean. Lloyd off report; Kaleb weekly call Strong->Toss-up, 22 HOLD. Rest HOLD."
   ],
   "packet_kind": "curated_overlay",
   "formula_generated_at_et": "2026-11-12 07:00 AM EST"
