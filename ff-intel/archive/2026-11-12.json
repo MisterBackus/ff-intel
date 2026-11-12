@@ -268,7 +268,7 @@
       "value": 74,
       "tier": "SF1",
       "trend": "flat",
-      "note": "Wed FP. Sleeper Healthy. Must-start @ ATL. 74 HOLD."
+      "note": "Wed FP. Must-start @ ATL. 74 HOLD."
     },
     {
       "player": "Christian McCaffrey",
@@ -300,7 +300,7 @@
       "value": 70,
       "tier": "RB1",
       "trend": "flat",
-      "note": "Wed LP rest. Must-start vs MIA. 70 HOLD."
+      "note": "Must-start vs MIA. 70 HOLD."
     },
     {
       "player": "Jordan Love",
@@ -388,7 +388,7 @@
       "value": 52,
       "tier": "SF1 / strong SF2",
       "trend": "flat",
-      "note": "Sleeper MIN QB/1. O'Connell still unnamed; LaFleur fairly confident. Start-lean @ GB, not smash. 52 GUESS HOLD."
+      "note": "Sleeper MIN QB/1. O'Connell still unnamed; LaFleur/Pelissero expect him. Start-lean @ GB, not smash. 52 GUESS HOLD."
     },
     {
       "player": "Kyren Williams",
@@ -476,7 +476,7 @@
       "value": 40,
       "tier": "RB2",
       "trend": "flat",
-      "note": "Wed rest DNP. Start-lean @ NO. 40 HOLD."
+      "note": "Start-lean @ NO. 40 HOLD."
     },
     {
       "player": "Matthew Stafford",
@@ -532,7 +532,7 @@
       "value": 36,
       "tier": "QB stash",
       "trend": "flat",
-      "note": "Estimated Wed DNP / Doubtful hamstring. Sit. 36 GUESS HOLD."
+      "note": "Doubtful hamstring. Sit. Pelissero 2-3 weeks GUESS. 36 GUESS HOLD."
     },
     {
       "player": "George Pickens",
@@ -612,7 +612,7 @@
       "value": 30,
       "tier": "WR2",
       "trend": "flat",
-      "note": "Strong start @ ATL. Worthy Wed FP. 30 GUESS HOLD."
+      "note": "Strong start @ ATL. 30 GUESS HOLD."
     },
     {
       "player": "Stefon Diggs",
@@ -660,7 +660,7 @@
       "value": 26,
       "tier": "SF2 stream",
       "trend": "flat",
-      "note": "NAMED (not on injury report). Startable SF2 vs HOU, not smash. Shedeur sit. 26 GUESS HOLD."
+      "note": "NAMED. Startable SF2 vs HOU, not smash. Shedeur sit. 26 GUESS HOLD."
     },
     {
       "player": "Jonah Coleman",
@@ -820,7 +820,7 @@
       "value": 16,
       "tier": "SF stash",
       "trend": "flat",
-      "note": "STILL FA. Minshew IR. Sit vs LAR. 16 GUESS."
+      "note": "STILL FA. Minshew IR/dropped. Sit vs LAR. 16 GUESS."
     },
     {
       "player": "Corey Kiner",
@@ -844,7 +844,7 @@
       "value": 16,
       "tier": "TE3",
       "trend": "flat",
-      "note": "Wed LP / Q groin. Toss-up vs HOU until Friday. 16 HOLD."
+      "note": "Q groin. Toss-up vs HOU until Friday. 16 HOLD."
     },
     {
       "player": "Isaiah Likely",
@@ -900,7 +900,7 @@
       "value": 14,
       "tier": "TE3",
       "trend": "flat",
-      "note": "Wed LP / Q ankle. Toss-up @ NYJ until Friday. 14 HOLD."
+      "note": "Q ankle. Toss-up @ NYJ until Friday. 14 HOLD."
     },
     {
       "player": "Darren Waller",
@@ -924,7 +924,7 @@
       "value": 12,
       "tier": "QB2",
       "trend": "flat",
-      "note": "Estimated Wed LP / Q ankle. Sit unless Cousins scratches. 12 GUESS."
+      "note": "Q ankle. Sit unless Cousins scratches. 12 GUESS."
     },
     {
       "player": "Devin Singletary",
@@ -5755,15 +5755,15 @@
       "pos": "QB",
       "team": "MIN",
       "status": "Doubtful",
-      "note": "Estimated Wed DNP hamstring. Sit.",
-      "replacement": "Cousins start-lean; Wentz Q ankle sit"
+      "note": "Hamstring. Sit. Pelissero 2-3 weeks GUESS.",
+      "replacement": "Cousins start-lean; Wentz Q sit"
     },
     {
       "player": "Carson Wentz",
       "pos": "QB",
       "team": "MIN",
       "status": "Questionable",
-      "note": "Estimated Wed LP ankle. Sit unless Cousins scratches.",
+      "note": "Ankle. Sit unless Cousins scratches.",
       "replacement": "Cousins start-lean @ GB"
     },
     {
@@ -5771,7 +5771,7 @@
       "pos": "QB",
       "team": "MIN",
       "status": "Healthy",
-      "note": "Sleeper QB/1. O'Connell unnamed; LaFleur fairly confident. Start-lean not smash.",
+      "note": "Sleeper QB/1. O'Connell unnamed; LaFleur/Pelissero expect him. Start-lean not smash.",
       "replacement": "Jefferson still starts"
     },
     {
@@ -5779,7 +5779,7 @@
       "pos": "QB",
       "team": "CLE",
       "status": "Healthy",
-      "note": "NAMED. Not on injury report. Startable SF2 vs HOU, not smash.",
+      "note": "NAMED. Startable SF2 vs HOU, not smash.",
       "replacement": "Shedeur sit"
     },
     {
@@ -5811,7 +5811,7 @@
       "pos": "QB",
       "team": "WAS",
       "status": "Healthy",
-      "note": "TNF final: no game designation. Must-start @ NYG.",
+      "note": "TNF no game designation. Must-start @ NYG.",
       "replacement": "n/a"
     },
     {
@@ -5819,7 +5819,15 @@
       "pos": "WR",
       "team": "NYG",
       "status": "Healthy",
-      "note": "TNF final: no game designation. Must-start vs WAS.",
+      "note": "TNF no game designation. Must-start vs WAS.",
+      "replacement": "n/a"
+    },
+    {
+      "player": "Jared Goff",
+      "pos": "QB",
+      "team": "DET",
+      "status": "Healthy",
+      "note": "Thu FP. Sleeper tag cleared. START vs NE Munich.",
       "replacement": "n/a"
     },
     {
@@ -5939,8 +5947,8 @@
       "pos": "WR",
       "team": "KC",
       "status": "Healthy",
-      "note": "Wed FP. Skip until usage.",
-      "replacement": "Downs dart weaker"
+      "note": "Still FA. Nacua Out. TE/1 vs ARI. Strong $0 leftover.",
+      "replacement": "n/a \u2014 he is the replacement"
     },
     {
       "player": "Gardner Minshew II",
@@ -5963,7 +5971,7 @@
       "pos": "OL",
       "team": "WAS",
       "status": "Out",
-      "note": "TNF Out concussion. Allegretti starts at C. Not a fantasy sit for Daniels.",
+      "note": "TNF Out concussion. Not a fantasy sit for Daniels.",
       "replacement": "n/a"
     },
     {
@@ -6074,7 +6082,7 @@
       "priority": "Speculative",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Minshew IR. Sit vs LAR. Still FA $0."
+      "why": "Minshew IR/dropped. Sit vs LAR. Still FA $0."
     },
     {
       "player": "David Montgomery",
@@ -6156,7 +6164,7 @@
       "player": "Rachaad White",
       "pos": "RB",
       "call": "Must-start",
-      "note": "WAS RB/1 TNF. Ekeler skip as paid RB2."
+      "note": "WAS RB/1 TNF."
     },
     {
       "player": "J.J. McCarthy",
@@ -6186,7 +6194,7 @@
       "player": "Kirk Cousins",
       "pos": "QB",
       "call": "Strong start",
-      "note": "Start-lean @ GB. Unnamed vs LaFleur. Not a smash."
+      "note": "Start-lean @ GB. Unnamed. Not a smash."
     },
     {
       "player": "Deshaun Watson",
@@ -6234,13 +6242,13 @@
       "player": "Kaleb Johnson",
       "pos": "RB",
       "call": "Toss-up",
-      "note": "OWNED. Jacobs Out. Lloyd off report. Committee vs MIN D. Not a locked RB2. 22 HOLD."
+      "note": "OWNED. Jacobs Out. Lloyd in mix. vs MIN."
     },
     {
       "player": "Tank Dell",
       "pos": "WR",
       "call": "Sit / trap",
-      "note": "Q Hand LP. Sit-lean @ CLE until Friday FP."
+      "note": "Q Hand. Sit-lean @ CLE until Friday FP."
     },
     {
       "player": "Khalil Shakir",
@@ -6294,7 +6302,7 @@
       "player": "Kyler Murray",
       "pos": "QB",
       "call": "Sit / trap",
-      "note": "DNP / Doubtful."
+      "note": "Doubtful."
     },
     {
       "player": "Carson Wentz",
@@ -6380,7 +6388,6 @@
     "Buying Downs as a WR2 now that Worthy was Wed FP. Rice is 30. Downs is a 16 GUESS dart.",
     "Buying McCord as a paid Superflex. Skip.",
     "Smash-selling Bowers because Mendoza starts. 62 HOLD.",
-    "Smash-selling Kyler to Cousins. 36 HOLD. Cousins is 52.",
     "Sitting Jefferson because O'Connell has not named Cousins. 72. Start him.",
     "Sitting JSN because of a rest DNP or Lock's elbow. 94. Start him.",
     "Treating formula 1.0.0 as this board.",

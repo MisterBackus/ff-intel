@@ -152,13 +152,13 @@ Superflex Half-PPR. **W10.** **TNF LOCK TONIGHT.**
 
 - **Must-start:** JSN @ LV (rest DNP, **start** — Lock elbow is a ceiling GUESS, not a sit). Chase vs PIT. Amon-Ra vs NE (**start-lean**, Thu LP). CeeDee vs SF. Jefferson @ GB. Nabers vs WAS (**TNF**). London vs KC. Diggs @ NYG (**TNF**).
 - **Strong start:** Olave vs CAR. Higgins vs PIT. Tet @ TEN. Flowers vs LAC. Golden / Watson-GB vs MIN. Rice @ ATL. Shakir @ NYJ (**owned**).
-- **Toss-up:** DJ Moore @ NYJ. Downs @ ATL **if rostered**. McConkey @ BAL **if active**. AJB @ DET **if named**. Pickens vs SF **if Friday FP**. Dell @ CLE **if Friday FP**.
-- **Sit / trap:** Nacua **Out**. Waddle / Odunze / Burden / DeVonta / Egbuka / Lemon **bye**. Wilson-ARI IR. MHJ until Friday. Garrett Wilson until Friday FP. Boutte as a WR2. Mumpfield.
+- **Toss-up:** DJ Moore @ NYJ. McConkey @ BAL **if active**. AJB @ DET **if named**. Pickens vs SF **if Friday FP**. Dell @ CLE **if Friday FP**.
+- **Sit / trap:** Nacua **Out**. Waddle / Odunze / Burden / DeVonta / Egbuka / Lemon **bye**. Wilson-ARI IR. MHJ until Friday. Garrett Wilson until Friday FP. Mumpfield.
 
 ### TE
 
 - **Must-start:** Bowers vs SEA. McBride vs LAR. Tyler Warren vs MIA.
-- **Strong start:** Kelce @ ATL. Higbee @ ARI **if rostered**. Likely vs WAS (**TNF**).
+- **Strong start:** Kelce @ ATL. **Higbee @ ARI if rostered**. Likely vs WAS (**TNF**).
 - **Toss-up:** Kincaid @ NYJ **if Friday FP**. Fannin vs HOU **if Friday FP**.
 - **Sit / trap:** Loveland / Goedert **bye**. Ferguson Out. Hockenson until he practices Friday.
 
@@ -227,7 +227,6 @@ Same scale every day. Superflex: starting QBs premium. Half-PPR: WRs hold. 10-te
 - Buying Downs as a WR2 now that Worthy was Wed FP. Rice is 30. Downs is a **16 GUESS** dart.
 - Buying McCord as a paid Superflex. Skip.
 - Smash-selling Bowers because Mendoza starts. **62 HOLD.**
-- Smash-selling Kyler to Cousins. **36 HOLD.** Cousins is **52**.
 - Sitting Jefferson because O’Connell hasn’t named Cousins. **72. Start him.**
 - Sitting JSN because of a rest DNP or Lock’s elbow. **94. Start him.**
 - Treating formula 1.0.0 as this board.
