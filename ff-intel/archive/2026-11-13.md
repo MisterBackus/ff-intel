@@ -141,7 +141,7 @@ Facts first. **Conservative lineup call when sources conflict.**
 
 ## 5. Start / sit and landmines
 
-Superflex Half-PPR. **W10.** **TNF CLOSED.** Next lock = **Munich Sun 9:30 ET**.
+Superflex Half-PPR. **W10 after TNF. Friday designations IN.**
 
 ### QB
 
@@ -195,7 +195,7 @@ Superflex Half-PPR. **W10.** **TNF CLOSED.** Next lock = **Munich Sun 9:30 ET**.
 
 ## 7. Trade values (curated 1–100)
 
-Same scale every day. Superflex: starting QBs premium. Half-PPR: WRs hold. 10-team: benches shallow. **Formula `players[]` is a different scale.**
+Same scale every day. Superflex: starting QBs premium. Half-PPR: WRs hold. 10-team: benches shallow. **Formula `players[]` is a different scale. TNF boxes not in formula PPG.**
 
 ### A. Tier list by position
 
@@ -294,6 +294,6 @@ Only names with a snap path in the next 1–3 weeks.
 
 ## Fair-trade cheat sheet (bots)
 
-Equal: Burrow≈Maye · Chase≈Amon-Ra · Purdy≈CeeDee · Cook≈Mahomes · Jefferson≈CMC · Love≈Dak≈Taylor · Skattebo≈Watson≈Lock.
+Equal: Burrow≈Maye · Chase≈Amon-Ra · Purdy≈CeeDee · Cook≈Mahomes · Jefferson≈CMC · Love≈Dak≈Taylor · Skattebo≈Watson.
 
 Do not: start-Nacua-IR · McVay-not-IR-as-live · Walker-as-lock-before-inactives · panic-sell-Walker-84 · Mendoza-as-smash · McCord-as-SF2 · Downs-as-WR2 · sit-Jefferson · sit-JSN · Bowers-for-a-dart · start-W10-byes · start-Henderson-OUT · start-Stevenson-Q · Kaleb-as-locked-RB2-vs-MIN · start-McConkey-without-Sat · chase-Sinnott · smash-sell-Nabers-after-4.9 · formula-scale-as-this-board.

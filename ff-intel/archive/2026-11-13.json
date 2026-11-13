@@ -334,7 +334,7 @@
       "value": 62,
       "tier": "SF1",
       "trend": "flat",
-      "note": "TNF CLOSED 23/33 249/3/2 + 11-28 / 28.76. 62 HOLD."
+      "note": "TNF CLOSED 28.76. 62 HOLD."
     },
     {
       "player": "Drake London",
@@ -598,7 +598,7 @@
       "value": 30,
       "tier": "SF2",
       "trend": "flat",
-      "note": "TNF CLOSED 23/36 293/1/1 + 6-34 / 20.12. 30 GUESS HOLD."
+      "note": "TNF CLOSED 20.12. Viable SF2, not a smash-up. 30 GUESS HOLD."
     },
     {
       "player": "Jacoby Brissett",
@@ -5831,6 +5831,14 @@
       "replacement": "Shedeur sit"
     },
     {
+      "player": "Jared Goff",
+      "pos": "QB",
+      "team": "DET",
+      "status": "Healthy",
+      "note": "FP. START vs NE Munich.",
+      "replacement": "Starts"
+    },
+    {
       "player": "Patrick Mahomes",
       "pos": "QB",
       "team": "KC",
@@ -5859,16 +5867,32 @@
       "pos": "QB",
       "team": "WAS",
       "status": "Healthy",
-      "note": "TNF CLOSED 249/3/2 / 28.76. 62 HOLD.",
-      "replacement": "n/a"
+      "note": "TNF already played 28.76.",
+      "replacement": "Already played"
+    },
+    {
+      "player": "J.J. McCarthy",
+      "pos": "QB",
+      "team": "NYG",
+      "status": "Healthy",
+      "note": "TNF already played 20.12.",
+      "replacement": "Already played"
+    },
+    {
+      "player": "Cam Skattebo",
+      "pos": "RB",
+      "team": "NYG",
+      "status": "Healthy",
+      "note": "TNF already played 25.7.",
+      "replacement": "Already played"
     },
     {
       "player": "Malik Nabers",
       "pos": "WR",
       "team": "NYG",
       "status": "Healthy",
-      "note": "TNF CLOSED 5-44 + fumble / 4.9. 64 HOLD. Do not smash-sell.",
-      "replacement": "n/a"
+      "note": "TNF 4.9 + fumble. HOLD 64.",
+      "replacement": "Already played"
     },
     {
       "player": "Stefon Diggs",
@@ -6135,8 +6159,16 @@
       "why": "Trending. Only if you missed Higbee and need a TE vs NO."
     },
     {
-      "player": "David Montgomery",
+      "player": "Audric Estime",
       "pos": "RB",
+      "priority": "Claimed",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "OWNED $0 ZeroChillQB. Depth. Sit."
+    },
+    {
+      "player": "Tutu Atwell",
+      "pos": "WR",
       "priority": "Speculative",
       "bid_low": 0,
       "bid_high": 0,
@@ -6156,7 +6188,7 @@
       "priority": "Speculative",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Not a 10-team WR2 lock."
+      "why": "Saturday leftover. Not a 10-team WR2 lock."
     },
     {
       "player": "Carson Beck",
@@ -6164,7 +6196,7 @@
       "priority": "Speculative",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Minshew IR. Sit vs LAR."
+      "why": "Saturday leftover. Sit vs LAR."
     },
     {
       "player": "Kyle McCord",
@@ -6199,17 +6231,25 @@
       "why": "Higbee START. Skip."
     },
     {
-      "player": "Devin Singletary",
+      "player": "David Montgomery",
       "pos": "RB",
       "priority": "Skip",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Skattebo 21 touches TNF. Skip."
+      "why": "Q groin. Marks off report START."
+    },
+    {
+      "player": "Colby Parkinson",
+      "pos": "TE",
+      "priority": "Skip",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "Higbee already owned."
     }
   ],
   "start_sit": [
     {
-      "player": "Jared Goff",
+      "player": "Kirk Cousins",
       "pos": "QB",
       "call": "Must-start",
       "note": "Fri FP vs NE Munich."
@@ -6236,11 +6276,11 @@
       "player": "Jahmyr Gibbs",
       "pos": "RB",
       "call": "Must-start",
-      "note": "vs NE Munich."
+      "note": "vs NE Munich"
     },
     {
-      "player": "Jaxon Smith-Njigba",
-      "pos": "WR",
+      "player": "Drake Maye",
+      "pos": "QB",
       "call": "Must-start",
       "note": "Fri FP. Lock elbow is a ceiling GUESS, not a sit."
     },
@@ -6368,19 +6408,25 @@
       "player": "Rhamondre Stevenson",
       "pos": "RB",
       "call": "Sit / trap",
-      "note": "Q. Conservative sit Munich."
+      "note": "Still Q. Conservative sit Munich"
     },
     {
       "player": "TreVeyon Henderson",
       "pos": "RB",
       "call": "Sit / trap",
-      "note": "Official OUT."
+      "note": "OUT illness"
+    },
+    {
+      "player": "A.J. Brown",
+      "pos": "WR",
+      "call": "Sit / trap",
+      "note": "Still Q. Sit until Sunday AM"
     },
     {
       "player": "Puka Nacua",
       "pos": "WR",
       "call": "Sit / trap",
-      "note": "IR. Sit."
+      "note": "IR. Sit"
     },
     {
       "player": "Josh Jacobs",
@@ -6431,22 +6477,58 @@
       "note": "Q. Sit until named."
     },
     {
-      "player": "Jayden Daniels",
+      "player": "Ladd McConkey",
+      "pos": "WR",
+      "call": "Sit / trap",
+      "note": "Thu DNP. Sit-lean until Saturday MNF designations"
+    },
+    {
+      "player": "Fernando Mendoza",
       "pos": "QB",
-      "call": "Already played",
-      "note": "TNF 28.76."
+      "call": "Sit / trap",
+      "note": "Sit vs SEA"
+    },
+    {
+      "player": "Shedeur Sanders",
+      "pos": "QB",
+      "call": "Sit / trap",
+      "note": "Watson named. Sit"
+    },
+    {
+      "player": "Carson Wentz",
+      "pos": "QB",
+      "call": "Sit / trap",
+      "note": "Backup. Sit"
+    },
+    {
+      "player": "Audric Estime",
+      "pos": "RB",
+      "call": "Sit / trap",
+      "note": "Owned depth. Sit"
+    },
+    {
+      "player": "T.J. Hockenson",
+      "pos": "TE",
+      "call": "Sit / trap",
+      "note": "OUT"
+    },
+    {
+      "player": "Marvin Harrison Jr.",
+      "pos": "WR",
+      "call": "Sit / trap",
+      "note": "OUT hamstring"
+    },
+    {
+      "player": "CHI/DEN/PHI/TB byes",
+      "pos": "ALL",
+      "call": "Sit / trap",
+      "note": "Caleb, Swift, Odunze, Burden, Loveland, Nix, Waddle, Irving, Egbuka, Saquon, Goedert, DeVonta"
     },
     {
       "player": "Cam Skattebo",
       "pos": "RB",
       "call": "Already played",
-      "note": "TNF 25.7."
-    },
-    {
-      "player": "Isaiah Likely",
-      "pos": "TE",
-      "call": "Already played",
-      "note": "TNF 23.2."
+      "note": "TNF 25.7"
     }
   ],
   "streamers_qb": [
@@ -6471,7 +6553,7 @@
     "Do not smash-sell Taylor / Bowers / Kyler / Nacua-to-a-12 / Allen / Gibbs / JSN / Mahomes / Walker-on-one-Q / Nabers-after-4.9. Watch Sunday inactives, Jacobs surgery/IR, MNF Saturday designations."
   ],
   "trade_rules_of_thumb": [
-    "Curated 1-100 Superflex Half-PPR 10-team. Do not mix with formula 1.0.0 players[].",
+    "Curated 1-100 Superflex Half-PPR 10-team. Formula players[] is a different scale. TNF boxes are NOT in formula PPG.",
     "Starting QBs are premium. QB2s still matter. Do not treat this like 1QB.",
     "Half-PPR: WRs hold. Committee RBs discounted unless 15+ touches.",
     "10-team benches are shallow. Do not overpay for a 4th RB.",
