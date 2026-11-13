@@ -1,6 +1,6 @@
 {
   "formula_version": "1.0.0",
-  "generated_at_et": "2026-11-12 05:15 PM EST",
+  "generated_at_et": "2026-11-13 07:15 AM EST",
   "nfl_week": "10",
   "league": {
     "id": "1395904889149739008",
@@ -26,23 +26,23 @@
     "Sleeper NFL state + league 1395904889149739008 tags/depth/rosters (display_week=10 last_scored_leg=9 daily_waivers_last_ran=12 W10 txs 5 W11 txs 0)",
     "NFL.com official Week 10 injury report: TNF final designations CLOSED (Yankoff/Patrick Out; Harrison Q LB; McCarthy/Skattebo/Nabers/Daniels no tag)",
     "ESPN Adam Schefter: McCarthy and Skattebo will play TNF / no injury designation",
-    "CBS 4:18 PM ET: Jared Goff full practice Thursday \u2014 START vs NE Munich",
-    "CBS/NBC: Amon-Ra St. Brown limited Thursday ribs \u2014 start-lean, confirm Friday",
-    "NBC: Stevenson limited Thursday; Mike Reiss: worked off to the side, still a chance; Sleeper Q (was Doubtful); Rapoport expected few weeks \u2014 CONFLICT, conservative sit",
+    "CBS 4:18 PM ET: Jared Goff full practice Thursday — START vs NE Munich",
+    "CBS/NBC: Amon-Ra St. Brown limited Thursday ribs — start-lean, confirm Friday",
+    "NBC: Stevenson limited Thursday; Mike Reiss: worked off to the side, still a chance; Sleeper Q (was Doubtful); Rapoport expected few weeks — CONFLICT, conservative sit",
     "Aaron Wilson / KPRC: Woody Marks DNP Thursday after Wed knee discomfort; David Montgomery back at practice",
     "NBC: Bhayshul Tuten DNP Thursday (Wed DNP). Last week DNP-then-played. Conservative sit-lean until Friday",
-    "NBC: Alvin Kamara limited Thursday rest/back \u2014 still sit-lean",
+    "NBC: Alvin Kamara limited Thursday rest/back — still sit-lean",
     "Seahawks/Macdonald: Drew Lock expected start vs Mendoza; Darnold Out; Lock Thu LP elbow/oblique",
-    "NWS / The Sunday Board 4:15 PM ET: MetLife TNF ~51F, NE 10 mph, gusts ~20, rain ~78% at kick \u2014 GUESS not a sit",
+    "NWS / The Sunday Board 4:15 PM ET: MetLife TNF ~51F, NE 10 mph, gusts ~20, rain ~78% at kick — GUESS not a sit",
     "O'Connell still unnamed Cousins; LaFleur fairly confident; Sleeper MIN QB/1",
     "Browns.com: Watson named starter vs HOU",
     "McVay / PFT: Nacua Out, will not go on IR, W14/W15 target",
     "Rapoport: Jacobs surgery Friday, 2-3 weeks",
     "Sleeper leftover: Kiner $7 AnalyticsOverlord (drop Singletary); Jones $0 RivalryEngine (drop Minshew); failed Kiner $3/$0/$0; Higbee still FA",
-    "Formula 1.0.0 players[] from 2026-11-12 05:06 PM EST generate \u2014 do not mix with curated trade_board",
+    "Formula 1.0.0 players[] from 2026-11-12 05:06 PM EST generate — do not mix with curated trade_board",
     "Prior packet 2026-11-12 07:15 AM EST"
   ],
-  "commit_message": "intel: 2026-11-12 week 10",
+  "commit_message": "intel: 2026-11-13 week 10",
   "sanity_gaps": [
     {
       "player": "Shedeur Sanders",
@@ -172,7 +172,7 @@
       "value": 100,
       "tier": "SF1 elite",
       "trend": "flat",
-      "note": "Must-start @ NYJ. 100 HOLD."
+      "note": "Must-start @ NYJ. Dry gusts GUESS not a sit. 100 HOLD."
     },
     {
       "player": "Jahmyr Gibbs",
@@ -324,7 +324,7 @@
       "value": 64,
       "tier": "WR1",
       "trend": "flat",
-      "note": "TNF will play (Schefter). Must-start vs WAS. 64 HOLD."
+      "note": "TNF CLOSED 5-44 + fumble / 4.9. Do not smash-sell. 64 HOLD."
     },
     {
       "player": "Brock Bowers",
@@ -340,7 +340,7 @@
       "value": 62,
       "tier": "SF1",
       "trend": "flat",
-      "note": "TNF no game designation. Must-start @ NYG. 62 HOLD."
+      "note": "TNF CLOSED 23/33 249/3/2 + 11-28 / 28.76. 62 HOLD."
     },
     {
       "player": "Drake London",
@@ -388,7 +388,7 @@
       "value": 52,
       "tier": "SF1 / strong SF2",
       "trend": "flat",
-      "note": "Sleeper MIN QB/1. O'Connell still unnamed; LaFleur/Pelissero expect him. Start-lean @ GB, not smash. 52 GUESS HOLD."
+      "note": "Sleeper MIN QB/1. Zenitz 1st-team Thursday / on track. O'Connell still unnamed. Start-lean @ GB, not smash. 52 GUESS HOLD."
     },
     {
       "player": "Kyren Williams",
@@ -396,7 +396,7 @@
       "value": 52,
       "tier": "RB1",
       "trend": "flat",
-      "note": "Strong start @ ARI without Nacua. 52 HOLD."
+      "note": "Strong start @ ARI without Nacua IR. 52 HOLD."
     },
     {
       "player": "Tetairoa McMillan",
@@ -436,7 +436,7 @@
       "value": 48,
       "tier": "SF2",
       "trend": "flat",
-      "note": "Still Sleeper Q finger. MNF sheet empty. Start-lean @ BAL not smash. 48 GUESS HOLD."
+      "note": "Sleeper tag cleared / off report. START-lean @ BAL MNF, not smash (38.5). 48 GUESS HOLD."
     },
     {
       "player": "Javonte Williams",
@@ -463,14 +463,6 @@
       "note": "Thu FP. START vs NE Munich. 44 GUESS HOLD."
     },
     {
-      "player": "Puka Nacua",
-      "pos": "WR",
-      "value": 42,
-      "tier": "WR1 stash",
-      "trend": "flat",
-      "note": "Sleeper Out Knee-MCL. McVay will not IR. Still out extended; hope W14/W15. Sit. 42 GUESS HOLD."
-    },
-    {
       "player": "Chuba Hubbard",
       "pos": "RB",
       "value": 40,
@@ -484,7 +476,7 @@
       "value": 40,
       "tier": "SF2",
       "trend": "flat",
-      "note": "Starts without Nacua @ ARI. 40 GUESS HOLD."
+      "note": "Starts without Nacua IR @ ARI. 40 GUESS HOLD."
     },
     {
       "player": "Tony Pollard",
@@ -492,7 +484,7 @@
       "value": 40,
       "tier": "RB2",
       "trend": "flat",
-      "note": "Strong start vs JAX. 40 HOLD."
+      "note": "Thu DNP finger/NIR-rest. Start-lean vs JAX. Confirm Friday. 40 HOLD."
     },
     {
       "player": "Bryce Young",
@@ -532,7 +524,15 @@
       "value": 36,
       "tier": "QB stash",
       "trend": "flat",
-      "note": "Doubtful hamstring. Sit. Pelissero 2-3 weeks GUESS. 36 GUESS HOLD."
+      "note": "Thu DNP hamstring. Sit. Pelissero 2-3 weeks GUESS. 36 GUESS HOLD."
+    },
+    {
+      "player": "Puka Nacua",
+      "pos": "WR",
+      "value": 36,
+      "tier": "WR1 stash / IR",
+      "trend": "down",
+      "note": "Sleeper IR Knee-MCL+PCL/turf toe. McVay-not-IR STALE. NBC earliest Dec 20 vs DAL; VC Star W14 vs SF CONFLICT. Sit. 36 GUESS. Adams blocks AustinDoingWork IR slot."
     },
     {
       "player": "George Pickens",
@@ -583,6 +583,14 @@
       "note": "W10 bye. Sit. 32 HOLD."
     },
     {
+      "player": "Stefon Diggs",
+      "pos": "WR",
+      "value": 32,
+      "tier": "WR2",
+      "trend": "up",
+      "note": "TNF CLOSED 6-83-1 / 10 tgt / 17.3. 32 GUESS."
+    },
+    {
       "player": "Zay Flowers",
       "pos": "WR",
       "value": 32,
@@ -596,7 +604,7 @@
       "value": 30,
       "tier": "SF2",
       "trend": "flat",
-      "note": "TNF Schefter will play. START SF2 vs WAS. Confirm 7-man ~6:45. 30 GUESS HOLD."
+      "note": "TNF CLOSED 23/36 293/1/1 + 6-34 / 20.12. 30 GUESS HOLD."
     },
     {
       "player": "Jacoby Brissett",
@@ -613,14 +621,6 @@
       "tier": "WR2",
       "trend": "flat",
       "note": "Strong start @ ATL. 30 GUESS HOLD."
-    },
-    {
-      "player": "Stefon Diggs",
-      "pos": "WR",
-      "value": 30,
-      "tier": "WR2",
-      "trend": "flat",
-      "note": "TNF no tag. Must-start @ NYG. 30 HOLD."
     },
     {
       "player": "DJ Moore",
@@ -653,6 +653,14 @@
       "tier": "TE1",
       "trend": "flat",
       "note": "Must-start vs MIA. 28 GUESS HOLD."
+    },
+    {
+      "player": "Cam Skattebo",
+      "pos": "RB",
+      "value": 26,
+      "tier": "RB2",
+      "trend": "up",
+      "note": "TNF CLOSED 18-78-2 + 3-44 / 25.7. NYG RB1. 26 GUESS."
     },
     {
       "player": "Deshaun Watson",
@@ -743,6 +751,14 @@
       "note": "W10 bye. Sit. 22 HOLD."
     },
     {
+      "player": "Isaiah Likely",
+      "pos": "TE",
+      "value": 22,
+      "tier": "TE2 / stream",
+      "trend": "up",
+      "note": "TNF CLOSED 9-127-1 / 11 tgt / 23.2. McCarthy TE1. 22 GUESS."
+    },
+    {
       "player": "Joe Milton",
       "pos": "QB",
       "value": 22,
@@ -767,12 +783,12 @@
       "note": "Lock-led SEA. 22 HOLD."
     },
     {
-      "player": "Cam Skattebo",
-      "pos": "RB",
+      "player": "Tyler Higbee",
+      "pos": "TE",
       "value": 20,
-      "tier": "RB2",
-      "trend": "flat",
-      "note": "TNF Schefter will play. START vs WAS. Singletary now FA sit. Confirm ~6:45. 20 GUESS HOLD."
+      "tier": "TE stream",
+      "trend": "up",
+      "note": "STILL FA $0. Nacua IR locks TE/1 vs ARI. Illness DNP Wed+Thu beat vs Rams.com LAG CONFLICT. Add $0; Friday Out watch. 20 GUESS."
     },
     {
       "player": "A.J. Brown",
@@ -780,7 +796,7 @@
       "value": 18,
       "tier": "WR3",
       "trend": "flat",
-      "note": "Practiced Munich / Q knee. Sit until named. 18 GUESS."
+      "note": "Thu LP / Q knee. Sit until named. 18 GUESS."
     },
     {
       "player": "Daniel Jones",
@@ -797,14 +813,6 @@
       "tier": "WR3",
       "trend": "flat",
       "note": "W10 bye. Sit. 18 HOLD."
-    },
-    {
-      "player": "Tyler Higbee",
-      "pos": "TE",
-      "value": 18,
-      "tier": "TE stream",
-      "trend": "flat",
-      "note": "STILL FA $0. Nacua Out not IR. TE/1 vs ARI. Last leftover add. 18 GUESS."
     },
     {
       "player": "Audric Estime",
@@ -847,14 +855,6 @@
       "note": "Q groin. Toss-up vs HOU until Friday. 16 HOLD."
     },
     {
-      "player": "Isaiah Likely",
-      "pos": "TE",
-      "value": 16,
-      "tier": "TE3",
-      "trend": "flat",
-      "note": "TNF vs WAS. Strong start. 16 HOLD."
-    },
-    {
       "player": "Josh Downs",
       "pos": "WR",
       "value": 16,
@@ -868,7 +868,7 @@
       "value": 16,
       "tier": "RB stash",
       "trend": "flat",
-      "note": "Out surgery Friday. 2-3 weeks. Sit. 16 GUESS HOLD."
+      "note": "Out surgery TODAY. 2-3 weeks GUESS; IR still on the table Saturday. Sit. 16 GUESS HOLD."
     },
     {
       "player": "Khalil Shakir",
@@ -892,7 +892,7 @@
       "value": 16,
       "tier": "WR3",
       "trend": "flat",
-      "note": "OWNED. Sleeper Q Hand. Wed LP. Thu official MISSING. Sit-lean @ CLE until Friday FP. 16 GUESS HOLD."
+      "note": "OWNED. Sleeper tag cleared vs NFL.com LP hand CONFLICT. Sit-lean @ CLE until Friday FP. 16 GUESS HOLD."
     },
     {
       "player": "Dalton Kincaid",
@@ -932,7 +932,7 @@
       "value": 12,
       "tier": "committee",
       "trend": "flat",
-      "note": "NOW FA (dropped for Kiner). Sit TNF \u2014 Skattebo will play. Skip add. 12 HOLD."
+      "note": "FA (dropped for Kiner). TNF 1 carry. Skip add. 12 HOLD."
     },
     {
       "player": "Keenan Allen",
@@ -964,7 +964,7 @@
       "value": 12,
       "tier": "RB stash",
       "trend": "flat",
-      "note": "Sleeper Q. Thu limited / off-to-side CONFLICTS with Rapoport few-weeks. Conservative sit Munich. 12 GUESS HOLD."
+      "note": "Sleeper Q. Thu LP CONFLICTS with Rapoport few-weeks. Conservative sit Munich. 12 GUESS HOLD."
     },
     {
       "player": "Xavier Worthy",
@@ -5706,32 +5706,32 @@
     }
   ],
   "must_act_today": [
-    "TNF LOCK ~3 HOURS 8:15 ET: Daniels / Nabers / Diggs / White must-start. McCarthy START (Schefter will play). Skattebo START. Singletary sit. Confirm 7-man ~6:45. Rain ~78% GUESS not a sit.",
-    "Leftover POSTED last_ran 11->12. Kiner $7 AnalyticsOverlord (drop Singletary). Jones $0 RivalryEngine (drop Minshew). Failed Kiner $3/$0/$0. Higbee still FA $0 now.",
-    "Add $0 leftover NOW: Higbee (Nacua Out not IR / TE/1 vs ARI). Skip McCord / Downs-as-WR2 / Lloyd / Strong / Singletary / Montgomery-until-Friday.",
+    "Add $0 leftover NOW: Higbee (Nacua IR / TE/1 vs ARI). Illness DNP Wed+Thu beat vs Rams.com LAG CONFLICT — still the add. Skip McCord / Downs-as-WR2 / Lloyd / Strong / Singletary / Mumpfield / Sinnott / Montgomery-until-Friday.",
+    "Nacua Sleeper IR posted Thursday. 42->36 GUESS. Sit. AustinDoingWork: Adams occupies the only IR slot; Nacua is IR-tagged on the active roster. Decide the stash.",
+    "TNF CLOSED WAS 24-NYG 21. Skattebo 20->26. Likely 16->22. Diggs 30->32. Nabers 4.9 HOLD 64. Do not chase Sinnott/Fields/Ekeler.",
     "Goff Thu FP START vs NE. Amon-Ra Thu LP start-lean, confirm Friday.",
-    "Stevenson Sleeper Q (was Doubtful). Conservative sit Munich. Kiner owned startable if he sits.",
-    "Watson NAMED vs HOU \u2014 startable SF2, not a smash. Sit Shedeur.",
-    "Cousins Sleeper QB/1. O'Connell still unnamed; LaFleur fairly confident. Start-lean @ GB. Sit Wentz (Q ankle) and Kyler (DNP).",
-    "Mahomes Wed FP. Must-start @ ATL.",
-    "Sit Nacua (Out, will not go on IR). Sit Jacobs, Stevenson, Henderson, Marks (Thu DNP), Tuten (Thu DNP), W10 byes CHI/DEN/PHI/TB, Mendoza vs SEA.",
-    "Lock expected vs Mendoza \u2014 cleanest owned SF2 stream if you do not like Watson's matchup."
+    "Stevenson Sleeper Q / Thu LP. Conservative sit Munich. Kiner owned startable if he sits.",
+    "Watson NAMED vs HOU — startable SF2, not a smash. Sit Shedeur.",
+    "Cousins Sleeper QB/1. Zenitz 1st-team Thursday / on track; O'Connell still unnamed. Start-lean @ GB. Sit Wentz (Q ankle) and Kyler (DNP).",
+    "Mahomes Wed FP. Must-start @ ATL. Herbert Sleeper tag cleared START-lean MNF (low total 38.5).",
+    "Sit Nacua (IR). Sit Jacobs (surgery today), Stevenson, Henderson, Marks (until Friday FP), Tuten (Thu DNP), W10 byes CHI/DEN/PHI/TB, Mendoza vs SEA.",
+    "Lock expected vs Mendoza — cleanest owned SF2 stream if you do not like Watson's matchup. Friday designations MISSING ~4:00 PM ET."
   ],
   "injuries": [
     {
       "player": "Puka Nacua",
       "pos": "WR",
       "team": "LAR",
-      "status": "Out",
-      "note": "Knee-MCL. McVay will not go on IR. Still out extended; hope W14/W15. Sit.",
-      "replacement": "Higbee still FA $0; Kyren/Corum smash-lean"
+      "status": "IR",
+      "note": "Knee-MCL+PCL / turf toe. IR posted Thursday. NBC earliest Dec 20 vs DAL; VC Star W14 vs SF CONFLICT. Sit. 36 GUESS.",
+      "replacement": "Higbee still FA $0 (illness watch); Kyren/Corum smash-lean"
     },
     {
       "player": "Josh Jacobs",
       "pos": "RB",
       "team": "GB",
       "status": "Out",
-      "note": "Surgery Friday. 2-3 weeks. Sit.",
+      "note": "Surgery TODAY. 2-3 weeks GUESS; IR still on the table Saturday. Sit.",
       "replacement": "Kaleb owned toss-up vs MIN (Lloyd off report, committee)"
     },
     {
@@ -5747,7 +5747,7 @@
       "pos": "RB",
       "team": "NE",
       "status": "Questionable",
-      "note": "Sleeper Q. Thu limited / off-to-side CONFLICTS with Rapoport few-weeks. Conservative sit Munich.",
+      "note": "Sleeper Q. Thu LP CONFLICTS with Rapoport few-weeks. Conservative sit Munich.",
       "replacement": "Kiner owned startable"
     },
     {
@@ -5755,7 +5755,7 @@
       "pos": "QB",
       "team": "MIN",
       "status": "Doubtful",
-      "note": "Hamstring. Sit. Pelissero 2-3 weeks GUESS.",
+      "note": "Hamstring. Thu DNP. Sit. Pelissero 2-3 weeks GUESS.",
       "replacement": "Cousins start-lean; Wentz Q sit"
     },
     {
@@ -5763,7 +5763,7 @@
       "pos": "QB",
       "team": "MIN",
       "status": "Questionable",
-      "note": "Ankle. Sit unless Cousins scratches.",
+      "note": "Ankle. Thu LP. Sit unless Cousins scratches.",
       "replacement": "Cousins start-lean @ GB"
     },
     {
@@ -5771,7 +5771,7 @@
       "pos": "QB",
       "team": "MIN",
       "status": "Healthy",
-      "note": "Sleeper QB/1. O'Connell unnamed; LaFleur/Pelissero expect him. Start-lean not smash.",
+      "note": "Sleeper QB/1. Zenitz 1st-team Thursday / on track. O'Connell unnamed. Start-lean not smash.",
       "replacement": "Jefferson still starts"
     },
     {
@@ -5795,7 +5795,7 @@
       "pos": "QB",
       "team": "NYG",
       "status": "Healthy",
-      "note": "TNF final: no game designation. Schefter will play. START vs WAS. Confirm ~6:45.",
+      "note": "TNF CLOSED 293/1/1 + 6-34 / 20.12. 30 GUESS HOLD.",
       "replacement": "Winston FA cuff"
     },
     {
@@ -5803,15 +5803,15 @@
       "pos": "RB",
       "team": "NYG",
       "status": "Healthy",
-      "note": "TNF final: no game designation. Schefter will play. START vs WAS. Confirm ~6:45.",
-      "replacement": "Singletary now FA sit"
+      "note": "TNF CLOSED 18-78-2 + 3-44 / 25.7. 26 GUESS.",
+      "replacement": "Singletary FA skip"
     },
     {
       "player": "Jayden Daniels",
       "pos": "QB",
       "team": "WAS",
       "status": "Healthy",
-      "note": "TNF no game designation. Must-start @ NYG.",
+      "note": "TNF CLOSED 249/3/2 / 28.76. 62 HOLD.",
       "replacement": "n/a"
     },
     {
@@ -5819,15 +5819,23 @@
       "pos": "WR",
       "team": "NYG",
       "status": "Healthy",
-      "note": "TNF no game designation. Must-start vs WAS.",
+      "note": "TNF CLOSED 5-44 + fumble / 4.9. 64 HOLD. Do not smash-sell.",
       "replacement": "n/a"
     },
     {
-      "player": "Jared Goff",
-      "pos": "QB",
-      "team": "DET",
+      "player": "Stefon Diggs",
+      "pos": "WR",
+      "team": "WAS",
       "status": "Healthy",
-      "note": "Thu FP. Sleeper tag cleared. START vs NE Munich.",
+      "note": "TNF CLOSED 6-83-1 / 17.3. 32 GUESS.",
+      "replacement": "n/a"
+    },
+    {
+      "player": "Isaiah Likely",
+      "pos": "TE",
+      "team": "NYG",
+      "status": "Healthy",
+      "note": "TNF CLOSED 9-127-1 / 23.2. 22 GUESS.",
       "replacement": "n/a"
     },
     {
@@ -5850,8 +5858,8 @@
       "player": "Tank Dell",
       "pos": "WR",
       "team": "HOU",
-      "status": "Questionable",
-      "note": "Hand. Wed LP. Thu official MISSING. Sit-lean @ CLE until Friday FP.",
+      "status": "Healthy",
+      "note": "Sleeper tag cleared vs NFL.com LP hand CONFLICT. Sit-lean @ CLE until Friday FP.",
       "replacement": "Nico still starts"
     },
     {
@@ -5868,7 +5876,7 @@
       "team": "SEA",
       "status": "Questionable",
       "note": "Thu LP elbow/oblique. Macdonald expected start vs Mendoza. Darnold Out.",
-      "replacement": "n/a \u2014 clean owned SF2 stream"
+      "replacement": "n/a — clean owned SF2 stream"
     },
     {
       "player": "Sam Darnold",
@@ -5882,8 +5890,8 @@
       "player": "Justin Herbert",
       "pos": "QB",
       "team": "LAC",
-      "status": "Questionable",
-      "note": "Finger. MNF sheet empty. Start-lean not smash.",
+      "status": "Healthy",
+      "note": "Sleeper tag cleared / off report. START-lean MNF not smash (38.5).",
       "replacement": "n/a"
     },
     {
@@ -5899,7 +5907,7 @@
       "pos": "WR",
       "team": "NE",
       "status": "Questionable",
-      "note": "Knee. Practiced Munich. Sit until named.",
+      "note": "Knee. Thu LP. Sit until named.",
       "replacement": "n/a"
     },
     {
@@ -5915,31 +5923,31 @@
       "pos": "RB",
       "team": "HOU",
       "status": "Questionable",
-      "note": "Knee. Thu DNP after Wed LP. Sit-lean @ CLE until Friday.",
-      "replacement": "Montgomery FA back at practice \u2014 speculative behind Higbee"
+      "note": "Knee. NFL.com Thu LP (was DNP). Sit-lean @ CLE until Friday FP.",
+      "replacement": "Montgomery FA NFL.com DNP — speculative behind Higbee"
     },
     {
       "player": "Garrett Wilson",
       "pos": "WR",
       "team": "NYJ",
       "status": "Questionable",
-      "note": "Concussion. Thu non-contact jersey. Sit-lean vs BUF until Friday FP.",
+      "note": "Concussion. Thu LP. Sit-lean vs BUF until Friday FP / protocol clear.",
       "replacement": "Shakir owned on the other side"
     },
     {
       "player": "Alvin Kamara",
       "pos": "RB",
       "team": "NO",
-      "status": "Questionable",
-      "note": "Back. Thu LP rest/back. Sit-lean vs CAR.",
-      "replacement": "Estime FA skip over Higbee"
+      "status": "Healthy",
+      "note": "Thu FP / Sleeper Healthy. Toss-up vs CAR — TD-dependent, not a 10-team lock.",
+      "replacement": "Estime FA skip over Higbee; Etienne IR but Thu LP watch"
     },
     {
       "player": "T.J. Hockenson",
       "pos": "TE",
       "team": "MIN",
       "status": "Questionable",
-      "note": "Wrist. Wed estimated DNP. Thu official MISSING. Sit-lean until Friday FP.",
+      "note": "Wrist. Thu DNP. Sit-lean until Friday FP.",
       "replacement": "n/a"
     },
     {
@@ -5947,108 +5955,105 @@
       "pos": "WR",
       "team": "KC",
       "status": "Healthy",
-      "note": "Still FA. Nacua Out. TE/1 vs ARI. Strong $0 leftover.",
-      "replacement": "n/a \u2014 he is the replacement"
-    },
-    {
-      "player": "Gardner Minshew II",
-      "pos": "QB",
-      "team": "ARI",
-      "status": "IR",
-      "note": "IR elbow. Dropped for Jones. Now FA. Skip.",
-      "replacement": "Beck FA sit vs LAR"
-    },
-    {
-      "player": "Malik Willis",
-      "pos": "QB",
-      "team": "MIA",
-      "status": "IR",
-      "note": "IR groin. Hold only if IR slot.",
-      "replacement": "McCord FA skip as paid SF2"
-    },
-    {
-      "player": "Lucas Patrick",
-      "pos": "OL",
-      "team": "WAS",
-      "status": "Out",
-      "note": "TNF Out concussion. Not a fantasy sit for Daniels.",
+      "note": "Wed FP. Rice is WR1. Downs dart weaker.",
       "replacement": "n/a"
     },
     {
-      "player": "MarShawn Lloyd",
+      "player": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
+      "status": "Questionable",
+      "note": "Illness. Beat DNP Wed+Thu vs Rams.com LAG CONFLICT. Still FA $0. Nacua IR. Add $0; Friday Out watch.",
+      "replacement": "Parkinson FA Q ribs only if Higbee Out"
+    },
+    {
+      "player": "Tony Pollard",
       "pos": "RB",
-      "team": "GB",
-      "status": "Healthy",
-      "note": "Off Wed injury report (NBC). Sleeper Healthy RB/1 FA. Passing-down mix. Skip over Higbee.",
-      "replacement": "Kaleb owned 22 HOLD toss-up; skip Strong"
+      "team": "TEN",
+      "status": "Questionable",
+      "note": "Finger/NIR-rest. Thu DNP. Start-lean vs JAX. Confirm Friday.",
+      "replacement": "Spears FA Q skip over Higbee"
     },
     {
-      "player": "Corey Kiner",
-      "pos": "RB",
-      "team": "NE",
-      "status": "Healthy",
-      "note": "OWNED $7. Sleeper RB/1. Startable vs DET if Stevenson sits.",
+      "player": "Marvin Harrison Jr.",
+      "pos": "WR",
+      "team": "HOU",
+      "status": "Questionable",
+      "note": "Hamstring. Thu LP. Sit-lean @ CLE until Friday FP.",
       "replacement": "n/a"
     },
     {
-      "player": "Daniel Jones",
-      "pos": "QB",
-      "team": "IND",
-      "status": "Healthy",
-      "note": "OWNED $0. Bye-week SF stream vs McCord. Not a smash (37.5).",
-      "replacement": "n/a"
+      "player": "Colby Parkinson",
+      "pos": "TE",
+      "team": "LAR",
+      "status": "Questionable",
+      "note": "Ribs. Thu LP. FA. Only if Higbee is Out Friday.",
+      "replacement": "Higbee is the leftover"
+    },
+    {
+      "player": "Davante Adams",
+      "pos": "WR",
+      "team": "LAR",
+      "status": "IR",
+      "note": "Hamstring. Occupies AustinDoingWork IR slot. Hope ~W13 GUESS.",
+      "replacement": "Nacua now also IR — slot blocked"
     }
   ],
   "news": [
     {
-      "player": "Leftover waivers",
-      "note": "daily_waivers_last_ran 11->12. Week 10 txs 5. Kiner $7 AnalyticsOverlord (drop Singletary). Jones $0 RivalryEngine (drop Minshew). Failed Kiner $3/$0/$0.",
-      "impact": "Higbee still FA $0 now. Kiner/Jones owned. FAAB AnalyticsOverlord $27->$20."
+      "player": "Puka Nacua",
+      "note": "Rams placed him on IR Thursday night after McVay said they would not. Sleeper IR confirmed.",
+      "impact": "42->36 GUESS. Sit. Four-game minimum. Higbee leftover path locked."
     },
     {
-      "player": "TNF designations",
-      "note": "Final report CLOSED. Schefter: McCarthy / Skattebo will play. Nabers / Daniels no game designation. Harrison Q is a LB. Patrick / Yankoff OUT.",
-      "impact": "START those four. Confirm 7-man ~6:45. Rain ~78% GUESS not a sit."
+      "player": "Cam Skattebo",
+      "note": "TNF 18-78-2 + 3-44 / 25.7. Singletary 1 carry.",
+      "impact": "20->26 GUESS. NYG RB1 confirmed."
     },
     {
-      "player": "Jared Goff",
-      "note": "Thu FP (CBS 4:18 PM). Sleeper Healthy.",
-      "impact": "Start-lean -> START vs NE. 44 HOLD."
+      "player": "Isaiah Likely",
+      "note": "TNF 9-127-1 / 11 tgt / 23.2 including 66-yard TD.",
+      "impact": "16->22 GUESS. McCarthy TE1."
     },
     {
-      "player": "Rhamondre Stevenson",
-      "note": "Sleeper Q. NBC Thu limited / Reiss off-to-side. Rapoport expected few weeks. CONFLICT.",
-      "impact": "Conservative sit Munich. 12 HOLD. Kiner owned startable."
+      "player": "Stefon Diggs",
+      "note": "TNF 6-83-1 / 10 tgt / game-winning 32-yard TD.",
+      "impact": "30->32 GUESS."
     },
     {
-      "player": "Woody Marks",
-      "note": "Thu DNP after Wed LP knee. Montgomery back at practice.",
-      "impact": "Marks sit-lean. Montgomery FA is not a 10-team add over Higbee until Friday."
+      "player": "Malik Nabers",
+      "note": "TNF 5-44 + fumble lost / 4.9.",
+      "impact": "64 HOLD. Do not smash-sell."
     },
     {
-      "player": "Bhayshul Tuten",
-      "note": "Thu DNP (Wed DNP). Last week DNP-then-played.",
-      "impact": "Conservative sit-lean until Friday. 36 HOLD."
-    },
-    {
-      "player": "Drew Lock",
-      "note": "Thu LP. Macdonald expected start vs Mendoza. Darnold Out.",
-      "impact": "24 HOLD. Cleanest owned SF2 stream."
+      "player": "Tyler Higbee",
+      "note": "Still FA $0. Nacua IR. Beat illness DNP Wed+Thu vs official sheet LAG.",
+      "impact": "18->20 GUESS. Must-add $0; Friday Out watch."
     },
     {
       "player": "Kirk Cousins",
-      "note": "O'Connell still unnamed. LaFleur fairly confident.",
-      "impact": "52 HOLD start-lean @ GB. Sit Wentz/Kyler."
+      "note": "Zenitz: 1st-team Thursday, on track to start. O'Connell still unnamed.",
+      "impact": "52 HOLD start-lean (call flip)."
     },
     {
-      "player": "Puka Nacua",
-      "note": "Sleeper Out. McVay will not IR.",
-      "impact": "42 HOLD. Sit. Higbee still the add."
+      "player": "Justin Herbert",
+      "note": "Sleeper tag cleared / off injury report. Harbaugh previously good-to-go.",
+      "impact": "48 HOLD. START-lean MNF, not a smash (38.5)."
     },
     {
-      "player": "Jaxon Smith-Njigba",
-      "note": "Wed rest DNP. Lock elbow is a ceiling GUESS.",
-      "impact": "Not a sit. 94 HOLD. Start @ LV."
+      "player": "Tank Dell",
+      "note": "Sleeper tag cleared vs NFL.com still LP hand.",
+      "impact": "16 HOLD. CONFLICT. Conservative sit-lean until Friday FP."
+    },
+    {
+      "player": "Alvin Kamara",
+      "note": "Thu FP / Sleeper Healthy after Thu-AM sit-lean.",
+      "impact": "Call flip to toss-up vs CAR. Not a 10-team lock."
+    },
+    {
+      "player": "Josh Jacobs",
+      "note": "Finger surgery TODAY. Timeline after; IR still on the table Saturday.",
+      "impact": "16 HOLD. Sit. Kaleb toss-up vs MIN."
     }
   ],
   "faab": [
@@ -6057,32 +6062,16 @@
       "pos": "TE",
       "priority": "Must-add",
       "bid_low": 0,
-      "bid_high": 0,
-      "why": "STILL FA $0. Nacua Out, not IR. TE/1 vs ARI. $0 now / $4-$8 if Friday waivers."
+      "bid_high": 8,
+      "why": "Nacua IR. TE/1 vs ARI. Still FA $0 now. Illness DNP watch — Friday Out would kill the start, not the add."
     },
     {
-      "player": "Josh Downs",
-      "pos": "WR",
+      "player": "Colby Parkinson",
+      "pos": "TE",
       "priority": "Speculative",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Worthy Wed FP. Rice is WR1. Weaker dart. Still FA $0."
-    },
-    {
-      "player": "Keenan Allen",
-      "pos": "WR",
-      "priority": "Speculative",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "Not a 10-team WR2 lock. Still FA $0."
-    },
-    {
-      "player": "Carson Beck",
-      "pos": "QB",
-      "priority": "Speculative",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "Minshew IR/dropped. Sit vs LAR. Still FA $0."
+      "why": "Only if Friday names Higbee Out. Q ribs. Behind Higbee."
     },
     {
       "player": "David Montgomery",
@@ -6090,7 +6079,31 @@
       "priority": "Speculative",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Back at practice. Only if Marks sits Friday. Behind Higbee. $0 now."
+      "why": "NFL.com DNP. Only if Marks sits Friday. Behind Higbee."
+    },
+    {
+      "player": "Josh Downs",
+      "pos": "WR",
+      "priority": "Speculative",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "Worthy Wed FP. Rice is WR1. Dart."
+    },
+    {
+      "player": "Keenan Allen",
+      "pos": "WR",
+      "priority": "Speculative",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "Not a 10-team WR2 lock."
+    },
+    {
+      "player": "Carson Beck",
+      "pos": "QB",
+      "priority": "Speculative",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "Minshew IR. Sit vs LAR."
     },
     {
       "player": "Kyle McCord",
@@ -6101,12 +6114,12 @@
       "why": "First start @ IND. Low total. Not a paid Superflex."
     },
     {
-      "player": "Pierre Strong Jr.",
-      "pos": "RB",
+      "player": "Konata Mumpfield",
+      "pos": "WR",
       "priority": "Skip",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Kaleb owned. Skip."
+      "why": "Trending LAR dart. Not a 10-team WR2 over Higbee."
     },
     {
       "player": "MarShawn Lloyd",
@@ -6114,7 +6127,7 @@
       "priority": "Skip",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Off Wed injury report. FA GB RB/1 is a committee dart. Do not add over Higbee in 10-team."
+      "why": "Kaleb owned. Committee vs MIN. Skip over Higbee."
     },
     {
       "player": "Devin Singletary",
@@ -6122,97 +6135,39 @@
       "priority": "Skip",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Now FA. Skattebo will play TNF. Skip."
-    },
-    {
-      "player": "Corey Kiner",
-      "pos": "RB",
-      "priority": "Owned",
-      "bid_low": 7,
-      "bid_high": 7,
-      "why": "Claimed $7 AnalyticsOverlord. Startable if Stevenson sits."
-    },
-    {
-      "player": "Daniel Jones",
-      "pos": "QB",
-      "priority": "Owned",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "Claimed $0 RivalryEngine. Bye-week SF stream vs McCord."
+      "why": "Skattebo 21 touches TNF. Skip."
     }
   ],
   "start_sit": [
     {
-      "player": "Jayden Daniels",
+      "player": "Jared Goff",
       "pos": "QB",
       "call": "Must-start",
-      "note": "TNF no game designation @ NYG. Rain GUESS not a sit."
-    },
-    {
-      "player": "Malik Nabers",
-      "pos": "WR",
-      "call": "Must-start",
-      "note": "TNF will play vs WAS."
-    },
-    {
-      "player": "Stefon Diggs",
-      "pos": "WR",
-      "call": "Must-start",
-      "note": "TNF no tag @ NYG."
-    },
-    {
-      "player": "Rachaad White",
-      "pos": "RB",
-      "call": "Must-start",
-      "note": "WAS RB/1 TNF."
-    },
-    {
-      "player": "J.J. McCarthy",
-      "pos": "QB",
-      "call": "Must-start",
-      "note": "TNF Schefter will play. Confirm ~6:45."
-    },
-    {
-      "player": "Cam Skattebo",
-      "pos": "RB",
-      "call": "Must-start",
-      "note": "TNF Schefter will play. Singletary sit. Confirm ~6:45."
+      "note": "Thu FP vs NE Munich."
     },
     {
       "player": "Patrick Mahomes",
       "pos": "QB",
       "call": "Must-start",
-      "note": "Wed FP. @ ATL."
+      "note": "Wed FP @ ATL."
     },
     {
-      "player": "Jared Goff",
+      "player": "Josh Allen",
       "pos": "QB",
       "call": "Must-start",
-      "note": "Thu FP. START vs NE Munich."
+      "note": "@ NYJ. Dry gusts GUESS not a sit."
     },
     {
-      "player": "Kirk Cousins",
-      "pos": "QB",
-      "call": "Strong start",
-      "note": "Start-lean @ GB. Unnamed. Not a smash."
+      "player": "Jahmyr Gibbs",
+      "pos": "RB",
+      "call": "Must-start",
+      "note": "vs NE Munich."
     },
     {
-      "player": "Deshaun Watson",
-      "pos": "QB",
-      "call": "Strong start",
-      "note": "Named vs HOU. Not a smash. Sit Shedeur."
-    },
-    {
-      "player": "Drew Lock",
-      "pos": "QB",
-      "call": "Strong start",
-      "note": "Expected vs Mendoza. Clean owned SF2 stream."
-    },
-    {
-      "player": "Daniel Jones",
-      "pos": "QB",
-      "call": "Strong start",
-      "note": "OWNED. Stream vs McCord/MIA. Not a smash (37.5)."
+      "player": "Jaxon Smith-Njigba",
+      "pos": "WR",
+      "call": "Must-start",
+      "note": "Rest DNP. Lock elbow is a ceiling GUESS, not a sit."
     },
     {
       "player": "Justin Jefferson",
@@ -6221,58 +6176,100 @@
       "note": "Starts even if Cousins unnamed."
     },
     {
-      "player": "Jaxon Smith-Njigba",
-      "pos": "WR",
-      "call": "Must-start",
-      "note": "Wed rest DNP. Start @ LV. Lock elbow is not a sit."
+      "player": "Kirk Cousins",
+      "pos": "QB",
+      "call": "Strong start",
+      "note": "Start-lean @ GB. 1st-team Thursday, still unnamed."
     },
     {
-      "player": "Amon-Ra St. Brown",
-      "pos": "WR",
+      "player": "Deshaun Watson",
+      "pos": "QB",
       "call": "Strong start",
-      "note": "Thu LP ribs. Start-lean Munich. Confirm Friday."
+      "note": "Named vs HOU. Not a smash."
+    },
+    {
+      "player": "Drew Lock",
+      "pos": "QB",
+      "call": "Strong start",
+      "note": "Expected vs Mendoza. Cleanest owned SF2."
+    },
+    {
+      "player": "Justin Herbert",
+      "pos": "QB",
+      "call": "Strong start",
+      "note": "Tag cleared. START-lean MNF, low total 38.5."
+    },
+    {
+      "player": "Daniel Jones",
+      "pos": "QB",
+      "call": "Strong start",
+      "note": "Owned stream vs McCord/MIA. Not a smash (37.5)."
     },
     {
       "player": "Corey Kiner",
       "pos": "RB",
       "call": "Strong start",
-      "note": "OWNED $7. Startable vs DET if Stevenson sits. Not a smash."
+      "note": "Startable vs DET if Stevenson sits. Not a smash."
+    },
+    {
+      "player": "Amon-Ra St. Brown",
+      "pos": "WR",
+      "call": "Strong start",
+      "note": "Thu LP ribs. Start-lean. Confirm Friday."
+    },
+    {
+      "player": "Tyler Higbee",
+      "pos": "TE",
+      "call": "Strong start",
+      "note": "If rostered and Friday-active. Nacua IR. Illness watch."
+    },
+    {
+      "player": "Tony Pollard",
+      "pos": "RB",
+      "call": "Strong start",
+      "note": "Thu rest DNP. Start-lean vs JAX. Confirm Friday."
+    },
+    {
+      "player": "Alvin Kamara",
+      "pos": "RB",
+      "call": "Toss-up",
+      "note": "Thu FP upgrade. TD-dependent vs CAR."
     },
     {
       "player": "Kaleb Johnson",
       "pos": "RB",
       "call": "Toss-up",
-      "note": "OWNED. Jacobs Out. Lloyd in mix. vs MIN."
+      "note": "Owned. Lloyd back. MIN D. Not a locked RB2."
+    },
+    {
+      "player": "Ladd McConkey",
+      "pos": "WR",
+      "call": "Toss-up",
+      "note": "Sleeper Q back. Confirm Sat."
+    },
+    {
+      "player": "George Pickens",
+      "pos": "WR",
+      "call": "Sit / trap",
+      "note": "Thu LP ham. Sit-lean until Friday FP."
     },
     {
       "player": "Tank Dell",
       "pos": "WR",
       "call": "Sit / trap",
-      "note": "Q Hand. Sit-lean @ CLE until Friday FP."
+      "note": "Sleeper Healthy vs NFL LP CONFLICT. Sit-lean until Friday FP."
     },
     {
-      "player": "Khalil Shakir",
-      "pos": "WR",
-      "call": "Strong start",
-      "note": "OWNED. @ NYJ."
-    },
-    {
-      "player": "Fernando Mendoza",
-      "pos": "QB",
-      "call": "Sit / trap",
-      "note": "OWNED stash. Sit vs SEA."
-    },
-    {
-      "player": "Puka Nacua",
-      "pos": "WR",
-      "call": "Sit / trap",
-      "note": "Out Knee-MCL. Not on IR. Sit."
-    },
-    {
-      "player": "Josh Jacobs",
+      "player": "Bhayshul Tuten",
       "pos": "RB",
       "call": "Sit / trap",
-      "note": "Out surgery Friday."
+      "note": "Thu DNP. Sit-lean until Friday participation."
+    },
+    {
+      "player": "Woody Marks",
+      "pos": "RB",
+      "call": "Sit / trap",
+      "note": "Thu LP. Sit-lean until Friday FP."
     },
     {
       "player": "Rhamondre Stevenson",
@@ -6284,31 +6281,25 @@
       "player": "TreVeyon Henderson",
       "pos": "RB",
       "call": "Sit / trap",
-      "note": "Official OUT illness."
+      "note": "Official OUT."
     },
     {
-      "player": "Woody Marks",
+      "player": "Puka Nacua",
+      "pos": "WR",
+      "call": "Sit / trap",
+      "note": "IR. Sit."
+    },
+    {
+      "player": "Josh Jacobs",
       "pos": "RB",
       "call": "Sit / trap",
-      "note": "Thu DNP knee. Sit-lean until Friday."
+      "note": "Out. Surgery today."
     },
     {
-      "player": "Bhayshul Tuten",
-      "pos": "RB",
-      "call": "Toss-up",
-      "note": "Sit-lean until Friday. Thu DNP again."
-    },
-    {
-      "player": "Kyler Murray",
+      "player": "Fernando Mendoza",
       "pos": "QB",
       "call": "Sit / trap",
-      "note": "Doubtful."
-    },
-    {
-      "player": "Carson Wentz",
-      "pos": "QB",
-      "call": "Sit / trap",
-      "note": "Q ankle."
+      "note": "Sit vs SEA. Owned stash."
     },
     {
       "player": "Shedeur Sanders",
@@ -6317,57 +6308,56 @@
       "note": "Watson named."
     },
     {
-      "player": "George Pickens",
-      "pos": "WR",
-      "call": "Toss-up",
-      "note": "Sit-lean until Friday FP vs SF."
-    },
-    {
-      "player": "Josh Allen",
+      "player": "Carson Wentz",
       "pos": "QB",
-      "call": "Must-start",
-      "note": "@ NYJ smash-lean."
-    },
-    {
-      "player": "Jahmyr Gibbs",
-      "pos": "RB",
-      "call": "Must-start",
-      "note": "vs NE Munich."
-    },
-    {
-      "player": "Devin Singletary",
-      "pos": "RB",
       "call": "Sit / trap",
-      "note": "Now FA. Sit TNF \u2014 Skattebo will play."
+      "note": "Q ankle. Sit unless Cousins scratches."
     },
     {
-      "player": "Tyler Higbee",
+      "player": "Kyler Murray",
+      "pos": "QB",
+      "call": "Sit / trap",
+      "note": "Doubtful. Thu DNP."
+    },
+    {
+      "player": "Jayden Daniels",
+      "pos": "QB",
+      "call": "Already played",
+      "note": "TNF 28.76."
+    },
+    {
+      "player": "Cam Skattebo",
+      "pos": "RB",
+      "call": "Already played",
+      "note": "TNF 25.7."
+    },
+    {
+      "player": "Isaiah Likely",
       "pos": "TE",
-      "call": "Strong start",
-      "note": "If rostered. Nacua Out. TE/1 vs ARI."
+      "call": "Already played",
+      "note": "TNF 23.2."
     }
   ],
   "streamers_qb": [
-    "J.J. McCarthy vs WAS TNF \u2014 Schefter will play, START, confirm ~6:45",
-    "Drew Lock vs Mendoza \u2014 expected, cleanest owned SF2 stream",
-    "Deshaun Watson vs HOU \u2014 named, startable SF2, not smash",
-    "Kirk Cousins @ GB \u2014 start-lean, still unnamed",
-    "Jared Goff vs NE \u2014 Thu FP START",
-    "Daniel Jones vs MIA \u2014 owned $0 bye-week stream, not a smash (37.5)",
-    "Jacoby Brissett vs LAC MNF \u2014 startable SF2, low total",
-    "Sit: Mendoza vs SEA, McCord @ IND, Shedeur, Wentz, Kyler, Beck vs LAR"
+    "Drew Lock vs Mendoza — cleanest owned SF2",
+    "Deshaun Watson vs HOU — named, not a smash",
+    "Daniel Jones vs MIA — owned $0, low total 37.5, not a smash",
+    "Kirk Cousins @ GB — start-lean, still unnamed",
+    "Justin Herbert @ BAL — tag cleared START-lean, total 38.5",
+    "Jacoby Brissett vs LAC MNF — startable SF2, not smash",
+    "Skip: McCord, Beck vs LAR, Mendoza as smash, Shedeur, Wentz"
   ],
   "actions_today": [
-    "SET TNF TONIGHT: Daniels / Nabers / Diggs / White must-start. McCarthy START (Schefter will play). Skattebo START. Singletary sit. Confirm 7-man ~6:45. Rain is not a sit.",
-    "Add $0 leftover now: Higbee (Nacua Out). Skip McCord / Downs-as-WR2 / Strong / Lloyd / Singletary / Montgomery-until-Friday.",
-    "Start Goff (Thu FP) vs NE. Start-lean Amon-Ra (Thu LP) \u2014 confirm Friday.",
-    "Start Watson (named) if you need a SF2 vs HOU \u2014 not a smash. Sit Shedeur.",
-    "Cousins start-lean @ GB. Jefferson still starts. Sit Wentz (Q ankle) and Kyler (DNP).",
-    "Mahomes must-start @ ATL (Wed FP).",
-    "Sit Nacua (Out, not IR). Sit Jacobs, Stevenson (Q, conservative), Henderson, Marks (Thu DNP), Tuten (Thu DNP), W10 byes CHI/DEN/PHI/TB, Mendoza vs SEA.",
+    "Add $0 leftover now: Higbee (Nacua IR). Illness DNP is a Friday watch, not a skip. Skip McCord / Downs-as-WR2 / Strong / Lloyd / Singletary / Mumpfield / Sinnott / Montgomery-until-Friday.",
+    "Nacua IR: Sit. AustinDoingWork must decide the IR stash (Adams in slot vs Nacua four-game min).",
+    "Start Goff (Thu FP) vs NE. Start-lean Amon-Ra (Thu LP) — confirm Friday.",
+    "Start Watson (named) if you need a SF2 vs HOU — not a smash. Sit Shedeur.",
+    "Cousins start-lean @ GB (1st-team Thursday, still unnamed). Jefferson still starts. Sit Wentz (Q ankle) and Kyler (DNP).",
+    "Mahomes must-start @ ATL (Wed FP). Herbert START-lean MNF (tag cleared, low total).",
+    "Sit Nacua (IR). Sit Jacobs (surgery today), Stevenson (Q, conservative), Henderson, Marks (until Friday FP), Tuten (Thu DNP), W10 byes, Mendoza vs SEA.",
     "Owned leftover adds: Kiner startable if Stevenson sits. Kaleb toss-up vs MIN (Lloyd off report). Shakir @ NYJ start. Mendoza bench. Dell sit-lean until Friday FP. Jones stream vs MIA, not a smash.",
-    "Lock vs Mendoza is still the cleanest owned SF stream if you do not like Watson's matchup.",
-    "Do not smash-sell Taylor / Bowers / Kyler / Nacua-to-a-12 / Allen / Gibbs / JSN / Mahomes. Watch TNF inactives ~6:45, Friday designations, Cousins name, leftover claims on Higbee."
+    "Lock vs Mendoza is still the cleanest owned SF2 stream if you do not like Watson's matchup.",
+    "Do not smash-sell Taylor / Bowers / Kyler / Nacua-to-a-12 / Allen / Gibbs / JSN / Mahomes / Nabers-after-4.9. Watch Friday designations ~4:00, Cousins name, Jacobs surgery, leftover claims on Higbee."
   ],
   "trade_rules_of_thumb": [
     "Curated 1-100 Superflex Half-PPR 10-team. Do not mix with formula 1.0.0 players[].",
@@ -6375,15 +6365,16 @@
     "Half-PPR: WRs hold. Committee RBs discounted unless 15+ touches.",
     "10-team benches are shallow. Do not overpay for a 4th RB.",
     "Side getting the best player in a 2-for-1 / 3-for-1 usually gives extra.",
-    "Nacua not-on-IR is a call flip, not a smash-up. He is Out. Sit.",
+    "Nacua IR is a value recut (42->36), not a start. Sit. McVay-not-IR is STALE.",
     "Cousins 52 is a start-lean, not Burrow. First week back, still unnamed.",
     "Watson 26 is a named streamer, not a ROS QB1. Jones 18 is a one-week stream.",
-    "TNF no-tag / will-play is a call confirm, not a value recut. McCarthy 30 / Skattebo 20 HOLD.",
-    "Goff Thu FP is a call flip, not a recut. 44 HOLD.",
+    "TNF boxes recut Skattebo/Likely/Diggs only. Daniels/McCarthy/Nabers HOLD.",
+    "Herbert tag-cleared is a call flip, not a recut. 48 HOLD.",
     "HOLD stars on one designation or one dud. Modest recuts only."
   ],
   "ripoff_flags": [
-    "Starting Nacua because he is not on IR. He is Out. Sit.",
+    "Starting Nacua. He is IR. Sit.",
+    "Treating McVay-not-IR as live. It is STALE.",
     "Starting Henderson (OUT) or Stevenson (Q, conservative sit) in Munich.",
     "Buying Downs as a WR2 now that Worthy was Wed FP. Rice is 30. Downs is a 16 GUESS dart.",
     "Buying McCord as a paid Superflex. Skip.",
@@ -6393,16 +6384,18 @@
     "Treating formula 1.0.0 as this board.",
     "Starting CHI/DEN/PHI/TB. Starting Jacobs / Wentz / Shedeur / Mendoza-as-smash / Dell-as-lock.",
     "Cousins 52 + a 16 != Burrow 90.",
-    "Nacua 42 + a 20 != Chase 80.",
+    "Nacua 36 + a 20 != Chase 80.",
     "Starting Kaleb as a locked RB2 vs MIN now that Lloyd is off the injury report. He is a 22 GUESS toss-up.",
-    "Paying for Montgomery/Lloyd/Singletary while Higbee is still $0."
+    "Paying for Montgomery/Lloyd/Singletary/Mumpfield while Higbee is still $0.",
+    "Chasing Sinnott / Fields / Ekeler off one TNF.",
+    "Smash-selling Nabers after 4.9. 64 HOLD."
   ],
   "notes": [
-    "Curated overlay on formula 1.0.0 dump 2026-11-12 05:06 PM EST. Do not mix scales.",
-    "Sleeper display_week=10 last_scored_leg=9 daily_waivers_last_ran=12. W10 txs 5. W11 txs 0. Live-reconfirmed this run.",
-    "TNF LOCK ~3 HOURS. Final designations CLOSED. Schefter: McCarthy/Skattebo will play.",
-    "Leftover POSTED last_ran 12. Kiner $7 / Jones $0 owned. Higbee still FA $0.",
-    "NEW vs Thu 7:15 AM: leftover posted, Kiner/Jones claimed, Goff start-lean->START, Stevenson Doubtful->Q sit, Marks/Tuten Thu DNP. Board FLAT."
+    "Curated overlay on formula 1.0.0 dump 2026-11-12 05:06 PM EST. Do not mix scales. TNF boxes IN Sleeper week-10 points, NOT in formula PPG (last_scored_leg=9).",
+    "Sleeper display_week=10 last_scored_leg=9 daily_waivers_last_ran=12. W10 txs 5. Live-reconfirmed this run.",
+    "TNF CLOSED WAS 24-NYG 21.",
+    "Leftover still last_ran=12. Kiner $7 / Jones $0 owned. Higbee still FA $0.",
+    "NEW vs Thu 5:15 PM: Nacua 42->36 IR. Skattebo 20->26. Likely 16->22. Diggs 30->32. Higbee 18->20. Rest HOLD / call flips."
   ],
   "packet_kind": "curated_overlay",
   "formula_generated_at_et": "2026-11-12 05:06 PM EST"
