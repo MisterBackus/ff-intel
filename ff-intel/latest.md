@@ -23,7 +23,7 @@ Generated **2026-11-14 07:15 AM EST**
 - **Sunday 4:25 ET:** SF @ DAL (OOSTA SF **−4.0 / 55.5** highest vs ESPN **−4.5 / CBS −3.5 CONFLICT**; roof; Pickens **START** — tag conflict closed; CMC **Fri FP START**).
 - **SNF Sun 8:20 ET:** PIT @ CIN (CIN **−3.5 / 49.5**). **42°F / 0 mph / 0% — not a sit.**
 - **MNF Mon Nov 16, 8:15 ET:** LAC @ BAL (BAL **−4.5 / 38.5** lowest). **44°F / 2 mph / 0% — not a sit.** MNF designations **MISSING later today**. Herbert **off report START-lean**. McConkey **DNP×2 / Sleeper Q sit-lean**.
-- **Deadlines:** Lineup lock 1 = **Munich Sun 9:30 ET**. Next leftover **if `last_ran` ticks** (still 13). NFL deadline **CLOSED**. League trade deadline **Week 12**. Playoffs **Week 15**. Jacobs **IR decision today**. Etienne **activate-by ~4 PM ET today**. Walker **Sunday inactives**. MNF designations **later today**.
+- **Deadlines:** Lineup lock 1 = **Munich Sun 9:30 ET**. Munich inactives **MISSING ~8:00 AM ET Sunday**. 1:00 inactives **MISSING ~11:30 AM ET Sunday**. Next leftover **if `last_ran` ticks** (still 13). NFL deadline **CLOSED**. League trade deadline **Week 12**. Playoffs **Week 15**. Jacobs **IR decision today**. Etienne **activate-by ~4 PM ET today**. Walker **Sunday inactives**. MNF designations **later today**.
 
 **FAAB left:** Klemm $105 · AustinDoingWork $61 · MrB $43 · ZeroChillQB $24 · QuietSniper $23 · RivalryEngine $22 · AnalyticsOverlord $20 · WaiverPredator **$2** · ChaosGoblinFF $0 · TradeHurricane $0.
 
@@ -42,7 +42,7 @@ Facts first. **Conservative lineup call when sources conflict.**
 - **George Pickens (WR, DAL)** — Sleeper **tag cleared / Healthy**. NFL.com **Fri FP, no game status**. Friday Sleeper-Q vs Fri-FP **CONFLICT CLOSED**. **START vs SF.** **34 HOLD.**
 - **Tyler Higbee (TE, LAR)** — **OWNED $0 WaiverPredator** (drop Blue). Sleeper **tag cleared / TE/1**. NFL.com Fri **LP**, designations **do not list Out/Q**. **START @ ARI.** **20 GUESS HOLD.**
 - **Corey Kiner (RB, NE)** — **OWNED $7** AnalyticsOverlord. Henderson **OUT**. Stevenson **still Q sit**. **START vs DET** — not a smash. **16 GUESS HOLD.**
-- **Rhamondre Stevenson (RB, NE)** — Sleeper **Q knee**. Fri **LP**. Rapoport few-weeks still in the background. Conservative: **sit Munich**. If Sunday names him, he starts over Kiner. **12 GUESS HOLD.**
+- **Rhamondre Stevenson (RB, NE)** — Sleeper **Q knee**. Fri **LP**. Reiss: **pushing to play**. Rapoport few-weeks still in the background. Conservative: **sit Munich** until inactives. If Sunday names him, he starts over Kiner. **12 GUESS HOLD.**
 - **TreVeyon Henderson (RB, NE)** — **OUT** illness. **8 GUESS HOLD.** Sit.
 - **A.J. Brown (WR, NE)** — **Q** ankle/knee. Fri **LP**. **Sit until named.** **18.**
 - **Tank Dell (WR, HOU)** — Texans.com **Fri FP / off report**. Sleeper **Healthy**. **START @ CLE.** Light rain **not a sit**. **16 HOLD.**
@@ -290,7 +290,7 @@ Only names with a snap path in the next 1–3 weeks.
 7. **Lock vs Mendoza** is still the cleanest owned SF stream. Herbert **START-lean** MNF (confirm Saturday designations if you have a Sunday-lock alternative). McConkey **sit-lean** — Saturday column still blank.
 8. **Sit W10 byes, Jacobs, Nacua, Stevenson, Henderson, Mendoza-as-smash, Kaleb-as-locked-RB2.**
 9. **Saturday $0 leftover still not posted.** Skip-lean Atwell / Downs / Keenan / Beck / Montgomery / Lloyd / Waller-unless-TE-desperate. Do not spend FAAB. Higbee is gone.
-10. **Do not smash-sell** Taylor / Bowers / Kyler / Nacua-to-a-12 / Allen / Gibbs / JSN / Mahomes / Walker-on-one-Q / Nabers-after-4.9. **Watch today:** leftover tick, Jacobs IR decision, Etienne ~4 PM ET, MNF Saturday designations (McConkey), Sunday inactives (Walker, Stevenson, AJB, Amon-Ra, Garrett Wilson, Addison).
+10. **Do not smash-sell** Taylor / Bowers / Kyler / Nacua-to-a-12 / Allen / Gibbs / JSN / Mahomes / Walker-on-one-Q / Nabers-after-4.9. **Watch today:** leftover tick, Jacobs IR decision, Etienne ~4 PM ET, MNF Saturday designations (McConkey). **Sunday:** Munich inactives ~8:00 AM ET (Stevenson — Reiss pushing to play, still sit; AJB; Amon-Ra), then 1:00 inactives ~11:30 AM ET (Walker, Garrett Wilson, Addison).
 
 ---
 
