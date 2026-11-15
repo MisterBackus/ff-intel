@@ -306,6 +306,14 @@
       "note": "20/38 211/3/1 / 26.44 in a loss. Dell dud. 66 GUESS HOLD."
     },
     {
+      "player": "Trevor Lawrence",
+      "pos": "QB",
+      "value": 66,
+      "tier": "SF1",
+      "trend": "up",
+      "note": "NEW. CLOSED 25/35 352/3 / 33.78. RivalryEngine. 66 GUESS. Not a Burrow."
+    },
+    {
       "player": "Malik Nabers",
       "pos": "WR",
       "value": 64,
@@ -570,6 +578,14 @@
       "note": "W10 bye. Sit. 32 HOLD."
     },
     {
+      "player": "Nico Collins",
+      "pos": "WR",
+      "value": 32,
+      "tier": "WR2",
+      "trend": "up",
+      "note": "NEW. CLOSED 9-94-1 / 19.9. MHJ OUT. WaiverPredator. 32 GUESS."
+    },
+    {
       "player": "Saquon Barkley",
       "pos": "RB",
       "value": 32,
@@ -608,6 +624,14 @@
       "tier": "SF2",
       "trend": "flat",
       "note": "Expected vs LAC MNF. Startable SF2, not smash. 30 GUESS HOLD."
+    },
+    {
+      "player": "Parker Washington",
+      "pos": "WR",
+      "value": 30,
+      "tier": "WR2",
+      "trend": "up",
+      "note": "NEW. CLOSED 152 yds / 24.7. Klemm. Lawrence 352. 30 GUESS."
     },
     {
       "player": "Rashee Rice",
@@ -664,6 +688,14 @@
       "tier": "SF2 stream",
       "trend": "flat",
       "note": "NAMED SF2 delivered 25/40 312/0/1 + 8-49-1 / 21.38. Shedeur sit. 26 GUESS HOLD."
+    },
+    {
+      "player": "Garrett Wilson",
+      "pos": "WR",
+      "value": 26,
+      "tier": "WR2",
+      "trend": "up",
+      "note": "NEW. CLOSED 7-106 / 12.1 after Q concussion cleared. ZeroChillQB. 26 GUESS."
     },
     {
       "player": "Jonah Coleman",
@@ -730,6 +762,14 @@
       "note": "Startable @ CIN SNF. 22 GUESS HOLD."
     },
     {
+      "player": "Alvin Kamara",
+      "pos": "RB",
+      "value": 22,
+      "tier": "RB2 / committee",
+      "trend": "up",
+      "note": "NEW. CLOSED 2-4-1 + 3-10-1 / 14.9. Etienne 4.9. WaiverPredator. 22 GUESS."
+    },
+    {
       "player": "Colston Loveland",
       "pos": "TE",
       "value": 22,
@@ -770,6 +810,14 @@
       "note": "Lock-led SEA. 22 HOLD."
     },
     {
+      "player": "Ollie Gordon II",
+      "pos": "RB",
+      "value": 20,
+      "tier": "RB2",
+      "trend": "up",
+      "note": "NEW. CLOSED 20-76 + 4-39 / 13.5. QuietSniper. Achane IR. 20 GUESS."
+    },
+    {
       "player": "Tyler Higbee",
       "pos": "TE",
       "value": 20,
@@ -792,6 +840,14 @@
       "tier": "WR3",
       "trend": "flat",
       "note": "W10 bye. Sit. 18 HOLD."
+    },
+    {
+      "player": "Brenton Strange",
+      "pos": "TE",
+      "value": 16,
+      "tier": "TE stream",
+      "trend": "up",
+      "note": "NEW $0 TradeHurricane drop Milton. CLOSED 7.9. Lawrence 352. 16 GUESS."
     },
     {
       "player": "Carson Beck",
@@ -874,6 +930,14 @@
       "note": "3/4-21 / 3.6. One dud. Do not smash-sell. Nico 9-94-1. 16 HOLD."
     },
     {
+      "player": "Woody Marks",
+      "pos": "RB",
+      "value": 16,
+      "tier": "RB2 / concussion",
+      "trend": "down",
+      "note": "NEW. CLOSED 12-50 / 7.0 then concussion Out. Short week Thu @ IND. Sit until protocol. Montgomery OUT. WaiverPredator. 16 GUESS."
+    },
+    {
       "player": "A.J. Brown",
       "pos": "WR",
       "value": 14,
@@ -904,6 +968,14 @@
       "tier": "WR3",
       "trend": "flat",
       "note": "W10 bye / Out head. Sit. 14 HOLD."
+    },
+    {
+      "player": "Travis Etienne Jr.",
+      "pos": "RB",
+      "value": 14,
+      "tier": "committee",
+      "trend": "up",
+      "note": "NEW. NFL-active 8-14 + 3-20 / 4.9. Sleeper still reserve. Kamara 14.9. 14 GUESS."
     },
     {
       "player": "Audric Estime",
@@ -943,7 +1015,7 @@
       "value": 12,
       "tier": "WR3",
       "trend": "flat",
-      "note": "Sleeper Out. Sit MNF. Herbert still START. 12 GUESS HOLD."
+      "note": "OUT MNF (Chargers.com did not travel; DNP x3). Sit. Herbert still START. 12 GUESS HOLD."
     },
     {
       "player": "Lamar Jackson",
@@ -960,6 +1032,22 @@
       "tier": "RB stash",
       "trend": "flat",
       "note": "Played 6-4 + 1-1 / 1.0. Ceded carries to Kiner (10-25). Bye W11. 12 GUESS HOLD."
+    },
+    {
+      "player": "Rico Dowdle",
+      "pos": "RB",
+      "value": 12,
+      "tier": "RB dart",
+      "trend": "up",
+      "note": "NEW $2 AustinDoingWork drop McLaughlin. Warren is 48 SNF. Bench dart. 12 GUESS."
+    },
+    {
+      "player": "Ryan Flournoy",
+      "pos": "WR",
+      "value": 12,
+      "tier": "WR dart",
+      "trend": "up",
+      "note": "NEW $1 AustinDoingWork drop Andrews. Ferguson inactive. Late LIVE \u2014 do not recut boxes. 12 GUESS."
     },
     {
       "player": "Xavier Worthy",
@@ -5731,18 +5819,58 @@
     }
   ],
   "must_act_today": [
-    "Sit McConkey MNF (Sleeper Out). Start Herbert not smash (38.5). Brissett is the other MNF SF2.",
-    "Do not smash-sell Maye 88. Out ankle. Patriots bye W11. DeVito FA skip. Stream is a W12 problem.",
-    "Johnson smashed 32.1. 26->34 GUESS. Do not pay Gibbs. Walker still 78. AustinDoingWork does not own the cuff.",
-    "SNF: Start Burrow / Chase / Higgins / Warren. Dowdle $2 not a smash. Freiermuth Q skip.",
-    "Do not recut 4pm LIVE: JSN / Lock / Mendoza / Higbee / CMC / Pickens / CeeDee / Purdy / Dak.",
-    "Leftover last_ran 14->15. Dowdle $2 / Flournoy $1 / Strange $0. Milton dropped FA. Skip DeVito / McCord / one-game darts.",
-    "AJB Out hamstring 18->14. Dell 3-21 HOLD 16. Nabers 4.9 HOLD 64. Cousins 19.38 HOLD 52. Watson 21.38 HOLD 26.",
-    "Sit Estime (1.6). Etienne played, Sleeper still reserve. Marks concussion \u2014 sit W11 TNF until cleared.",
-    "Hubbard 40->44 after 31.7. HOLD as RB2 not Gibbs.",
-    "Watch SNF then MNF inactives Monday ~6:45 PM ET. McConkey already Out."
+    "SET SNF NOW 8:20 ET: PIT @ CIN, CIN -3.5 / 49.5. Start Burrow / Chase / Higgins / Warren. Rodgers startable SF2. Iosivas OUT.",
+    "Freiermuth Q illness. Official 7-man MISSING ~6:50\u20137:00 PM ET. Sit-lean until active. Dowdle $2 is a SNF bench dart, not Warren.",
+    "Late window LIVE \u2014 do not recut JSN / CMC / Purdy / CeeDee / Bowers / Lock / Mendoza / Stafford / Kyren / Higbee / Pickens / Dak / Javonte / McBride.",
+    "SET MNF Mon 8:15 ET: sit McConkey (OUT, did not travel). Herbert START-lean not smash (38.5). Flowers START. Henry toss-up. Brissett startable SF2.",
+    "Do not smash-sell Maye 88. Out ankle. Bye W11. MRI MISSING. DeVito FA skip.",
+    "Walker still OUT 78 HOLD. Johnson 32.1 / 34 GUESS \u2014 do not pay Gibbs. AustinDoingWork does not own the cuff (Dowdle $2 / Flournoy $1).",
+    "Marks concussion after 12-50. Sit W11 Thu @ IND until protocol. Montgomery still OUT.",
+    "Sunday leftover POSTED last_ran=15. Strange $0 / Flournoy $1 / Dowdle $2. Skip remaining FA tonight (DeVito / McCord / Milton / Lloyd).",
+    "Sit W10 byes CHI/DEN/PHI/TB. Sit Nacua IR, Jacobs OUT, Kyler OUT, Hockenson OUT, MHJ OUT, Montgomery OUT, McConkey OUT, Maye OUT.",
+    "W11 six-team bye ATL/CLE/GB/LAR/NE/SEA. Plan benches now. Maye/AJB already dark."
   ],
   "injuries": [
+    {
+      "player": "Woody Marks",
+      "pos": "RB",
+      "team": "HOU",
+      "status": "Out",
+      "note": "Concussion Q3 after 12-50. Short week Thu @ IND. Sit until protocol. 16 GUESS.",
+      "replacement": "Demercado/Ogunbowale FA skip. Montgomery still OUT."
+    },
+    {
+      "player": "Trevor Lawrence",
+      "pos": "QB",
+      "team": "JAX",
+      "status": "Healthy",
+      "note": "352/3 / 33.78. NEW 66 GUESS.",
+      "replacement": "Starts"
+    },
+    {
+      "player": "Parker Washington",
+      "pos": "WR",
+      "team": "JAX",
+      "status": "Healthy",
+      "note": "152 yds / 24.7. NEW 30 GUESS.",
+      "replacement": "Starts"
+    },
+    {
+      "player": "Nico Collins",
+      "pos": "WR",
+      "team": "HOU",
+      "status": "Healthy",
+      "note": "9-94-1 / 19.9. MHJ OUT. NEW 32 GUESS.",
+      "replacement": "Dell 3.6"
+    },
+    {
+      "player": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "status": "Healthy",
+      "note": "14.9. Etienne 4.9. NEW 22 GUESS.",
+      "replacement": "Etienne Sleeper still reserve; Estime sit"
+    },
     {
       "player": "Drake Maye",
       "pos": "QB",
@@ -5766,14 +5894,6 @@
       "status": "Out",
       "note": "Hamstring after 2-27. Bye W11.",
       "replacement": "Sit rest of weekend"
-    },
-    {
-      "player": "Woody Marks",
-      "pos": "RB",
-      "team": "HOU",
-      "status": "Out",
-      "note": "Concussion after 12-50. Short week TNF vs IND.",
-      "replacement": "Montgomery already Out. Sit until cleared"
     },
     {
       "player": "Kenneth Walker III",
@@ -5964,6 +6084,11 @@
       "player": "4pm window",
       "note": "LAR@ARI, SEA@LV, SF@DAL LIVE.",
       "impact": "Do not recut live boxes."
+    },
+    {
+      "player": "Trevor Lawrence",
+      "note": "352/3 / 33.78. Was missing from overlay.",
+      "impact": "NEW 66 GUESS. Parker Washington NEW 30."
     }
   ],
   "faab": [
@@ -6046,6 +6171,22 @@
       "bid_low": 0,
       "bid_high": 0,
       "why": "5.4. Kaleb owned."
+    },
+    {
+      "player": "Woody Marks",
+      "pos": "RB",
+      "priority": "Skip",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "OWNED. Concussion. Not a FA. Sit W11 until protocol."
+    },
+    {
+      "player": "Gavin Bartholomew",
+      "pos": "TE",
+      "priority": "Speculative",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "Monday leftover $0 only if TE-desperate. Hockenson OUT. Not a 10-team TE1."
     }
   ],
   "start_sit": [
@@ -6204,6 +6345,42 @@
       "pos": "RB",
       "call": "Toss-up",
       "note": "Owned $2 SNF. Not a smash"
+    },
+    {
+      "player": "Woody Marks",
+      "pos": "RB",
+      "call": "Sit / trap",
+      "note": "Concussion. Sit W11 TNF until protocol"
+    },
+    {
+      "player": "Trevor Lawrence",
+      "pos": "QB",
+      "call": "Already played",
+      "note": "33.78. NEW 66"
+    },
+    {
+      "player": "Parker Washington",
+      "pos": "WR",
+      "call": "Already played",
+      "note": "24.7. NEW 30"
+    },
+    {
+      "player": "Nico Collins",
+      "pos": "WR",
+      "call": "Already played",
+      "note": "19.9. NEW 32"
+    },
+    {
+      "player": "Alvin Kamara",
+      "pos": "RB",
+      "call": "Already played",
+      "note": "14.9. Etienne was not a lock"
+    },
+    {
+      "player": "Pat Freiermuth",
+      "pos": "TE",
+      "call": "Sit / trap",
+      "note": "Q illness. 7-man MISSING ~6:50. Sit-lean"
     }
   ],
   "streamers_qb": [
@@ -6215,16 +6392,16 @@
     "Sit: DeVito, McCord, Milton FA, Shedeur, Wentz, Kyler Out, CHI/DEN/PHI/TB byes"
   ],
   "actions_today": [
-    "Sit McConkey MNF (Out). Start Herbert not smash. Brissett is the other MNF SF2.",
-    "Do not smash-sell Maye 88. Out ankle. Bye W11. DeVito FA skip.",
-    "Hold Johnson 34 if you own him. Do not pay Gibbs. Walker still 78. AustinDoingWork does not own the cuff.",
-    "SNF: Start Burrow / Chase / Higgins / Warren. Dowdle $2 not a smash. Freiermuth Q skip.",
-    "Do not recut 4pm LIVE JSN / Lock / Mendoza / Higbee / CMC / Pickens / CeeDee / Purdy / Dak.",
-    "Dell 16 HOLD after 3-21. Nabers 64 HOLD. Cousins 52 HOLD. Watson 26 HOLD. Goff 44 HOLD. Gibbs 95 HOLD.",
-    "Sit Estime. Etienne played (Sleeper still IR). Marks concussion \u2014 sit W11 TNF until cleared.",
-    "Skip leftover FA: DeVito / McCord / Milton / Lloyd / one-game darts. Downs/Higbee/Strange/Dowdle/Flournoy claimed.",
-    "AJB 18->14 hamstring Out. Hubbard 40->44. Milton 22->16 FA.",
-    "Watch SNF then MNF inactives Monday ~6:45 PM ET. McConkey already Out."
+    "SET SNF 8:20 ET now: Burrow / Chase / Higgins / Warren. Rodgers if you need a SF2. Confirm Freiermuth ~6:50\u20137:00 \u2014 sit-lean. Dowdle is a bench dart.",
+    "Do not recut late LIVE (SEA/LV, LAR/ARI, SF/DAL).",
+    "SET MNF: sit McConkey (OUT, did not travel). Herbert START-lean. Flowers START. Henry toss-up. Brissett SF2.",
+    "Do not smash-sell Maye 88. Out ankle, bye W11, MRI MISSING. Skip DeVito.",
+    "Walker 78 HOLD. Johnson 34 GUESS after 32.1. Do not pay Gibbs. AustinDoingWork: Dowdle is not a Walker replacement.",
+    "Marks concussion \u2014 sit W11 Thursday until protocol. Montgomery still OUT.",
+    "Leftover POSTED (last_ran=15): Strange $0 / Flournoy $1 / Dowdle $2. No FAAB tonight. Monday $0 skip DeVito / McCord / Milton / Lloyd.",
+    "Sit W10 byes and Nacua / Jacobs / Kyler / Hockenson / MHJ / Montgomery / McConkey / Maye.",
+    "Plan W11 six-team bye (ATL/CLE/GB/LAR/NE/SEA) before you trade.",
+    "Watch: Maye MRI (MISSING), SNF 7-man, MNF inactives Monday, late-window boxes after they close."
   ],
   "trade_rules_of_thumb": [
     "Curated 1-100 Superflex Half-PPR 10-team. Formula players[] is a different scale. Closed boxes are NOT in formula PPG.",
@@ -6236,7 +6413,9 @@
     "10-team benches are shallow. Do not add one-game FA darts.",
     "Side getting Allen / Gibbs / JSN / Burrow / Maye gives extra in 2-for-1.",
     "Cousins 52 + a 16 != Burrow 90. First start back was 19.38, not a bust.",
-    "Guessing = GUESS. Etienne played vs Sleeper reserve is CONFLICT. Marks concussion is fact."
+    "Guessing = GUESS. Etienne played vs Sleeper reserve is CONFLICT. Marks concussion is fact.",
+    "W11 is a six-team bye (ATL/CLE/GB/LAR/NE/SEA). Do not trade for those pieces you must start next week.",
+    "NEW names are GUESS fills for rostered players missing from the 108-man overlay, not smash recuts of HOLD stars."
   ],
   "ripoff_flags": [
     "Smash-selling Maye after an ankle + bye. 88 HOLD.",
@@ -6251,13 +6430,19 @@
     "Buying DeVito / McCord as paid Superflex.",
     "Paying a 40 for Higbee. He is 20 GUESS.",
     "Trading Cousins 52 as Burrow after 19.38.",
-    "Smash-selling Walker to a 40 after Johnson's 32.1. Walker is 78."
+    "Smash-selling Walker to a 40 after Johnson's 32.1. Walker is 78.",
+    "Starting Marks W11 without concussion clearance. Short week Thursday.",
+    "Paying Gibbs for Johnson. 34 != 95. Walker still 78.",
+    "Starting Dowdle over Warren SNF.",
+    "Starting Freiermuth without the 7-man."
   ],
   "notes": [
     "Curated overlay on formula 1.0.0 dump 2026-11-15 05:00 PM EST. Do not mix scales. Closed-game boxes IN Sleeper week-10 points (6-pt pass TD), NOT in formula PPG.",
     "Sleeper display_week=10 daily_waivers_last_ran=15. W10 txs 15. leftover last_ran 14->15. Dowdle $2 / Flournoy $1 / Strange $0.",
     "Munich DET 35-NE 10. 1:00 games FINAL. 4pm LIVE do not recut. SNF 8:20. MNF McConkey Out.",
-    "Johnson 26->34 GUESS (32.1). Hubbard 40->44. AJB 18->14 hamstring Out. Estime 16->12. Milton 22->16 FA. Maye Out ankle 88 HOLD."
+    "Johnson 26->34 GUESS (32.1). Hubbard 40->44. AJB 18->14 hamstring Out. Estime 16->12. Milton 22->16 FA. Maye Out ankle 88 HOLD.",
+    "Patch vs origin 5:15 overlay: added missing owned names Lawrence 66 / Nico 32 / Parker Washington 30 / Wilson 26 / Kamara 22 / Gordon 20 / Marks 16 concussion / Strange 16 / Etienne 14 / Flournoy 12 / Dowdle 12. Recuts vs Sun AM HOLD except origin Johnson/Hubbard/AJB/Estime/Milton.",
+    "W11 byes ATL/CLE/GB/LAR/NE/SEA."
   ],
   "packet_kind": "curated_overlay",
   "formula_generated_at_et": "2026-11-15 05:00 PM EST"

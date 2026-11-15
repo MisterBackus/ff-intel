@@ -8,7 +8,7 @@ Generated **2026-11-15 05:15 PM EST**
 - **Sources:** Sleeper tags + W10 txs (last_ran=15) + week-10 stats (6-pt pass TD); Lions.com Munich recap; NFL.com What We Learned; PFF recap Maye ankle / AJB hamstring; DJ Bien-Aime Marks **concussion**; FantasyPros inactives; prior packet 2026-11-15 07:15 AM EST.
 - **Scale:** Curated 1–100 Superflex Half-PPR 10-team. Formula 1.0.0 in `players[]` from 2026-11-15 05:00 PM EST generate — **do not mix the two**. Closed-game boxes are **IN** Sleeper week-10 points, **NOT** in formula PPG.
 
-**NEW vs Sunday 7:15 AM:** leftover **last_ran 14→15**. **Dowdle $2** AustinDoingWork (drop McLaughlin). **Flournoy $1** AustinDoingWork (drop Andrews). **Strange $0** TradeHurricane (drop Milton). Munich **DET 35–NE 10**. Johnson **26→34 GUESS** (22-101 + 6-70-2 / **32.1**). Hubbard **40→44 GUESS** (27-92-2 + 5-80 / **31.7**). AJB **18→14 GUESS** (2-27, hamstring **Out**, bye W11). Estime **16→12 GUESS**. Milton **22→16 GUESS FA**. Maye **Out ankle 88 HOLD** (bye W11 — do not smash-sell). McConkey **Out MNF**. Marks **concussion** after 12-50. 4pm **LIVE — do not recut**.
+**NEW vs Sunday 7:15 AM:** leftover **last_ran 14→15**. **Dowdle $2** / **Flournoy $1** / **Strange $0**. Johnson **26→34 GUESS**. Hubbard **40→44 GUESS**. AJB **18→14 GUESS**. Estime **16→12 GUESS**. Milton **22→16 GUESS FA**. Maye **88 HOLD**. McConkey **Out MNF** (did not travel). Marks **concussion NEW 16 GUESS**. **NEW owned fills:** Lawrence **66** / Nico **32** / Parker Washington **30** / Wilson **26** / Kamara **22** / Gordon **20** / Strange **16** / Etienne **14** / Flournoy **12** / Dowdle **12**. 4pm **LIVE — do not recut**.
 
 ---
 
@@ -16,13 +16,14 @@ Generated **2026-11-15 05:15 PM EST**
 
 - **Now:** Sunday Nov 15, 5:15 PM EST. Munich + 1:00 **FINAL**. 4:05/4:25 **LIVE**. SNF **8:20 ET**. MNF **Mon 8:15**. Next lock = **SNF** then **MNF**.
 - **Byes this week (W10):** **CHI / DEN / PHI / TB**.
+- **W11 byes (plan now):** **ATL / CLE / GB / LAR / NE / SEA** — six-team week. Maye/AJB already dark. JSN/Lock/Bijan/London/Love/Stafford/Kyren/Higbee/Walker-if-back go dark next week.
 - **TNF CLOSED:** WAS **24**–NYG **21**. Daniels **28.76**. McCarthy **20.12**. Skattebo **25.7**. Likely **23.2**. Diggs **17.3**. Nabers **4.9**. **HOLD 64**.
 - **Munich CLOSED:** DET **35**–NE **10**. Gibbs **22-153-2 + 7-99 / 40.7**. Amon-Ra **4-98-2 / 23.8**. Goff **20/31 303/3/2 / 26.42**. Maye **3/4 48 + 1-11 / 3.02 then Out ankle**. Stevenson **6-4 + 1-1 / 1.0**. AJB **2/6-27 / 3.7 then Out hamstring**. Kiner **10-25 / 2.5**. DeVito **12/24 81/1/1 / 9.14 FA skip**.
 - **1:00 CLOSED:** KC **35**–ATL **13** (Mahomes **22/35 348/5 / 45.42**; Johnson **22-101 + 6-70-2 / 32.1**; Bijan **16-71-1 + 4-6 / 15.7**; Downs **4-53-1 / 13.3**; Worthy **0/3**). CLE **27**–HOU **24** (Watson **25/40 312/0/1 + 8-49-1 / 21.38**; Stroud **20/38 211/3/1 / 26.44**; Nico **9-94-1**; Dell **3-21 / 3.6**; Marks **12-50 + 1-15 / 7.0 then concussion**). MIN **30**–GB **10** (Cousins **21/31 207/2/1 / 19.38**; Jefferson **9/13-74 / 11.9**; Love **17/27 220/1/1 / 12.8**; Addison **Out**; Jacobs **Out**; Kaleb **10-42 / 4.2**). JAX **40**–TEN **23** (Lawrence **25/35 352/3/1 / 32.78**; Tuten **26-88-1 + 3-25 / 18.8**; Pollard **9-33 + 8-66-1 / 19.9**). IND **24**–MIA **22** (Jones **11/22 108/1/2 / 7.22**; Taylor **16-83 + 2-20 / 11.3**; McCord **17/32 209 + rush TD / 12.76 FA skip**). CAR **20**–NO **17** (Hubbard **27-92-2 + 5-80 / 31.7**; Kamara **2-4-1 + 3-10-1 / 14.9**; Etienne **8-14 + 3-20 / 4.9** still Sleeper reserve; Estime **7-6 + 1-5 / 1.6**). BUF **31**–NYJ **12** (Allen **11/21 196/1/1 + 5-5-2 / 24.34**; Cook **18-157-1 / 21.7**; Garrett Wilson **7/14-106 / 12.1**).
 - **4:05 LIVE:** LAR @ ARI (Nacua IR; Higbee owned — **do not recut live**). SEA @ LV (Lock vs Mendoza — **do not recut live**).
 - **4:25 LIVE:** SF @ DAL (Pickens / CMC / CeeDee — **do not recut live**).
-- **SNF 8:20 ET:** PIT @ CIN. Burrow / Chase / Higgins / Warren **START**. Freiermuth **Q** FA skip. Dowdle **owned $2** — not a smash.
-- **MNF Mon 8:15 ET:** LAC @ BAL. Herbert START not smash. **McConkey Out**. Total **38.5**.
+- **SNF 8:20 ET:** PIT @ CIN, CIN **-3.5 / 49.5**. Burrow / Chase / Higgins / Warren **START**. Rodgers startable SF2. Iosivas **OUT**. Freiermuth **Q illness** — 7-man **MISSING ~6:50–7:00**. Dowdle **owned $2** — SNF bench, not Warren.
+- **MNF Mon 8:15 ET:** LAC @ BAL. Herbert START not smash. **McConkey Out** (Chargers.com: did not travel). Total **38.5**. Flowers START. Henry toss-up. Brissett startable SF2.
 - **Deadlines:** leftover posted. Next daily window overnight. League trade deadline **Week 12**.
 
 **FAAB left:** Klemm $105 · AustinDoingWork **$58** (spent $3) · MrB $43 · ZeroChillQB $24 · QuietSniper $23 · RivalryEngine $22 · AnalyticsOverlord $20 · WaiverPredator **$2** · ChaosGoblinFF $0 · TradeHurricane $0.
@@ -38,8 +39,8 @@ Facts first. **Do not recut 4pm live boxes.**
 ### Must act today (SNF + MNF + Maye)
 
 - **Drake Maye (QB, NE)** — **Out ankle** after 3/4 48. Bye **W11**. DeVito FA skip. Do **not** smash-sell. **88 HOLD**. QuietSniper: stream is a **W12** problem, not tonight.
-- **Ladd McConkey (WR, LAC)** — Sleeper **Out**. **Sit MNF**. Herbert still START. **12 HOLD**.
-- **Woody Marks (RB, HOU)** — **Concussion** after 12-50. Short week TNF vs IND. Sit W11 until cleared. Not on this 1–100 board; WaiverPredator stash.
+- **Ladd McConkey (WR, LAC)** — **OUT** MNF (Chargers.com did not travel; DNP×3). **Sit**. Herbert still START. **12 HOLD**.
+- **Woody Marks (RB, HOU)** — **Concussion** after 12-50 / 7.0. Short week Thu @ IND. Sit until protocol. WaiverPredator. **NEW 16 GUESS**.
 - **A.J. Brown (WR, NE)** — **Out hamstring** after 2-27. Bye W11. **18→14 GUESS**.
 - **Emmett Johnson (RB, KC)** — **OWNED**. 22-101 + 6-70-2 / **32.1**. **26→34 GUESS**. Do not pay Gibbs. Walker still **78** ROS.
 - **Kenneth Walker III** — **OUT** this week (inactive). Pelissero minor. **78 HOLD**. AustinDoingWork does **not** own Johnson.
@@ -53,7 +54,8 @@ Facts first. **Do not recut 4pm live boxes.**
 - **Joe Milton** — **Dropped $0** TradeHurricane (PHI bye). Now FA. **22→16 GUESS**. Skip.
 - **Puka Nacua** — IR. Sit. **36 HOLD**. Higbee **LIVE**.
 - **Josh Jacobs** — Out. Kaleb 10-42. **16 HOLD**.
-- **SNF:** Burrow / Chase / Higgins / Warren START. Freiermuth Q skip. Dowdle owned $2 not a smash.
+- **SNF:** Burrow / Chase / Higgins / Warren START. Freiermuth Q — 7-man **MISSING ~6:50**, sit-lean. Dowdle owned $2 not a smash.
+- **NEW owned fills (were missing from the 108):** Lawrence **66 GUESS** (352/3). Nico **32 GUESS**. Parker Washington **30 GUESS**. Wilson **26 GUESS**. Kamara **22 GUESS**. Gordon **20 GUESS**. Strange **16 GUESS**. Etienne **14 GUESS**. Flournoy **12**. Dowdle **12**.
 - **MNF:** Herbert START. McConkey **Out**. Brissett startable SF2.
 - **4pm LIVE:** do not panic-sell JSN / Lock / Mendoza / Higbee / CMC / Pickens / CeeDee / Purdy / Dak on partials. Pickens already **4-51-1** live.
 
@@ -61,7 +63,9 @@ Facts first. **Do not recut 4pm live boxes.**
 
 | Player | If they play | If they sit | Handcuff in THIS league | Flag |
 |---|---|---|---|---|
-| McConkey MNF | Do not start | **OUT** | — | Sleeper Out |
+| McConkey MNF | Do not start | **OUT** | — | Did not travel |
+| Freiermuth SNF | Mid TE2 | Skip | Higbee owned | 7-man MISSING ~6:50 |
+| Marks W11 | Only if cleared | Sit | Montgomery still OUT | Concussion, Thursday |
 | Herbert MNF | START not smash | — | — | 38.5 |
 | Freiermuth SNF | Skip FA | Skip | — | Q illness |
 | Maye ROS | HOLD 88 | Bye W11; DeVito skip | — | Ankle Out today |
@@ -76,7 +80,8 @@ Facts first. **Do not recut 4pm live boxes.**
 - **Maye Out ankle (fact).** 3.02 then gone. Bye W11. **88 HOLD**.
 - **AJB Out hamstring (fact).** 2-27. Bye W11. **18→14 GUESS**.
 - **McConkey Out MNF (fact).** Sit. **12 HOLD**.
-- **Marks concussion (fact).** After 12-50. Short week TNF. Sit until cleared.
+- **Marks concussion (fact).** After 12-50. Short week Thursday. **NEW 16 GUESS**. Sit until protocol.
+- **Lawrence / Nico / Parker Washington were missing from the overlay (fact).** NEW 66 / 32 / 30 GUESS fills. Not smash recuts of HOLD stars.
 - **Leftover last_ran 14→15 (fact).** Dowdle $2 / Flournoy $1 / Strange $0. Milton dropped.
 - **Etienne played, Sleeper still reserve (fact).** Estime **16→12**.
 - **4pm LIVE.** Do not recut.
@@ -99,7 +104,9 @@ Facts first. **Do not recut 4pm live boxes.**
 | **Skip** | Kyle McCord | QB | MIA | $0 | 12.76. Jones owned. |
 | **Skip** | Joe Milton | QB | PHI | $0 | Dropped. PHI bye. 16 GUESS skip. |
 | **Skip** | MarShawn Lloyd | RB | GB | $0 | 5.4. Kaleb owned. |
-| **Skip** | one-game FA darts | WR/RB | — | $0 | Price / Hutchinson / McGowan / Tyson / Cameron / Sinnott. 10-team skip. |
+| **Skip** | Woody Marks | RB | HOU | $0 | OWNED. Concussion. Sit W11 until protocol. |
+| **Speculative** | Gavin Bartholomew | TE | MIN | $0 | Monday leftover only if TE-desperate. Hockenson OUT. |
+| **Skip** | one-game FA darts | WR/RB | — | $0 | Price / Hutchinson / McGowan / Tyson / Cameron / Sinnott / DeVito. 10-team skip. |
 
 **Typical drops:** Milton already dropped, Huntley FA, McLaughlin dropped, Andrews dropped.
 
@@ -115,7 +122,7 @@ Superflex Half-PPR. **W10 Sunday evening. 4pm LIVE. SNF + MNF remain.**
 
 - **Already smashed / played:** Mahomes **45.42**. Lawrence **32.78**. Daniels **28.76**. Stroud **26.44**. Goff **26.42**. Allen **24.34**. Watson **21.38**. Cousins **19.38**. McCarthy **20.12**. Jones **7.22**. Maye **3.02 then Out**.
 - **LIVE:** Lock vs Mendoza. Purdy @ DAL. Dak vs SF. Stafford @ ARI. **Do not recut**.
-- **SNF:** Burrow vs PIT **START**. Rodgers @ CIN startable.
+- **SNF:** Burrow vs PIT **START**. Rodgers @ CIN startable SF2. Freiermuth Q sit-lean until ~6:50 7-man.
 - **MNF:** Herbert @ BAL **START not smash**. Brissett vs LAC startable SF2.
 - **Sit / trap:** McConkey's QB is Herbert — start Herbert, sit McConkey. DeVito. McCord. Milton FA. Shedeur. Wentz. Kyler Out. Mendoza-as-smash (LIVE). CHI/DEN/PHI/TB byes.
 
@@ -167,17 +174,17 @@ Same scale every day. Superflex: starting QBs premium. Half-PPR: WRs hold. 10-te
 
 ### A. Tier list by position
 
-**QB** — Allen 100 · Burrow 90 · **Maye 88 HOLD (Out ankle, bye W11)** · Purdy 78 · Mahomes 74 · Dak 70 · Love 70 · Stroud 66 GUESS · Daniels 62 · Caleb 58 (bye) · Cousins 52 GUESS · Nix 50 (bye) · Herbert 48 GUESS · Shough 46 GUESS · Goff 44 GUESS · Stafford 40 GUESS · Young 38 · Kyler 36 Out GUESS · McCarthy 30 GUESS · Brissett 30 GUESS · Watson 26 GUESS · Lock 24 · Shedeur 24 GUESS · Rodgers 22 GUESS · Milton 16 GUESS FA · Jones 18 GUESS owned · Mendoza 16 GUESS owned LIVE · Darnold 16 GUESS · Beck 16 GUESS FA · Wentz 12 GUESS · Lamar 12 GUESS · Hurts 8 · Willis 8 GUESS IR · Minshew 2 GUESS · Huntley 2 FA.
+**QB** — Allen 100 · Burrow 90 · **Maye 88 HOLD (Out ankle, bye W11)** · Purdy 78 · Mahomes 74 · Dak 70 · Love 70 · Stroud 66 GUESS · **Lawrence 66 GUESS NEW** · Daniels 62 · Caleb 58 (bye) · Cousins 52 GUESS · Nix 50 (bye) · Herbert 48 GUESS · Shough 46 GUESS · Goff 44 GUESS · Stafford 40 GUESS · Young 38 · Kyler 36 Out GUESS · McCarthy 30 GUESS · Brissett 30 GUESS · Watson 26 GUESS · Lock 24 · Shedeur 24 GUESS · Rodgers 22 GUESS · Milton 16 GUESS FA · Jones 18 GUESS owned · Mendoza 16 GUESS owned LIVE · Darnold 16 GUESS · Beck 16 GUESS FA · Wentz 12 GUESS · Lamar 12 GUESS · Hurts 8 · Willis 8 GUESS IR · Minshew 2 GUESS · Huntley 2 FA.
 
-**RB** — Gibbs 95 · Bijan 92 · Walker 78 GUESS (OUT this week) · Cook 76 · CMC 72 · Taylor 70 · Irving 56 (bye) · Kyren 52 · Warren 48 · Javonte 46 · **Hubbard 44 GUESS** · Pollard 40 · Tuten 36 · Allen-NYJ 36 · Swift 36 (bye) · **Emmett Johnson 34 GUESS owned** · Saquon 32 (bye) · Skattebo 26 GUESS · Jones-MIN 24 · Hall 24 · Henry 24 · Corum 24 · Kaleb 22 GUESS · Charbonnet 22 · Coleman 26 (bye) · Jacobs 16 GUESS · Kiner 16 GUESS owned · Estime 12 GUESS owned · Stevenson 12 GUESS · Singletary 12 FA · Henderson 6 GUESS IR.
+**RB** — Gibbs 95 · Bijan 92 · Walker 78 GUESS (OUT this week) · Cook 76 · CMC 72 · Taylor 70 · Irving 56 (bye) · Kyren 52 · Warren 48 · Javonte 46 · **Hubbard 44 GUESS** · Pollard 40 · Tuten 36 · Allen-NYJ 36 · Swift 36 (bye) · **Emmett Johnson 34 GUESS owned** · Saquon 32 (bye) · Skattebo 26 GUESS · Jones-MIN 24 · Hall 24 · Henry 24 · Corum 24 · **Kamara 22 GUESS NEW** · Kaleb 22 GUESS · Charbonnet 22 · Coleman 26 (bye) · **Gordon 20 GUESS NEW** · **Marks 16 GUESS NEW concussion** · Jacobs 16 GUESS · Kiner 16 GUESS owned · **Etienne 14 GUESS NEW** · Estime 12 GUESS owned · **Dowdle 12 GUESS NEW** · Stevenson 12 GUESS · Singletary 12 FA · Henderson 6 GUESS IR.
 
-**WR** — JSN 94 · Chase 80 · Amon-Ra 80 · CeeDee 78 · Jefferson 72 · Nabers 64 · London 60 · Olave 56 · Tet 52 · Higgins 50 · Nacua 36 GUESS IR · Pickens 34 GUESS · Golden 34 · Watson-GB 32 · DeVonta 32 (bye) · Flowers 32 · Diggs 32 GUESS · Rice 30 GUESS · DJ Moore 28 · Burden 28 (bye) · Odunze 28 (bye) · Dell 16 owned · Downs 16 GUESS owned · Shakir 16 owned · Egbuka 18 (bye) · **AJB 14 GUESS** · Waddle 14 (bye) · McConkey 12 GUESS Out · Keenan 12 GUESS FA · Worthy 12 GUESS · Wilson-ARI 8 GUESS IR.
+**WR** — JSN 94 · Chase 80 · Amon-Ra 80 · CeeDee 78 · Jefferson 72 · Nabers 64 · London 60 · Olave 56 · Tet 52 · Higgins 50 · Nacua 36 GUESS IR · Pickens 34 GUESS · Golden 34 · **Nico 32 GUESS NEW** · Watson-GB 32 · DeVonta 32 (bye) · Flowers 32 · Diggs 32 GUESS · **Parker Washington 30 GUESS NEW** · Rice 30 GUESS · DJ Moore 28 · Burden 28 (bye) · Odunze 28 (bye) · **Wilson-NYJ 26 GUESS NEW** · Dell 16 owned · Downs 16 GUESS owned · Shakir 16 owned · Egbuka 18 (bye) · **AJB 14 GUESS** · Waddle 14 (bye) · **Flournoy 12 GUESS NEW** · McConkey 12 GUESS Out · Keenan 12 GUESS FA · Worthy 12 GUESS · Wilson-ARI 8 GUESS IR.
 
-**TE** — Bowers 62 · McBride 58 · Kelce 34 · Tyler Warren 28 GUESS · Loveland 22 (bye) · Goedert 22 (bye) · Likely 22 GUESS · Higbee 20 GUESS owned LIVE · Fannin 16 · Kincaid 14 · Waller 14.
+**TE** — Bowers 62 · McBride 58 · Kelce 34 · Tyler Warren 28 GUESS · Loveland 22 (bye) · Goedert 22 (bye) · Likely 22 GUESS · Higbee 20 GUESS owned LIVE · **Strange 16 GUESS NEW claimed** · Fannin 16 · Kincaid 14 · Waller 14.
 
 ### B. Biggest risers / fallers since last packet (Sun 7:15 AM)
 
-- **Risers:** Emmett Johnson **26→34 GUESS**. Hubbard **40→44 GUESS**.
+- **Risers:** Emmett Johnson **26→34 GUESS**. Hubbard **40→44 GUESS**. **NEW fills:** Lawrence 66 / Nico 32 / Parker Washington 30 / Wilson 26 / Kamara 22 / Gordon 20 / Marks 16 / Strange 16 / Etienne 14 / Flournoy 12 / Dowdle 12.
 - **Fallers:** AJB **18→14 GUESS** (hamstring Out). Estime **16→12 GUESS**. Milton **22→16 GUESS FA**.
 - **HOLD through smash/dud:** Gibbs 95. Amon-Ra 80. Mahomes 74. Maye 88 (ankle + bye). Goff 44. Cousins 52. Nabers 64. Dell 16. Walker 78. Cook 76. Tuten 36. Watson 26. Downs 16.
 - **Do not smash-sell Maye to a 50. Do not pay Gibbs for Johnson.**
@@ -188,13 +195,15 @@ Same scale every day. Superflex: starting QBs premium. Half-PPR: WRs hold. 10-te
 - Chase 80 ≈ Amon-Ra 80
 - Purdy 78 ≈ CeeDee 78 ≈ Walker 78
 - Cook 76 ≈ Mahomes 74
-- Johnson 34 ≈ Pickens 34 — **close, not Gibbs 95**
+- Johnson 34 ≈ Pickens 34 ≈ Nico 32 — **close, not Gibbs 95**
+- Lawrence 66 ≈ Stroud 66 **GUESS NEW**
 - Hubbard 44 ≈ Goff 44
 
 ### D. Fair 2-for-1 / 3-for-1
 
 - Side getting Allen / Gibbs / JSN / Burrow / Maye **gives extra**.
 - Johnson **34 + a 20 ≠ Walker 78**. One smash ≠ the RB1.
+- Strange **16 + Flournoy 12 ≠ Bowers 62**.
 - Cousins **52 + a 16 ≠ Burrow 90**.
 - Nacua **36 + a 20 ≠ Chase 80**.
 
@@ -211,11 +220,14 @@ Same scale every day. Superflex: starting QBs premium. Half-PPR: WRs hold. 10-te
 - Starting CHI/DEN/PHI/TB. Buying DeVito / McCord as paid Superflex.
 - Paying a 40 for Higbee. He is **20 GUESS**.
 - Trading Cousins 52 as Burrow after 19.38.
+- Starting Marks W11 without concussion clearance.
+- Starting Dowdle over Warren SNF.
+- Starting Freiermuth without the 7-man.
 
 ### F. Position scarcity this week
 
-- **QB:** Maye Out + bye W11. Herbert MNF. Brissett MNF. DeVito skip. Milton FA skip.
-- **RB:** Johnson owned smash. Walker Out this week. Marks concussion. Dowdle owned $2 SNF.
+- **QB:** Maye Out + bye W11. Herbert MNF. Brissett MNF. DeVito skip. Milton FA skip. W11 six-team bye hits Love/Stafford/Lock.
+- **RB:** Johnson owned smash. Walker Out this week. Marks concussion (16 GUESS). Dowdle owned $2 SNF bench.
 - **WR:** McConkey Out MNF. Chase/Higgins SNF. Pickens LIVE.
 - **TE:** Higbee LIVE. Strange claimed. Freiermuth Q skip.
 
@@ -224,6 +236,8 @@ Same scale every day. Superflex: starting QBs premium. Half-PPR: WRs hold. 10-te
 ## 8. Rookies and sleepers
 
 - **Emmett Johnson (RB, KC)** — owned **34 GUESS**. Smashed as Walker fill-in. Still not Gibbs. Walker 78 ROS.
+- **Parker Washington (WR, JAX)** — owned **30 GUESS NEW**. 152 yards with Lawrence.
+- **Ollie Gordon II (RB, MIA)** — owned **20 GUESS NEW**. 20-76 + 4-39. Achane IR.
 - **Corey Kiner (RB, NE)** — owned. 10-25 / 2.5. Henderson IR. Stevenson dud. Bye W11 stash.
 - **Do not add:** DeVito, McCord, Milton, Lloyd, McGowan, Tyson, Price, Hutchinson, Cameron, Sinnott, one-game darts.
 
@@ -231,16 +245,16 @@ Same scale every day. Superflex: starting QBs premium. Half-PPR: WRs hold. 10-te
 
 ## 9. What a manager should do today
 
-1. **Sit McConkey MNF (Out). Start Herbert** not smash. Brissett is the other MNF SF2.
-2. **Do not smash-sell Maye (88).** Out ankle, Patriots **bye W11**. DeVito FA skip. Stream is a W12 problem.
-3. **Hold Johnson if you own him (34).** Do not pay Gibbs. Walker still 78. AustinDoingWork does **not** own the cuff.
-4. **SNF:** Start Burrow / Chase / Higgins / Warren. Dowdle $2 is not a smash. Freiermuth Q skip.
+1. **SET SNF now:** Burrow / Chase / Higgins / Warren. Rodgers if you need a SF2. Confirm Freiermuth **~6:50–7:00** — sit-lean. Dowdle is a bench dart.
+2. **Sit McConkey MNF (Out, did not travel). Start Herbert** not smash. Flowers START. Brissett is the other MNF SF2.
+3. **Do not smash-sell Maye (88).** Out ankle, Patriots **bye W11**. MRI MISSING. DeVito FA skip. Stream is a W12 problem.
+4. **Hold Johnson if you own him (34).** Do not pay Gibbs. Walker still 78. AustinDoingWork does **not** own the cuff.
 5. **Do not recut 4pm live** JSN / Lock / Mendoza / Higbee / CMC / Pickens / CeeDee / Purdy / Dak.
-6. **Dell 16 HOLD** after 3-21. **Nabers 64 HOLD**. **Cousins 52 HOLD** after 19.38. **Watson 26 HOLD** after 21.38.
-7. **Sit Estime.** Etienne played (Sleeper still IR). Kamara still the NO back.
-8. **Marks concussion** — WaiverPredator sit W11 TNF until cleared. Montgomery already Out.
+6. **Dell 16 HOLD** after 3-21. **Nabers 64 HOLD**. **Cousins 52 HOLD**. **Lawrence NEW 66**. **Watson 26 HOLD**.
+7. **Sit Estime.** Etienne played (Sleeper still IR). Kamara still the NO back (**22 GUESS NEW**).
+8. **Marks concussion (16 GUESS)** — WaiverPredator sit W11 Thursday until protocol. Montgomery already Out.
 9. **Skip leftover FA:** DeVito / McCord / Milton / Lloyd / one-game darts. Downs/Higbee/Strange/Dowdle/Flournoy already claimed.
-10. **Watch SNF then MNF inactives ~6:45 PM Monday.** McConkey already Out.
+10. **Plan W11 six-team bye** (ATL/CLE/GB/LAR/NE/SEA). Watch SNF 7-man then MNF inactives Monday ~6:45.
 
 ---
 
@@ -248,4 +262,4 @@ Same scale every day. Superflex: starting QBs premium. Half-PPR: WRs hold. 10-te
 
 Equal: Burrow≈Maye-88 · Chase≈Amon-Ra · Purdy≈CeeDee≈Walker-78 · Cook≈Mahomes · Johnson-34≈Pickens · Hubbard-44≈Goff.
 
-Do not: smash-sell-Maye-to-a-50 · pay-Gibbs-for-Johnson · smash-sell-Nabers-after-4.9 · smash-sell-Dell-after-3.6 · start-McConkey-Out · start-Nacua-IR · recut-live-4pm · start-Estime · DeVito-as-SF2 · formula-scale-as-this-board.
+Do not: smash-sell-Maye-to-a-50 · pay-Gibbs-for-Johnson · smash-sell-Nabers-after-4.9 · smash-sell-Dell-after-3.6 · start-McConkey-Out · start-Nacua-IR · recut-live-4pm · start-Estime · start-Marks-W11 · start-Dowdle-over-Warren · DeVito-as-SF2 · formula-scale-as-this-board.
