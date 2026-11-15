@@ -23,11 +23,20 @@
     "news": 0.05
   },
   "sources": [
-    "Sleeper weekly projections (remaining regular-season weeks), converted to this league's Half-PPR / 6-pt pass TD scoring",
-    "Sleeper league matchup players_points for production (played weeks only)",
-    "Sleeper weekly player stats for snap / carry / target share",
-    "Sleeper player directory for injury status, depth chart, search_rank",
-    "Sleeper trending adds (48h) for the news/trend component"
+    "Sleeper tags + depth + rosters (display_week=10 last_scored_leg=9 daily_waivers_last_ran=14 W10 txs 10) live-reconfirmed 07:05 AM EST",
+    "ESPN Adam Schefter via Yahoo 6:26 AM ET: AJB + Stevenson expected to play Munich. Inactives still MISSING ~8:00 AM ET",
+    "CBS/Twentyman: Amon-Ra Q ribs, likely play; confirm 8:00 AM ET inactives",
+    "NFL.com news + ESPN/KC Star Saturday: Kenneth Walker III OUT groin (minor / give him a week). NFL.com injury table still Q is LAG. Sleeper Out. Emmett Johnson Sleeper RB/1",
+    "Chargers.com Sat: McConkey DNP Thu+Fri+Sat, Q MNF. Herbert off report START-lean (38.5)",
+    "Saints.com Sat 3:01 PM ET: Etienne activated. Sleeper still reserve WaiverPredator CONFLICT. NFL.com Q hamstring / FP. Kamara START until Sleeper move",
+    "ESPN Reiss Sat: Henderson IR illness. Sleeper IR. Four-game min",
+    "Texans PR Sat + Sleeper now Out: Montgomery OUT not traveling. Marks START. NFL.com table Q is LAG",
+    "Packers: Jacobs Out surgery Fri; Rapoport 2-3 weeks GUESS; Sleeper Out not IR. Lloyd Sleeper RB/1 FA skip; Kaleb owned toss-up",
+    "Vikings.com Fri 3:11 PM ET: Cousins NAMED. Kyler/Hockenson/Jennings OUT",
+    "Open-Meteo kickoff 07:05 AM ET: Munich 48F/4mph/20% (0% by 16:00 local) not a sit; CLE 45F/14mph/5% (GitHub 30% rain STALE) not a sit; MetLife 47F/12mph/gusts19/1% not a sit; SNF 44F/4mph/0%; MNF 40F/4mph/0%; GB 41F/1mph dry",
+    "OOSTA consensus Sun 6:33 AM ET: DET -2.5/50.5; IND -4.5/37.5; BUF -7.5 vs CBS -8.5 CONFLICT / 51.0; KC -3/47.5; NO -2.0/48.5; LAR -9.5/38.5; SF -4.0/55.5; GB -2.5/42.0; BAL -4.5/38.5",
+    "Formula 1.0.0 players[] from 2026-11-15 07:05 AM EST generate \u2014 do not mix with curated trade_board",
+    "Prior packet 2026-11-14 05:15 PM EST. GitHub Sunday 07:15 overlay re-verified this run (CLE rain STALE, Walker NFL.com news OUT)"
   ],
   "commit_message": "intel: 2026-11-15 week 10",
   "sanity_gaps": [
@@ -159,7 +168,7 @@
       "value": 100,
       "tier": "SF1 elite",
       "trend": "flat",
-      "note": "Must-start @ NYJ. MetLife 46F / 11 mph / 1% precip \u2014 morning 14 mph STALE. Not a sit. 100 HOLD."
+      "note": "Must-start @ NYJ. Open-Meteo MetLife 47F / 12 mph / gusts 19 / 1% \u2014 GitHub morning 6% STALE. Not a sit. 100 HOLD."
     },
     {
       "player": "Jahmyr Gibbs",
@@ -167,7 +176,7 @@
       "value": 95,
       "tier": "RB1 elite",
       "trend": "flat",
-      "note": "Must-start vs NE Munich. 43F / 3 mph / 3% not a sit. 95 HOLD."
+      "note": "Must-start vs NE Munich. Open-Meteo 48F / 4 mph / 20% at 15:00 local, 0% by 16:00 \u2014 not a sit. 95 HOLD."
     },
     {
       "player": "Jaxon Smith-Njigba",
@@ -239,7 +248,7 @@
       "value": 78,
       "tier": "RB1 elite / OUT this week",
       "trend": "down",
-      "note": "OUT groin (Sleeper Out). Pelissero minor / not long-term. Sit @ ATL. Do not smash-sell. Johnson START (other manager). 78 GUESS HOLD."
+      "note": "OUT groin. Sleeper Out. NFL.com news OUT (injury table still Q is LAG). Pelissero/Rapoport minor / give him a week. Sit @ ATL. Do not smash-sell. Johnson START (other manager). 78 GUESS HOLD."
     },
     {
       "player": "James Cook III",
@@ -247,7 +256,7 @@
       "value": 76,
       "tier": "RB1",
       "trend": "flat",
-      "note": "Must-start @ NYJ. MetLife 11 mph not a sit. 76 HOLD."
+      "note": "Must-start @ NYJ. MetLife 12 mph / 1% precip not a sit. 76 HOLD."
     },
     {
       "player": "Patrick Mahomes",
@@ -662,8 +671,8 @@
       "pos": "RB",
       "value": 26,
       "tier": "RB2 / one-week start",
-      "trend": "up",
-      "note": "OWNED TradeHurricane. Sleeper RB/1. Walker OUT. START vs ATL. One-week RB1, not Gibbs. 26 GUESS HOLD."
+      "trend": "flat",
+      "note": "OWNED TradeHurricane. Sleeper RB/1. Walker OUT. START vs ATL. Ott Q; Nate Carter elevated. One-week, not a 40. 26 GUESS HOLD."
     },
     {
       "player": "Jonah Coleman",
@@ -791,7 +800,7 @@
       "value": 18,
       "tier": "WR3",
       "trend": "flat",
-      "note": "Q ankle/knee. Schefter expected to play. Start-lean vs DET pass D, rusty, not smash. Confirm ~8:00 AM ET. 18 GUESS HOLD."
+      "note": "Q ankle/knee. Schefter expected to play. Start-lean vs DET pass D, rusty. Confirm ~8:00 AM ET. 18 HOLD."
     },
     {
       "player": "Daniel Jones",
@@ -831,7 +840,7 @@
       "value": 16,
       "tier": "RB dart / stream",
       "trend": "flat",
-      "note": "OWNED $7. Henderson IR. Stevenson Schefter-expected: toss-up / sit-lean if Stevenson active; START if inactive. Confirm ~8:00 AM ET. 16 GUESS HOLD."
+      "note": "OWNED $7 AnalyticsOverlord. Sleeper RB/1. Toss-up / sit-lean if Stevenson is up. START if Stevenson inactive. Do not start both. 16 HOLD."
     },
     {
       "player": "Fernando Mendoza",
@@ -887,7 +896,7 @@
       "value": 16,
       "tier": "WR3",
       "trend": "flat",
-      "note": "Off report. START @ CLE. MHJ OUT. Montgomery OUT. 30% rain not a sit. 16 GUESS HOLD."
+      "note": "Fri FP / off report. START @ CLE. MHJ OUT. Open-Meteo 45F / 14 mph / 5% precip \u2014 GitHub 30% rain STALE. Not a sit. 16 HOLD."
     },
     {
       "player": "Dalton Kincaid",
@@ -959,7 +968,7 @@
       "value": 12,
       "tier": "RB stash",
       "trend": "flat",
-      "note": "Q knee. Schefter expected to play. Start-lean Munich vs DET run D, not smash. Confirm ~8:00 AM ET. If inactive, Kiner START. 12 GUESS HOLD."
+      "note": "Q knee. Schefter expected to play. Start-lean vs DET run D \u2014 not a smash. Confirm ~8:00 AM ET. If inactive, Kiner START. 12 HOLD."
     },
     {
       "player": "Xavier Worthy",
@@ -5731,16 +5740,16 @@
     }
   ],
   "must_act_today": [
-    "Munich inactives MISSING ~8:00 AM ET. Schefter: AJB + Stevenson expected to play. Fowler: Amon-Ra expected. Confirm before 9:30 ET lock.",
-    "If Stevenson active: start-lean Stevenson, sit-lean Kiner. If inactive: Kiner START. Do not start both.",
+    "Munich inactives MISSING ~8:00 AM ET. Schefter: AJB + Stevenson expected. Fowler: Amon-Ra expected. Confirm before 9:30 ET lock.",
+    "If Stevenson active: start-lean Stevenson, sit-lean Kiner. If inactive: Kiner START. Do not start both. AustinDoingWork owns Stevenson AND Walker (OUT) with Saquon on bye \u2014 start Javonte + Stevenson-if-up.",
     "If AJB active: start-lean vs DET. If inactive: sit. Amon-Ra start-lean / START if active.",
     "Sit Walker (OUT). Start Johnson vs ATL if you own him. 78 / 26 HOLD. Do not smash-sell Walker. Do not pay Gibbs. AustinDoingWork does not own the cuff.",
     "Leftover still last_ran=14. Sunday $0 window NOT POSTED. Downs/Higbee/Estime already claimed. Skip remaining FA if it ticks.",
-    "Sit McConkey (Sat DNP x3 / Q). Herbert START MNF not smash.",
+    "Sit McConkey (Sat DNP x3 / Q). Herbert START-lean MNF not smash (38.5).",
     "Start Cousins @ GB (named). Jefferson starts. Sit Kyler / Wentz / Hockenson.",
-    "Dell / Marks START @ CLE. Montgomery OUT. MHJ OUT. 30% rain not a sit. Watson named SF2 not smash. Sit Shedeur.",
-    "Tuten START @ TEN. Kamara START vs CAR. Etienne activate vs IR CONFLICT \u2014 do not start as a lock. Estime sit. Higbee owned START @ ARI. Pickens START vs SF.",
-    "Sit W10 byes CHI/DEN/PHI/TB. Sit Nacua IR, Jacobs OUT, Mendoza vs SEA. Watch ~11:30 AM ET 1:00 inactives: Garrett Wilson, Addison, Etienne roster."
+    "Dell / Marks START @ CLE. Montgomery OUT. MHJ OUT. Open-Meteo 5% precip \u2014 GitHub 30% rain STALE, not a sit. Watson named SF2 not smash. Sit Shedeur.",
+    "Tuten START @ TEN. Kamara START vs CAR. Etienne Saints.com up vs Sleeper still IR CONFLICT \u2014 do not start as a lock. Estime sit. Higbee owned START @ ARI. Pickens START vs SF.",
+    "Sit W10 byes CHI/DEN/PHI/TB. Sit Nacua IR, Jacobs OUT, Mendoza vs SEA. Watch ~11:30 AM ET 1:00 inactives: Garrett Wilson, Addison, Etienne roster, Ott."
   ],
   "injuries": [
     {
@@ -5780,7 +5789,7 @@
       "pos": "RB",
       "team": "KC",
       "status": "Out",
-      "note": "Groin. OUT. Pelissero minor / not long-term. Sit.",
+      "note": "Groin. Sleeper Out. NFL.com news OUT (injury table still Q is LAG). Pelissero/Rapoport minor / give him a week. Sit. 78 GUESS HOLD.",
       "replacement": "Emmett Johnson owned START (TradeHurricane)"
     },
     {
@@ -5844,7 +5853,7 @@
       "pos": "RB",
       "team": "HOU",
       "status": "Out",
-      "note": "Groin. OUT, not traveling. FA skip.",
+      "note": "Groin. Sleeper now Out (NFL.com table Q LAG closed). Texans PR: will not travel. FA skip. Marks START.",
       "replacement": "Marks START"
     },
     {
@@ -5852,7 +5861,7 @@
       "pos": "WR",
       "team": "HOU",
       "status": "Healthy",
-      "note": "Off report. START @ CLE. MHJ OUT. 30% rain not a sit.",
+      "note": "Fri FP / off report. START @ CLE. MHJ OUT. Open-Meteo 5% precip \u2014 GitHub 30% rain STALE, not a sit.",
       "replacement": "Starts; Nico still WR1"
     },
     {
@@ -5916,7 +5925,7 @@
       "pos": "QB",
       "team": "LAC",
       "status": "Healthy",
-      "note": "START @ BAL MNF, not smash. McConkey sit.",
+      "note": "Off report Saturday. START-lean MNF, not smash (38.5). McConkey sit.",
       "replacement": "Starts"
     },
     {
@@ -6079,7 +6088,7 @@
     },
     {
       "player": "Kenneth Walker III",
-      "note": "Still OUT. No overnight change.",
+      "note": "Still OUT. NFL.com news confirms OUT; injury table Q is LAG. Sleeper Out.",
       "impact": "Sit. 78 HOLD. Do not smash-sell."
     },
     {
@@ -6104,8 +6113,8 @@
     },
     {
       "player": "Weather",
-      "note": "Munich 47F / 3 mph / 11%. CLE 46F / 11 mph / 30% rain. MetLife 49F / 12 mph / gusts 23 / 6%.",
-      "impact": "None is a sit."
+      "note": "Open-Meteo 07:05 AM ET: Munich 48F/4mph/20% (0% by 16:00 local). CLE 45F/14mph/5% (GitHub 30% STALE). MetLife 47F/12mph/gusts19/1%. SNF 44F/4mph/0%. MNF 40F/4mph/0%.",
+      "impact": "None is a sit. CLE 30% rain is STALE."
     }
   ],
   "faab": [
@@ -6281,7 +6290,7 @@
       "player": "Tank Dell",
       "pos": "WR",
       "call": "Must-start",
-      "note": "Off report @ CLE. MHJ OUT. 30% rain not a sit"
+      "note": "Off report @ CLE. MHJ OUT. Open-Meteo 5% precip \u2014 30% rain STALE, not a sit"
     },
     {
       "player": "Woody Marks",
@@ -6328,8 +6337,8 @@
     {
       "player": "Justin Herbert",
       "pos": "QB",
-      "call": "Must-start",
-      "note": "MNF not smash. McConkey sit"
+      "call": "Strong start",
+      "note": "MNF START-lean not smash (38.5). McConkey sit"
     },
     {
       "player": "TreVeyon Henderson",
@@ -6411,13 +6420,13 @@
   ],
   "actions_today": [
     "Watch ~8:00 AM ET Munich inactives. Schefter: AJB + Stevenson expected. Fowler: Amon-Ra expected. Confirm before 9:30 ET lock.",
-    "If Stevenson active: start-lean Stevenson, sit-lean Kiner. If inactive: Kiner START. Do not start both.",
+    "If Stevenson active: start-lean Stevenson, sit-lean Kiner. If inactive: Kiner START. Do not start both. AustinDoingWork: Walker OUT + Saquon bye \u2014 start Javonte and Stevenson-if-up.",
     "If AJB active: start-lean vs DET. If inactive: sit. Amon-Ra start-lean / START if active.",
     "Sit Walker (OUT). Start Johnson vs ATL if you own him. Do not smash-sell Walker 78. Do not pay Gibbs for Johnson 26. AustinDoingWork does not own the cuff.",
     "Start Cousins @ GB (named). Jefferson starts. Sit Kyler / Wentz / Hockenson.",
-    "Start Dell / Marks @ CLE. Montgomery OUT. MHJ OUT. 30% rain not a sit. Watson SF2 not smash. Sit Shedeur.",
-    "Start Tuten @ TEN. Start Kamara vs CAR. Sit Estime. Do not start Etienne as a lock.",
-    "Start Higbee @ ARI (owned). Start Pickens vs SF. Sit McConkey (DNP x3 Q). Herbert START not smash.",
+    "Start Dell / Marks @ CLE. Montgomery OUT. MHJ OUT. 5% precip not a sit (30% STALE). Watson SF2 not smash. Sit Shedeur.",
+    "Start Tuten @ TEN. Start Kamara vs CAR. Sit Estime. Do not start Etienne as a lock (Sleeper still IR).",
+    "Start Higbee @ ARI (owned). Start Pickens vs SF. Sit McConkey (DNP x3 Q). Herbert START-lean MNF not smash.",
     "Sunday leftover still last_ran=14. If it ticks $0: skip Atwell / Keenan / Beck / McCord / Lloyd / Ott / Montgomery-OUT. Downs already claimed.",
     "Watch ~11:30 AM ET 1:00 inactives: Garrett Wilson, Addison, Etienne roster, Ott."
   ],
@@ -6450,14 +6459,16 @@
     "Paying a 40 for Higbee after the $0 claim. He is 20 GUESS.",
     "Sitting Goff vs NE. START.",
     "Trading Cousins 52 as if he is Burrow. First start back.",
-    "Treating Sunday leftover as posted. last_ran still 14."
+    "Treating Sunday leftover as posted. last_ran still 14.",
+    "Treating CLE 30% rain as live. Open-Meteo 07:05 AM ET is 5% \u2014 STALE, not a sit."
   ],
   "notes": [
-    "Curated overlay on formula 1.0.0 dump 2026-11-15 07:00 AM EST. Do not mix scales. TNF boxes IN Sleeper week-10 points, NOT in formula PPG.",
+    "Curated overlay on formula 1.0.0 dump 2026-11-15 07:05 AM EST. Do not mix scales. TNF boxes IN Sleeper week-10 points, NOT in formula PPG.",
     "Sleeper display_week=10 daily_waivers_last_ran=14. W10 txs 10. Sunday leftover NOT POSTED. Live-reconfirmed this run.",
-    "Schefter: AJB + Stevenson expected to play. Start-lean both. Confirm Munich inactives ~8:00 AM ET. Values FLAT.",
-    "Walker OUT 78 HOLD. Johnson 26 START HOLD. Henderson IR 6 HOLD. Etienne Saints.com activated vs Sleeper still reserve CONFLICT."
+    "Schefter: AJB + Stevenson expected to play. Start-lean both. Confirm Munich inactives ~8:00 AM ET. Values FLAT vs Sat 5:15 PM.",
+    "Walker OUT 78 HOLD. Johnson 26 START HOLD. Henderson IR 6 HOLD. Etienne Saints.com activated vs Sleeper still reserve CONFLICT.",
+    "NEW vs GitHub Sunday overlay: CLE rain 30%\u21925% STALE; Munich precip 11%\u219220% still not a sit; NFL.com news confirms Walker OUT (table Q LAG); Montgomery Sleeper Out closed; OOSTA BUF -7.5/51.0 vs CBS -8.5 CONFLICT."
   ],
   "packet_kind": "curated_overlay",
-  "formula_generated_at_et": "2026-11-15 07:00 AM EST"
+  "formula_generated_at_et": "2026-11-15 07:05 AM EST"
 }
