@@ -5936,7 +5936,7 @@
       "replacement": "Cousins"
     },
     {
-      "player": "T.J. Hockenson",
+      "player": "David Njoku",
       "pos": "TE",
       "team": "MIN",
       "status": "Out",
@@ -6024,12 +6024,12 @@
       "replacement": "Starts"
     },
     {
-      "player": "Christian McCaffrey",
-      "pos": "RB",
-      "team": "SF",
-      "status": "Healthy",
-      "note": "13-62-1 + 4-161-2 / 44.3. HOLD 72.",
-      "replacement": "Starts"
+      "player": "Marvin Harrison Jr.",
+      "pos": "WR",
+      "team": "HOU",
+      "status": "Out",
+      "note": "Hamstring. Out.",
+      "replacement": "Nico; Dell"
     }
   ],
   "news": [
@@ -6060,7 +6060,7 @@
     },
     {
       "player": "Ladd McConkey",
-      "note": "Still Out MNF. Did not travel.",
+      "note": "Still Out MNF. Did not travel. Inactives ~6:45.",
       "impact": "Sit. Herbert START."
     },
     {
@@ -6241,8 +6241,8 @@
     {
       "player": "Christian McCaffrey",
       "pos": "RB",
-      "call": "Already played",
-      "note": "44.3 smash. HOLD 72"
+      "call": "Sit / trap",
+      "note": "Sit-lean. 0-8 offense, no McConkey, 38.5"
     },
     {
       "player": "Jaxon Smith-Njigba",
@@ -6287,6 +6287,24 @@
       "note": "2.8 then Out. DTD not major. HOLD 62"
     },
     {
+      "player": "George Pickens",
+      "pos": "WR",
+      "call": "Already played",
+      "note": "38.0. 42 HOLD"
+    },
+    {
+      "player": "Christian McCaffrey",
+      "pos": "RB",
+      "call": "Already played",
+      "note": "44.3. HOLD 72"
+    },
+    {
+      "player": "Chase Brown",
+      "pos": "RB",
+      "call": "Already played",
+      "note": "24.3. 28 HOLD"
+    },
+    {
       "player": "Kenneth Walker III",
       "pos": "RB",
       "call": "Sit / trap",
@@ -6317,7 +6335,7 @@
       "note": "Still on bye"
     },
     {
-      "player": "Ryan Flournoy",
+      "player": "Quentin Johnston",
       "pos": "WR",
       "call": "Already played",
       "note": "16.1. 18 HOLD"
