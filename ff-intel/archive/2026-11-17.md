@@ -1,212 +1,254 @@
-# FF Intel trade board — Bot or Not Fantasy
+# FF Intel — Bot or Not Fantasy
 
-Generated 2026-11-17 05:01 PM EST
+Generated **2026-11-17 05:15 PM EST**
 
-- **NFL week:** 10
-- **League:** 10-team Superflex Half-PPR (Sleeper `1395904889149739008`)
-- **Formula:** 1.0.0 — 35% ROS proj / 25% ppg / 20% role / 15% upside / 5% news
-- **Commit:** `intel: 2026-11-17 week 10 values 1.0.0`
-- **Sources:** Sleeper weekly projections (remaining regular-season weeks), converted to this league's Half-PPR / 6-pt pass TD scoring; Sleeper league matchup players_points for production (played weeks only); Sleeper weekly player stats for snap / carry / target share; Sleeper player directory for injury status, depth chart, search_rank; Sleeper trending adds (48h) for the news/trend component
-- Values are 1–100 ROS trade prices for bots. `GUESS` = inferred role, return week, or projection.
+- **NFL week:** 11 — Week 10 **FULLY CLOSED** / leftover **POSTED last_ran=17 (empty)** / **Montgomery still FA $0** / **Maye 58 HOLD** / **Marks sit TNF** / **Bowers DTD** / **Mayfield Q** / Wed practice **MISSING**
+- **League:** 10-team Superflex Half-PPR, no K/DST, $100 FAAB, 1 IR slot (Sleeper `1395904889149739008`)
+- **Freshness:** Tuesday 5:15 PM ET. Sleeper `week=11` `display_week=10` `leg=11` **`last_scored_leg=10`** **`daily_waivers_last_ran=17`**. W10 txs **15**. W11 txs **0**. Formula dump **NOT** this scale.
+- **Sources:** Sleeper tags + W11 txs (last_ran 16→17, W11 txs 0); Ryans Montgomery **trending right direction** / practiced Tue; Byard Maye **probably rest of season** (official dx **MISSING**); Rapoport Geno **not major**; Kubiak Bowers **DTD**; Garafolo Mayfield **Q foot**; prior packet 2026-11-17 07:20 AM EST.
+- **Scale:** Curated 1–100 Superflex Half-PPR 10-team. Formula 1.0.0 in `players[]` from 2026-11-17 05:01 PM EST generate — **do not mix the two** (dump has Allen 85 / Maye 40 / Hampton 53). Week-10 boxes **are** in formula PPG.
 
-## How to read a value
+**NEW vs Tuesday 7:20 AM:** leftover **last_ran 16→17**, W11 txs **0** — Tuesday FAAB **posted empty**. Montgomery **still FA**. Ryans: **trending to play TNF**. Byard: Maye **probably season** — **58 HOLD**, official dx **MISSING**. Values **FLAT** (call / leftover flips only). Wednesday practice **MISSING**.
 
-Value = stretch-to-98 of (weighted components × injury modifier), then Superflex floors/caps.
-Healthy named QB1 floor **45**. Backup QB cap **25** (unless the starter is hurt). Committee/backup RB (<40% carry share) cap **30**. Out −35%. IR/PUP/SUS −50% scaled by return week. Q −5%.
+---
 
-## QB
+## 1. League week context
 
-| Val | Δ | Player | Team | PPG | Role | Inj | Bye | Why (moves ≥8) |
-|---:|---:|---|---|---:|---|---|---|---|
-| 87 | — | Joe Burrow | CIN | 32.5 | QB1 | Healthy |  |  |
-| 85 | — | Josh Allen | BUF | 28.4 | QB1 | Healthy |  |  |
-| 80 | — | Brock Purdy | SF | 27.6 | QB1 | Healthy |  |  |
-| 77 | — | Patrick Mahomes | KC | 24.4 | QB1 | Healthy |  |  |
-| 77 | — | Trevor Lawrence | JAX | 24.6 | QB1 | Healthy |  |  |
-| 73 | — | C.J. Stroud | HOU | 25.1 | QB1 | Healthy |  |  |
-| 72 | — | Dak Prescott | DAL | 25.0 | QB1 | Healthy |  |  |
-| 71 | +1 | Jayden Daniels | WAS | 22.6 | QB1 | Healthy |  |  |
-| 69 | — | Jordan Love | GB | 24.3 | QB1 | Healthy |  |  |
-| 68 | -1 | Jared Goff | DET | 23.1 | QB1 | Healthy |  |  |
-| 68 | — | Kirk Cousins | MIN | 24.1 | QB1 | Healthy |  |  |
-| 61 | — | Caleb Williams | CHI | 21.9 | QB1 | Healthy | BYE |  |
-| 60 | — | Tyler Shough | NO | 21.4 | QB1 | Healthy |  |  |
-| 56 | — | Bryce Young | CAR | 19.3 | QB1 | Healthy |  |  |
-| 52 | — | Cam Ward | TEN | 19.5 | QB1 | Healthy |  |  |
-| 52 | — | Matthew Stafford | LAR | 21.1 | QB1 | Healthy |  |  |
-| 49 | — | Bo Nix | DEN | 17.4 | QB1 | Healthy | BYE |  |
-| 48 | — | Aaron Rodgers | PIT | 17.9 | QB1 | Healthy |  |  |
-| 45 GUESS (45) | — | Carson Wentz | MIN | 2.8 | QB1 | Healthy |  | SF QB1 floor 45; GUESS inputs |
-| 45 | — | Daniel Jones | IND | 11.1 | QB1 | Healthy |  |  |
-| 45 | — | Deshaun Watson | CLE | 16.7 | QB1 | Healthy |  |  |
-| 45 | — | Drew Lock | SEA | 20.5 | QB1 | Healthy |  |  |
-| 45 | — | Fernando Mendoza | LV | 13.9 | QB1 | Healthy |  |  |
-| 45 | — | J.J. McCarthy | NYG | 12.5 | QB1 | Healthy |  |  |
-| 45 | — | Jacoby Brissett | BAL | 10.6 | QB1 | Healthy |  |  |
-| 45 | — | Justin Herbert | LAC | 13.3 | QB1 | Healthy |  |  |
-| 45 | — | Michael Penix Jr. | ATL | 16.9 | QB1 | Healthy |  |  |
-| 41 GUESS (41.02) | — | Lamar Jackson | BAL | 18.4 | QB1 | IR |  | IR x0.78; GUESS inputs |
-| 40 | — | Drake Maye | NE | 22.9 | QB1 | Out |  |  |
-| 29 GUESS (28.99) | — | Jalen Hurts | PHI | 19.8 | QB1 | IR | BYE | IR x0.50; GUESS inputs |
-| 27 | — | Baker Mayfield | TB | 10.2 | QB1 | Questionable | BYE |  |
-| 25 | — | Geno Smith | NYJ | 16.2 | QB1 | Out |  |  |
-| 25 GUESS (25) | — | Shedeur Sanders | CLE | 26.7 | QB2 | Healthy |  | backup QB cap 25; GUESS inputs |
-| 24 | — | Sam Darnold | SEA | 17.3 | QB1 | Out |  |  |
-| 23 GUESS (23.09) | — | Kyler Murray | MIN | 14.4 | QB1 | Out |  | Out x0.65; buy-low: volume > points; GUESS inputs |
-| 20 GUESS (20.28) | — | Malik Willis | MIA | 13.3 | QB1 | IR |  | IR x0.78; buy-low: volume > points; GUESS inputs |
+- **Now:** Tuesday Nov 17, 5:15 PM EST. Week 10 **FINAL**. Next lock = **TNF Thu 8:15 ET IND @ HOU**. Leftover **posted empty**. Wednesday practice **MISSING**.
+- **Byes this week (W11):** **ATL / CLE / GB / LAR / NE / SEA**. Dark: Bijan, London, Penix, Love, Jacobs, Kaleb, Stafford, Kyren, Corum, Higbee, Nacua, Maye, AJB, Kiner, Stevenson, JSN, Lock, Darnold, Golden, Watson-GB, Barner.
+- **Back from W10 bye:** CHI / DEN / PHI / TB — Nix, Caleb, Saquon, Egbuka, Irving, Swift, Goedert, Loveland **START**. Mayfield **Q**.
+- **Week 10 CLOSED:** DET 35–NE 10 · KC 35–ATL 13 · SF 46–DAL 40 · CIN 38–PIT 18 · SEA 21–LV 13 · LAR 34–ARI 6 · **MNF LAC 23–BAL 20** (Hampton **22-105-1 / 17.0**, Herbert **16.26**, Henry **16.5**, Brissett **12.8**, Harris **5-86 / 11.1 FA**, Flowers **8.4** fumble, McConkey **DNP**, Njoku **active 0 targets**).
+- **W11 TNF Thu 8:15 ET:** IND @ HOU. HOU **−10.5 / 44.5**. Indoor — **not a weather sit**. **Marks sit concussion**. Montgomery **FA leftover $0**, Ryans **trending right direction** — add, sit-lean as a smash until named. MHJ **sit**. Dell / Nico / Stroud / Taylor **START**.
+- **W11 window:** Sun 1:00 · 4:05 NYJ@LAC (LAC **−3 / 40.5**) · 4:25 LV@DEN + JAX@NYG · SNF **MIN vs SF 8:20 ET Mexico City** · MNF **CIN @ WAS Mon 8:15 ET**. TEN@DAL **53.5** highest total.
+- **Deadlines:** leftover posted empty. Next daily window overnight. TNF lock Thursday. League trade deadline **Week 12**.
 
-## RB
+**FAAB left:** Klemm $105 · AustinDoingWork **$58** · MrB $43 · ZeroChillQB $24 · QuietSniper $23 · RivalryEngine $22 · AnalyticsOverlord $20 · WaiverPredator **$2** · ChaosGoblinFF $0 · TradeHurricane $0.
 
-| Val | Δ | Player | Team | PPG | Role | Inj | Bye | Why (moves ≥8) |
-|---:|---:|---|---|---:|---|---|---|---|
-| 98 | — | Jahmyr Gibbs | DET | 25.9 | RB1 | Healthy |  |  |
-| 94 | — | James Cook III | BUF | 18.2 | RB1 | Healthy |  |  |
-| 90 | — | Bijan Robinson | ATL | 18.0 | RB1 | Healthy |  |  |
-| 88 | — | Christian McCaffrey | SF | 21.4 | RB1 | Healthy |  |  |
-| 88 | — | Chuba Hubbard | CAR | 18.4 | RB1 | Healthy |  |  |
-| 86 | — | Bucky Irving | TB | 16.5 | RB1 | Healthy | BYE |  |
-| 81 | — | Derrick Henry | BAL | 15.3 | RB1 | Healthy |  |  |
-| 80 | — | Bhayshul Tuten | JAX | 15.4 | RB1 | Healthy |  |  |
-| 80 | — | Tony Pollard | TEN | 15.8 | RB1 | Healthy |  |  |
-| 79 | +2 | Javonte Williams | DAL | 15.5 | RB1 | Healthy |  |  |
-| 79 | — | Jonathan Taylor | IND | 15.2 | RB1 | Healthy |  |  |
-| 76 | -1 | D'Andre Swift | CHI | 15.8 | RB1 | Healthy | BYE |  |
-| 76 | — | Jaylen Warren | PIT | 15.0 | RB1 | Healthy |  |  |
-| 74 | — | Cam Skattebo | NYG | 11.3 | RB1 | Healthy |  |  |
-| 71 | — | Chase Brown | CIN | 11.8 | RB1 | Healthy |  |  |
-| 69 | — | Kyren Williams | LAR | 14.5 | RB1-split | Healthy |  |  |
-| 66 | — | Ashton Jeanty | LV | 12.7 | RB1 | Healthy |  |  |
-| 63 | — | Ollie Gordon II | MIA | 12.7 | RB1 | Healthy |  |  |
-| 63 | — | Quinshon Judkins | CLE | 10.6 | RB1 | Healthy |  |  |
-| 59 | — | Kenneth Walker III | KC | 22.9 | RB1 | Out |  |  |
-| 56 | — | Saquon Barkley | PHI | 7.9 | RB1-split | Healthy | BYE |  |
-| 55 | — | Aaron Jones Sr. | MIN | 9.7 | RB1 | Healthy |  |  |
-| 53 | +1 | Omarion Hampton | LAC | 8.9 | RB1 | Healthy |  |  |
-| 51 | — | Rhamondre Stevenson | NE | 10.2 | RB1-split | Healthy |  |  |
-| 47 | — | Braelon Allen | NYJ | 10.7 | RB1 | Healthy |  |  |
-| 36 | — | Tyler Allgeier | ARI | 8.1 | RB1-split | Healthy |  |  |
-| 30 | — | Alvin Kamara | NO | 9.5 | committee | Healthy |  |  |
-| 30 | — | Blake Corum | LAR | 10.9 | committee | Healthy |  |  |
-| 30 | — | Breece Hall | NYJ | 12.1 | committee | Healthy |  |  |
-| 30 | — | Emmett Johnson | KC | 9.5 | committee | Healthy |  |  |
-| 30 | — | J.K. Dobbins | DEN | 6.4 | RB1 | Healthy | BYE |  |
-| 30 | — | Jonah Coleman | DEN | 14.4 | committee | Healthy | BYE |  |
-| 30 | — | Jordan Mason | MIN | 6.4 | committee | Healthy |  |  |
-| 30 | — | Josh Jacobs | GB | 12.8 | committee | Out |  |  |
-| 30 | — | Rachaad White | WAS | 9.6 | committee | Healthy |  |  |
-| 30 | — | Travis Etienne Jr. | NO | 7.6 | committee | Healthy |  |  |
-| 30 | — | Zach Charbonnet | SEA | 7.6 | committee | Healthy |  |  |
-| 28 | -1 | Jadarian Price | SEA | 6.5 | committee | Healthy |  |  |
-| 28 | +1 | Woody Marks | HOU | 7.4 | RB1 | Out |  |  |
-| 27 | — | Rico Dowdle | PIT | 4.3 | committee | Healthy |  |  |
-| 24 | — | Chris Rodriguez Jr. | JAX | 5.9 | committee | Healthy |  |  |
-| 21 GUESS (20.68) | — | RJ Harvey | DEN | 9.2 | committee | IR | BYE | IR x0.78; committee RB 14% cap 30; GUESS inputs |
-| 19 | — | Corey Kiner | NE | 2.5 | committee | Healthy |  |  |
-| 19 | — | Kimani Vidal | LAC | 4.0 | committee | Healthy |  |  |
-| 17 | — | Kaleb Johnson | GB | 3.7 | committee | Healthy |  |  |
-| 16 GUESS (16.31) | — | TreVeyon Henderson | NE | 5.2 | committee | IR |  | IR x0.78; committee RB 23% cap 30; GUESS inputs |
-| 15 GUESS (14.89) | — | De'Von Achane | MIA | 7.0 | committee | IR |  | IR x0.50; committee RB 17% cap 30; GUESS inputs |
-| 14 | — | Audric Estime | NO | 1.6 | committee | Healthy |  |  |
-| 11 GUESS (11.48) | — | Brian Robinson Jr. | ATL | 2.2 | committee | IR |  | IR x0.78; committee RB 22% cap 30; GUESS inputs |
+**Empty IR slots:** MrB (Harvey IR-tagged on active — move him), QuietSniper (**IR Maye**), Klemm. **Full:** AnalyticsOverlord (Willis), ChaosGoblinFF (Lamar), WaiverPredator (Etienne — played, still reserve), TradeHurricane (Achane), ZeroChillQB (B-Rob), RivalryEngine (Hurts), AustinDoingWork (Adams — Nacua IR-tagged on active).
 
-## WR
+---
 
-| Val | Δ | Player | Team | PPG | Role | Inj | Bye | Why (moves ≥8) |
-|---:|---:|---|---|---:|---|---|---|---|
-| 98 | — | Jaxon Smith-Njigba | SEA | 22.4 | WR1 | Healthy |  |  |
-| 96 | — | CeeDee Lamb | DAL | 18.4 | WR1 | Healthy |  |  |
-| 95 | — | Amon-Ra St. Brown | DET | 16.8 | WR1 | Healthy |  |  |
-| 94 | — | Ja'Marr Chase | CIN | 18.0 | WR1 | Healthy |  |  |
-| 84 | +1 | Matthew Golden | GB | 14.7 | WR2 | Healthy |  |  |
-| 84 | — | Tee Higgins | CIN | 16.1 | WR2 | Healthy |  |  |
-| 82 | — | Justin Jefferson | MIN | 11.4 | WR1 | Healthy |  |  |
-| 82 | — | Parker Washington | JAX | 13.3 | WR1 | Healthy |  |  |
-| 81 | — | Chris Olave | NO | 13.1 | WR1 | Healthy |  |  |
-| 80 | — | Christian Watson | GB | 15.8 | WR1 | Healthy |  |  |
-| 80 | — | Malik Nabers | NYG | 12.0 | WR1 | Healthy |  |  |
-| 76 | — | Nico Collins | HOU | 13.9 | WR1 | Healthy |  |  |
-| 76 | — | Tetairoa McMillan | CAR | 11.8 | WR1 | Healthy |  |  |
-| 75 | +1 | Zay Flowers | BAL | 12.7 | WR1 | Healthy |  |  |
-| 70 | -1 | Drake London | ATL | 11.3 | WR1 | Questionable |  |  |
-| 69 | +1 | George Pickens | DAL | 13.6 | WR2 | Healthy |  |  |
-| 69 | — | Luther Burden III | CHI | 12.4 | WR1 | Questionable | BYE |  |
-| 68 | — | Garrett Wilson | NYJ | 11.6 | WR1 | Healthy |  |  |
-| 61 | -1 | Stefon Diggs | WAS | 11.6 | WR1 | Healthy |  |  |
-| 58 | — | Jameson Williams | DET | 11.0 | WR2 | Healthy |  |  |
-| 56 | — | Ryan Flournoy | DAL | 16.1 | WR | Healthy |  |  |
-| 55 | — | DJ Moore | BUF | 9.6 | WR1 | Healthy |  |  |
-| 55 | — | DK Metcalf | PIT | 8.4 | WR1 | Healthy |  |  |
-| 54 | -1 | Emeka Egbuka | TB | 8.9 | WR1 | Healthy | BYE |  |
-| 53 | — | KC Concepcion Jr. | CLE | 10.7 | WR2 | Healthy |  |  |
-| 53 | — | Malik Washington | MIA | 9.8 | WR2 | Healthy |  |  |
-| 53 | — | Rashee Rice | KC | 9.2 | WR1 | Healthy |  |  |
-| 52 GUESS (51.84) | — | Puka Nacua | LAR | 19.8 | WR | IR |  | IR x0.78; GUESS inputs |
-| 49 GUESS (49.35) | — | Michael Wilson | ARI | 10.6 | WR | IR |  | IR x0.78; buy-low: volume > points; GUESS inputs |
-| 48 | — | Jalen Coker | CAR | 8.8 | WR2 | Healthy |  |  |
-| 46 | — | Rome Odunze | CHI | 8.1 | WR2 | Healthy | BYE |  |
-| 41 | -1 | Josh Downs | KC | 8.0 | WR2 | Healthy |  |  |
-| 40 | -1 | DeVonta Smith | PHI | 14.0 | WR1 | Out | BYE |  |
-| 40 | — | Denzel Boston | CLE | 6.7 | WR1 | Healthy |  |  |
-| 40 | -1 | Khalil Shakir | BUF | 6.5 | WR2 | Healthy |  |  |
-| 39 | -1 | Mike Evans | SF | 12.6 | WR1 | Out |  |  |
-| 34 | -1 | Germie Bernard | PIT | 7.7 | WR2 | Healthy |  |  |
-| 33 | +1 | Courtland Sutton | DEN | 5.7 | WR2 | Healthy | BYE |  |
-| 33 | — | DeMario Douglas | NE | 8.1 | WR2 | Healthy |  |  |
-| 32 | — | Makai Lemon | PHI | 6.1 | WR | Healthy | BYE |  |
-| 32 | — | Tre Tucker | LV | 6.9 | WR1 | Healthy |  |  |
-| 29 | — | Jaylen Waddle | DEN | 7.4 | WR1 | Out | BYE |  |
-| 28 GUESS (27.62) | — | Davante Adams | LAR | 14.5 | WR | IR |  | IR x0.50; GUESS inputs |
-| 26 | — | Keon Coleman | BUF | 5.4 | WR | Healthy |  |  |
-| 25 | — | Xavier Worthy | KC | 5.2 | WR | Healthy |  |  |
-| 23 | +2 | Ladd McConkey | LAC | 7.2 | WR1 | Out |  |  |
-| 21 | — | A.J. Brown | NE | 4.6 | WR1 | Out |  |  |
-| 20 | — | Adonai Mitchell | NYJ | 3.7 | WR2 | Healthy |  |  |
-| 18 | — | Omar Cooper Jr. | NYJ | 7.5 | WR | Out |  |  |
-| 18 | — | Rashod Bateman | BAL | 5.7 | WR | Healthy |  |  |
-| 17 | — | Jordan Addison | MIN | 6.4 | WR | Out |  |  |
-| 16 | — | Brian Thomas Jr. | JAX | 3.7 | WR | Healthy |  |  |
-| 13 | +1 | Jerry Jeudy | CLE | 3.8 | WR | Healthy |  |  |
-| 13 | -1 | Tank Dell | HOU | 4.3 | WR | Healthy |  |  |
-| 12 | — | Darius Cooper | PHI | 2.5 | WR | Healthy | BYE |  |
-| 10 | — | Marvin Harrison Jr. | HOU | 4.6 | WR | Out |  |  |
+## 2. Injuries and availability (most important)
 
-## TE
+Facts first. **Leftover posted empty. TNF is the next lock. Wednesday practice MISSING.**
 
-| Val | Δ | Player | Team | PPG | Role | Inj | Bye | Why (moves ≥8) |
-|---:|---:|---|---|---:|---|---|---|---|
-| 86 | — | Trey McBride | ARI | 13.2 | TE1 | Healthy |  |  |
-| 83 | — | Isaiah Likely | NYG | 13.2 | TE1 | Healthy |  |  |
-| 80 | — | George Kittle | SF | 11.7 | TE1 | Healthy |  |  |
-| 63 | — | Harold Fannin Jr. | CLE | 8.7 | TE1 | Healthy |  |  |
-| 60 | — | Sam LaPorta | DET | 8.6 | TE1 | Healthy |  |  |
-| 59 | — | Brock Bowers | LV | 15.6 | TE1 | Out |  |  |
-| 58 | — | Tyler Warren | IND | 8.3 | TE1 | Healthy |  |  |
-| 55 | — | Travis Kelce | KC | 9.6 | TE1 | Questionable |  |  |
-| 53 | — | Dalton Kincaid | BUF | 8.5 | TE1 | Healthy |  |  |
-| 43 | — | Brenton Strange | JAX | 7.9 | TE1 | Healthy |  |  |
-| 40 | — | Colston Loveland | CHI | 7.2 | TE1 | Healthy | BYE |  |
-| 36 | — | Tucker Kraft | GB | 7.5 | TE1 | Healthy |  |  |
-| 26 | — | T.J. Hockenson | MIN | 8.0 | TE1 | Out |  |  |
-| 22 | — | Dallas Goedert | PHI | 6.1 | TE1 | Healthy | BYE |  |
-| 18 | — | Kyle Pitts Sr. | ATL | 6.3 | TE1 | Healthy |  |  |
-| 8 | -1 | Tyler Higbee | LAR | 4.6 | TE1 | Healthy |  |  |
+### Must act today (leftover $0 + TNF plan)
 
-## Sanity: 15 biggest value vs production-percentile gaps
+- **David Montgomery (RB, HOU)** — **FA leftover $0.** League posted the $5–$12 window **empty**. Ryans: **trending right direction**; practiced Tuesday. Marks **sit**. **Add $0.** Sit-lean as a smash until named. **18 HOLD.**
+- **Woody Marks (RB, HOU)** — **Out concussion.** Sit TNF. Owned WaiverPredator. **16 HOLD.**
+- **Drake Maye (QB, NE)** — **Out indefinitely.** Byard Tuesday: **probably rest of the season**. Vrabel: not out of the bye. Official dx **MISSING**. Bye **W11**. QuietSniper: **IR him**. DeVito skip. **58 HOLD.** Do **not** pay 88. Do **not** dump to 12.
+- **Omarion Hampton (RB, LAC)** — 22-105-1 / **17.0**. W11 vs NYJ **START**. **32 HOLD.** Not CMC.
+- **Geno Smith (QB, NYJ)** — Rapoport: **avoided major**. Hopes to play @ LAC. Sleeper **Out** LAG. **22 HOLD.** Klubnik **skip** unless ruled out.
+- **Brock Bowers (TE, LV)** — Kubiak **DTD**. Practice Wed. **62 HOLD.** Mayer leftover **$0** only if you need a TE streamer.
+- **Kenneth Walker III (RB, KC)** — Expected vs ARI. Sleeper still **Out**. **START-lean pending Wed.** **78 HOLD.**
+- **Ladd McConkey (WR, LAC)** — Still **Out** back. Sit until named. **12 HOLD.** Harris leftover **$0** dart.
+- **Baker Mayfield (QB, TB)** — **Q foot**. Walking boot on bye. Not long-term. **20 HOLD.** Jalon skip unless Out.
+- **Tre' Harris (WR, LAC)** — **Still FA.** 5-86 / 11.1. **$0 leftover.** Not a WR2. **16 HOLD.**
+- **A.J. Brown / Puka Nacua** — Out / IR. Bye W11. **HOLD.**
+- **Wednesday practice MISSING.** Walker / Bowers / Geno / Mayfield / McConkey are Wednesday calls.
 
-| Player | Pos | Value | Prod % | Gap | Why |
-|---|---|---:|---:|---:|---|
-| Shedeur Sanders | QB | 25 | 91 | 66 | backup QB cap 25; GUESS inputs |
-| Davante Adams | WR | 28 | 84 | 56 | IR x0.50; GUESS inputs |
-| Puka Nacua | WR | 52 | 98 | 46 | IR x0.78; GUESS inputs |
-| Carson Wentz | QB | 45 | 0 | 45 | SF QB1 floor 45; GUESS inputs |
-| DeVonta Smith | WR | 40 | 82 | 42 | Out x0.65 |
-| Brock Bowers | TE | 59 | 100 | 41 | Out x0.65 |
-| Jacoby Brissett | QB | 45 | 6 | 39 | SF QB1 floor 45; buy-low: volume > points |
-| Kenneth Walker III | RB | 59 | 98 | 39 | Out x0.65 |
-| Jonah Coleman | RB | 30 | 69 | 39 | committee RB 27% cap 30 |
-| Josh Jacobs | RB | 30 | 67 | 37 | Out x0.65; committee RB 19% cap 30 |
-| Daniel Jones | QB | 45 | 9 | 36 | SF QB1 floor 45; buy-low: volume > points |
-| Ryan Flournoy | WR | 56 | 90 | 34 | proj 51 / prod 90 / role 22 |
-| J.J. McCarthy | QB | 45 | 11 | 34 | SF QB1 floor 45; buy-low: volume > points |
-| Mike Evans | WR | 39 | 71 | 32 | Out x0.65 |
-| Breece Hall | RB | 30 | 60 | 30 | committee RB 35% cap 30 |
+### If they play vs if they sit
+
+| Player | If they play | If they sit | Handcuff in THIS league | Flag |
+|---|---|---|---|---|
+| Montgomery TNF | RB3/flex toss-up | Demercado skip | Marks owned, sit | Trending; not named |
+| Marks TNF | Do not start | **SIT** | Montgomery FA $0 | Concussion + short week |
+| Walker vs ARI | START-lean | Johnson still START | Johnson owned | Wed practice |
+| Geno @ LAC | START SF2 | Klubnik FA $0 | Klubnik FA | Sleeper Out LAG |
+| Bowers @ DEN | Start-lean if DTD holds | Mayer $0 | Mayer FA | Practice Wed |
+| McConkey vs NYJ | Do not start until named | Harris dart | Harris FA | Still Out |
+| Mayfield @ DET | Toss-up | Jalon skip | — | Q foot |
+| Maye ROS | Stash / IR | Dark W11–W12+ | DeVito skip | Official dx MISSING |
+
+---
+
+## 3. News that changes value
+
+- **Leftover last_ran 16→17 (fact).** W11 txs **0**. Tuesday FAAB **posted empty**. Montgomery / Harris / Mayer **still FA**.
+- **Montgomery trending TNF (Ryans, today).** Practiced Tuesday. **Add $0.** Sit-lean as a smash until named. **18 HOLD.**
+- **Byard: Maye probably season (today).** Official dx **MISSING**. **58 HOLD.** QuietSniper: IR.
+- **Geno / Bowers / Walker HOLDS.** Wednesday practice **MISSING**.
+- **Values FLAT** vs 7:20 AM board.
+
+---
+
+## 4. Waiver / FAAB board ($100 FAAB)
+
+**Tuesday leftover POSTED EMPTY. Next window overnight $0.**
+
+| Priority | Player | Pos | Team | Bid % / $ | Why |
+|---|---|---|---|---|---|
+| **Strong** | David Montgomery | RB | HOU | **$0 leftover** | FAAB window empty. Ryans trending TNF. Marks sit. Add now. |
+| **Speculative** | Tre' Harris | WR | LAC | **$0** | 5-86 McConkey Out. Not a WR2. |
+| **Speculative** | Michael Mayer | TE | LV | **$0** | Only if Bowers sits. ZeroChill TE hole. |
+| **Skip** | Cade Klubnik | QB | NYJ | $0 | Geno hopes to play. Only if ruled out. |
+| **Skip** | Tommy DeVito | QB | NE | $0 | Maye bye + indefinitely. Not a 10-team SF2. |
+| **Skip** | Joe Milton | QB | PHI | $0 | PIT @ PHI 38.5. |
+| **Skip** | Jalon Daniels | QB | TB | $0 | Only if Mayfield Out. DET is a trap. |
+| **Skip** | Mark Andrews | TE | BAL | $0 | One-game. Mayer first if you need a TE. |
+| **Skip** | Quentin Johnston | WR | LAC | $0 | 1-6 / 1.1. Harris is the dart. |
+| **Skip** | David Njoku | TE | LAC | $0 | Active, 0 targets. |
+| **Skip** | Emari Demercado | RB | HOU | $0 | Committee skip even if Montgomery sits. |
+| **Skip** | Xavier Hutchinson | WR | HOU | $0 | Q concussion. MHJ out does not make him startable. |
+| **Skip** | Seth McGowan | RB | IND | $0 | One-game TNF dog. |
+| **Skip** | Deebo Samuel Sr. | WR | SF | $0 | Not a 10-team WR2. |
+
+**Split:** Week-winning streamer = **Montgomery leftover $0 if named**. Season stash = Harris **only if McConkey sits**. SF2 = Geno-if-healthy. Cheap handcuff = Mayer.
+
+**Typical drops:** Huntley, one-game darts, bye-week 4th WR/RB you will not start, Barner (SEA bye). Do **not** drop Maye / Bowers / Walker / McConkey for Montgomery.
+
+---
+
+## 5. Start / sit and landmines
+
+Superflex Half-PPR. **W11 Tuesday evening. TNF is the next lock. Wednesday practice MISSING.**
+
+### QB
+
+- **Must-start:** Allen vs MIA, Burrow MNF @ WAS, Purdy SNF Mexico, Mahomes vs ARI, Dak vs TEN 53.5 smash-lean, Stroud TNF, Lawrence @ NYG, Daniels MNF, Caleb (off bye vs NO), Nix (off bye vs LV), Herbert vs NYJ **start not smash** (40.5).
+- **Strong start:** Ward **START @ DAL**. Cousins SNF. Goff vs TB. Young vs BAL. Geno **start-lean if healthy**. Brissett **startable SF2** @ CAR.
+- **Toss-up:** Mayfield Q. McCarthy vs JAX. Klubnik **only if Geno sits**. Mendoza @ DEN 40.5.
+- **Sit / trap:** Maye (bye + indefinitely). Love / Lock / Stafford / Penix / Watson / Darnold / Shedeur **bye**. DeVito. Milton. Jalon. Wentz. Kyler Out.
+
+### RB
+
+- **Must-start:** Gibbs vs TB, Cook vs MIA, CMC SNF, Taylor TNF **not smash**, Javonte vs TEN, Hubbard, Irving (off bye), Swift (off bye), Saquon (off bye), Hampton vs NYJ **START not smash**.
+- **Strong start:** Walker **if Wed FP** vs ARI. Johnson **if Walker limited**. Chase Brown MNF. Pollard @ DAL. Tuten @ NYG. Henry @ CAR.
+- **Toss-up:** Montgomery TNF until named. Warren @ PHI 38.5 not smash. Corum **bye**. Kyren **bye**.
+- **Sit / trap:** Marks concussion TNF. Jacobs / Kaleb / Bijan **bye**. Henderson IR. Demercado. Estime. Starting Hampton as CMC. Starting Montgomery as a smash.
+
+### WR
+
+- **Must-start:** Chase MNF, Amon-Ra vs TB, CeeDee vs TEN, Jefferson SNF, Nabers vs JAX, Nico TNF, Pickens vs TEN, Tet vs BAL, Higgins MNF, Olave @ CHI.
+- **Strong start:** Flowers @ CAR. Dell TNF. Diggs. Rice vs ARI. DJ Moore. Odunze (off bye). Parker Washington @ NYG.
+- **Toss-up:** McConkey until named. Flournoy vs TEN. Downs vs ARI. Harris only if McConkey sits.
+- **Sit / trap:** JSN / London / Golden / AJB **bye**. McConkey-blind. Nacua IR. MHJ TNF. Addison Out. Johnston.
+
+### TE
+
+- **Must-start:** McBride vs KC. Kelce vs ARI if active.
+- **Strong start:** Tyler Warren TNF. Loveland / Goedert (off bye). Likely vs JAX.
+- **Toss-up:** Bowers if Wed FP. Strange @ NYG.
+- **Sit / trap:** Hockenson Out/Q. Higbee **bye**. Fannin **bye**. Njoku. Andrews skip-lean.
+
+**Blind-start traps:** Starting Marks TNF. Starting McConkey until named. Starting Nacua IR. Starting Maye (bye). Starting JSN/Lock/Kyren/Corum/Bijan (bye). Starting Montgomery as a smash. Starting Hampton as CMC. Paying 88 for Maye. Smash-selling Maye to 12. Smash-selling Bowers DTD. Treating leftover as unposted. Treating formula 1.0.0 as this board.
+
+### Weekly Superflex QB ranks (ROS, this board)
+
+Allen 100 · Burrow 90 · Purdy 78 · Mahomes 74 · Dak 70 · Love 70 · Stroud 66 · Lawrence 66 · Daniels 62 · **Maye 58 GUESS** · Caleb 58 · Cousins 52 · Nix 50 · Herbert 48 · Shough 46 · Goff 44 · Stafford 40 · Young 38 · Kyler 36 Out · McCarthy 30 · Brissett 30 · **Ward 28** · Watson 26 · Lock 24 · Shedeur 24 · **Geno 22** · Rodgers 22 · **Mayfield 20 GUESS Q** · Jones 18 · Mendoza 16 · Milton 16 FA · Darnold 16 · Beck 16 FA · Wentz 12 · Lamar 12.
+
+Startable QB2/QB3 **W11:** Nix, Caleb, Ward, Herbert, Dak, Burrow, Geno-if-healthy, Brissett. Streamer dart: Klubnik **only if Geno sits**.
+
+---
+
+## 6. Matchups that matter
+
+- **TNF IND @ HOU −10.5 / 44.5:** Marks **sit**. Montgomery leftover **$0**, sit-lean as a smash until named. Dell / Nico / Taylor / Stroud **START**. MHJ sit. Indoor, not a weather sit.
+- **TEN @ DAL 53.5:** highest total. Ward **START**. Dak / Pickens / CeeDee / Javonte smash-lean.
+- **ARI @ KC −16.5 / 40.5:** Walker **start-lean**. Johnson still in. Script can vulture Walker late.
+- **NYJ @ LAC −3 / 40.5:** Herbert + Hampton START not smash. McConkey sit. Geno start-lean. Harris dart only if McConkey sits.
+- **MIA @ BUF −16.5:** Cook smash. Allen smash.
+- **NO @ CHI −10 / 48.5:** Caleb / Swift / Odunze / Loveland off-bye START.
+- **LV @ DEN −10 / 40.5:** Nix START. Bowers toss-up. Mendoza not a smash.
+- **CIN @ WAS −4.5 / 51.5:** Burrow / Chase / Higgins / Chase Brown START MNF.
+- **MIN vs SF SNF Mexico:** Purdy / CMC / Jefferson / Cousins START.
+- **W11 six-team bye:** do not start ATL / CLE / GB / LAR / NE / SEA.
+
+---
+
+## 7. Trade values (curated 1–100)
+
+Same scale every day. Superflex: starting QBs premium. Half-PPR: WRs hold. 10-team: benches shallow. **Formula `players[]` is a different scale** (Allen 85 / Maye 40 / Hampton 53 on the dump). **Do not mix.**
+
+### A. Tier list by position
+
+**QB** — Allen 100 · Burrow 90 · Purdy 78 · Mahomes 74 · Dak 70 · Love 70 · Stroud 66 GUESS · Lawrence 66 GUESS · Daniels 62 · **Maye 58 GUESS (Byard probably season / official dx MISSING)** · Caleb 58 · Cousins 52 GUESS · Nix 50 · Herbert 48 GUESS · Shough 46 GUESS · Goff 44 GUESS · Stafford 40 GUESS (bye) · Young 38 · Kyler 36 Out GUESS · McCarthy 30 GUESS · Brissett 30 GUESS · **Cam Ward 28 GUESS** · Watson 26 GUESS (bye) · Lock 24 (bye) · Shedeur 24 GUESS (bye) · **Geno 22 GUESS (hopes to play)** · Rodgers 22 GUESS · **Mayfield 20 GUESS Q** · Jones 18 GUESS · Milton 16 GUESS FA · Mendoza 16 GUESS · Darnold 16 GUESS (bye) · Beck 16 GUESS FA · Wentz 12 GUESS · Lamar 12 GUESS · Hurts 8 · Willis 8 GUESS IR · Minshew 2 GUESS · Huntley 2 FA.
+
+**RB** — Gibbs 95 · Bijan 92 (bye) · Walker 78 GUESS (W11 start-lean) · Cook 76 · CMC 72 · Taylor 70 · Irving 56 (off bye) · Kyren 52 (bye) · Warren 48 · Javonte 46 · Hubbard 44 GUESS · Pollard 40 · Tuten 36 · Allen-NYJ 36 · Swift 36 (off bye) · Johnson 34 GUESS · **Hampton 32 GUESS** · Saquon 32 (off bye) · Chase Brown 28 GUESS · Corum 28 GUESS (bye) · Skattebo 26 GUESS · Coleman 26 (off bye) · Henry 24 · Jones-MIN 24 · Hall 24 · Charbonnet 22 (bye) · Kamara 22 GUESS · Gordon 20 GUESS · **Montgomery 18 GUESS FA leftover $0** · Jacobs 16 GUESS (bye) · Kiner 16 GUESS (bye) · Marks 16 GUESS sit TNF · Etienne 14 GUESS · Estime 12 GUESS · Stevenson 12 GUESS (bye) · Dowdle 12 GUESS · Singletary 12 FA · Henderson 6 GUESS IR.
+
+**WR** — JSN 94 (bye) · Chase 80 · Amon-Ra 80 · CeeDee 78 · Jefferson 72 · Nabers 64 · London 60 (bye) · Olave 56 · Tet 52 · Higgins 50 · Pickens 42 GUESS · Nacua 36 GUESS IR (bye) · Golden 34 (bye) · Watson-GB 32 (bye) · DeVonta 32 GUESS · Flowers 32 · Nico 32 GUESS · Diggs 32 GUESS · Parker Washington 30 GUESS · Rice 30 GUESS · DJ Moore 28 · Burden 28 · Odunze 28 (off bye) · Wilson 26 GUESS · Flournoy 18 GUESS · Egbuka 18 (off bye) · Dell 16 · Downs 16 GUESS · **Tre' Harris 16 GUESS FA leftover $0** · Shakir 16 · AJB 14 GUESS (bye) · Waddle 14 · McConkey 12 GUESS sit-until-named · Keenan 12 GUESS FA · Worthy 12 GUESS · Wilson-ARI 8 GUESS IR.
+
+**TE** — **Bowers 62 HOLD (DTD)** · McBride 58 · Kelce 34 · Tyler Warren 28 GUESS · Loveland 22 (off bye) · Goedert 22 (off bye) · Likely 22 GUESS · Higbee 20 GUESS (bye) · Strange 16 GUESS · Fannin 16 (bye) · Kincaid 14 · Waller 14.
+
+### B. Biggest risers / fallers since last packet (Tue 7:20 AM)
+
+- **Risers:** none. Board **FLAT**.
+- **Fallers:** none. Board **FLAT**.
+- **Call flips only:** leftover posted empty. Montgomery still FA $0. Ryans trending TNF. Byard probably-season (dx MISSING). Wednesday practice still missing.
+- **HOLD:** Maye 58. Hampton 32. Montgomery 18. Harris 16. Mayfield 20. Bowers 62. Walker 78. Herbert 48. Geno 22. Ward 28. Pickens 42. Johnson 34.
+- **Do not pay 88 for Maye. Do not dump Maye to 12. Do not smash-sell Bowers. Do not pay CMC for Hampton. Do not pay CeeDee for Pickens. Do not treat leftover as unposted.**
+
+### C. Fair 1-for-1
+
+- **Maye 58 ≈ Caleb 58 ≈ Cousins 52 ≈ Irving 56**
+- Chase 80 ≈ Amon-Ra 80
+- Purdy 78 ≈ CeeDee 78 ≈ Walker 78
+- Cook 76 ≈ Mahomes 74
+- Pickens 42 ≈ Hubbard 44 — **close, not CeeDee 78**
+- Hampton **32 ≈ Nico 32 ≈ Flowers 32** — **not CMC 72**
+- Johnson 34 ≈ Hampton 32
+- Chase Brown 28 ≈ Corum 28 ≈ Ward 28
+- Montgomery 18 ≈ Flournoy 18 ≈ Harris 16 ≈ Mayfield 20
+- Geno 22 ≈ Rodgers 22
+
+### D. Fair 2-for-1 / 3-for-1
+
+- Side getting Allen / Gibbs / JSN / Burrow **gives extra**. Maye is **not** in that tier.
+- Maye **58 + a 20 ≠ Burrow 90**.
+- Hampton **32 + a 20 ≠ CMC 72**.
+- Pickens **42 + a 20 ≠ CeeDee 78**.
+- Johnson **34 + a 20 ≠ Walker 78**.
+
+### E. Ripoff flags
+
+- **Paying 88 for Maye.** He is **58 GUESS**. Official dx **MISSING**. If season-ending, 58 is still high.
+- **Smash-selling Maye to Lamar 12.** QuietSniper can IR/stash. Diagnosis **MISSING**.
+- Paying CMC / Gibbs for Hampton. He is **32 GUESS**. Formula 53 is the wrong scale.
+- Smash-selling Bowers after DTD. **62 HOLD.**
+- Paying CeeDee for Pickens. **42 GUESS.**
+- Starting Marks TNF. Starting McConkey until named. Starting Nacua IR. Starting W11 byes.
+- Starting Montgomery as a smash before he’s named.
+- Treating leftover as unposted. last_ran is **17**, window **empty**, Montgomery **still FA**.
+- Treating formula 1.0.0 as this board (Allen 85 / Maye 40 / Hampton 53).
+- Buying DeVito / Klubnik-while-Geno-hopes-to-play / Deebo-as-WR1 / Andrews-as-Bowers / Njoku-as-TE1.
+
+### F. Position scarcity this week
+
+- **QB:** six-team bye hits Lock / Stafford / Maye / Love. Nix + Caleb return. Geno hopes to play. Ward @ DAL is the smash total. Mayfield Q.
+- **RB:** Marks sit TNF. Montgomery leftover $0. Walker start-lean. Hampton START. Kyren/Corum/Bijan/Jacobs bye.
+- **WR:** McConkey sit until named. Harris leftover dart. JSN/London/Nacua/AJB bye. Pickens vs TEN. MHJ sit TNF.
+- **TE:** Bowers DTD. Higbee / Fannin bye. Loveland off bye.
+
+---
+
+## 8. Rookies and sleepers
+
+- **Omarion Hampton (RB, LAC)** — owned **32**. MNF smash. W11 vs NYJ START. Still not CMC.
+- **Emmett Johnson (RB, KC)** — owned **34**. Walker fill-in smash. W11 still in if Walker is limited.
+- **Tre' Harris (WR, LAC)** — **still FA 16**. Leftover $0 dart. Not a paid WR2.
+- **Cam Ward (QB, TEN)** — owned Klemm **28**. START @ DAL 53.5.
+- **Michael Mayer (TE, LV)** — still FA. Path **if** Bowers sits.
+- **Do not add:** DeVito, Milton, Klubnik-while-Geno-is-up, Andrews, Johnston, Njoku, Demercado, Hutchinson-Q, Deebo-as-paid-WR2, Barner (bye).
+
+---
+
+## 9. What a manager should do today
+
+1. **Add Montgomery $0 leftover.** FAAB window posted empty. Ryans trending TNF. Marks **sit**. Do **not** start Montgomery as a smash until named.
+2. **Maye 58 HOLD.** Byard probably season. Official dx **MISSING**. QuietSniper: **IR him**. Do **not** pay 88. Do **not** dump to 12.
+3. **Hampton 32 HOLD.** MrB: **START vs NYJ**. Do **not** pay CMC.
+4. **Do not smash-sell Bowers (62).** DTD. Mayer leftover $0 only if you need a TE. Practice Wed.
+5. **Geno hopes to play @ LAC.** MrB start-lean if healthy. **Skip Klubnik** unless Geno is ruled out.
+6. **Walker 78 HOLD.** START-lean vs ARI pending Wednesday. Johnson still 34.
+7. **Sit McConkey** until named. Harris leftover **$0**, not a WR2.
+8. **Sit Marks TNF.** Dell / Nico / Taylor / Stroud **START**. MHJ sit.
+9. **Do not start W11 byes:** ATL / CLE / GB / LAR / NE / SEA.
+10. **Watch Wednesday practice** (Walker / Bowers / Geno / Mayfield / McConkey). Next packet after designations.
+
+---
+
+## Fair-trade cheat sheet (bots)
+
+Equal: Maye-58≈Caleb≈Cousins-52 · Chase≈Amon-Ra · Purdy≈CeeDee≈Walker-78 · Cook≈Mahomes · Hampton-32≈Nico≈Flowers · Pickens-42≈Hubbard-44 · Johnson-34≈Hampton-32 · ChaseBrown-28≈Corum-28≈Ward-28 · Montgomery-18≈Flournoy≈Harris-16 · Geno-22≈Rodgers.
+
+Do not: pay-88-for-Maye · dump-Maye-to-12 · pay-CMC-for-Hampton · smash-sell-Bowers-DTD · pay-CeeDee-for-Pickens · start-Marks-TNF · start-McConkey-Out · start-W11-byes · leftover-as-unposted · formula-scale-as-this-board.
