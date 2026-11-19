@@ -33,7 +33,10 @@
     "Prior curated packet 2026-11-18 05:15 PM EST; values FLAT, call flips only (Waddle start-lean, McConkey Wed LP)",
     "Formula 1.0.0 generate 2026-11-19 07:03 AM EST \u2014 do not mix scales (Allen 84 / Maye 34 / Hampton 56 / Walker 88 / Bowers 87 / Burden 77)",
     "Sleeper weekly projections (remaining regular-season weeks), converted to this league's Half-PPR / 6-pt pass TD scoring",
-    "Sleeper weekly player stats for snap / carry / target share"
+    "Sleeper league matchup players_points for production (played weeks only)",
+    "Sleeper weekly player stats for snap / carry / target share",
+    "Sleeper player directory for injury status, depth chart, search_rank",
+    "Sleeper trending adds (48h) for the news/trend component"
   ],
   "commit_message": "intel: 2026-11-19 week 11",
   "sanity_gaps": [
@@ -581,7 +584,7 @@
       "value": 32,
       "tier": "RB2",
       "trend": "flat",
-      "note": "Off bye vs PIT START. 32 HOLD."
+      "note": "Wed FP. Off bye vs PIT START. 32 HOLD."
     },
     {
       "player": "Christian Watson",
@@ -693,7 +696,7 @@
       "value": 28,
       "tier": "WR3",
       "trend": "flat",
-      "note": "HOLD 28. Wed FP. START vs NO. Call upgrade, not a recut."
+      "note": "HOLD 28. Wed FP. START vs NO."
     },
     {
       "player": "Rome Odunze",
@@ -845,7 +848,7 @@
       "value": 20,
       "tier": "SF2 Q",
       "trend": "flat",
-      "note": "HOLD 20 GUESS Q. Wed DNP foot/thumb. Bowles Friday. Sit-lean. Jalon leftover $0 only if named."
+      "note": "HOLD 20 GUESS Q. Wed DNP foot/thumb. Sleeper depth Jalon/1. Sit-lean. Jalon leftover $0 only if named."
     },
     {
       "player": "Ollie Gordon II",
@@ -949,7 +952,7 @@
       "value": 16,
       "tier": "RB3 injured",
       "trend": "flat",
-      "note": "HOLD 16 GUESS. OUT concussion TNF. DNP Mon-Wed."
+      "note": "HOLD 16 GUESS. Official OUT concussion TNF. DNP\u00d73. Sit."
     },
     {
       "player": "Tank Dell",
@@ -5847,7 +5850,7 @@
     "Half-PPR: WRs hold; committee RBs discounted unless 15+ touch path.",
     "10-team: benches shallow. Do not overpay for a 4th RB.",
     "Values are relative 1-100 ROS, not dynasty dollars. Same scale every day.",
-    "Formula players[] is a different scale. Bots trade off trade_board only. Formula nfl_week=11 byes are correct today; the numbers are still wrong for bots.",
+    "Formula players[] is a different scale. Bots trade off trade_board only.",
     "Side getting Allen / Gibbs / JSN / Burrow gives extra in 2-for-1s.",
     "Maye is 58 GUESS, not 88 and not 12. Formula 34 is the wrong scale. Rapoport surprise-if-he-plays-again is not official dx. IR/stash until the team speaks.",
     "Hampton is 32 GUESS after one 105-yard game. Do not pay CMC or formula 56.",
@@ -5861,7 +5864,7 @@
     "Paying 88 for Maye. He is 58 GUESS. Rapoport surprise if he plays again; official dx MISSING. Formula 34 is the wrong scale.",
     "Smash-selling Maye to Lamar 12 / a dart. QuietSniper can IR/stash.",
     "Paying CMC / Gibbs for Hampton. He is 32 GUESS. Formula 56 is the wrong scale.",
-    "Smash-selling Bowers after DTD / Wed DNP. 62 HOLD. Formula 87 is the wrong scale.",
+    "Smash-selling Bowers after Wed DNP. 62 HOLD.",
     "Paying CeeDee / Chase prices for Pickens (42 GUESS).",
     "Starting Marks TNF (OUT). Starting MHJ TNF (OUT). Starting McConkey until Fri named. Starting Nacua on IR. Starting Addison. Starting Walker-blind. Starting Mayfield-blind. Starting ATL/CLE/GB/LAR/NE/SEA.",
     "Starting Montgomery as a smash. He PLAYS leftover $0 but is not CMC.",

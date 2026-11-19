@@ -5891,7 +5891,7 @@
       "pos": "QB",
       "team": "NE",
       "status": "Out",
-      "note": "Ankle indefinitely. Official dx MISSING. Bye W11.",
+      "note": "Ankle indefinitely GUESS. Rapoport surprise if he plays again. Vrabel not available W12. Byard probably season. Official dx MISSING. Bye W11.",
       "replacement": "DeVito FA skip; IR him"
     },
     {
@@ -5907,16 +5907,8 @@
       "pos": "QB",
       "team": "TB",
       "status": "Questionable",
-      "note": "Wed DNP foot/thumb. Sleeper Jalon QB/1. Sit-lean. Bowles Friday.",
+      "note": "Foot/right thumb. Wed DNP. Bowles Friday. Jalon starter reps. Rapoport trending Out.",
       "replacement": "Jalon leftover $0 only if named; QuietSniper has Cousins"
-    },
-    {
-      "player": "Geno Smith",
-      "pos": "QB",
-      "team": "NYJ",
-      "status": "Questionable",
-      "note": "Wed LP. Intends to play @ LAC. Start-lean.",
-      "replacement": "Klubnik leftover $0 only if he sits"
     },
     {
       "player": "Brock Bowers",
@@ -5931,8 +5923,8 @@
       "pos": "RB",
       "team": "HOU",
       "status": "Out",
-      "note": "Official OUT concussion. Sit TNF.",
-      "replacement": "Montgomery FA leftover START"
+      "note": "Concussion. DNP Mon-Wed. OUT TNF.",
+      "replacement": "Montgomery FA leftover START not smash; Demercado skip"
     },
     {
       "player": "David Montgomery",
@@ -5947,8 +5939,8 @@
       "pos": "WR",
       "team": "HOU",
       "status": "Out",
-      "note": "Official OUT hamstring. Sit TNF.",
-      "replacement": "Nico / Dell START"
+      "note": "Hamstring. DNP Mon-Wed. OUT TNF.",
+      "replacement": "Nico / Dell START smash-lean"
     },
     {
       "player": "Kenneth Walker III",
@@ -6142,14 +6134,14 @@
       "impact": "Add $0 now. START not smash. 18 HOLD."
     },
     {
-      "player": "Ladd McConkey",
-      "note": "Chargers.com Wed LP back (Wed PM MISSING STALE).",
-      "impact": "12 HOLD. Sit until named. Harris leftover dart."
+      "player": "Woody Marks",
+      "note": "Official OUT concussion TNF.",
+      "impact": "Sit. Montgomery leftover is the add."
     },
     {
-      "player": "Jaylen Waddle",
-      "note": "Official Wed FP concussion (on-field MISSING STALE).",
-      "impact": "14 HOLD. Sit-lean until Friday designation."
+      "player": "Marvin Harrison Jr.",
+      "note": "Official OUT hamstring TNF.",
+      "impact": "Sit. Nico/Dell/Stroud smash-lean."
     },
     {
       "player": "Jaylen Waddle",
@@ -6168,8 +6160,8 @@
     },
     {
       "player": "Baker Mayfield",
-      "note": "Wed DNP. Sleeper depth Jalon/1 Mayfield/2.",
-      "impact": "20 HOLD sit-lean. Jalon leftover only if named."
+      "note": "Wed DNP foot/thumb. Bowles Friday. Jalon starter reps.",
+      "impact": "Sit-lean. 20 HOLD. Jalon leftover $0 only if named."
     },
     {
       "player": "Geno Smith",
@@ -6253,12 +6245,12 @@
       "why": "Leftover $0. 5-86 W10. Dart only if McConkey sits Friday. McConkey Wed LP."
     },
     {
-      "player": "Michael Mayer",
-      "pos": "TE",
+      "player": "Jalon Daniels",
+      "pos": "QB",
       "priority": "Speculative",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Leftover $0. Bowers Wed DNP toss-up. ZeroChill TE hole."
+      "why": "Leftover $0 only if Mayfield is named Out. Wed DNP + starter reps. DET trap. QuietSniper has Cousins."
     },
     {
       "player": "Cade Klubnik",
@@ -6266,15 +6258,7 @@
       "priority": "Speculative",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Leftover $0 only if Geno sits. Geno intends to play after Wed LP."
-    },
-    {
-      "player": "Jalon Daniels",
-      "pos": "QB",
-      "priority": "Speculative",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "Sleeper QB/1. Leftover $0 only if Mayfield is named Out. DET trap. QuietSniper has Cousins."
+      "why": "Leftover $0 only if Geno is ruled out. Geno intends to play. MrB Watson+Lock bye."
     },
     {
       "player": "Tommy DeVito",
@@ -6285,7 +6269,15 @@
       "why": "Maye out + bye. Not a 10-team SF2."
     },
     {
-      "player": "Easton Stick",
+      "player": "Xavier Hutchinson",
+      "pos": "WR",
+      "priority": "Skip",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "MHJ OUT. Trending add. Not a 10-team WR2 vs Nico/Dell owned."
+    },
+    {
+      "player": "Joe Milton",
       "pos": "QB",
       "priority": "Skip",
       "bid_low": 0,
@@ -6298,47 +6290,15 @@
       "priority": "Skip",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Montgomery plays TNF."
+      "why": "Committee skip. Montgomery plays."
     },
     {
-      "player": "Xavier Hutchinson",
-      "pos": "WR",
+      "player": "Kyle Monangai",
+      "pos": "RB",
       "priority": "Skip",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "MHJ OUT. Still not a 10-team WR2 vs Nico/Dell."
-    },
-    {
-      "player": "Tyler Higbee",
-      "pos": "TE",
-      "priority": "Skip",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "Dropped. Bye W11."
-    },
-    {
-      "player": "Quentin Johnston",
-      "pos": "WR",
-      "priority": "Skip",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "Harris is the dart if McConkey sits."
-    },
-    {
-      "player": "David Njoku",
-      "pos": "TE",
-      "priority": "Skip",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "0 targets W10."
-    },
-    {
-      "player": "Joe Milton",
-      "pos": "QB",
-      "priority": "Skip",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "Already dropped."
+      "why": "Wed FP. Swift healthy. Not a 10-team RB2."
     },
     {
       "player": "Seth McGowan",
@@ -6444,10 +6404,10 @@
       "player": "Marvin Harrison Jr.",
       "pos": "WR",
       "call": "Sit / trap",
-      "note": "Official OUT hamstring. Sit TNF."
+      "note": "OUT hamstring TNF."
     },
     {
-      "player": "Tank Dell",
+      "player": "Ladd McConkey",
       "pos": "WR",
       "call": "Sit / trap",
       "note": "Sit until Fri named. Wed LP."
@@ -6474,13 +6434,31 @@
       "player": "George Pickens",
       "pos": "WR",
       "call": "Must-start",
-      "note": "TNF START. MHJ OUT."
+      "note": "vs TEN smash-lean."
     },
     {
-      "player": "C.J. Stroud",
-      "pos": "QB",
+      "player": "Puka Nacua",
+      "pos": "WR",
+      "call": "Sit / trap",
+      "note": "IR. Bye W11."
+    },
+    {
+      "player": "Brock Bowers",
+      "pos": "TE",
+      "call": "Toss-up",
+      "note": "Wed DNP. Start-lean only if Thu/Fri FP. Else Mayer leftover $0."
+    },
+    {
+      "player": "Trey McBride",
+      "pos": "TE",
       "call": "Must-start",
-      "note": "TNF vs IND."
+      "note": "vs KC."
+    },
+    {
+      "player": "Travis Kelce",
+      "pos": "TE",
+      "call": "Must-start",
+      "note": "Wed FP. START vs ARI."
     },
     {
       "player": "Jonathan Taylor",
@@ -6489,88 +6467,22 @@
       "note": "TNF not smash. HOU -12.5."
     },
     {
-      "player": "Cam Ward",
+      "player": "Daniel Jones",
       "pos": "QB",
-      "call": "Must-start",
-      "note": "@ DAL smash total."
-    },
-    {
-      "player": "Omarion Hampton",
-      "pos": "RB",
-      "call": "Must-start",
-      "note": "vs NYJ START not smash."
-    },
-    {
-      "player": "Luther Burden III",
-      "pos": "WR",
-      "call": "Must-start",
-      "note": "Wed FP. START vs NO."
-    },
-    {
-      "player": "Kenneth Walker III",
-      "pos": "RB",
       "call": "Sit / trap",
-      "note": "Wed DNP. Sit-lean. Do not start-blind."
+      "note": "TNF sit-lean vs HOU -12.5."
     },
     {
-      "player": "Emmett Johnson",
-      "pos": "RB",
+      "player": "Kirk Cousins",
+      "pos": "QB",
       "call": "Strong start",
-      "note": "START vs ARI with Walker DNP."
-    },
-    {
-      "player": "Chuba Hubbard",
-      "pos": "RB",
-      "call": "Toss-up",
-      "note": "Wed DNP. Sit-lean vs BAL pending Thu."
-    },
-    {
-      "player": "Geno Smith",
-      "pos": "QB",
-      "call": "Toss-up",
-      "note": "Wed LP. Start-lean. Intends to play."
-    },
-    {
-      "player": "Baker Mayfield",
-      "pos": "QB",
-      "call": "Sit / trap",
-      "note": "Wed DNP. Sit-lean. Jalon leftover only if named."
-    },
-    {
-      "player": "Ladd McConkey",
-      "pos": "WR",
-      "call": "Sit / trap",
-      "note": "Wed LP. Sit until named."
-    },
-    {
-      "player": "Jaylen Waddle",
-      "pos": "WR",
-      "call": "Sit / trap",
-      "note": "Wed FP concussion. Sit-lean until Friday."
-    },
-    {
-      "player": "Drake Maye",
-      "pos": "QB",
-      "call": "Sit / trap",
-      "note": "Bye + indefinitely. IR him."
-    },
-    {
-      "player": "Brock Bowers",
-      "pos": "TE",
-      "call": "Toss-up",
-      "note": "Wed DNP. Kubiak DTD."
-    },
-    {
-      "player": "Christian McCaffrey",
-      "pos": "RB",
-      "call": "Must-start",
-      "note": "Wed DNP likely rest. SNF START-lean pending Thu."
+      "note": "SNF START. Covers QuietSniper if Mayfield sits."
     }
   ],
   "streamers_qb": [
-    "Cam Ward (TEN) \u2014 owned Klemm. START @ DAL.",
-    "Geno Smith (NYJ) \u2014 Wed LP start-lean @ LAC. Intends to play.",
-    "Cade Klubnik (NYJ) \u2014 leftover $0 only if Geno sits.",
+    "Cam Ward (TEN) \u2014 owned Klemm. START @ DAL 54.5.",
+    "Geno Smith (NYJ) \u2014 start-lean @ LAC. Wed LP. Intends to play.",
+    "Cade Klubnik (NYJ) \u2014 leftover $0 only if Geno sits. MrB hole.",
     "Jacoby Brissett (BAL) \u2014 startable SF2 @ CAR. Owned.",
     "Justin Herbert (LAC) \u2014 start vs NYJ, not smash. Owned.",
     "Kirk Cousins (MIN) \u2014 START SNF. Covers QuietSniper.",
