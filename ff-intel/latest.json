@@ -1,6 +1,6 @@
 {
   "formula_version": "1.0.0",
-  "generated_at_et": "2026-11-19 05:15 PM EST",
+  "generated_at_et": "2026-11-19 05:25 PM EST",
   "nfl_week": "11",
   "league": {
     "id": "1395904889149739008",
@@ -23,6 +23,14 @@
     "news": 0.05
   },
   "sources": [
+    "Official TNF designations HOLDS (Texans.com / NFL.com / CBS): Marks OUT concussion; MHJ OUT hamstring; Montgomery no designation FP x3 PLAYS owned Klemm $0; Charvarius Ward OUT; Sauce Gardner Q DNP x3; Tank Dell FP x3. Official 7-man MISSING ~6:45 PM ET. FantasyPros copied OUTs \u2014 not inactives",
+    "Leftover Sleeper txs 8:05 AM ET: Klemm Montgomery $0 (drop Darius Cooper). AnalyticsOverlord + WaiverPredator FAILED. last_ran=19. Harris/Mayer/Klubnik/Jalon still FA $0",
+    "Thursday club reports: Walker DNP groin (NBC 4:25 PM / NFL.com DNP); Mayfield LP (Bucs.com; NFL.com DNP STALE); Hubbard FP (Panthers.com 2:58 PM; NFL.com DNP STALE); Kamara FP (Saints.com 3:15 PM; NFL.com DNP STALE); Waller LP (Panthers.com; NFL.com DNP STALE); McConkey non-contact (CBS 4:41 PM) / NFL.com LP; Bowers on-field (CBS 2:18 PM; NFL.com DNP LAG / Raiders.com Thu blank); DeVonta NFL.com LP; Waddle Broncos.com Thu FP (NFL.com FP; 5:15 Broncos.com blank STALE); Geno NFL.com LP; Burden/Kelce/Saquon FP; CMC/Irving NIR-Rest DNP; Evans/Kincaid DNP; Tuten/Hockenson LP",
+    "Sleeper: week=11 display_week=11 last_scored_leg=10 daily_waivers_last_ran=19 W11 txs=3 (1 complete / 2 failed). Mayfield QB/1. Jalon QB/2. Montgomery Healthy RB/1. Maye Out ankle. Addison Out not IR",
+    "Weather NWS/Open-Meteo 9:07 AM ET (ScoresAndStats): TNF indoor; JAX@NYG 59F/7mph/65% rain WATCH; Mexico 67F/5mph/49% drizzle WATCH (RG Levi's WRONG venue); CHI 53F/15mph/33% WATCH; PIT@PHI 61F/5mph/47% WATCH; BUF 64F/8mph/10%; KC 48F/12mph/1%; DEN 48F/5mph/0%; MNF WAS 51F/10mph/1%. No weather sits",
+    "Lines: ESPN HOU -12.5/44.5 vs bet365 43.5 CONFLICT; TEN@DAL 53.5-54.5 CONFLICT; PIT -4.5/37.5-38.5 CONFLICT; CHI -10/-11.5 CONFLICT/48.5; FanDuel SNF SF -3/46.5; JAX -6/-6.5 CONFLICT/46.5; BUF -16.5/45.5; KC -16.5/41.5",
+    "Prior curated packet 2026-11-19 07:20 AM EST; 5:15 overlay on GitHub. Values FLAT. Call/ownership flips only. Waddle Broncos.com Thu FP is a confirmation, not a recut",
+    "Formula 1.0.0 generate 2026-11-19 05:00 PM EST \u2014 do not mix scales (Allen 84 / Maye 33 / Hampton 56 / Walker 88 / Hubbard 88 / Bowers 87 / Burden 76 / Montgomery 30 / Mayfield 30)",
     "Sleeper weekly projections (remaining regular-season weeks), converted to this league's Half-PPR / 6-pt pass TD scoring",
     "Sleeper league matchup players_points for production (played weeks only)",
     "Sleeper weekly player stats for snap / carry / target share",
@@ -215,7 +223,7 @@
       "value": 78,
       "tier": "SF1",
       "trend": "flat",
-      "note": "37.66. SNF Mexico START. 35% rain / gusts 14 WATCH (Wed PM 0% STALE). RG Levi's WRONG venue. 78 HOLD."
+      "note": "37.66. SNF Mexico START. 67F / 5 mph / 49% drizzle WATCH. RG Levi's WRONG venue. 78 HOLD."
     },
     {
       "player": "Kenneth Walker III",
@@ -255,7 +263,7 @@
       "value": 72,
       "tier": "RB1",
       "trend": "flat",
-      "note": "44.3. Thu DNP NIR-Rest. SNF START. Mexico rain WATCH not a sit. 72 HOLD."
+      "note": "HOLD 72. Thu DNP NIR-Rest. SNF START. Mexico 49% drizzle WATCH, not a sit."
     },
     {
       "player": "Justin Jefferson",
@@ -871,7 +879,7 @@
       "value": 18,
       "tier": "RB2 FA",
       "trend": "flat",
-      "note": "HOLD 18 GUESS. Klemm $0 leftover (drop Cooper). TNF ~3h. FP\u00d73 no tag PLAYS. Marks OUT. START not smash. Formula 30 is the wrong scale."
+      "note": "HOLD 18 GUESS. Klemm $0 leftover (drop Cooper). TNF ~3h. FPx3 no tag PLAYS. Marks OUT. START not smash. Formula 30 is the wrong scale."
     },
     {
       "player": "Ryan Flournoy",
@@ -1015,7 +1023,7 @@
       "value": 14,
       "tier": "WR2",
       "trend": "flat",
-      "note": "HOLD 14 GUESS. Official Wed FP concussion. NFL.com FP. Broncos.com Thu column MISSING. Start-lean vs LV. Confirm Fri designation."
+      "note": "HOLD 14 GUESS. Official Wed FP concussion. Broncos.com Thu FP / NFL.com FP. Start-lean vs LV. Confirm Fri designation. 5:15 Broncos.com blank STALE."
     },
     {
       "player": "Dalton Kincaid",
@@ -1023,7 +1031,7 @@
       "value": 14,
       "tier": "TE2",
       "trend": "flat",
-      "note": "Wed DNP thumb/ankle. Sit-lean. 14 HOLD."
+      "note": "Thu DNP thumb/ankle. Sit-lean. 14 HOLD."
     },
     {
       "player": "Darren Waller",
@@ -1031,7 +1039,7 @@
       "value": 14,
       "tier": "TE streamer",
       "trend": "flat",
-      "note": "Wed DNP knee. Canales concern. Sit. FA skip-lean. 14 HOLD."
+      "note": "Thu LP knee (Panthers.com; NFL.com DNP STALE). Sit-lean. FA skip-lean. 14 HOLD."
     },
     {
       "player": "Audric Estime",
@@ -5867,11 +5875,11 @@
     "TNF LOCK ~3 HOURS. leftover PROCESSED last_ran=19. Klemm got Montgomery $0 (drop Cooper). AnalyticsOverlord + WaiverPredator FAILED. Harris/Mayer/Klubnik/Jalon still FA $0.",
     "IR Maye (QuietSniper), IR RJ Harvey (MrB), IR Kyler (WaiverPredator). Klemm still empty IR after the Montgomery add.",
     "Maye 58 HOLD. Official dx MISSING. Do not pay 88. Do not dump to 12. Do not use formula 33.",
-    "SET TNF: sit Marks OUT, MHJ OUT. START Montgomery (Klemm, not smash), Dell, Nico, Stroud, Taylor not smash at HOU -12.5. Official 7-man MISSING ~6:45 PM ET.",
-    "Walker 78 HOLD sit-lean after DNP\u00d72. Johnson START. Do not start Walker-blind.",
-    "Mayfield official Thu LP. Sleeper QB/1 again (AM Jalon/1 STALE). Sit-lean pending Friday. Jalon leftover only if named. QuietSniper start Cousins.",
-    "McConkey Thu LP / non-contact. Sit until Friday. Harris leftover dart. Waddle start-lean (Wed FP / NFL.com FP). Hubbard Thu FP START.",
-    "Bowers spotted Thursday. Toss-up until official FP. Mayer leftover $0. Do not smash-sell 62.",
+    "SET TNF: sit Marks OUT, MHJ OUT. START Montgomery (Klemm, not smash), Dell, Nico, Stroud, Taylor not smash at HOU -12.5. Official 7-man MISSING ~6:45 PM ET (FantasyPros copied OUTs \u2014 not inactives).",
+    "Walker 78 HOLD sit-lean after DNPx2. Johnson START. Do not start Walker-blind.",
+    "Mayfield official Thu LP (Bucs.com; NFL.com DNP STALE). Sleeper QB/1 again. Sit-lean pending Friday. Jalon leftover only if named. QuietSniper start Cousins.",
+    "McConkey Thu LP / non-contact. Sit until Friday. Harris leftover dart. Waddle Broncos.com Thu FP start-lean. Hubbard Thu FP START.",
+    "Bowers spotted Thursday. NFL.com DNP LAG. Toss-up until official FP. Mayer leftover $0. Do not smash-sell 62.",
     "Hampton 32 HOLD START vs NYJ. Do not pay CMC or formula 56. Burden START. Kelce START.",
     "Sit ATL/CLE/GB/LAR/NE/SEA. Friday designations for Mayfield / Walker / Geno / Bowers / McConkey / Waddle / DeVonta / Hockenson."
   ],
@@ -5953,8 +5961,8 @@
       "pos": "WR",
       "team": "DEN",
       "status": "Questionable",
-      "note": "Wed FP concussion. NFL.com FP. Start-lean. Confirm Friday designation.",
-      "replacement": "Sutton / Gordon cover"
+      "note": "Wed FP concussion. Broncos.com Thu FP / NFL.com FP. Start-lean vs LV. Confirm Friday.",
+      "replacement": "Sutton (QuietSniper rest LP) / Gordon; Waddle owned AnalyticsOverlord"
     },
     {
       "player": "Chuba Hubbard",
@@ -5987,6 +5995,14 @@
       "status": "Out",
       "note": "Hamstring. WaiverPredator should IR him.",
       "replacement": "Cousins starts; IR him"
+    },
+    {
+      "player": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "status": "Questionable",
+      "note": "Thu LP knee (Panthers.com; NFL.com DNP STALE). Sit-lean. FA skip-lean.",
+      "replacement": "FA skip; not a 10-team TE1"
     }
   ],
   "news": [
@@ -6032,8 +6048,13 @@
     },
     {
       "player": "TNF",
-      "note": "Lock ~3 hours. Official 7-man MISSING ~6:45 PM. Designations HOLD.",
+      "note": "Lock ~3 hours. Official 7-man MISSING ~6:45 PM. Designations HOLD. FantasyPros copied OUTs \u2014 not inactives.",
       "impact": "SET: Montgomery START, Marks/MHJ OUT, Dell/Nico/Stroud START."
+    },
+    {
+      "player": "Jaylen Waddle",
+      "note": "Broncos.com Thu FP (NFL.com FP). 5:15 Broncos.com blank STALE.",
+      "impact": "14 HOLD start-lean vs LV. Confirm Friday. Not a recut."
     }
   ],
   "faab": [
@@ -6251,7 +6272,7 @@
       "player": "Jaylen Waddle",
       "pos": "WR",
       "call": "Toss-up",
-      "note": "Wed FP / NFL.com FP. Start-lean. Confirm Friday designation."
+      "note": "Broncos.com Thu FP / NFL.com FP. Start-lean vs LV. Confirm Friday designation."
     },
     {
       "player": "Drake Maye",
@@ -6269,7 +6290,13 @@
       "player": "Christian McCaffrey",
       "pos": "RB",
       "call": "Must-start",
-      "note": "Thu DNP NIR-Rest. SNF START."
+      "note": "Thu DNP NIR-Rest. SNF START. Mexico 49% drizzle WATCH, not a sit."
+    },
+    {
+      "player": "Bhayshul Tuten",
+      "pos": "RB",
+      "call": "Strong start",
+      "note": "Thu LP. START-lean @ NYG. 65% rain WATCH, not a sit."
     }
   ],
   "streamers_qb": [
@@ -6283,11 +6310,11 @@
     "Tommy DeVito (NE) \u2014 skip. Bye."
   ],
   "actions_today": [
-    "TNF LOCK ~3 hours. Klemm START Montgomery not smash. Sit Marks/MHJ. START Dell, Nico, Stroud, Taylor not smash.",
+    "TNF LOCK ~3 hours. Klemm START Montgomery not smash. Sit Marks/MHJ. START Dell, Nico, Stroud, Taylor not smash. Official 7-man MISSING ~6:45 (FantasyPros copied OUTs).",
     "IR Maye (QuietSniper), IR RJ Harvey (MrB), IR Kyler (WaiverPredator). Klemm still empty IR.",
     "Leftover last_ran=19. Harris leftover $0 if McConkey sits Friday. Mayer leftover $0 Bowers toss-up. Klubnik/Jalon only if named.",
-    "Sit Walker-blind after DNP\u00d72; start Johnson. Sit Mayfield-blind after Thu LP. Sit McConkey until Friday. Start Hubbard / Burden / Kelce / Waddle-lean.",
+    "Sit Walker-blind after DNPx2; start Johnson. Sit Mayfield-blind after Thu LP (NFL.com DNP STALE). Sit McConkey until Friday. Start Hubbard / Burden / Kelce / Waddle-lean (Broncos.com Thu FP).",
     "Do not pay 88 for Maye. Do not smash-sell Bowers. Do not pay CMC or formula 56 for Hampton. Do not recut Walker to formula 88 or Montgomery to formula 30.",
-    "Official 7-man MISSING ~6:45 PM ET. Friday designations next. Trade deadline Week 12."
+    "JAX@NYG 65% rain / Mexico 49% drizzle / CHI 15 mph / PIT@PHI 47% are WATCH, not sits. Friday designations next. Trade deadline Week 12."
   ]
 }

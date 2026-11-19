@@ -1,26 +1,28 @@
 # FF Intel — Bot or Not Fantasy
 
-Generated **2026-11-19 05:15 PM EST**
+Generated **2026-11-19 05:25 PM EST**
 
-- **NFL week:** 11 — leftover **PROCESSED** (`last_ran` **19**) / **Klemm $0 Montgomery** / **TNF LOCK ~3 HOURS** / **Marks OUT · MHJ OUT** / **Walker DNP×2 sit-lean** / **Mayfield Thu LP sit-lean** / **Maye 58 HOLD**
+- **NFL week:** 11 — leftover **PROCESSED** (`last_ran` **19**) / **Klemm $0 Montgomery** / **TNF LOCK ~3 HOURS** / **Marks OUT · MHJ OUT** / **Walker DNP×2 sit-lean** / **Mayfield Thu LP sit-lean** / **Waddle Broncos.com Thu FP start-lean** / **Maye 58 HOLD**
 - **League:** 10-team Superflex Half-PPR, no K/DST, $100 FAAB, 1 IR slot (Sleeper `1395904889149739008`)
-- **Freshness:** Thursday 5:15 PM ET. Sleeper `week=11` **`display_week=11`** `leg=11` **`last_scored_leg=10`** **`daily_waivers_last_ran=19`**. W10 txs **17**. W11 txs **3** (1 complete / 2 failed). Official TNF 7-man **MISSING ~6:45 PM ET**. Formula dump **week 11 byes are correct** (ATL/CLE/GB/LAR/NE/SEA). **Do not mix scales.**
-- **Sources:** Official TNF designations HOLDS (Texans.com / NFL.com): Marks **OUT**, MHJ **OUT**, Montgomery **no designation / FP×3 PLAYS**, Ward **OUT**, Sauce **Q DNP×3**; leftover Sleeper txs: Klemm **Montgomery $0** (drop Cooper), AnalyticsOverlord + WaiverPredator **FAILED**; Thursday club reports: Walker **DNP** (NBC 4:25 PM), Mayfield **LP** (Bucs.com 4:38 PM; NFL.com DNP **STALE**), Hubbard **FP** (Panthers.com; NFL.com DNP **STALE**), Kamara **FP** (Saints.com; NFL.com DNP **STALE**), Waller **LP** (Panthers.com), McConkey **non-contact** (CBS 4:41 PM) / NFL.com **LP**, Bowers **on-field** (CBS 2:18 PM; NFL.com DNP LAG / Raiders.com Thu blank), DeVonta practicing (CBS) / NFL.com **LP**, Waddle NFL.com **FP** (Broncos.com Thu blank), Geno NFL.com **LP** (Jets.com Thu blank), Burden / Kelce / Saquon **FP**, CMC **NIR-Rest DNP**, Evans / Kincaid **DNP**, Tuten / Hockenson **LP**; formula 1.0.0 generate **05:00 PM EST**; prior packet 2026-11-19 07:20 AM EST.
+- **Freshness:** Thursday 5:25 PM ET. Sleeper `week=11` **`display_week=11`** `leg=11` **`last_scored_leg=10`** **`daily_waivers_last_ran=19`**. W10 txs **17**. W11 txs **3** (1 complete / 2 failed at 8:05 AM ET). Official TNF 7-man **MISSING ~6:45 PM ET**. Formula dump **week 11 byes are correct** (ATL/CLE/GB/LAR/NE/SEA). **Do not mix scales.**
+- **Sources:** Official TNF designations HOLDS (Texans.com / NFL.com / CBS): Marks **OUT**, MHJ **OUT**, Montgomery **no designation / FP×3 PLAYS**, Ward **OUT**, Sauce **Q DNP×3**; leftover Sleeper txs 8:05 AM ET: Klemm **Montgomery $0** (drop Cooper), AnalyticsOverlord + WaiverPredator **FAILED**; Thursday club reports: Walker **DNP** (NBC 4:25 PM / NFL.com DNP), Mayfield **LP** (Bucs.com; NFL.com DNP **STALE**), Hubbard **FP** (Panthers.com 2:58 PM; NFL.com DNP **STALE**), Kamara **FP** (Saints.com 3:15 PM; NFL.com DNP **STALE**), Waller **LP** (Panthers.com; NFL.com DNP **STALE**), McConkey **non-contact** (CBS 4:41 PM) / NFL.com **LP**, Bowers **on-field** (CBS 2:18 PM; NFL.com DNP LAG / Raiders.com Thu still blank), DeVonta NFL.com **LP**, **Waddle Broncos.com Thu FP** (NFL.com FP; 5:15 Broncos.com blank **STALE**), Geno NFL.com **LP**, Burden / Kelce / Saquon **FP**, CMC / Irving **NIR-Rest DNP**, Evans / Kincaid **DNP**, Tuten / Hockenson **LP**; weather NWS/Open-Meteo 9:07 AM ET read (ScoresAndStats); lines ESPN / bet365 / CBS / FanDuel; formula 1.0.0 generate **05:00 PM EST**; prior packet 2026-11-19 07:20 AM EST.
 - **Scale:** Curated 1–100 Superflex Half-PPR 10-team. Formula 1.0.0 in `players[]` from 2026-11-19 05:00 PM EST — **do not mix the two**. Formula Walker **88** / Hubbard **88** / Bowers **87** / Burden **76** / Hampton **56** / Maye **33** / Allen **84** / Montgomery **30** / Mayfield **30** are tag-flip noise, not this board.
 
-**NEW vs Thursday 7:20 AM:** leftover `last_ran` **18→19**. **Klemm claimed Montgomery $0** (drop Darius Cooper). AnalyticsOverlord + WaiverPredator **FAILED**. Montgomery **OWNED** — leftover #1 is now Harris / Mayer. **Thursday practice IN.** Walker **DNP×2** sit-lean confirmed. Mayfield **Thu LP** (AM DNP; Sleeper **QB/1** again, AM Jalon/1 **STALE**) still sit-lean pending Friday. Bowers **spotted Thursday** — toss-up until official FP. McConkey **Thu LP / non-contact** sit until Friday. Hubbard **Thu FP START** (AM rest-DNP already START). Kamara **Thu FP**. Waddle start-lean HOLDS. TNF designations HOLD. Official 7-man **MISSING ~6:45**. Formula dump landed (Maye **34→33**, Montgomery **now 30** formula — still the wrong scale). Values **FLAT**. Call/ownership flips only.
+**NEW vs Thursday 7:20 AM:** leftover `last_ran` **18→19**. **Klemm claimed Montgomery $0** (drop Darius Cooper). AnalyticsOverlord + WaiverPredator **FAILED**. Montgomery **OWNED**. **Thursday practice IN.** Walker **DNP×2**. Mayfield **Thu LP**. Bowers **spotted Thursday**. McConkey **Thu LP / non-contact**. Hubbard / Kamara **Thu FP**. **Waddle Broncos.com Thu FP** (AM sit-until-named **STALE**). TNF designations HOLD. Official 7-man **MISSING ~6:45**. Formula dump landed (Maye **34→33**, Montgomery **now 30** formula). Values **FLAT**. Call/ownership flips only.
+
+**NEW vs 5:15 overlay:** Broncos.com Thursday report **IN** — Waddle official **Thu FP** (5:15 Broncos.com blank **STALE**). NFL.com league page still **LAG** (Mayfield DNP vs Bucs.com LP; Hubbard/Kamara/Waller DNP vs club FP/LP; Bowers DNP vs CBS on-field). Weather numbers in: JAX@NYG **65% rain WATCH**, Mexico **49% drizzle WATCH**, CHI **15 mph / 33%**, PIT@PHI **47%**. bet365 HOU total **43.5** vs ESPN **44.5 CONFLICT**. Official 7-man still **MISSING**. Values **FLAT**.
 
 ---
 
 ## 1. League week context
 
-- **Now:** Thursday Nov 19, 5:15 PM EST. Week 10 **FINAL**. W11 leftover **processed** (`last_ran` 19) and **still FCFS $0** for unclaimed FA. Next lock = **TNF TONIGHT 8:15 ET IND @ HOU (~3 hours)**. Official 7-man **MISSING ~6:45 PM ET**. Friday designations for Mayfield / Walker / Geno / Bowers / McConkey / Waddle / DeVonta / Hockenson.
+- **Now:** Thursday Nov 19, 5:25 PM EST. Week 10 **FINAL**. W11 leftover **processed** (`last_ran` 19) and **still FCFS $0** for unclaimed FA. Next lock = **TNF TONIGHT 8:15 ET IND @ HOU (~3 hours)**. Official 7-man **MISSING ~6:45 PM ET**. Friday designations for Mayfield / Walker / Geno / Bowers / McConkey / Waddle / DeVonta / Hockenson.
 - **Byes this week (W11):** **ATL / CLE / GB / LAR / NE / SEA**. Dark: Bijan, London, Penix, Love, Jacobs, Kaleb, Stafford, Kyren, Corum, Higbee, Nacua, Maye, AJB, Kiner, Stevenson, JSN, Lock, Darnold, Golden, Watson-GB, Barner, Kraft.
 - **Back from W10 bye:** CHI / DEN / PHI / TB — Nix, Caleb, Saquon, Egbuka, Irving, Swift, Goedert, Loveland, **Burden START**. Irving **Thu NIR-Rest DNP** — still START.
 - **Week 10 CLOSED:** DET 35–NE 10 · KC 35–ATL 13 · SF 46–DAL 40 · CIN 38–PIT 18 · SEA 21–LV 13 · LAR 34–ARI 6 · **MNF LAC 23–BAL 20** (Hampton **22-105-1 / 17.0**, Herbert **16.26**, Henry **16.5**, Harris **5-86 / 11.1 FA**).
-- **W11 TNF Thu 8:15 ET TONIGHT (~3h):** IND @ HOU. ESPN **HOU −12.5 / 44.5**. Indoor NRG — **not a weather sit**. **Marks OUT.** **MHJ OUT.** Montgomery **PLAYS** owned **Klemm $0 START not smash**. Dell **FP×3 START**. Nico / Stroud **START smash-lean** (Ward **OUT**, Sauce **Q DNP×3**). Taylor **START not smash** at −12.5. Daniel Jones **sit-lean**. Official 7-man **MISSING ~6:45** — FantasyPros copied OUT designations; that is **not** the 53-man inactive list.
-- **W11 window:** Sun 1:00 · 4:05 NYJ@LAC (ESPN **LAC −3.5 / 41.5**; betting **40.5 CONFLICT**) · 4:25 LV@DEN + JAX@NYG · SNF **MIN vs SF 8:20 ET Mexico City** (ESPN **SF −3 / 45.5**) · MNF **CIN @ WAS Mon 8:15 ET**. TEN@DAL **54.5** highest total. **PIT @ PHI: Steelers −4.5 / 38.5**. TB@DET **DET −6.5/−7 CONFLICT**.
-- **Weather that actually changes a start/sit:** **none this evening.** TNF indoor. Mexico rain WATCH not a Purdy/CMC/Jefferson sit. CHI rain/gusts WATCH not a Caleb/Burden sit. JAX@NYG gusts WATCH not a sit. SoFi / Ford Field / AT&T indoor or roof.
+- **W11 TNF Thu 8:15 ET TONIGHT (~3h):** IND @ HOU. ESPN **HOU −12.5 / 44.5**. bet365 **43.5 CONFLICT**. Indoor NRG — **not a weather sit**. **Marks OUT.** **MHJ OUT.** Montgomery **PLAYS** owned **Klemm $0 START not smash**. Dell **FP×3 START**. Nico / Stroud **START smash-lean** (Ward **OUT**, Sauce **Q DNP×3**). Taylor **START not smash** at −12.5. Daniel Jones **sit-lean**. Official 7-man **MISSING ~6:45** — FantasyPros copied OUT designations; that is **not** the 53-man inactive list.
+- **W11 window:** Sun 1:00 · 4:05 NYJ@LAC (ESPN **LAC −3.5 / 41.5**; books **40.5 CONFLICT**) · 4:25 LV@DEN + JAX@NYG (CBS **JAX −6.5 / 46.5**; ESPN **−6 CONFLICT**) · SNF **MIN vs SF 8:20 ET Mexico City** (FanDuel **SF −3 / 46.5**; 5:15 ESPN 45.5 **STALE**) · MNF **CIN @ WAS Mon 8:15 ET**. TEN@DAL **53.5–54.5 CONFLICT** highest total. **PIT @ PHI: Steelers −4.5 / 37.5–38.5 CONFLICT**. NO@CHI **CHI −10/−11.5 CONFLICT / 48.5**. TB@DET **DET −6.5/−7 CONFLICT**.
+- **Weather that actually changes a start/sit:** **none this evening.** TNF indoor. **JAX@NYG 59°F / 7 mph / 65% rain WATCH**, not a Lawrence/Nabers/Tuten sit. **Mexico 67°F / 5 mph / 49% drizzle WATCH**, not a Purdy/CMC/Jefferson sit (RG Levi’s **WRONG venue**). **CHI 53°F / 15 mph / 33% rain WATCH**, not a Caleb/Burden sit. **PIT@PHI 61°F / 5 mph / 47% rain WATCH**, not a Saquon sit. BUF **64°F / 8 mph / 10%** — not a Cook/Allen sit. KC **48°F / 12 mph / 1%** — not a Kelce/Rice sit. DEN **48°F / 5 mph / 0%**. MNF WAS **51°F / 10 mph / 1%**. SoFi / Ford Field / AT&T indoor or roof.
 - **Deadlines:** leftover **NOW** (FCFS $0 for Harris / Mayer / Klubnik / Jalon). TNF lock **tonight 8:15 ET**. Mayfield **Friday** designation. Sunday injury reports **Fri ~4:00 PM ET**. League trade deadline **Week 12**.
 
 **FAAB left (unchanged; Montgomery $0):** Klemm $105 · AustinDoingWork **$58** · MrB $43 · ZeroChillQB $24 · QuietSniper $23 · RivalryEngine $22 · AnalyticsOverlord $20 · WaiverPredator **$2** · ChaosGoblinFF $0 · TradeHurricane $0.
@@ -47,10 +49,10 @@ Facts first. **Leftover processed. TNF is ~3 hours. Thursday practice is IN. Fri
 - **Travis Kelce (TE, KC)** — **Thu FP.** **START vs ARI.** **34 HOLD.**
 - **Ladd McConkey (WR, LAC)** — Sleeper **Q back**. Official **Wed LP**. Thursday **non-contact jersey** (CBS 4:41 PM) / NFL.com **LP**. Chargers.com Thursday column **blank**. **Sit until Friday designation.** **12 HOLD.** Harris leftover **$0** dart.
 - **Tre' Harris (WR, LAC)** — **FA leftover $0.** 5-86 / **11.1**. Not a 10-team WR2. **$0** if McConkey sits Friday. **16 HOLD.**
-- **Jaylen Waddle (WR, DEN)** — Sleeper **Q concussion**. Official **Wed FP**. NFL.com **FP**. Broncos.com Thursday column **blank**. **Start-lean vs LV.** Confirm Friday designation. **14 HOLD.**
+- **Jaylen Waddle (WR, DEN)** — Sleeper **Q concussion**. Official **Wed FP**. **Broncos.com Thu FP** (NFL.com FP). 5:15 Broncos.com blank **STALE**. **Start-lean vs LV.** Confirm Friday designation. **14 HOLD.** Owned AnalyticsOverlord.
 - **Chuba Hubbard (RB, CAR)** — Official **Thu FP** after Wednesday NIR-Rest (Panthers.com 2:58 PM; NFL.com DNP **STALE**). **START vs BAL.** Owned AnalyticsOverlord. **44 HOLD.**
 - **Alvin Kamara (RB, NO)** — Official **Thu FP** after Wednesday NIR-Rest (Saints.com 3:15 PM; NFL.com DNP **STALE**). Not a 10-team must-start. **22 HOLD.**
-- **Christian McCaffrey (RB, SF)** — **Thu DNP NIR-Rest.** **SNF START.** Mexico rain WATCH not a sit. **72 HOLD.**
+- **Christian McCaffrey (RB, SF)** — **Thu DNP NIR-Rest.** **SNF START.** Mexico **49% drizzle WATCH**, not a sit. **72 HOLD.**
 - **Saquon Barkley (RB, PHI)** — **Thu FP.** Off bye vs PIT **START**. **32 HOLD.**
 - **DeVonta Smith (WR, PHI)** — Q hamstring. Official **Wed LP**. Practicing Thursday (CBS). NFL.com **LP**. **Sit-lean until Friday FP.** **32 HOLD.**
 - **Jordan Addison (WR, MIN)** — **Out thumb.** O’Connell will not IR. Still **Out W11**. **Sit.**
@@ -59,7 +61,7 @@ Facts first. **Leftover processed. TNF is ~3 hours. Thursday practice is IN. Fri
 - **T.J. Hockenson (TE, MIN)** — **Thu LP.** **Sit-lean until named.**
 - **Dalton Kincaid (TE, BUF)** — **Thu DNP.** **Sit-lean.**
 - **Darren Waller (TE, CAR)** — Official **Thu LP** (Panthers.com; NFL.com DNP **STALE**). Still **sit-lean**. FA skip-lean.
-- **Bhayshul Tuten (RB, JAX)** — **Thu LP.** Still **START-lean @ NYG** unless downgraded Friday.
+- **Bhayshul Tuten (RB, JAX)** — **Thu LP.** Still **START-lean @ NYG** unless downgraded Friday. MetLife **65% rain WATCH**, not a sit.
 - **W11 leftover PROCESSED.** last_ran **19**. Montgomery **owned**. Harris / Mayer / Klubnik / Jalon **still FA $0**.
 
 ### If they play vs if they sit
@@ -93,7 +95,7 @@ Facts first. **Leftover processed. TNF is ~3 hours. Thursday practice is IN. Fri
 - **McConkey Thursday non-contact / NFL.com LP (fact).** Sit until Friday. **12 HOLD.**
 - **Hubbard official Thu FP (Panthers.com, fact).** NFL.com DNP **STALE**. **START.** **44 HOLD.**
 - **Kamara official Thu FP (Saints.com, fact).** NFL.com DNP **STALE**. Not a 10-team must-start. **22 HOLD.**
-- **Waddle NFL.com FP / Broncos.com Thu blank.** Start-lean HOLDS. **14 HOLD.**
+- **Waddle Broncos.com Thu FP (fact).** NFL.com FP. 5:15 Broncos.com blank **STALE**. Start-lean HOLDS. **14 HOLD.**
 - **Maye: Rapoport surprise if he plays again HOLDS.** Official dx **MISSING**. Formula **33** is noise. **58 HOLD.** IR him.
 - **display_week=11 (fact).** Formula W11 byes are correct. Still **do not mix scales**. Formula dump 05:00 PM EST landed (Montgomery **now 30** formula).
 
@@ -150,7 +152,7 @@ Superflex Half-PPR. **W11 Thursday evening. Leftover processed. TNF LOCK ~3 HOUR
 ### WR
 
 - **Must-start:** Chase MNF, Amon-Ra vs TB, CeeDee vs TEN, Jefferson SNF, Nabers vs JAX, Nico TNF smash-lean, Pickens vs TEN, Tet vs BAL, Higgins MNF, Olave @ CHI, **Burden START vs NO**.
-- **Strong start:** Flowers @ CAR. Dell TNF (FP×3). Diggs. Rice vs ARI. DJ Moore (BUF). Odunze (off bye). Parker Washington @ NYG. **Waddle start-lean** (Wed FP / NFL.com FP).
+- **Strong start:** Flowers @ CAR. Dell TNF (FP×3). Diggs. Rice vs ARI. DJ Moore (BUF). Odunze (off bye). Parker Washington @ NYG. **Waddle start-lean** (Broncos.com **Thu FP** / NFL.com FP).
 - **Toss-up:** McConkey until Friday (**Thu LP / non-contact**). Flournoy vs TEN. Downs vs ARI. Harris only if McConkey sits. DeVonta until Friday FP.
 - **Sit / trap:** JSN / London / Golden / AJB **bye**. McConkey-blind. Nacua IR. MHJ **OUT** TNF. Addison Out. Evans DNP sit-lean. Johnston. Hutchinson as a paid WR2.
 
@@ -173,18 +175,18 @@ Startable QB2/QB3 **W11:** Nix, Caleb, Ward, Herbert, Dak, Burrow, Geno-if-healt
 
 ## 6. Matchups that matter
 
-- **TNF IND @ HOU −12.5 / 44.5 TONIGHT ~3h:** **SET.** Marks **OUT**. MHJ **OUT**. Montgomery **Klemm START not smash**. Dell / Nico / Stroud **smash-lean** (Ward **OUT**, Sauce **Q**). Taylor **START not smash**. Jones sit-lean. Indoor. Official 7-man **MISSING ~6:45**.
-- **TEN @ DAL 54.5:** highest total. Ward **START**. Dak / Pickens / CeeDee / Javonte smash-lean.
+- **TNF IND @ HOU −12.5 / 44.5 (bet365 43.5 CONFLICT) TONIGHT ~3h:** **SET.** Marks **OUT**. MHJ **OUT**. Montgomery **Klemm START not smash**. Dell / Nico / Stroud **smash-lean** (Ward **OUT**, Sauce **Q**). Taylor **START not smash**. Jones sit-lean. Indoor. Official 7-man **MISSING ~6:45**.
+- **TEN @ DAL 53.5–54.5 CONFLICT:** highest total. Ward **START**. Dak / Pickens / CeeDee / Javonte smash-lean.
 - **ARI @ KC −16.5 / 41.5:** Walker **sit-lean** (DNP×2). Johnson **START**. McBride / Rice / Kelce **START**.
 - **NYJ @ LAC −3.5 / 41.5 (40.5 CONFLICT):** Herbert + Hampton START not smash. McConkey **Thu LP sit until Friday**. Geno start-lean. Harris dart only if McConkey sits. Indoor.
-- **MIA @ BUF −16.5 / 45.5:** Cook smash. Allen smash. Waddle **start-lean** vs LV is the other game — this is MIA@BUF. Not a weather sit.
-- **NO @ CHI:** Caleb / Swift / Odunze / Loveland / **Burden START**. Kamara **Thu FP** not a must-start. Olave still startable.
+- **MIA @ BUF −16.5 / 45.5:** Cook smash. Allen smash. **64°F / 8 mph / 10%** — not a sit. Waddle **start-lean** vs LV is the other game.
+- **NO @ CHI −10/−11.5 CONFLICT / 48.5:** Caleb / Swift / Odunze / Loveland / **Burden START**. Kamara **Thu FP** not a must-start. Olave still startable. **53°F / 15 mph / 33% WATCH**, not a sit.
 - **CAR vs BAL:** Hubbard **Thu FP START**. Flowers START. Brissett startable SF2. Young START.
-- **LV @ DEN −10 / 40.5:** Nix START. Bowers toss-up (spotted Thursday). Waddle **start-lean**.
-- **CIN @ WAS MNF:** Burrow / Chase / Higgins / Chase Brown START.
-- **MIN vs SF SNF Mexico:** Purdy / CMC **START** (Thu DNP rest) / Jefferson / Cousins START. Hockenson sit-lean. Addison Out. Evans sit-lean.
-- **PIT @ PHI Steelers −4.5 / 38.5:** Saquon **Thu FP START**. DeVonta sit-lean. Milton skip as SF2.
-- **JAX @ NYG:** Lawrence / Nabers START. Tuten START-lean (Thu LP).
+- **LV @ DEN −10 / 40.5:** Nix START. Bowers toss-up (spotted Thursday). Waddle **start-lean (Broncos.com Thu FP)**. Dry **48°F / 5 mph**.
+- **CIN @ WAS MNF:** Burrow / Chase / Higgins / Chase Brown START. **51°F / 10 mph / 1%** — not a sit.
+- **MIN vs SF SNF Mexico −3 / 46.5:** Purdy / CMC **START** (Thu DNP rest) / Jefferson / Cousins START. Hockenson sit-lean. Addison Out. Evans sit-lean. **67°F / 5 mph / 49% drizzle WATCH**, not a sit.
+- **PIT @ PHI Steelers −4.5 / 37.5–38.5 CONFLICT:** Saquon **Thu FP START**. DeVonta sit-lean. Milton skip as SF2. **61°F / 5 mph / 47% rain WATCH**, not a sit.
+- **JAX @ NYG −6/−6.5 CONFLICT / 46.5:** Lawrence / Nabers START. Tuten START-lean (Thu LP). **59°F / 7 mph / 65% rain WATCH**, not a sit.
 - **TB @ DET:** Gibbs smash. Mayfield sit-lean. Irving rest DNP still START.
 - **W11 six-team bye:** do not start ATL / CLE / GB / LAR / NE / SEA.
 
@@ -200,13 +202,13 @@ Same scale every day. Superflex: starting QBs premium. Half-PPR: WRs hold. 10-te
 
 **RB** — Gibbs 95 · Bijan 92 (bye) · Walker 78 GUESS (W11 sit-lean; DNP×2) · Cook 76 · CMC 72 (Thu DNP rest; SNF START) · Taylor 70 · Irving 56 (off bye; Thu rest DNP still START) · Kyren 52 (bye) · Warren 48 · Javonte 46 · Hubbard 44 GUESS (**Thu FP START**) · Pollard 40 · Tuten 36 · Allen-NYJ 36 · Swift 36 (off bye) · Johnson 34 GUESS (START) · **Hampton 32 GUESS** · Saquon 32 (**Thu FP START**) · Chase Brown 28 GUESS · Corum 28 GUESS (bye) · Skattebo 26 GUESS · Coleman 26 (off bye) · Henry 24 · Jones-MIN 24 · Hall 24 · Charbonnet 22 (bye) · Kamara 22 GUESS (**Thu FP**) · Gordon 20 GUESS · **Montgomery 18 GUESS owned Klemm (TNF START not smash)** · Jacobs 16 GUESS (bye, W12 target) · Kiner 16 GUESS (bye) · Marks 16 GUESS **OUT** TNF · Etienne 14 GUESS · Estime 12 GUESS · Stevenson 12 GUESS (bye) · Dowdle 12 GUESS · Singletary 12 FA · Henderson 6 GUESS IR.
 
-**WR** — JSN 94 (bye) · Chase 80 · Amon-Ra 80 · CeeDee 78 · Jefferson 72 · Nabers 64 · London 60 (bye) · Olave 56 · Tet 52 · Higgins 50 · Pickens 42 GUESS · Nacua 36 GUESS IR (bye) · Golden 34 (bye) · Watson-GB 32 (bye) · DeVonta 32 GUESS Q sit-lean · Flowers 32 · Nico 32 GUESS · Diggs 32 GUESS · Parker Washington 30 GUESS · Rice 30 GUESS · DJ Moore 28 · **Burden 28 START (Thu FP)** · Odunze 28 (off bye) · Wilson 26 GUESS · Flournoy 18 GUESS · Egbuka 18 (off bye) · Dell 16 · Downs 16 GUESS · **Tre' Harris 16 GUESS FA leftover** · Shakir 16 · AJB 14 GUESS (bye) · Waddle 14 GUESS Q **start-lean** · McConkey 12 GUESS sit-until-Friday (**Thu LP / non-contact**) · Keenan 12 GUESS FA · Worthy 12 GUESS · Wilson-ARI 8 GUESS IR.
+**WR** — JSN 94 (bye) · Chase 80 · Amon-Ra 80 · CeeDee 78 · Jefferson 72 · Nabers 64 · London 60 (bye) · Olave 56 · Tet 52 · Higgins 50 · Pickens 42 GUESS · Nacua 36 GUESS IR (bye) · Golden 34 (bye) · Watson-GB 32 (bye) · DeVonta 32 GUESS Q sit-lean · Flowers 32 · Nico 32 GUESS · Diggs 32 GUESS · Parker Washington 30 GUESS · Rice 30 GUESS · DJ Moore 28 · **Burden 28 START (Thu FP)** · Odunze 28 (off bye) · Wilson 26 GUESS · Flournoy 18 GUESS · Egbuka 18 (off bye) · Dell 16 · Downs 16 GUESS · **Tre' Harris 16 GUESS FA leftover** · Shakir 16 · AJB 14 GUESS (bye) · Waddle 14 GUESS Q **start-lean (Broncos.com Thu FP)** · McConkey 12 GUESS sit-until-Friday (**Thu LP / non-contact**) · Keenan 12 GUESS FA · Worthy 12 GUESS · Wilson-ARI 8 GUESS IR.
 
 **TE** — **Bowers 62 HOLD (spotted Thu; official level MISSING)** · McBride 58 · Kelce 34 (**Thu FP START**) · Tyler Warren 28 GUESS · Loveland 22 (off bye) · Goedert 22 (off bye) · Likely 22 GUESS · Higbee 20 GUESS (bye) · Strange 16 GUESS · Fannin 16 (bye) · Kincaid 14 · Waller 14.
 
 ### B. Biggest risers / fallers since last packet (Thu 7:20 AM)
 
-- **Risers:** none on this scale. Mayfield **Thu LP** is a **call upgrade**, not a recut. Bowers **spotted Thursday** is a **call upgrade**, not a recut. Hubbard **Thu FP** confirms the rest-DNP START.
+- **Risers:** none on this scale. Mayfield **Thu LP** is a **call upgrade**, not a recut. Bowers **spotted Thursday** is a **call upgrade**, not a recut. Hubbard **Thu FP** confirms the rest-DNP START. Waddle **Broncos.com Thu FP** confirms the start-lean.
 - **Fallers:** none on this scale. Walker **78 HOLD** sit-lean confirmed DNP×2. Maye **58 HOLD**. Montgomery **18 HOLD** (ownership flip, not a recut).
 - **HOLD:** Maye 58. Hampton 32. Montgomery 18. Harris 16. Mayfield 20. Bowers 62. Pickens 42. Johnson 34. Corum 28. Chase Brown 28. Flournoy 18. Walker 78. Hubbard 44. Herbert 48. Henry 24. Flowers 32. Brissett 30. Geno 22. Ward 28. Burden 28. Waddle 14. McConkey 12. CMC / JSN / Burrow / Chase / Kelce 34.
 - **Do not pay 88 for Maye. Do not dump Maye to 12. Do not smash-sell Bowers. Do not pay CMC for Hampton. Do not pay CeeDee for Pickens. Do not pay formula-Hampton 56 / formula-Walker 88 / formula-Hubbard 88 / formula-Bowers 87 / formula-Burden 76 / formula-Maye 33 / formula-Allen 84 / formula-Montgomery 30 / formula-Mayfield 30.**
@@ -278,8 +280,8 @@ Same scale every day. Superflex: starting QBs premium. Half-PPR: WRs hold. 10-te
 6. **Hampton 32 HOLD.** MrB: **START vs NYJ**. Do **not** pay CMC or formula 56.
 7. **Do not smash-sell Bowers (62).** Spotted Thursday. Mayer leftover **$0** only if you are ZeroChill-thin. Watch Friday FP.
 8. **Geno start-lean @ LAC** (Thu LP, intends to play). MrB: Klubnik leftover **$0 only if Geno is ruled out.**
-9. **Sit Marks OUT / MHJ OUT / McConkey-until-Friday / Addison / Nacua / Walker-blind / W11 byes.** **START** Nico / Dell / Stroud TNF, **Montgomery Klemm not smash**, **Hubbard vs BAL**, **Burden vs NO**, Ward @ DAL, Kelce, Saquon, **Waddle-lean**.
-10. **Leftover is still Harris / Mayer $0.** last_ran **19**. TNF lock **tonight 8:15 ET**. Official 7-man **MISSING ~6:45 PM ET**. Friday designations then **Fri ~4 PM ET** Sunday reports. Trade deadline **Week 12**.
+9. **Sit Marks OUT / MHJ OUT / McConkey-until-Friday / Addison / Nacua / Walker-blind / W11 byes.** **START** Nico / Dell / Stroud TNF, **Montgomery Klemm not smash**, **Hubbard vs BAL**, **Burden vs NO**, Ward @ DAL, Kelce, Saquon, **Waddle-lean (Broncos.com Thu FP)**.
+10. **Leftover is still Harris / Mayer $0.** last_ran **19**. TNF lock **tonight 8:15 ET**. Official 7-man **MISSING ~6:45 PM ET** (FantasyPros copied OUTs — not inactives). Friday designations then **Fri ~4 PM ET** Sunday reports. Trade deadline **Week 12**.
 
 ---
 
