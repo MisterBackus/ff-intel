@@ -23,6 +23,13 @@
     "news": 0.05
   },
   "sources": [
+    "TNF CLOSED HOU 26-IND 3 (NFL.com gamebook / AP / PFR / Sleeper W11 points): Montgomery 26-107-0 + 3-17 / 13.9 (Klemm); Stroud 21/27 194/3/1 + 6-27 / 27.46 (ChaosGoblinFF); Nico 3-58-1 / 13.3 (WaiverPredator); Dell 3-27 / 4.2 (AnalyticsOverlord bench); Taylor 11-21 + 4-6 / 4.7 (RivalryEngine); Jones 12/27 144/0/1 / 5.06; Warren 1-22 / 2.7 (MrB bench). Inactives: Sauce, Charvarius Ward, Marks, MHJ. Richardson mop-up.",
+    "Leftover still last_ran=19. W11 txs=3 (Klemm Montgomery $0 complete; AnalyticsOverlord + WaiverPredator failed). Harris/Mayer/Klubnik/Jalon still FA $0. Montgomery OWNED Klemm.",
+    "Thursday practice LOCKED (NFL.com / club reports). Friday designations MISSING ~4:00 PM ET. Walker DNP x2 groin (Chiefs.com / Reid DTD). Mayfield Thu LP foot/thumb (Bucs.com). Bowers official Thu LP ankle/quad (Raiders.com; 5:25 DNP LAG STALE). McConkey Thu LP / non-contact back. Waddle Thu FP x2 concussion. Tuten official Thu DNP ankle/foot (5:25 LP STALE). DeVonta Thu FP hamstring. Hubbard/Kamara Thu FP. Geno Thu LP ankle. CMC Wed DNP rest / Thu FP. Evans Thu LP Achilles. Hockenson Thu LP wrist. Kincaid Thu DNP. Waller Thu LP. Addison Out thumb (not IR). Irving Thu rest DNP still START.",
+    "Sleeper: week=11 display_week=11 last_scored_leg=10 daily_waivers_last_ran=19 W11 txs=3. Mayfield QB/1. Jalon QB/2 FA. Montgomery Healthy RB/1 Klemm. Maye Out ankle. Walker Q groin. Bowers Q ankle. McConkey Q back. Waddle Q concussion. Tuten Q ankle. Geno Q ankle. Empty IR: QuietSniper/MrB/Klemm/WaiverPredator.",
+    "Weather: JAX@NYG ~60F / 7 mph / 70% rain WATCH (vigged); Mexico ~15% rain / 70-54F altitude WATCH not a sit (FanDuel/Bookmakers); CHI 53F winds ~20 WATCH; PIT@PHI rain ~64F WATCH; BUF 64F winds ~20 not a sit. TNF indoor closed. No weather sits.",
+    "ESPN Week 11 lines 07:06 AM ET: BUF -16.5/44.5; CHI -11.5/48.5; DAL -8.5/54.5; DET -6/45.5; KC -16.5/40.5; PIT -3.5/38.5; CAR -3/43.5; LAC -3/41.5; DEN -10.5/40.5; JAX -6/46.5; SF -3.5/46.5 Mexico; CIN -6/53.5 MNF. Some books 40.5/38.5/totals CONFLICT vs Thursday.",
+    "Prior curated packet 2026-11-19 05:25 PM EST (be68a88). Montgomery 18->24 GUESS. Rest FLAT. Formula 1.0.0 generate 2026-11-20 07:04 AM EST \u2014 do not mix scales (Allen 84 / Maye 33 / Hampton 56 / Walker 88 / Stroud 74 / Nico 75 / Montgomery 30 PPG 8.4 TNF not in formula).",
     "Sleeper weekly projections (remaining regular-season weeks), converted to this league's Half-PPR / 6-pt pass TD scoring",
     "Sleeper league matchup players_points for production (played weeks only)",
     "Sleeper weekly player stats for snap / carry / target share",
@@ -231,7 +238,7 @@
       "value": 78,
       "tier": "RB1 elite",
       "trend": "flat",
-      "note": "HOLD 78. Q groin. DNP Wed+Thu. Reid DTD. Sit-lean pending Fri practice/designation. Johnson START. Not a recut."
+      "note": "HOLD 78. Q groin. DNP Wed+Thu (Chiefs.com). Reid DTD / don't do something stupid. Sit-lean pending Fri. Johnson START. Not a recut. Formula 88 is the wrong scale."
     },
     {
       "player": "James Cook III",
@@ -255,7 +262,7 @@
       "value": 72,
       "tier": "RB1",
       "trend": "flat",
-      "note": "HOLD 72. Thu DNP NIR-Rest. SNF START. Mexico 49% drizzle WATCH, not a sit."
+      "note": "HOLD 72. Wed DNP NIR-Rest / Thu FP (49ers.com). SNF START Mexico. 15% rain / altitude WATCH, not a sit."
     },
     {
       "player": "Justin Jefferson",
@@ -279,7 +286,7 @@
       "value": 70,
       "tier": "RB1",
       "trend": "flat",
-      "note": "HOLD 70. TNF dud 11-21-0 + 4-6 / 4.7. One dud. HOU 26-IND 3. Not a recut."
+      "note": "TNF 11-21 + 4-6 / 4.7 dud. HOLD 70. Do not smash-sell one short-week dud vs HOU."
     },
     {
       "player": "Jordan Love",
@@ -295,7 +302,7 @@
       "value": 66,
       "tier": "QB1 / strong SF2",
       "trend": "flat",
-      "note": "HOLD 66. TNF smash 21/27 194/3/1 + 6-27 / 27.46 (6-pt TD). ChaosGoblin. One smash. Formula 74 is the wrong scale."
+      "note": "TNF 21/27 194/3/1 + 6-27 / 27.46. HOLD 66. Do not recut on one smash. Formula 74 is the wrong scale."
     },
     {
       "player": "Trevor Lawrence",
@@ -319,7 +326,7 @@
       "value": 62,
       "tier": "TE1 elite",
       "trend": "flat",
-      "note": "HOLD 62. Official Thu LP (NFL.com; CBS). Start-lean @ DEN pending Fri designation. Mayer leftover $0 if he sits."
+      "note": "HOLD 62. Official Thu LP ankle/quad (Raiders.com). 5:25 NFL.com DNP LAG STALE. Start-lean pending Fri designation. Mayer leftover $0 if he sits. Do not smash-sell. Formula 87 is the wrong scale."
     },
     {
       "player": "Jayden Daniels",
@@ -351,7 +358,7 @@
       "value": 58,
       "tier": "SF1 injured",
       "trend": "flat",
-      "note": "HOLD 58 GUESS. Rapoport surprise if he plays again. Byard probably season. Official dx MISSING. IR him. Bye W11. Do not pay 88. Do not use formula 33."
+      "note": "HOLD 58 GUESS. Out indefinitely / Rapoport surprise if he plays again / Byard probably season. Official dx MISSING. Bye W11. IR him (QuietSniper). Do not pay 88. Do not dump to 12. Formula 33 is the wrong scale."
     },
     {
       "player": "Trey McBride",
@@ -367,7 +374,7 @@
       "value": 56,
       "tier": "RB1",
       "trend": "flat",
-      "note": "Off bye @ DET START. 56 HOLD."
+      "note": "HOLD 56. Off bye. Thu NIR-Rest DNP still START @ DET."
     },
     {
       "player": "Chris Olave",
@@ -455,7 +462,7 @@
       "value": 44,
       "tier": "RB2",
       "trend": "flat",
-      "note": "vs BAL START. Official Thu FP after NIR rest. 44 GUESS HOLD."
+      "note": "HOLD 44 GUESS. Thu FP after rest. START vs BAL."
     },
     {
       "player": "Jared Goff",
@@ -503,7 +510,7 @@
       "value": 36,
       "tier": "RB2",
       "trend": "flat",
-      "note": "HOLD 36. Thu DNP ankle/foot (NFL.com). Sit-lean @ NYG pending Fri. Not a recut."
+      "note": "HOLD 36. Official Thu DNP ankle/foot (NFL.com / Rotoballer downgrade). 5:25 LP STALE. Sit-lean @ NYG until Friday upgrade. 70% rain WATCH, not the sit reason."
     },
     {
       "player": "Braelon Allen",
@@ -543,7 +550,7 @@
       "value": 34,
       "tier": "RB2 fill",
       "trend": "flat",
-      "note": "HOLD 34 GUESS. START vs ARI with Walker DNP\u00d72. Not a recut."
+      "note": "START vs ARI with Walker DNP x2. 34 HOLD. Walker fill-in smash last week."
     },
     {
       "player": "Matthew Golden",
@@ -559,7 +566,7 @@
       "value": 34,
       "tier": "TE1",
       "trend": "flat",
-      "note": "Thu FP calf/ankle. vs ARI START. 34 HOLD."
+      "note": "HOLD 34. Thu FP. START vs ARI."
     },
     {
       "player": "Christian Watson",
@@ -575,7 +582,7 @@
       "value": 32,
       "tier": "WR2",
       "trend": "flat",
-      "note": "Q hamstring. Official Thu FP (NFL.com). Start-lean pending Fri designation. Missed 3. 32 GUESS HOLD."
+      "note": "HOLD 32 GUESS. Official Thu FP hamstring after Wed LP. Start-lean vs PIT. Confirm Friday designation."
     },
     {
       "player": "Nico Collins",
@@ -583,7 +590,7 @@
       "value": 32,
       "tier": "WR2",
       "trend": "flat",
-      "note": "HOLD 32. TNF 3-58-1 / 13.3. MHJ OUT. One smash. WaiverPredator. Formula 75 is the wrong scale."
+      "note": "TNF 3-58-1 / 13.3. HOLD 32. MHJ OUT. Do not recut. Formula 75 is the wrong scale."
     },
     {
       "player": "Omarion Hampton",
@@ -591,7 +598,7 @@
       "value": 32,
       "tier": "RB2",
       "trend": "flat",
-      "note": "HOLD 32 GUESS. START vs NYJ. Do not pay CMC or formula 56."
+      "note": "HOLD 32 GUESS. vs NYJ START not smash. Do not pay CMC or formula 56."
     },
     {
       "player": "Saquon Barkley",
@@ -599,7 +606,7 @@
       "value": 32,
       "tier": "RB2",
       "trend": "flat",
-      "note": "Thu FP. Off bye vs PIT START. 32 HOLD."
+      "note": "HOLD 32. Thu FP. START vs PIT 38.5. Not a smash total."
     },
     {
       "player": "Stefon Diggs",
@@ -663,7 +670,7 @@
       "value": 28,
       "tier": "SF2 streamer",
       "trend": "flat",
-      "note": "HOLD 28 GUESS. START @ DAL 54.5."
+      "note": "HOLD 28 GUESS. START @ DAL 54.5 smash total. Owned Klemm."
     },
     {
       "player": "Chase Brown",
@@ -687,7 +694,7 @@
       "value": 28,
       "tier": "WR3",
       "trend": "flat",
-      "note": "HOLD 28. Thu FP. START vs NO."
+      "note": "HOLD 28. Thu FP. START vs NO. Formula 76 is the wrong scale."
     },
     {
       "player": "Rome Odunze",
@@ -757,9 +764,9 @@
       "player": "David Montgomery",
       "pos": "RB",
       "value": 24,
-      "tier": "RB2 FA",
+      "tier": "RB2",
       "trend": "up",
-      "note": "NEW 24 GUESS. Klemm $0 leftover. TNF CLOSED 26-107-0 + 3-17 / 13.9. HOU RB1. Marks OUT. Do not pay CMC. Formula 30 is the wrong scale."
+      "note": "NEW 24 GUESS. Klemm $0 leftover. TNF 26-107-0 + 3-17 / 13.9. HOU RB1 while Marks OUT concussion. Not CMC. Formula 30 / PPG 8.4 is the wrong scale (TNF not in formula)."
     },
     {
       "player": "Derrick Henry",
@@ -799,7 +806,7 @@
       "value": 22,
       "tier": "RB3",
       "trend": "flat",
-      "note": "Wed DNP NIR-Rest. Official Thu FP (Saints.com; NFL.com DNP STALE). Not a 10-team must-start. 22 GUESS HOLD."
+      "note": "HOLD 22 GUESS. Thu FP after rest. Not a 10-team must-start @ CHI."
     },
     {
       "player": "Colston Loveland",
@@ -823,7 +830,7 @@
       "value": 22,
       "tier": "SF2",
       "trend": "flat",
-      "note": "HOLD 22 GUESS. Thu LP ankle. Intends to play @ LAC. Klubnik leftover only if he sits. Fri designation MISSING ~4 PM."
+      "note": "HOLD 22 GUESS Q ankle. Thu LP. Start-lean @ LAC. Intends to play. Klubnik leftover $0 only if he sits."
     },
     {
       "player": "Isaiah Likely",
@@ -847,7 +854,7 @@
       "value": 20,
       "tier": "SF2 Q",
       "trend": "flat",
-      "note": "HOLD 20 GUESS Q. Official Thu LP. Sleeper QB/1. Sit-lean pending Fri designation. Jalon leftover $0 only if named."
+      "note": "HOLD 20 GUESS Q. Official Thu LP (Bucs.com). Sit-lean pending Friday designation. Jalon leftover $0 only if named Out. QuietSniper has Cousins. Formula 30 is the wrong scale."
     },
     {
       "player": "Ollie Gordon II",
@@ -871,7 +878,7 @@
       "value": 18,
       "tier": "SF2",
       "trend": "flat",
-      "note": "TNF sit-lean vs HOU -12.5. 18 GUESS HOLD."
+      "note": "TNF 12/27 144/0/1 / 5.06 + Richardson mop-up. HOLD 18 GUESS. Sit-lean confirmed."
     },
     {
       "player": "Emeka Egbuka",
@@ -975,7 +982,7 @@
       "value": 16,
       "tier": "WR3",
       "trend": "flat",
-      "note": "HOLD 16. TNF 3-27 / 4.2. One dud. AnalyticsOverlord. Not a recut."
+      "note": "TNF 3-27 / 4.2 bench. HOLD 16. Do not recut. Not a 10-team WR2 lock ROS."
     },
     {
       "player": "Tre' Harris",
@@ -983,7 +990,7 @@
       "value": 16,
       "tier": "WR dart FA",
       "trend": "flat",
-      "note": "HOLD 16 GUESS FA leftover $0. Dart only if McConkey sits Friday. McConkey Thu LP / non-contact."
+      "note": "FA leftover $0. 16 GUESS. Dart only if McConkey sits Friday. Not a 10-team WR2."
     },
     {
       "player": "Woody Marks",
@@ -991,7 +998,7 @@
       "value": 16,
       "tier": "RB3 injured",
       "trend": "flat",
-      "note": "HOLD 16 GUESS. Official OUT concussion TNF. Inactive. Sit. Owned WaiverPredator."
+      "note": "HOLD 16 GUESS. OUT concussion TNF. Inactive. Montgomery recut 24 is the fill."
     },
     {
       "player": "A.J. Brown",
@@ -1023,7 +1030,7 @@
       "value": 14,
       "tier": "WR2",
       "trend": "flat",
-      "note": "HOLD 14 GUESS. Official Thu FP concussion. Start-lean vs LV. Confirm Fri designation."
+      "note": "HOLD 14 GUESS Q concussion. Broncos.com Thu FP x2. Start-lean vs LV. Confirm Friday designation."
     },
     {
       "player": "Travis Etienne Jr.",
@@ -1071,7 +1078,7 @@
       "value": 12,
       "tier": "WR2 injured",
       "trend": "flat",
-      "note": "HOLD 12 GUESS. Sleeper Q back. Thu LP / non-contact. Sit until Fri designation. Harris leftover dart."
+      "note": "HOLD 12 GUESS. Q back. Thu LP / non-contact. Sit until Friday designation. Harris leftover $0 dart."
     },
     {
       "player": "Lamar Jackson",
@@ -5845,121 +5852,223 @@
     "Side getting Allen / Gibbs / JSN / Burrow gives extra in 2-for-1s.",
     "Maye is 58 GUESS. Official dx MISSING. IR/stash. Formula 33 is the wrong scale.",
     "Hampton is 32 GUESS. Do not pay CMC or formula 56.",
-    "Montgomery is 24 GUESS owned Klemm. TNF 26-107 smash. Do not pay CMC. Formula 30 is the wrong scale.",
-    "Walker 78 HOLD sit-lean after DNP\u00d72. Johnson START fill.",
-    "HOLD stars on one smash/dud: Taylor 70 / Stroud 66 / Nico 32."
+    "Montgomery is 24 GUESS owned Klemm. TNF 13.9 / 29 touches. Marks OUT. Not CMC. Formula 30 is the wrong scale.",
+    "Walker 78 HOLD sit-lean after DNP x2. Johnson START fill.",
+    "Mayfield 20 HOLD. Thu LP sit-lean pending Friday. Jalon leftover only if named Out.",
+    "Bowers 62 HOLD. Official Thu LP start-lean. Do not smash-sell.",
+    "Tuten 36 HOLD. Official Thu DNP sit-lean until Friday upgrade.",
+    "Do not recut Stroud 66 / Nico 32 / Taylor 70 / Dell 16 on one TNF smash or dud."
   ],
   "ripoff_flags": [
     "Paying 88 for Maye. He is 58 GUESS. Official dx MISSING. Formula 33 is the wrong scale.",
     "Smash-selling Maye to Lamar 12. QuietSniper can IR/stash.",
-    "Paying CMC / Gibbs for Hampton or Montgomery. Hampton 32 / Montgomery 24. Formula 56 / 30 are the wrong scale.",
-    "Smash-selling Bowers after Thu LP. 62 HOLD start-lean.",
-    "Paying CeeDee / Chase prices for Pickens (42 GUESS).",
-    "Starting McConkey-blind. Starting Nacua IR. Starting Addison. Starting Walker-blind. Starting Mayfield-blind. Starting ATL/CLE/GB/LAR/NE/SEA.",
-    "Starting Tuten-blind after Thu DNP.",
-    "Treating leftover as unposted. last_ran=19. Montgomery is OWNED Klemm. Harris/Mayer still FA.",
-    "Treating formula 1.0.0 as this board (Maye 33 / Hampton 56 / Walker 88 / Hubbard 88 / Burden 76 / Bowers 87 / Allen 84 / Montgomery 30 / Mayfield 30 / Stroud 74 / Nico 75).",
-    "Buying Jalon-until-named / Klubnik-while-Geno-intends-to-play / Higbee-bye / Demercado-over-Montgomery / Hutchinson-as-WR2."
+    "Paying CMC / Gibbs for Hampton. He is 32 GUESS. Formula 56 is the wrong scale.",
+    "Smash-selling Bowers after DTD / Thu LP. 62 HOLD. Formula 87 is the wrong scale.",
+    "Paying CeeDee for Pickens. 42 GUESS.",
+    "Starting Walker-blind after DNP x2. Starting Mayfield-blind. Starting McConkey until Friday. Starting Tuten-blind after Thu DNP. Starting W11 byes.",
+    "Starting Marks / MHJ (TNF OUT, already inactive).",
+    "Paying CMC for Montgomery. He is 24 GUESS after 13.9. Formula 30 is the wrong scale.",
+    "Smash-selling Taylor to 24 after one TNF dud. 70 HOLD.",
+    "Treating leftover as unposted / Montgomery as FA. last_ran is 19. Klemm owns him.",
+    "Treating formula 1.0.0 as this board (Maye 33 / Hampton 56 / Walker 88 / Stroud 74 / Nico 75 / Allen 84 / Montgomery 30 / Mayfield 30).",
+    "Buying DeVito / Klubnik-while-Geno-intends-to-play / Jalon-before-named / Hutchinson-as-WR2 / Boutte-as-WR2 / Klein-as-TE1 / McGowan-as-Taylor / Milton-as-SF2."
   ],
   "must_act_today": [
-    "TNF CLOSED HOU 26-IND 3. leftover still last_ran=19. Harris/Mayer/Klubnik/Jalon FA $0. Montgomery OWNED Klemm.",
+    "TNF CLOSED HOU 26-IND 3. leftover still last_ran=19. Klemm Montgomery $0 OWNED. Harris/Mayer/Klubnik/Jalon still FA $0.",
     "IR Maye (QuietSniper), IR RJ Harvey (MrB), IR Kyler (WaiverPredator). Klemm still empty IR.",
     "Maye 58 HOLD. Official dx MISSING. Do not pay 88. Do not dump to 12. Do not use formula 33.",
-    "Montgomery 18\u219224 GUESS after 26-107-0 + 3-17 / 13.9. HOU RB1. Do not pay CMC. Taylor 70 HOLD on 4.7 dud. Stroud 66 HOLD on 27.46 smash.",
-    "Walker 78 HOLD sit-lean after DNP\u00d72. Johnson START. Friday practice MISSING ~4 PM ET.",
-    "Mayfield Thu LP sit-lean pending Friday. Sleeper QB/1. Jalon leftover only if named. QuietSniper start Cousins.",
-    "McConkey Thu LP / non-contact sit until Friday. Harris leftover dart. Waddle Thu FP start-lean. Bowers Thu LP start-lean. Tuten Thu DNP sit-lean.",
-    "Hampton 32 HOLD START vs NYJ. Burden START. Hubbard START. DeVonta Thu FP start-lean pending Friday.",
-    "Sit ATL/CLE/GB/LAR/NE/SEA. Friday designations MISSING ~4:00 PM ET."
+    "Montgomery 18->24 GUESS. TNF 26-107-0 + 3-17 / 13.9. Marks OUT. Not CMC. Do not recut Stroud/Nico/Taylor/Dell.",
+    "Walker 78 HOLD sit-lean after DNP x2. Johnson START. Do not start Walker-blind. Do not recut to formula 88.",
+    "Mayfield official Thu LP sit-lean pending Friday. Jalon leftover $0 only if named Out. QuietSniper start Cousins SNF.",
+    "McConkey Thu LP / non-contact. Sit until Friday. Harris leftover dart. Waddle Thu FP start-lean.",
+    "Bowers official Thu LP start-lean (5:25 DNP LAG STALE). Mayer leftover $0 if he sits. Do not smash-sell 62.",
+    "Tuten official Thu DNP sit-lean (5:25 LP STALE). DeVonta Thu FP start-lean. Friday designations ~4:00 PM ET.",
+    "Sit ATL/CLE/GB/LAR/NE/SEA. START Hubbard / Burden / Kelce / Ward @ DAL / Hampton vs NYJ / CMC SNF. Trade deadline Week 12."
   ],
   "injuries": [
     {
-      "player": "Drake Maye",
-      "pos": "QB",
-      "team": "NE",
-      "status": "Out",
-      "note": "Ankle indefinitely. Official dx MISSING. Bye W11.",
-      "replacement": "DeVito FA skip; IR him"
-    },
-    {
-      "player": "Baker Mayfield",
-      "pos": "QB",
-      "team": "TB",
-      "status": "Questionable",
-      "note": "Official Thu LP. Sit-lean pending Friday designation.",
-      "replacement": "Jalon leftover $0 only if named; QuietSniper has Cousins"
-    },
-    {
-      "player": "Geno Smith",
-      "pos": "QB",
-      "team": "NYJ",
-      "status": "Questionable",
-      "note": "Thu LP. Intends to play @ LAC. Start-lean.",
-      "replacement": "Klubnik leftover $0 only if he sits"
-    },
-    {
-      "player": "Brock Bowers",
-      "pos": "TE",
-      "team": "LV",
-      "status": "Questionable",
-      "note": "Official Thu LP. Start-lean pending Friday designation.",
-      "replacement": "Mayer leftover $0"
+      "player": "David Montgomery",
+      "pos": "RB",
+      "team": "HOU",
+      "status": "Healthy",
+      "note": "TNF 26-107-0 + 3-17 / 13.9. Klemm $0 leftover. Marks OUT. HOU RB1 path.",
+      "replacement": "Marks owned OUT; Demercado skip"
     },
     {
       "player": "Woody Marks",
       "pos": "RB",
       "team": "HOU",
       "status": "Out",
-      "note": "Official OUT concussion. Inactive TNF.",
-      "replacement": "Montgomery owned Klemm"
+      "note": "Concussion. Inactive TNF. Sit.",
+      "replacement": "Montgomery owned Klemm START"
     },
     {
-      "player": "David Montgomery",
-      "pos": "RB",
+      "player": "Marvin Harrison Jr.",
+      "pos": "WR",
       "team": "HOU",
-      "status": "Healthy",
-      "note": "TNF 26-107-0 + 3-17 / 13.9. HOU RB1. 24 GUESS.",
-      "replacement": "Demercado skip"
+      "status": "Out",
+      "note": "Hamstring. Inactive TNF. Sit.",
+      "replacement": "Nico/Dell owned; Hutchinson skip 10-team"
     },
     {
       "player": "Kenneth Walker III",
       "pos": "RB",
       "team": "KC",
       "status": "Questionable",
-      "note": "DNP Wed+Thu groin. Sit-lean pending Friday.",
-      "replacement": "Johnson START"
+      "note": "Groin. DNP Wed+Thu. Reid DTD. Sit-lean pending Friday FP.",
+      "replacement": "Emmett Johnson START (owned TradeHurricane)"
+    },
+    {
+      "player": "Baker Mayfield",
+      "pos": "QB",
+      "team": "TB",
+      "status": "Questionable",
+      "note": "Foot/right thumb. Official Thu LP. Sit-lean pending Friday. Sleeper QB/1.",
+      "replacement": "Cousins covers QuietSniper; Jalon FA $0 only if named Out"
+    },
+    {
+      "player": "Drake Maye",
+      "pos": "QB",
+      "team": "NE",
+      "status": "Out",
+      "note": "Ankle. Out indefinitely. Official dx MISSING. Bye W11. IR him.",
+      "replacement": "DeVito skip; not a 10-team SF2"
+    },
+    {
+      "player": "Geno Smith",
+      "pos": "QB",
+      "team": "NYJ",
+      "status": "Questionable",
+      "note": "Ankle. Thu LP. Start-lean @ LAC. Intends to play.",
+      "replacement": "Klubnik FA leftover $0 only if Geno sits"
+    },
+    {
+      "player": "Brock Bowers",
+      "pos": "TE",
+      "team": "LV",
+      "status": "Questionable",
+      "note": "Ankle/quad. Official Thu LP (Raiders.com). Start-lean pending Friday designation.",
+      "replacement": "Mayer FA leftover $0 if he sits"
     },
     {
       "player": "Ladd McConkey",
       "pos": "WR",
       "team": "LAC",
       "status": "Questionable",
-      "note": "Thu LP / non-contact. Sit until Friday designation.",
-      "replacement": "Harris leftover $0 if he sits"
+      "note": "Back. Thu LP / non-contact. Sit until Friday designation.",
+      "replacement": "Tre' Harris FA leftover $0 dart"
     },
     {
       "player": "Jaylen Waddle",
       "pos": "WR",
       "team": "DEN",
       "status": "Questionable",
-      "note": "Official Thu FP concussion. Start-lean. Confirm Friday.",
-      "replacement": "Sutton / Gordon cover"
+      "note": "Concussion. Thu FP x2. Start-lean vs LV. Confirm Friday.",
+      "replacement": "Sutton owned QuietSniper"
     },
     {
       "player": "Bhayshul Tuten",
       "pos": "RB",
       "team": "JAX",
       "status": "Questionable",
-      "note": "Thu DNP ankle/foot. Sit-lean pending Friday.",
-      "replacement": "Etienne/Bigsby path skip 10-team"
+      "note": "Ankle/foot. Official Thu DNP. Sit-lean until Friday upgrade.",
+      "replacement": "Rodriguez owned; not a 10-team RB2. LeQuint FA skip"
     },
     {
       "player": "DeVonta Smith",
       "pos": "WR",
       "team": "PHI",
+      "status": "Healthy",
+      "note": "Hamstring. Official Thu FP after Wed LP. Start-lean vs PIT. Sleeper no Q tag.",
+      "replacement": "Confirm Friday designation"
+    },
+    {
+      "player": "Chuba Hubbard",
+      "pos": "RB",
+      "team": "CAR",
+      "status": "Healthy",
+      "note": "Thu FP after NIR-Rest. START vs BAL.",
+      "replacement": "Brooks FA skip"
+    },
+    {
+      "player": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "status": "Healthy",
+      "note": "Thu FP after NIR-Rest. Not a 10-team must-start @ CHI.",
+      "replacement": "Etienne owned WaiverPredator"
+    },
+    {
+      "player": "Christian McCaffrey",
+      "pos": "RB",
+      "team": "SF",
+      "status": "Healthy",
+      "note": "Wed DNP NIR-Rest / Thu FP. SNF START Mexico.",
+      "replacement": "CMC is the back"
+    },
+    {
+      "player": "Saquon Barkley",
+      "pos": "RB",
+      "team": "PHI",
+      "status": "Healthy",
+      "note": "Thu FP. START vs PIT 38.5.",
+      "replacement": "Shipley not a 10-team add"
+    },
+    {
+      "player": "Bucky Irving",
+      "pos": "RB",
+      "team": "TB",
+      "status": "Healthy",
+      "note": "Thu NIR-Rest DNP. Still START @ DET.",
+      "replacement": "Rest DNP is not an injury sit"
+    },
+    {
+      "player": "Mike Evans",
+      "pos": "WR",
+      "team": "SF",
       "status": "Questionable",
-      "note": "Official Thu FP. Start-lean pending Friday designation.",
-      "replacement": "Goedert / Saquon cover"
+      "note": "Achilles. Thu LP after Wed DNP. Sit-lean SNF until named.",
+      "replacement": "Not a 10-team must-start yet"
+    },
+    {
+      "player": "T.J. Hockenson",
+      "pos": "TE",
+      "team": "MIN",
+      "status": "Questionable",
+      "note": "Wrist. Thu LP. Sit-lean SNF until named.",
+      "replacement": "ZeroChill thin; Mayer leftover if Bowers also sits"
+    },
+    {
+      "player": "Dalton Kincaid",
+      "pos": "TE",
+      "team": "BUF",
+      "status": "Questionable",
+      "note": "Thumb. Thu DNP. Sit-lean.",
+      "replacement": "Not a 10-team TE1 this week"
+    },
+    {
+      "player": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "status": "Questionable",
+      "note": "Knee. Thu LP. Sit-lean. FA skip-lean.",
+      "replacement": "FA skip; not a 10-team TE1"
+    },
+    {
+      "player": "Jordan Addison",
+      "pos": "WR",
+      "team": "MIN",
+      "status": "Out",
+      "note": "Thumb surgery. Will not IR. Sit W11.",
+      "replacement": "Jefferson START; Cousins still startable"
+    },
+    {
+      "player": "Kyler Murray",
+      "pos": "QB",
+      "team": "MIN",
+      "status": "Out",
+      "note": "Hamstring. Thu DNP. IR him (WaiverPredator empty slot). Cousins is the start.",
+      "replacement": "Cousins owned QuietSniper"
     },
     {
       "player": "Luther Burden III",
@@ -5970,72 +6079,82 @@
       "replacement": "Odunze still start"
     },
     {
-      "player": "Jordan Addison",
-      "pos": "WR",
-      "team": "MIN",
-      "status": "Out",
-      "note": "Out thumb. O'Connell will not IR. Sit W11.",
-      "replacement": "Jefferson / Cousins"
+      "player": "Travis Kelce",
+      "pos": "TE",
+      "team": "KC",
+      "status": "Healthy",
+      "note": "Thu FP. START vs ARI.",
+      "replacement": "Kelce is the TE1"
     },
     {
-      "player": "Kyler Murray",
+      "player": "Patrick Mahomes",
       "pos": "QB",
-      "team": "MIN",
-      "status": "Out",
-      "note": "Hamstring. WaiverPredator should IR him.",
-      "replacement": "Cousins starts; IR him"
+      "team": "KC",
+      "status": "Healthy",
+      "note": "Thu FP. START vs ARI.",
+      "replacement": "Mahomes is the start"
     }
   ],
   "news": [
     {
+      "player": "TNF",
+      "note": "CLOSED HOU 26-IND 3. Montgomery 13.9 / Stroud 27.46 / Nico 13.3 / Taylor 4.7 / Dell 4.2. Marks/MHJ/Sauce inactive.",
+      "impact": "Montgomery 18->24 GUESS. Stroud/Nico/Taylor/Dell HOLD. Week 11 Sunday slate is next."
+    },
+    {
       "player": "David Montgomery",
-      "note": "TNF CLOSED HOU 26-IND 3. 26-107-0 + 3-17 / 13.9. Klemm $0 leftover smash.",
-      "impact": "18\u219224 GUESS. HOU RB1. Do not pay CMC."
+      "note": "Klemm $0 leftover. 26-107-0 + 3-17 on 29 touches with Marks OUT.",
+      "impact": "18->24 GUESS. HOU RB1 path while Marks is in protocol. Not CMC."
     },
     {
-      "player": "C.J. Stroud",
-      "note": "21/27 194/3/1 + 6-27 / 27.46. ChaosGoblin smash.",
-      "impact": "66 HOLD. One smash. Formula 74 is noise."
+      "player": "Kenneth Walker III",
+      "note": "Chiefs.com Thu DNP groin. Reid DTD. DNP x2.",
+      "impact": "78 HOLD sit-lean. Johnson START."
     },
     {
-      "player": "Jonathan Taylor",
-      "note": "11-21-0 + 4-6 / 4.7. HOU 26-IND 3.",
-      "impact": "70 HOLD. One dud."
-    },
-    {
-      "player": "Nico Collins",
-      "note": "3-58-1 / 13.3. MHJ OUT.",
-      "impact": "32 HOLD. One smash. Formula 75 is noise."
-    },
-    {
-      "player": "Tank Dell",
-      "note": "3-27 / 4.2.",
-      "impact": "16 HOLD. One dud."
+      "player": "Baker Mayfield",
+      "note": "Bucs.com Thu LP. Friday designation still missing.",
+      "impact": "20 HOLD sit-lean. Jalon leftover only if named Out."
     },
     {
       "player": "Brock Bowers",
-      "note": "Official Thu LP (NFL.com LAG closed).",
+      "note": "Raiders.com official Thu LP. 5:25 NFL.com DNP LAG STALE.",
       "impact": "62 HOLD start-lean. Mayer leftover if he sits."
     },
     {
       "player": "Bhayshul Tuten",
-      "note": "NFL.com Thu DNP.",
-      "impact": "36 HOLD sit-lean pending Friday."
+      "note": "Official Thu DNP ankle/foot. 5:25 LP STALE.",
+      "impact": "36 HOLD sit-lean until Friday upgrade."
     },
     {
       "player": "DeVonta Smith",
-      "note": "NFL.com Thu FP.",
-      "impact": "32 HOLD start-lean pending Friday."
+      "note": "Official Thu FP after Wed LP.",
+      "impact": "32 HOLD start-lean vs PIT."
+    },
+    {
+      "player": "Ladd McConkey",
+      "note": "Thu LP / non-contact back.",
+      "impact": "12 HOLD. Sit until Friday. Harris leftover dart."
+    },
+    {
+      "player": "Jaylen Waddle",
+      "note": "Broncos.com Thu FP x2.",
+      "impact": "14 HOLD start-lean vs LV. Confirm Friday."
+    },
+    {
+      "player": "Christian McCaffrey",
+      "note": "49ers.com Wed DNP rest / Thu FP.",
+      "impact": "72 HOLD SNF START. Mexico 15% rain WATCH, not a sit."
     },
     {
       "player": "leftover",
-      "note": "last_ran still 19. Montgomery owned. Harris/Mayer still FA $0.",
-      "impact": "FCFS leftover still live for Harris/Mayer."
+      "note": "last_ran still 19. Montgomery owned. Harris/Mayer/Klubnik/Jalon still FA $0.",
+      "impact": "FCFS leftover still live. Friday designations next."
     },
     {
-      "player": "Friday practice",
-      "note": "MISSING ~4:00 PM ET. Designations MISSING ~4 PM.",
-      "impact": "Walker / Mayfield / McConkey / Bowers / Waddle / Geno / Tuten / DeVonta still pending."
+      "player": "Drake Maye",
+      "note": "Rapoport surprise if he plays again HOLDS. Official dx MISSING. Bye W11.",
+      "impact": "58 HOLD. IR him. Formula 33 is noise."
     }
   ],
   "faab": [
@@ -6045,7 +6164,7 @@
       "priority": "Speculative",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Leftover $0. McConkey Thu LP / non-contact. Dart only if McConkey sits Friday."
+      "why": "Leftover $0. McConkey Thu LP / non-contact. Dart only if McConkey sits Friday. Not a 10-team WR2."
     },
     {
       "player": "Michael Mayer",
@@ -6053,7 +6172,15 @@
       "priority": "Speculative",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Leftover $0. Bowers Thu LP start-lean. ZeroChill TE hole if he sits."
+      "why": "Leftover $0. Bowers official Thu LP start-lean. Only if Bowers sits Friday. ZeroChill TE hole (Hockenson sit-lean)."
+    },
+    {
+      "player": "Jalon Daniels",
+      "pos": "QB",
+      "priority": "Speculative",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "Leftover $0 only if Mayfield is named Out Friday. Sleeper QB/2. DET trap. QuietSniper has Cousins."
     },
     {
       "player": "Cade Klubnik",
@@ -6064,36 +6191,12 @@
       "why": "Leftover $0 only if Geno sits. Geno Thu LP intends to play."
     },
     {
-      "player": "Jalon Daniels",
-      "pos": "QB",
-      "priority": "Speculative",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "Leftover $0 only if Mayfield is named Out Friday. Sleeper QB/2. DET trap."
-    },
-    {
       "player": "David Montgomery",
       "pos": "RB",
       "priority": "Skip",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "OWNED Klemm. TNF 13.9 already in."
-    },
-    {
-      "player": "Kayshon Boutte",
-      "pos": "WR",
-      "priority": "Skip",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "2-40-1 TNF. One-game. Not a 10-team WR2."
-    },
-    {
-      "player": "Marlin Klein",
-      "pos": "TE",
-      "priority": "Skip",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "4-24-1 TNF. One-game. Mayer first if you need a TE."
+      "why": "OWNED Klemm $0. TNF already in. Recut 24 GUESS. Not FA."
     },
     {
       "player": "Xavier Hutchinson",
@@ -6101,15 +6204,23 @@
       "priority": "Skip",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "2-13 TNF. Confirmed skip."
+      "why": "Trending add after MHJ OUT. TNF 2-13. Not a 10-team WR2 vs Nico/Dell owned."
     },
     {
-      "player": "Emari Demercado",
-      "pos": "RB",
+      "player": "Kayshon Boutte",
+      "pos": "WR",
       "priority": "Skip",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "5-33. Montgomery is RB1."
+      "why": "TNF 2-40-1. One-game. Not a 10-team WR2."
+    },
+    {
+      "player": "Marlin Klein",
+      "pos": "TE",
+      "priority": "Skip",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "TNF 4-24-1. One-game TE dart. Mayer first if you need a TE."
     },
     {
       "player": "Tommy DeVito",
@@ -6117,7 +6228,31 @@
       "priority": "Skip",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Maye out + bye W11."
+      "why": "Maye out + bye. Not a 10-team SF2."
+    },
+    {
+      "player": "Easton Stick",
+      "pos": "QB",
+      "priority": "Skip",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "Skip until named over Jalon."
+    },
+    {
+      "player": "Emari Demercado",
+      "pos": "RB",
+      "priority": "Skip",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "Montgomery 26 carries TNF. Change-of-pace only."
+    },
+    {
+      "player": "Joe Milton",
+      "pos": "QB",
+      "priority": "Skip",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "Already dropped. PIT -3.5 / 38.5 trap."
     },
     {
       "player": "Tyler Higbee",
@@ -6128,50 +6263,110 @@
       "why": "Dropped. Bye W11."
     },
     {
+      "player": "Quentin Johnston",
+      "pos": "WR",
+      "priority": "Skip",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "Harris is the dart if McConkey sits."
+    },
+    {
+      "player": "David Njoku",
+      "pos": "TE",
+      "priority": "Skip",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "0 targets W10."
+    },
+    {
       "player": "Seth McGowan",
       "pos": "RB",
       "priority": "Skip",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Taylor is RB1 even after a dud."
+      "why": "Sleeper Out hamstring after TNF 3-7. Taylor is RB1."
+    },
+    {
+      "player": "Darren Waller",
+      "pos": "TE",
+      "priority": "Skip",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "Thu LP sit-lean. Not a 10-team TE1."
+    },
+    {
+      "player": "Kyle Monangai",
+      "pos": "RB",
+      "priority": "Skip",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "Swift healthy. Not a 10-team RB2."
+    },
+    {
+      "player": "Mark Andrews",
+      "pos": "TE",
+      "priority": "Skip",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "Trending. Mayer first if you need a TE."
+    },
+    {
+      "player": "Carson Beck",
+      "pos": "QB",
+      "priority": "Skip",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "Thu LP back. FA skip. Mendoza is ARI QB."
     }
   ],
   "start_sit": [
     {
       "player": "David Montgomery",
       "pos": "RB",
-      "call": "Must-start",
-      "note": "TNF CLOSED 13.9. Already played. Klemm."
+      "call": "Strong start",
+      "note": "TNF DONE 13.9. Owned Klemm. ROS RB2 while Marks OUT. Not a smash lock next week."
+    },
+    {
+      "player": "Woody Marks",
+      "pos": "RB",
+      "call": "Sit / trap",
+      "note": "OUT concussion. Inactive TNF."
+    },
+    {
+      "player": "Marvin Harrison Jr.",
+      "pos": "WR",
+      "call": "Sit / trap",
+      "note": "OUT hamstring. Inactive TNF."
     },
     {
       "player": "C.J. Stroud",
       "pos": "QB",
       "call": "Must-start",
-      "note": "TNF CLOSED 27.46. Already played."
+      "note": "TNF DONE 27.46. ROS hold."
     },
     {
       "player": "Nico Collins",
       "pos": "WR",
       "call": "Must-start",
-      "note": "TNF CLOSED 13.3. Already played."
+      "note": "TNF DONE 13.3. MHJ OUT."
+    },
+    {
+      "player": "Tank Dell",
+      "pos": "WR",
+      "call": "Toss-up",
+      "note": "TNF 4.2. Not a lock ROS WR2."
     },
     {
       "player": "Jonathan Taylor",
       "pos": "RB",
       "call": "Must-start",
-      "note": "TNF CLOSED 4.7 dud. Already played. 70 HOLD."
-    },
-    {
-      "player": "Tank Dell",
-      "pos": "WR",
-      "call": "Strong start",
-      "note": "TNF CLOSED 4.2. Already played."
+      "note": "TNF dud 4.7. Still must-start ROS. Do not sit next week on this."
     },
     {
       "player": "Cam Ward",
       "pos": "QB",
       "call": "Must-start",
-      "note": "@ DAL smash total."
+      "note": "@ DAL 54.5 smash total."
     },
     {
       "player": "Omarion Hampton",
@@ -6189,13 +6384,13 @@
       "player": "Kenneth Walker III",
       "pos": "RB",
       "call": "Sit / trap",
-      "note": "DNP\u00d72. Sit-lean. Johnson START."
+      "note": "DNP x2. Sit-lean. Do not start-blind."
     },
     {
       "player": "Emmett Johnson",
       "pos": "RB",
       "call": "Strong start",
-      "note": "START vs ARI with Walker DNP\u00d72."
+      "note": "START vs ARI with Walker DNP x2."
     },
     {
       "player": "Chuba Hubbard",
@@ -6204,16 +6399,16 @@
       "note": "Thu FP after rest. START vs BAL."
     },
     {
-      "player": "Bhayshul Tuten",
-      "pos": "RB",
-      "call": "Sit / trap",
-      "note": "Thu DNP. Sit-lean pending Friday."
+      "player": "Geno Smith",
+      "pos": "QB",
+      "call": "Toss-up",
+      "note": "Thu LP. Start-lean. Intends to play."
     },
     {
       "player": "Baker Mayfield",
       "pos": "QB",
       "call": "Sit / trap",
-      "note": "Thu LP. Sit-lean pending Friday."
+      "note": "Thu LP. Sit-lean pending Friday. Jalon leftover only if named."
     },
     {
       "player": "Ladd McConkey",
@@ -6225,25 +6420,7 @@
       "player": "Jaylen Waddle",
       "pos": "WR",
       "call": "Toss-up",
-      "note": "Thu FP. Start-lean. Confirm Friday."
-    },
-    {
-      "player": "Brock Bowers",
-      "pos": "TE",
-      "call": "Toss-up",
-      "note": "Thu LP. Start-lean pending Friday."
-    },
-    {
-      "player": "DeVonta Smith",
-      "pos": "WR",
-      "call": "Toss-up",
-      "note": "Thu FP. Start-lean pending Friday."
-    },
-    {
-      "player": "Geno Smith",
-      "pos": "QB",
-      "call": "Toss-up",
-      "note": "Thu LP. Start-lean. Intends to play."
+      "note": "Thu FP x2. Start-lean vs LV. Confirm Friday."
     },
     {
       "player": "Drake Maye",
@@ -6252,28 +6429,78 @@
       "note": "Bye + indefinitely. IR him."
     },
     {
+      "player": "Brock Bowers",
+      "pos": "TE",
+      "call": "Toss-up",
+      "note": "Official Thu LP. Start-lean pending Friday designation."
+    },
+    {
       "player": "Christian McCaffrey",
       "pos": "RB",
       "call": "Must-start",
-      "note": "Thu DNP NIR-Rest. SNF START."
+      "note": "Thu FP after rest. SNF START. Mexico 15% rain WATCH, not a sit."
+    },
+    {
+      "player": "Bhayshul Tuten",
+      "pos": "RB",
+      "call": "Sit / trap",
+      "note": "Official Thu DNP. Sit-lean until Friday upgrade. 70% rain WATCH, not the sit reason."
+    },
+    {
+      "player": "DeVonta Smith",
+      "pos": "WR",
+      "call": "Toss-up",
+      "note": "Thu FP. Start-lean vs PIT. Confirm Friday."
+    },
+    {
+      "player": "Mike Evans",
+      "pos": "WR",
+      "call": "Sit / trap",
+      "note": "Thu LP Achilles. Sit-lean SNF until named."
+    },
+    {
+      "player": "T.J. Hockenson",
+      "pos": "TE",
+      "call": "Sit / trap",
+      "note": "Thu LP. Sit-lean until named."
+    },
+    {
+      "player": "Saquon Barkley",
+      "pos": "RB",
+      "call": "Must-start",
+      "note": "Thu FP. START vs PIT."
+    },
+    {
+      "player": "Bucky Irving",
+      "pos": "RB",
+      "call": "Must-start",
+      "note": "Thu rest DNP still START @ DET."
+    },
+    {
+      "player": "Travis Kelce",
+      "pos": "TE",
+      "call": "Must-start",
+      "note": "Thu FP. START vs ARI."
     }
   ],
   "streamers_qb": [
-    "Cam Ward (TEN) \u2014 owned Klemm. START @ DAL.",
+    "Cam Ward (TEN) \u2014 owned Klemm. START @ DAL 54.5.",
     "Geno Smith (NYJ) \u2014 Thu LP start-lean @ LAC. Intends to play.",
     "Cade Klubnik (NYJ) \u2014 leftover $0 only if Geno sits.",
     "Jacoby Brissett (BAL) \u2014 startable SF2 @ CAR. Owned.",
     "Justin Herbert (LAC) \u2014 start vs NYJ, not smash. Owned.",
     "Baker Mayfield (TB) \u2014 Thu LP sit-lean pending Friday. Jalon leftover only if named.",
-    "Jalon Daniels (TB) \u2014 Sleeper QB/2. Skip until named.",
-    "C.J. Stroud (HOU) \u2014 TNF CLOSED 27.46. Already played."
+    "Jalon Daniels (TB) \u2014 Sleeper QB/2 FA. Skip until named Out. DET trap.",
+    "Kirk Cousins (MIN) \u2014 START SNF Mexico. Covers QuietSniper if Mayfield sits.",
+    "Tommy DeVito (NE) \u2014 skip. Bye.",
+    "Joe Milton (PHI) \u2014 skip. 38.5 trap."
   ],
   "actions_today": [
-    "TNF is over. Klemm banked Montgomery 13.9. ChaosGoblin banked Stroud 27.46. WaiverPredator Nico 13.3. RivalryEngine Taylor 4.7 / Jones 5.06. AnalyticsOverlord Dell 4.2.",
+    "TNF CLOSED. Montgomery 18->24 GUESS (Klemm). Do not recut Stroud 66 / Nico 32 / Taylor 70 / Dell 16. Marks/MHJ already inactive.",
     "IR Maye (QuietSniper), IR RJ Harvey (MrB), IR Kyler (WaiverPredator). Klemm still empty IR.",
-    "Montgomery 18\u219224 GUESS. Do not pay CMC. Taylor 70 HOLD. Stroud 66 HOLD. Maye 58 HOLD. Do not use formula 33/30/74/75/56/88.",
-    "Sit Walker-blind after DNP\u00d72; start Johnson. Sit Mayfield-blind. Sit McConkey until Friday. Sit Tuten-blind after Thu DNP. Start Hubbard / Burden / Hampton. Waddle/Bowers/DeVonta start-lean pending Friday.",
-    "Leftover last_ran=19. Harris leftover $0 if McConkey sits. Mayer leftover $0 if Bowers sits. Klubnik/Jalon only if named.",
-    "Friday practice/designations MISSING ~4:00 PM ET. Trade deadline Week 12."
+    "Leftover last_ran=19. Harris leftover $0 if McConkey sits Friday. Mayer leftover $0 if Bowers sits. Klubnik/Jalon only if named.",
+    "Sit Walker-blind after DNP x2; start Johnson. Sit Mayfield-blind after Thu LP. Sit McConkey until Friday. Sit Tuten-blind after Thu DNP. Start Hubbard / Burden / Kelce / Waddle-lean / DeVonta-lean / Bowers-lean.",
+    "Do not pay 88 for Maye. Do not smash-sell Bowers. Do not pay CMC or formula 56 for Hampton. Do not recut Walker to formula 88 or Montgomery to formula 30. Do not smash-sell Taylor after 4.7.",
+    "JAX@NYG 70% rain / Mexico 15% / CHI winds ~20 / PIT@PHI rain are WATCH, not sits. Friday designations ~4:00 PM ET. Trade deadline Week 12."
   ]
 }
