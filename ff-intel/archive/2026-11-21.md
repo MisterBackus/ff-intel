@@ -1,25 +1,25 @@
 # FF Intel — Bot or Not Fantasy
 
-Generated **2026-11-21 05:15 PM EST**
+Generated **2026-11-21 05:20 PM EST**
 
-- **NFL week:** 11 — leftover **last_ran 20→21 empty** / **Young still FA leftover $0** / **Evans expected to play (Garafolo)** / **MNF Sat designations IN** / **Walker OUT / Maye 58 HOLD**
+- **NFL week:** 11 — leftover **last_ran 21 empty** / **Young still FA leftover $0** / **Evans expected to play (Garafolo)** / **MNF Sat designations IN** / **Walker OUT / Maye 58 HOLD**
 - **League:** 10-team Superflex Half-PPR, no K/DST, $100 FAAB, 1 IR slot (Sleeper `1395904889149739008`)
-- **Freshness:** Saturday 5:15 PM ET. Sleeper `week=11` **`display_week=11`** `leg=11` **`last_scored_leg=10`** **`daily_waivers_last_ran=21`**. W10 txs **17**. W11 txs **still 6** (3 complete / 3 failed). leftover **empty process** — Young / Harris / Mayer / Jalon **still FA $0**. Friday designations **HOLD**. MNF Saturday designations **IN**. Evans **Garafolo expected to play**. Sunday inactives **MISSING ~11:30 ET**. TNF boxes **IN** Sleeper week-11 points, **not** in formula PPG (Montgomery formula PPG still **8.4**). Formula dump **week 11 byes are correct**. **Do not mix scales.**
-- **Sources:** NFL Network Garafolo Evans **expected to play** SNF; Bengals.com 4:15 PM / Commanders.com 3:59 PM MNF designations **IN** (Burrow/Higgins/Daniels **no tag START**; White **Q**); Pelissero Mayfield **on track to start** still sit-lean DET; leftover Sleeper last_ran **21** / W11 txs still 6 / Young FA; NFL.com injury table Walker **OUT**; Waddle FP PLAYS; McConkey Friday Q; Bowers Friday Q; Kincaid Doubtful; weather scoresandstats NWS Sat 9:12 AM ET + FOX 29 4:30 PM; formula 1.0.0 generate **05:00 PM EST** (`f8869b9`); prior packet 2026-11-21 07:15 AM EST (`8917607`).
+- **Freshness:** Saturday 5:20 PM ET. Sleeper `week=11` **`display_week=11`** `leg=11` **`last_scored_leg=10`** **`daily_waivers_last_ran=21`**. W10 txs **17**. W11 txs **still 6** (3 complete / 3 failed). leftover **empty process** — Young / Harris / Mayer / Jalon **still FA $0**. Friday designations **HOLD**. MNF Saturday designations **IN**. Evans **Garafolo expected to play**. Diggs Sleeper tag **CLEARED**. Sunday inactives **MISSING ~11:30 ET**. TNF boxes **IN** Sleeper week-11 points, **not** in formula PPG (Montgomery formula PPG still **8.4**). Formula dump **week 11 byes are correct**. **Do not mix scales.**
+- **Sources:** NFL Network Garafolo Evans **expected to play** SNF; Bengals.com 4:15 PM / Commanders.com 3:59 PM MNF designations **IN** (Burrow/Higgins/Daniels **no tag START**; Diggs **not listed / remaining available START**; White **Q**); Pelissero Mayfield **plantar fascia / on track to start** still sit-lean DET; leftover Sleeper last_ran **21** / W11 txs still 6 / Young FA / Diggs inj **CLEARED**; NFL.com injury table Walker **OUT**; Waddle FP PLAYS; McConkey Friday Q; Bowers Friday Q; Kincaid Doubtful; weather MySportsWeather Sat PM + scoresandstats NWS Sat 9:12 AM ET; ESPN schedule Sat PM lines; formula 1.0.0 generate **05:00 PM EST** (`f8869b9`); prior packet 2026-11-21 05:15 PM EST (`3936736`).
 - **Scale:** Curated 1–100 Superflex Half-PPR 10-team. Formula 1.0.0 in `players[]` from 2026-11-21 05:00 PM EST — **do not mix the two**. Formula Walker **59** / Geno **45** / Stroud **73** / Nico **75** / Hampton **56** / Maye **33** / Allen **84** / Burrow **88** / Montgomery **30** / Bowers **87** / Burden **76** / Tuten **79** / Waddle **48** / DeVonta **67** are tag-flip noise, not this board.
 
-**NEW vs Saturday 7:15 AM:** leftover **last_ran 20→21** (empty — Young / Harris / Mayer / Jalon **still FA $0**). Values **FLAT**. Call flips only. **Evans expected to play** (Garafolo Saturday) — morning sit-lean **STALE**, **start-lean SNF** until Sunday inactives. **MNF Saturday designations IN:** Burrow / Higgins / Daniels **no tag START**. Diggs **no designation START**. White **Friday Q / Sat DNP sit-lean**. Pelissero: Mayfield **on track to start** — still **sit-lean DET trap**. Jones Sleeper team **None** (still RivalryEngine). Formula dump 05:00 PM EST still **NOT** this scale (DeVonta 66→67 noise).
+**NEW vs Saturday 5:15 PM:** Values **FLAT**. Call/weather/line only. ESPN Sat PM: **DAL −8.5→−7.5** / **DET −5.5/45.5→−4.5/46.5** / **KC −16.5→−15.5** / **LAC 41.5→42.5**. Mexico drizzle **~58–69% / 62% → 17%** (morning drizzle WATCH **STALE**). CHI rain **91%→84%**, PHI **92%→79%** — still **WATCH not sits**. JAX@NYG meteorologist **wet-game WATCH** (not a Tuten/Lawrence/Nabers sit). Diggs Sleeper inj **CLEARED**; Commanders.com Saturday **does not list him** — NFL.com DNP table is **Friday lag**. WR start/sit Evans sit-lean text **STALE** (already start-lean). leftover last_ran **21** (md ripoff **20 STALE**). Jalon Sleeper depth **4**, not QB/2.
 
 ---
 
 ## 1. League week context
 
-- **Now:** Saturday Nov 21, 5:15 PM EST. Week 10 **FINAL**. TNF **CLOSED: HOU 26–IND 3**. leftover **processed again** (`last_ran` **21**, empty) and **still FCFS $0** for unclaimed FA (**Young / Harris / Mayer / Jalon**). Next lock = **Sunday 1:00 ET**. Sunday inactives **MISSING ~11:30 ET**. Evans **Garafolo expected to play**. MNF Saturday designations **IN**.
+- **Now:** Saturday Nov 21, 5:20 PM EST. Week 10 **FINAL**. TNF **CLOSED: HOU 26–IND 3**. leftover **processed again** (`last_ran` **21**, empty) and **still FCFS $0** for unclaimed FA (**Young / Harris / Mayer / Jalon**). Next lock = **Sunday 1:00 ET**. Sunday inactives **MISSING ~11:30 ET**. Evans **Garafolo expected to play**. MNF Saturday designations **IN**. Diggs Sleeper **CLEARED**.
 - **Byes this week (W11):** **ATL / CLE / GB / LAR / NE / SEA**. Dark: Bijan, London, Penix, Love, Jacobs, Kaleb, Stafford, Kyren, Corum, Higbee, Nacua, Maye, AJB, Kiner, Stevenson, JSN, Lock, Darnold, Golden, Watson-GB, Barner, Kraft.
 - **Back from W10 bye:** CHI / DEN / PHI / TB — Nix, Caleb, Saquon, Egbuka, Irving **Fri FP START**, Swift, Goedert, Loveland, **Burden START**.
 - **TNF CLOSED Thu 8:15 ET:** IND @ HOU. **HOU 26–IND 3.** Indoor NRG. Marks **INACTIVE**. MHJ **INACTIVE**. Sauce **INACTIVE**. Montgomery **26-107-0 + 3-17 / 13.9** (Klemm). Stroud **21/27 194/3/1 + 6-27 / 27.46** (ChaosGoblinFF). Nico **3-58-1 / 13.3** (WaiverPredator). Dell **3-27 / 4.2**. Taylor **11-21 + 4-6 / 4.7** (RivalryEngine). Jones **12/27 144/0/1 / 5.06** — Colts **waived Jones Friday**, Richardson named starter **W12 vs NYG**; Jones still RivalryEngine until dropped.
-- **W11 window:** Sun 1:00 · 4:05 NYJ@LAC (ESPN **LAC −3 / 41.5**) · 4:25 LV@DEN (ESPN **DEN −10.5 / 40.5**; Friday ESPN −10 **STALE**) + JAX@NYG (ESPN **JAX −6 / 46.5**) · SNF **MIN vs SF 8:20 ET Mexico City** (ESPN **SF −3 / 46.5**; CBS **−3.5 CONFLICT**) · MNF **CIN @ WAS Mon 8:15 ET** (CBS **CIN −6 / 53.5**; some books **−6.5 CONFLICT**). TEN@DAL **DAL −8.5 / 54.5** highest total. **PIT @ PHI: ESPN PIT −3.5 / 37.5**. NO@CHI **CHI −11.5 / 48.5**. TB@DET **ESPN DET −5.5 / 45.5**. MIA@BUF **BUF −16.5 / 44.5**. ARI@KC **KC −16.5 / 40.5**. BAL@CAR **CAR −3 / 43.5**.
-- **Weather that actually changes a start/sit:** **none.** TNF indoor closed. **NO@CHI 57°F / WSW 15 mph / 91% rain WATCH** — not a Caleb/Burden/Swift sit (lean short-area if you were already on the fence). **PIT@PHI 63°F / NE 10 mph / 92% light rain WATCH** — not a Saquon/DeVonta sit. **JAX@NYG 61°F / E 9 mph / 89% rain WATCH** — not a Lawrence/Nabers/Tuten sit. **Mexico ~63°F / 2 mph / ~58–69% light drizzle / altitude WATCH** — not a Purdy/CMC/Jefferson sit (RG Levi’s **WRONG venue**). **BAL@CAR 64°F / 8 mph / 42% showers WATCH** — not a Young/Hubbard sit. **ARI@KC 49°F (feels 43) / NNW 16 mph** — not a Johnson/Kelce/Mahomes sit. BUF **64°F / 7 mph / 0%** — not a Cook/Allen sit. DEN **46°F / 5 mph sunny**. SoFi / Ford Field indoor. AT&T **roof may close**. MNF WAS **52°F / 7 mph** dry.
+- **W11 window:** Sun 1:00 · 4:05 NYJ@LAC (ESPN **LAC −3 / 42.5**; morning 41.5 **STALE**) · 4:25 LV@DEN (ESPN **DEN −10.5 / 40.5**) + JAX@NYG (ESPN **JAX −6 / 46.5**) · SNF **MIN vs SF 8:20 ET Mexico City** (ESPN **SF −3 / 46.5**; CBS/Covers **−3.5 CONFLICT**) · MNF **CIN @ WAS Mon 8:15 ET** (ESPN **CIN −6 / 53.5**; Covers **−6.5 / 54.5 CONFLICT**). TEN@DAL **ESPN DAL −7.5 / 54.5** (morning **−8.5 STALE**) still highest total. **PIT @ PHI: ESPN PIT −3.5 / 37.5**. NO@CHI **CHI −11.5 / 48.5** (Covers −10.5 **CONFLICT**). TB@DET **ESPN DET −4.5 / 46.5** (morning −5.5/45.5 **STALE**). MIA@BUF **BUF −16.5 / 44.5**. ARI@KC **ESPN KC −15.5 / 40.5** (morning −16.5 **STALE**). BAL@CAR **CAR −3 / 43.5**.
+- **Weather that actually changes a start/sit:** **none.** TNF indoor closed. **NO@CHI 57°F / WSW 15 mph gusts 25 / 84% rain WATCH** — first-half wetter, clearing later; not a Caleb/Burden/Swift sit (lean short-area if you were already on the fence). **PIT@PHI 63°F / NE 10 mph / 79% rain WATCH** — wetter 2H; not a Saquon/DeVonta sit. **JAX@NYG 62°F / NE 8 mph / 67% at kick rising late WATCH** — meteorologist moderate-heavy rain / gameplan hit; **still not** a Lawrence/Nabers/Tuten sit in this 10-team. **Mexico 65°F / 1 mph / 17% rain** — morning drizzle **STALE**; altitude only, not a Purdy/CMC/Jefferson/Evans sit (RG Levi’s **WRONG venue**). **BAL@CAR 62°F / 8 mph / 57% showers WATCH** — not a Young/Hubbard sit. **ARI@KC 49°F / N 15 mph gusts 24 / 0%** — not a Johnson/Kelce/Mahomes sit. BUF **66°F / 7 mph / 0%**. DEN **44°F / 5 mph / 0%**. SoFi canopy / Ford Field indoor. AT&T **roof may close**. MNF WAS **53°F / 8 mph / 0%**.
 - **Deadlines:** leftover **NOW** (FCFS $0 for Young / Harris / Mayer / Jalon). Sunday 1:00 lock. Sunday inactives **~11:30 ET** (SNF ~6:50 ET). League trade deadline **Week 12**. Jones on NFL waivers until **Monday 4:00 PM ET**. MNF designations **IN**.
 
 **FAAB left:** Klemm $105 · AustinDoingWork **$57** · MrB $43 · ZeroChillQB $24 · RivalryEngine $22 · QuietSniper **$20** · AnalyticsOverlord $20 · WaiverPredator **$2** · ChaosGoblinFF $0 · TradeHurricane $0.
@@ -39,22 +39,22 @@ Facts first. **Saturday evening. leftover last_ran 21 empty. MNF designations IN
 - **Kenneth Walker III (RB, KC)** — **Official OUT** groin vs ARI. DNP×3. **Sit.** **78 HOLD** (ROS; weekly OUT is not a recut). Formula **59** is the wrong scale. Johnson **START lock**. Owned AustinDoingWork.
 - **Emmett Johnson (RB, KC)** — Sleeper **RB/1**. Walker **OUT**. **START vs ARI.** **34 HOLD.** Owned TradeHurricane. 16 mph / feels 43 is **not** a sit.
 - **Geno Smith (QB, NYJ)** — **Off Friday report.** Fri **FP**. NFL.com no designation. **START @ LAC.** **22 HOLD.** Klubnik skip. Owned MrB.
-- **Bhayshul Tuten (RB, JAX)** — **No game status.** Fri **LP** after Thu DNP. **START @ NYG.** **36 HOLD.** MetLife 89% rain is **not** the sit reason. Owned RivalryEngine.
-- **DeVonta Smith (WR, PHI)** — **Off Friday report.** **START vs PIT.** **32 HOLD.** Owned RivalryEngine. Milton at QB. PHI 92% light rain **WATCH**, not a sit.
+- **Bhayshul Tuten (RB, JAX)** — **No game status.** Fri **LP** after Thu DNP. **START @ NYG.** **36 HOLD.** MetLife wet-game **WATCH** is **not** the sit reason. Owned RivalryEngine.
+- **DeVonta Smith (WR, PHI)** — **Off Friday report.** **START vs PIT.** **32 HOLD.** Owned RivalryEngine. Milton at QB. PHI 79% rain **WATCH**, not a sit.
 - **Jaylen Waddle (WR, DEN)** — NFL.com **FP / no game status = PLAYS**. Sleeper Q **CLEARED**. **START vs LV.** **14 HOLD.** Owned AnalyticsOverlord.
 - **T.J. Hockenson (TE, MIN)** — **Off Friday report.** **START SNF.** ZeroChill cover if Bowers sits.
 - **Isaiah Likely (TE, NYG)** — Fri **DNP** groin. Harbaugh: **“minor thing… he’ll be fine.”** No game designation. **START vs JAX.** Watch Sunday inactives. Owned MrB.
 - **Ladd McConkey (WR, LAC)** — **Friday Q.** LP×3. **Sit until Sunday inactives.** **12 HOLD.** Harris leftover **$0**. Owned MrB.
 - **Tre' Harris (WR, LAC)** — **FA leftover $0.** Dart only if McConkey sits Sunday. **16 HOLD.** Not a 10-team WR2.
-- **Baker Mayfield (QB, TB)** — **Friday Q.** Pelissero Saturday: **on track to start** unless a setback (orthotic / new cleats). Still **sit-lean** vs DET trap even if active. QuietSniper: **start Cousins SNF**. Jalon leftover **$0 only if named Out**. **20 HOLD.**
+- **Baker Mayfield (QB, TB)** — **Friday Q.** Pelissero Saturday: **plantar fascia**, **on track to start** unless a setback (orthotic / new cleats). Still **sit-lean** vs DET trap even if active. QuietSniper: **start Cousins SNF**. Jalon leftover **$0 only if named Out** (Sleeper depth **4**, not QB/2). **20 HOLD.**
 - **Brock Bowers (TE, LV)** — **Friday Q** (Kubiak). DNP Wed / LP Thu+Fri. **Start-lean @ DEN.** **62 HOLD.** Mayer leftover **$0**. ZeroChill also has Hockenson cleared. Do **not** smash-sell.
 - **Mike Evans (WR, SF)** — **Friday Q** Achilles. Garafolo Saturday: **expected to play** SNF Mexico. Morning sit-lean **STALE**. **Start-lean** until Sunday inactives (~6:50 ET). Owned ZeroChillQB. Confirm the 7-man. Not a recut.
 - **David Montgomery (RB, HOU)** — **OWNED Klemm $0.** TNF **13.9**. **24 HOLD.** Marks **OUT**. Do **not** pay CMC. Formula **30** / PPG **8.4** is the wrong scale.
 - **Woody Marks (RB, HOU)** — **OUT concussion.** Inactive TNF. **Sit.** Owned WaiverPredator. **16 HOLD.**
 - **Marvin Harrison Jr. (WR, HOU)** — **OUT hamstring.** Inactive TNF. Sit. Owned WaiverPredator.
 - **Omarion Hampton (RB, LAC)** — **START vs NYJ.** **32 HOLD.** Not CMC. Do **not** pay formula 56.
-- **Luther Burden III (WR, CHI)** — Off report. **START vs NO.** CHI 91% rain/15 mph **WATCH**, not a sit. **28 HOLD.**
-- **Christian McCaffrey (RB, SF)** — Off Friday injury report. **SNF START.** Mexico drizzle/altitude **WATCH**, not a sit. **72 HOLD.**
+- **Luther Burden III (WR, CHI)** — Off report. **START vs NO.** CHI 84% rain/15 mph **WATCH**, not a sit. **28 HOLD.**
+- **Christian McCaffrey (RB, SF)** — Off Friday injury report. **SNF START.** Mexico **17% / altitude** — not a sit. **72 HOLD.**
 - **Chuba Hubbard (RB, CAR)** — Off report. **START vs BAL.** **44 HOLD.**
 - **Bucky Irving (RB, TB)** — Thu rest DNP / **Fri FP**. **START vs DET.**
 - **Dalton Kincaid (TE, BUF)** — **Doubtful** thumb/ankle. **Sit.** Owned AustinDoingWork.
@@ -63,7 +63,8 @@ Facts first. **Saturday evening. leftover last_ran 21 empty. MNF designations IN
 - **A.J. Brown (WR, NE)** — **Out** hamstring. ESPN: **multiple weeks**. Bye W11. **14 HOLD.**
 - **Puka Nacua (WR, LAR)** — **IR.** McVay: surgery, **likely out for the season**. Bye W11. **36 HOLD.**
 - **Darren Waller (TE, CAR)** — **Friday Q** knee. **Sit-lean.** FA skip.
-- **Stefon Diggs (WR, WAS)** — MNF Saturday designations **IN**. Commanders.com: remaining players **available**. NFL.com Sat table still **DNP / no game tag**. **START.** Morning CONFLICT **closed**. Owned AnalyticsOverlord.
+- **Stefon Diggs (WR, WAS)** — MNF Saturday designations **IN**. Commanders.com: **not listed**; remaining players **available**. Sleeper inj **CLEARED**. NFL.com table still **Fri DNP LAG**. **START.** Morning DNP/Full CONFLICT **closed**. Owned AnalyticsOverlord.
+- **Rachaad White (RB, WAS)** — **Friday Q** heel. Sat **DNP**. Quinn: shot to play. **Sit-lean** 10-team. Owned TradeHurricane.
 - **W11 leftover PROCESSED last_ran 21** (empty). Young / Harris / Mayer / Jalon **still FA $0**. Juwan **$3 owned**. Deebo **$1 owned**. No Saturday claims.
 
 ### If they play vs if they sit
@@ -76,7 +77,7 @@ Facts first. **Saturday evening. leftover last_ran 21 empty. MNF designations IN
 | Bowers @ DEN | **START-lean** | Hockenson covers ZeroChill | Mayer FA | Friday Q |
 | Evans SNF | **START-lean** | Sit | Deebo owned, not a WR2 | Garafolo expected; still Q |
 | Geno @ LAC | **START** | Klubnik skip | Off report | Cleared Fri FP |
-| Tuten @ NYG | **START** | Rodriguez owned, skip 10-team | No game status | Rain not a sit |
+| Tuten @ NYG | **START** | Rodriguez owned, skip 10-team | No game status | Wet-game WATCH not a sit |
 | Waddle vs LV | **START** | Sutton owned QuietSniper | No designation | PLAYS |
 | DeVonta vs PIT | **START** | Sit | Off report | Cleared |
 | Likely vs JAX | **START** | Sit | Fri DNP / no designation | Harbaugh minor |
@@ -103,8 +104,9 @@ Facts first. **Saturday evening. leftover last_ran 21 empty. MNF designations IN
 - **Jones waived (Colts.com, fact).** Sleeper team now **None**. Still RivalryEngine until dropped. Waivers through **Monday 4:00 PM ET**. Richardson named W12.
 - **Nacua surgery / likely season (McVay, fact).** **36 HOLD.** Bye W11.
 - **AJB multiple weeks (ESPN, fact).** Bye W11. **14 HOLD.**
-- **MNF Saturday designations IN (Bengals.com 4:15 PM / Commanders.com 3:59 PM, fact).** Burrow / Higgins / Daniels **no tag START**. Diggs **START**. White **Q sit-lean**.
-- **DEN ESPN −10.5 (fact).** Friday ESPN −10 / books −10.5 CONFLICT **closed**.
+- **MNF Saturday designations IN (Bengals.com 4:15 PM / Commanders.com 3:59 PM, fact).** Burrow / Higgins / Daniels **no tag START**. Diggs **not listed / Sleeper CLEARED START**. White **Q sit-lean**.
+- **Diggs Sleeper inj CLEARED (Sleeper, fact).** Commanders.com Saturday does **not** list him. NFL.com DNP table is **Friday lag**. **START.**
+- **ESPN Sat PM line moves (fact).** DAL **−8.5→−7.5**. DET **−5.5/45.5→−4.5/46.5**. KC **−16.5→−15.5**. LAC total **41.5→42.5**. Mexico drizzle **17%** (morning 58–69% **STALE**).
 - **TNF CLOSED HOLDS.** Montgomery **24 HOLD**. Taylor **70 HOLD**. Stroud **66 HOLD**. Nico **32 HOLD**. Dell **16 HOLD**.
 - **display_week=11 (fact).** Formula W11 byes correct. TNF **not** in formula PPG. **Do not mix scales.**
 
@@ -119,7 +121,7 @@ Facts first. **Saturday evening. leftover last_ran 21 empty. MNF designations IN
 | **Strong** | Bryce Young | QB | CAR | **0% / $0 leftover** | Dropped for Deebo $1. vs BAL START SF2. **38 HOLD.** Best leftover. |
 | **Speculative** | Tre' Harris | WR | LAC | **0% / $0 leftover** | McConkey **Friday Q**. $0 if he sits Sunday. Not a WR2 lock. |
 | **Speculative** | Michael Mayer | TE | LV | **0% / $0 leftover** | Bowers **Friday Q**. ZeroChill already has Hockenson cleared. |
-| **Speculative** | Jalon Daniels | QB | TB | **0% / $0 leftover** | **Only if Mayfield is named Out.** Sleeper QB/2. DET trap. Young is the better leftover SF2. |
+| **Speculative** | Jalon Daniels | QB | TB | **0% / $0 leftover** | **Only if Mayfield is named Out.** Sleeper depth **4**, not QB/2. DET trap. Young is the better leftover SF2. |
 | **Skip** | Cade Klubnik | QB | NYJ | $0 | Geno **off report START**. |
 | **Skip** | Oronde Gadsden | TE | LAC | $0 | QuietSniper failed him $1. Not a 10-team TE1. |
 | **Skip** | Deebo Samuel Sr. | WR | SF | — | **OWNED AustinDoingWork $1.** Not a 10-team WR2. Dropping Young for him is the story. |
@@ -166,9 +168,9 @@ Superflex Half-PPR. **W11 Saturday evening. leftover last_ran 21 empty. MNF desi
 
 - **Already played:** Nico **13.3**. Dell **4.2**.
 - **Must-start:** Chase MNF, Amon-Ra vs TB, CeeDee vs TEN, Jefferson SNF, Nabers vs JAX, Pickens vs TEN, Tet vs BAL, Higgins MNF, Olave @ CHI, **Burden START vs NO**, **DeVonta START vs PIT**, **Waddle START vs LV**.
-- **Strong start:** Flowers @ CAR. Diggs MNF (no designation; DNP/Full **CONFLICT** not a sit). Rice vs ARI. DJ Moore. Odunze. Parker Washington @ NYG.
-- **Toss-up:** McConkey until Sunday inactives. Harris only if McConkey sits. Flournoy vs TEN. Evans until Saturday/Sunday named.
-- **Sit / trap:** JSN / London / Golden / AJB **bye**. McConkey-blind. Nacua IR. MHJ **OUT**. Addison Out. Evans Q sit-lean until named. Deebo as a paid WR2. Hutchinson as a paid WR2.
+- **Strong start:** Flowers @ CAR. **Diggs MNF START** (Commanders.com not listed; Sleeper **CLEARED**; NFL.com Fri DNP **LAG**). Rice vs ARI. DJ Moore. Odunze. Parker Washington @ NYG. **Evans start-lean SNF** (Garafolo expected; confirm ~6:50 ET).
+- **Toss-up:** McConkey until Sunday inactives. Harris only if McConkey sits. Flournoy vs TEN.
+- **Sit / trap:** JSN / London / Golden / AJB **bye**. McConkey-blind. Nacua IR. MHJ **OUT**. Addison Out. Evans-blind without SNF inactives. Deebo as a paid WR2. Hutchinson as a paid WR2.
 
 ### TE
 
@@ -190,18 +192,18 @@ Startable QB2/QB3 **W11 remaining:** Nix, Caleb, Ward, Herbert, Dak, Burrow, **G
 ## 6. Matchups that matter
 
 - **TNF CLOSED HOU 26–IND 3:** Montgomery **13.9 / 24 GUESS**. Stroud **27.46 HOLD 66**. Nico **13.3 HOLD 32**. Taylor **4.7 HOLD 70**. Dell **4.2 HOLD 16**. Jones waived after. Marks/MHJ inactive.
-- **TEN @ DAL 54.5:** highest total. Ward **START**. Dak / Pickens / CeeDee / Javonte smash-lean. Indoor (roof may close).
-- **ARI @ KC −16.5 / 40.5:** Walker **OUT**. Johnson **START lock**. McBride / Rice / Kelce **START**. **49°F feels 43 / 16 mph** — not a sit.
-- **NYJ @ LAC −3 / 41.5:** Geno **START**. Hampton START not smash. McConkey **Friday Q sit**. Harris dart only if he sits. Herbert start not smash. Indoor.
-- **MIA @ BUF −16.5 / 44.5:** Cook smash. Allen smash. 64°F / 0% — not a sit.
-- **NO @ CHI −11.5 / 48.5:** Caleb / Swift / Odunze / Loveland / **Burden START**. Kamara not a must-start. Olave still startable. **57°F / 15 mph / 91% rain WATCH**, not a sit.
-- **BAL @ CAR −3 / 43.5:** **Young leftover START**. Hubbard **START**. Flowers START. Brissett startable SF2. **42% showers WATCH**, not a sit.
-- **LV @ DEN −10.5 / 40.5:** Nix START. Bowers **Q start-lean**. Waddle **START**. Dry **46°F**.
-- **CIN @ WAS MNF −6 / 53.5 (some −6.5 CONFLICT):** Saturday designations **IN**. Burrow / Higgins / Daniels **no tag START**. Chase / Chase Brown / Diggs **START**. White **Q sit-lean**. Dry 53°F.
-- **MIN vs SF SNF Mexico −3 / 46.5 (CBS −3.5 CONFLICT):** Purdy / CMC / Jefferson / Cousins / **Hockenson START**. Addison Out. **Evans start-lean** (Garafolo expected; confirm ~6:50 ET). Kyler Out. **~62% drizzle / altitude WATCH**, not a sit.
-- **PIT @ PHI −3.5 / 37.5:** Saquon **START**. DeVonta **START**. Milton skip as SF2. Warren not smash. **92% light rain WATCH**, not a sit.
-- **JAX @ NYG −6 / 46.5:** Lawrence / Nabers **START**. Tuten **START**. Likely **START**. **89% rain WATCH**, not a sit.
-- **TB @ DET −5.5 / 45.5:** Gibbs smash. Mayfield **Q sit-lean**. Irving **Fri FP START**. Indoor.
+- **TEN @ DAL 54.5:** highest total. ESPN **DAL −7.5** (morning −8.5 **STALE**). Ward **START**. Dak / Pickens / CeeDee / Javonte smash-lean. Indoor (roof may close).
+- **ARI @ KC −15.5 / 40.5:** Walker **OUT**. Johnson **START lock**. McBride / Rice / Kelce **START**. **49°F / 15 mph / 0%** — not a sit.
+- **NYJ @ LAC −3 / 42.5:** Geno **START**. Hampton START not smash. McConkey **Friday Q sit**. Harris dart only if he sits. Herbert start not smash. SoFi canopy.
+- **MIA @ BUF −16.5 / 44.5:** Cook smash. Allen smash. 66°F / 0% — not a sit.
+- **NO @ CHI −11.5 / 48.5:** Caleb / Swift / Odunze / Loveland / **Burden START**. Kamara not a must-start. Olave still startable. **57°F / 15 mph / 84% rain WATCH**, not a sit.
+- **BAL @ CAR −3 / 43.5:** **Young leftover START**. Hubbard **START**. Flowers START. Brissett startable SF2. **57% showers WATCH**, not a sit.
+- **LV @ DEN −10.5 / 40.5:** Nix START. Bowers **Q start-lean**. Waddle **START**. Dry **44°F**.
+- **CIN @ WAS MNF −6 / 53.5 (Covers −6.5 / 54.5 CONFLICT):** Saturday designations **IN**. Burrow / Higgins / Daniels **no tag START**. Chase / Chase Brown / Diggs **START**. White **Q sit-lean**. Dry 53°F.
+- **MIN vs SF SNF Mexico −3 / 46.5 (CBS/Covers −3.5 CONFLICT):** Purdy / CMC / Jefferson / Cousins / **Hockenson START**. Addison Out. **Evans start-lean** (Garafolo expected; confirm ~6:50 ET). Kyler Out. **17% rain / altitude** — not a sit.
+- **PIT @ PHI −3.5 / 37.5:** Saquon **START**. DeVonta **START**. Milton skip as SF2. Warren not smash. **79% rain WATCH**, not a sit.
+- **JAX @ NYG −6 / 46.5:** Lawrence / Nabers **START**. Tuten **START**. Likely **START**. Wet-game **WATCH**, not a sit.
+- **TB @ DET −4.5 / 46.5:** Gibbs smash. Mayfield **Q sit-lean**. Irving **Fri FP START**. Indoor.
 - **W11 six-team bye:** do not start ATL / CLE / GB / LAR / NE / SEA.
 
 ---
@@ -220,10 +222,10 @@ Same scale every day. Superflex: starting QBs premium. Half-PPR: WRs hold. 10-te
 
 **TE** — Bowers 62 HOLD (**Friday Q start-lean**) · McBride 58 · Kelce 34 (**START vs ARI**) · Tyler Warren 28 GUESS (TNF 2.7) · Loveland 22 · Goedert 22 · Likely 22 GUESS (**Fri DNP / no designation START**) · Higbee 20 GUESS (bye) · Strange 16 GUESS · Fannin 16 (bye) · Kincaid 14 (**Doubtful sit**) · Waller 14 Q sit-lean.
 
-### B. Biggest risers / fallers since last packet (Sat 7:15 AM)
+### B. Biggest risers / fallers since last packet (Sat 5:15 PM)
 
-- **Risers:** none on this scale. Evans expected-to-play / MNF designations IN / leftover last_ran 21 are **call notes**, not recuts.
-- **Fallers:** none on this scale. Walker **OUT** is a weekly call, **78 HOLD**. Maye fibula already priced at 58. Formula DeVonta 66→67 is noise.
+- **Risers:** none on this scale. ESPN line moves / Mexico 17% / Diggs Sleeper CLEARED are **call notes**, not recuts.
+- **Fallers:** none on this scale. Walker **OUT** is a weekly call, **78 HOLD**. Maye fibula already priced at 58.
 - **HOLD:** Maye 58. Montgomery 24. Hampton 32. Walker 78. Johnson 34. Bowers 62. Taylor 70. Stroud 66. Nico 32. Young 38. Geno 22. Tuten 36. McConkey 12. Harris 16. Mayfield 20. Waddle 14. DeVonta 32. Burden 28. Hubbard 44. CMC 72.
 - **Do not pay 88 for Maye. Do not dump Maye to 12. Do not recut Walker to formula 59. Do not pay CMC for Hampton 32 or Montgomery 24. Do not smash-sell Taylor after 4.7. Do not pay formula-Geno 45 / formula-Stroud 73 / formula-Nico 75 / formula-Bowers 87 / formula-Maye 33 / formula-Allen 84 / formula-Burrow 88 / formula-Tuten 79.**
 
@@ -260,7 +262,7 @@ Same scale every day. Superflex: starting QBs premium. Half-PPR: WRs hold. 10-te
 - Smash-selling Bowers after Friday Q. **62 HOLD.**
 - Smash-selling Taylor after one TNF dud. **70 HOLD.**
 - Starting Walker **OUT**. Starting McConkey-blind. Starting Mayfield-blind at DET. Starting Evans-blind without SNF inactives. Starting W11 byes. Starting Marks / MHJ (already inactive).
-- Treating leftover as unposted. last_ran is **20**. **Young is FA $0.**
+- Treating leftover as unposted. last_ran is **21**. **Young is FA $0.**
 - Dropping Young for Deebo (already happened — add Young back $0 if you have a hole).
 - Treating Juwan as a $0 leftover / Deebo as $0 — they were **$3 / $1** processed claims.
 - Treating formula 1.0.0 as this board (Maye 33 / Walker 59 / Geno 45 / Stroud 73 / Nico 75 / Hampton 56 / Allen 84 / Burrow 88 / Montgomery 30 / Bowers 87 / Tuten 79).

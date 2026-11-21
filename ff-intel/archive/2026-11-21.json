@@ -1,6 +1,6 @@
 {
   "formula_version": "1.0.0",
-  "generated_at_et": "2026-11-21 05:15 PM EST",
+  "generated_at_et": "2026-11-21 05:20 PM EST",
   "nfl_week": "11",
   "league": {
     "id": "1395904889149739008",
@@ -28,11 +28,13 @@
     "NFL Network Garafolo Saturday: Mike Evans expected to play SNF vs Vikings. Officially still Q. Morning sit-lean STALE. Start-lean until Sunday inactives ~6:50 ET.",
     "MNF Saturday designations IN (Bengals.com 4:15 PM / Commanders.com 3:59 PM / CBS Burrow cleared): Burrow FP Sat / no tag START. Higgins FP Sat / no tag START. Daniels FP Sat / no tag START. Diggs no game tag START. White Q heel Sat DNP sit-lean.",
     "Pelissero Saturday: Mayfield on track to start unless setback (orthotic / new cleats). Still sit-lean DET trap. QuietSniper start Cousins. Jalon leftover only if named Out.",
-    "NFL.com injury table Saturday PM: Walker official OUT groin DNP x3. Waddle Fri FP / no designation. Geno Fri FP / no designation. Tuten Fri LP / no designation. DeVonta Fri FP / no designation. Hockenson Fri FP / no designation. McConkey Friday Q / LP x3. Bowers Friday Q. Evans Friday Q. Kincaid Doubtful. Sleeper: Waddle Q tag CLEARED. Young FA. Maye Out QuietSniper not IR-tagged.",
     "Sleeper: week=11 display_week=11 last_scored_leg=10 daily_waivers_last_ran=21 W11 txs=6. Empty IR: QuietSniper/MrB/Klemm/WaiverPredator.",
-    "Weather Saturday PM (scoresandstats NWS Sat 9:12 AM ET / FOX 29 4:30 PM): NO@CHI 58F / 15 mph / 85% rain WATCH not a sit; PIT@PHI 63F / 10 mph / 89% light rain WATCH not a sit (rain may intensify after 3 PM); JAX@NYG 61F / 8 mph / 89% rain WATCH not a sit; Mexico SNF 66F / 62% drizzle / altitude WATCH not a sit. TNF indoor closed. No weather sits.",
-    "ESPN/CBS Week 11 lines Saturday: BUF -16.5/44.5; CHI -11.5/48.5; DAL -8.5/54.5; DET -5.5/45.5; KC -16.5/40.5; PIT -3.5/37.5; CAR -3/43.5; LAC -3/41.5; DEN -10.5/40.5; JAX -6/46.5; SF -3/46.5 Mexico (CBS -3.5 CONFLICT); CIN -6/53.5 MNF (some -6.5 CONFLICT).",
-    "Prior curated packet 2026-11-21 07:15 AM EST (8917607). Values FLAT. Call flips: leftover last_ran 21 empty; Evans expected to play; MNF Saturday designations IN; Mayfield on track still sit-lean DET. Formula 1.0.0 generate 2026-11-21 05:00 PM EST (f8869b9) \u2014 do not mix scales (Allen 84 / Burrow 88 / Maye 33 / Hampton 56 / Walker 59 / Stroud 73 / Nico 75 / Geno 45 / Montgomery 30 PPG 8.4 TNF not in formula / Bowers 87 / Burden 76 / Tuten 79 / Waddle 48 / DeVonta 67).",
+    "ESPN Week 11 schedule Saturday PM: DAL -7.5/54.5 (morning -8.5 STALE); DET -4.5/46.5 (morning -5.5/45.5 STALE); KC -15.5/40.5 (morning -16.5 STALE); LAC -3/42.5 (morning 41.5 STALE); BUF -16.5/44.5; CHI -11.5/48.5 (Covers -10.5 CONFLICT); PIT -3.5/37.5; CAR -3/43.5; DEN -10.5/40.5; JAX -6/46.5; SF -3/46.5 Mexico (CBS/Covers -3.5 CONFLICT); CIN -6/53.5 MNF (Covers -6.5/54.5 CONFLICT).",
+    "Weather Saturday PM (MySportsWeather meteorologist + scoresandstats NWS Sat 9:12 AM ET): NO@CHI 57F / 15 mph gusts 25 / 84% rain WATCH first-half wetter not a sit; PIT@PHI 63F / 10 mph / 79% rain WATCH wetter 2H not a sit; JAX@NYG 62F / 8 mph / 67% at kick rising late WATCH meteorologist moderate-heavy rain / gameplan hit still not a Tuten/Lawrence/Nabers sit; Mexico SNF 65F / 1 mph / 17% rain (morning 58-69% drizzle STALE) altitude only not a sit; KC 49F / 15 mph / 0%; CAR 62F / 8 mph / 57% showers WATCH; DEN 44F / 5 mph / 0%; BUF 66F / 7 mph / 0%; WAS MNF 53F / 8 mph / 0%. TNF indoor closed. No weather sits.",
+    "Sleeper Saturday 5:20 PM ET: Diggs inj CLEARED; Waddle Q CLEARED; Young FA leftover $0; Harris/Mayer/Jalon still FA $0; Jones team None still RivalryEngine; Richardson FA skip; Jalon depth 4 not QB/2; Maye Out QuietSniper not IR-tagged; Walker Out AustinDoingWork; White Q TradeHurricane; last_ran=21 W11 txs still 6. Empty IR: QuietSniper/MrB/Klemm/WaiverPredator.",
+    "Commanders.com Saturday 3:59 PM: Diggs not listed / remaining players available START. NFL.com Diggs DNP table is Friday lag. Sleeper Diggs inj CLEARED. Morning DNP/Full CONFLICT closed.",
+    "Pelissero Saturday: Mayfield plantar fascia / on track to start unless setback (orthotic / new cleats). Still sit-lean DET trap. Jalon leftover only if named Out (Sleeper depth 4).",
+    "Prior curated packet 2026-11-21 05:15 PM EST (3936736). Values FLAT. Call/weather/line only: ESPN DAL/DET/KC/LAC moves; Mexico 17%; Diggs Sleeper CLEARED; leftover last_ran 21 confirmed. Formula 1.0.0 generate 2026-11-21 05:00 PM EST (f8869b9) \u2014 do not mix scales (Allen 84 / Burrow 88 / Maye 33 / Hampton 56 / Walker 59 / Stroud 73 / Nico 75 / Geno 45 / Montgomery 30 PPG 8.4 TNF not in formula / Bowers 87 / Burden 76 / Tuten 79 / Waddle 48 / DeVonta 67).",
     "Sleeper weekly projections (remaining regular-season weeks), converted to this league's Half-PPR / 6-pt pass TD scoring",
     "Sleeper league matchup players_points for production (played weeks only)",
     "Sleeper weekly player stats for snap / carry / target share",
@@ -5859,9 +5861,9 @@
     "HOLD stars on one smash/dud: Taylor 70 / Stroud 66 / Nico 32.",
     "Bryce Young is FA leftover $0 after a Deebo $1 claim. 38 HOLD START vs BAL.",
     "Juwan Johnson was a $3 processed claim, not leftover $0. Deebo was $1, not $0.",
-    "Evans Saturday walkthrough decision is MISSING. Sit-lean until named. Not a recut.",
     "Evans is expected to play SNF (Garafolo). Start-lean until Sunday inactives. Not a recut.",
-    "Leftover last_ran 21 was an empty process. Young is still FA leftover $0."
+    "Leftover last_ran 21 was an empty process. Young is still FA leftover $0.",
+    "Mexico SNF rain is 17% (morning drizzle WATCH STALE). Altitude only. Not a Purdy/CMC/Jefferson/Evans sit."
   ],
   "ripoff_flags": [
     "Paying 88 for Maye. He is 58 GUESS with official fibula fracture. Formula 33 is the wrong scale.",
@@ -5910,8 +5912,8 @@
       "pos": "QB",
       "team": "TB",
       "status": "Questionable",
-      "note": "Foot/right thumb. Friday Q. Pelissero Saturday: on track to start unless setback. Still sit-lean DET trap.",
-      "replacement": "Cousins covers QuietSniper; Jalon leftover $0 only if named Out"
+      "note": "Plantar fascia / foot/right thumb. Friday Q. Pelissero Saturday: on track to start unless setback (orthotic / new cleats). Still sit-lean DET trap.",
+      "replacement": "Cousins covers QuietSniper; Jalon leftover $0 only if named Out (Sleeper depth 4)"
     },
     {
       "player": "Brock Bowers",
@@ -6048,6 +6050,22 @@
       "status": "Questionable",
       "note": "Knee. Friday Q. Sit-lean. FA skip.",
       "replacement": null
+    },
+    {
+      "player": "Rachaad White",
+      "pos": "RB",
+      "team": "WAS",
+      "status": "Questionable",
+      "note": "Heel. Friday Q. Sat DNP. Quinn shot to play. Sit-lean 10-team.",
+      "replacement": "Not a 10-team RB2 dart"
+    },
+    {
+      "player": "Stefon Diggs",
+      "pos": "WR",
+      "team": "WAS",
+      "status": "Healthy",
+      "note": "MNF. Commanders.com Saturday not listed / remaining available. Sleeper inj CLEARED. NFL.com DNP table is Friday lag. START.",
+      "replacement": null
     }
   ],
   "news": [
@@ -6110,6 +6128,21 @@
       "player": "Daniel Jones",
       "note": "Colts waived. Sleeper team None. Still RivalryEngine. NFL waivers until Monday 4:00 PM ET.",
       "impact": "18 HOLD. Skip as a 10-team add until actually FA."
+    },
+    {
+      "player": "Stefon Diggs",
+      "note": "Sleeper inj CLEARED. Commanders.com Saturday does not list him; remaining players available. NFL.com DNP table is Friday lag.",
+      "impact": "START MNF. Morning DNP/Full CONFLICT closed."
+    },
+    {
+      "player": "lines",
+      "note": "ESPN Saturday PM: DAL -8.5 to -7.5; DET -5.5/45.5 to -4.5/46.5; KC -16.5 to -15.5; LAC 41.5 to 42.5.",
+      "impact": "Call notes only. Not recuts. Smash totals still TEN@DAL 54.5 and CIN@WAS 53.5."
+    },
+    {
+      "player": "weather",
+      "note": "Mexico 17% rain (morning drizzle STALE). CHI 84% / PHI 79% still WATCH. JAX@NYG meteorologist wet-game WATCH.",
+      "impact": "No weather sits. Tuten/Lawrence/Nabers/Burden/Saquon/DeVonta still START."
     }
   ],
   "faab": [
@@ -6143,7 +6176,7 @@
       "priority": "Speculative",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Only if Mayfield is named Out. DET trap. QuietSniper has Cousins. Young is the better leftover SF2."
+      "why": "Only if Mayfield is named Out. Sleeper depth 4, not QB/2. DET trap. QuietSniper has Cousins. Young is the better leftover SF2."
     },
     {
       "player": "Cade Klubnik",
@@ -6241,7 +6274,7 @@
       "player": "Bhayshul Tuten",
       "pos": "RB",
       "call": "Must-start",
-      "note": "No game status. START @ NYG. Rain WATCH not a sit."
+      "note": "No game status. START @ NYG. Wet-game WATCH not a sit."
     },
     {
       "player": "DeVonta Smith",
@@ -6283,7 +6316,7 @@
       "player": "Baker Mayfield",
       "pos": "QB",
       "call": "Sit / trap",
-      "note": "Friday Q. Pelissero on track. Still sit-lean DET trap. Start Cousins."
+      "note": "Friday Q. Plantar fascia. Pelissero on track. Still sit-lean DET trap. Start Cousins."
     },
     {
       "player": "Ladd McConkey",
@@ -6301,7 +6334,7 @@
       "player": "Luther Burden III",
       "pos": "WR",
       "call": "Must-start",
-      "note": "Off report. START vs NO. CHI 91% rain / 15 mph WATCH not a sit."
+      "note": "Off report. START vs NO. CHI 84% rain / 15 mph WATCH not a sit."
     },
     {
       "player": "Cam Ward",
@@ -6313,7 +6346,7 @@
       "player": "Christian McCaffrey",
       "pos": "RB",
       "call": "Must-start",
-      "note": "Off Friday report. SNF START. Mexico drizzle/altitude WATCH not a sit."
+      "note": "Off Friday report. SNF START. Mexico 17% rain / altitude not a sit."
     },
     {
       "player": "Chuba Hubbard",
@@ -6367,7 +6400,7 @@
       "player": "Stefon Diggs",
       "pos": "WR",
       "call": "Must-start",
-      "note": "MNF Saturday designations IN. No game tag. START."
+      "note": "MNF Saturday designations IN. Commanders.com not listed. Sleeper inj CLEARED. START."
     },
     {
       "player": "Rachaad White",
@@ -6395,6 +6428,7 @@
     "MNF Saturday designations IN. Start Burrow / Higgins / Daniels / Diggs. White Q sit-lean.",
     "Maye 58 HOLD. Walker 78 HOLD. Montgomery 24 HOLD. Taylor 70 HOLD. Do not pay formula Tuten 79 / Waddle 48 / DeVonta 67.",
     "Harris leftover $0 if McConkey sits. Mayer leftover $0 if Bowers sits. Klubnik skip. Jalon only if named.",
-    "Sunday 1:00 locks. Sunday inactives ~11:30 ET. Trade deadline Week 12."
+    "Sunday 1:00 locks. Sunday inactives ~11:30 ET. Trade deadline Week 12.",
+    "Mexico 17% rain (morning drizzle STALE). CHI 84% / PHI 79% / JAX wet-game are WATCH not sits. ESPN DAL now -7.5; DET -4.5/46.5."
   ]
 }
