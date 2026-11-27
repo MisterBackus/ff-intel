@@ -1,6 +1,6 @@
 {
   "formula_version": "1.0.0",
-  "generated_at_et": "2026-11-26 05:15 PM EST",
+  "generated_at_et": "2026-11-26 05:00 PM EST",
   "nfl_week": "12",
   "league": {
     "id": "1395904889149739008",
@@ -27,17 +27,9 @@
     "Sleeper league matchup players_points for production (played weeks only)",
     "Sleeper weekly player stats for snap / carry / target share",
     "Sleeper player directory for injury status, depth chart, search_rank",
-    "Sleeper trending adds (48h) for the news/trend component",
-    "Sleeper league 1395904889149739008 rosters / week-12 matchups+starters+points ~5:04 PM EST / transactions 12=4 (Williams leftover $0 WaiverPredator drop Marks; failed AO/RE/ZC) / NFL state. last_scored_leg=11. daily_waivers_last_ran=26 Thursday leftover PROCESSED. display_week=12, formula BYE tags 0",
-    "NFL.com Week 12 IR + Thanksgiving inactives: CHI/DET/PHI/DAL IN; KC/BUF 7-man MISSING ~6:50. Walker OUT Thu; Ferguson Out; Roschon Out. PHI@DAL LIVE Q1 0-0 kick delayed ~4:45",
-    "AP/NFL gamebook CHI 39-DET 35 FINAL. Gibbs 21-205-3 / 43.2 HPPR. Swift 9-65-1 + 7-97 / 25.7. Caleb 30/44 345-2 + 2pt / 29.3. Odunze 6-87-2 / 23.7 BENCH. Monangai 8-15-2 FA. ARSB 7-146 / 18.5. LaPorta 4-44-1 / 12.4. Goff 18.0",
-    "Rams.com / ESPN recap Wed: LAR 26-GB 13. Corum 32-184-1. Kyren 12-46-1. Watson concussion Out. Higbee chest Out",
-    "Seahawks.com Wed IR: Darnold FP, Lock LP elbow, JSN LP ankle; Purdy/Evans DNP; CMC NIR-rest. NBC JSN load-management. Rapoport Darnold expected to start",
-    "NBC/PFT Henry protocol (Minter) LP Wed. Chargers.com Herbert DNP Wed. Broncos.com Fri designations Dobbins suspended Coleman RB1. Tuten DNP Wed. Bowers LP Kubiak optimistic",
-    "MySportsWeather/NWS Highmark 5 PM ET: 37F 98% rain NE 15 gusts 35-38. CBS BUF -3 / 45.5. Overlay 1-100 is the trade scale; formula 1.0.0 dump from 05:00 PM EST is NOT",
-    "Formula 1.0.0 players[] / sanity_gaps from 2026-11-26 05:00 PM EST generate on main. Overlay trade_board is the bot scale."
+    "Sleeper trending adds (48h) for the news/trend component"
   ],
-  "commit_message": "intel: 2026-11-26 week 12",
+  "commit_message": "intel: 2026-11-26 week 12 values 1.0.0",
   "sanity_gaps": [
     {
       "player": "Jonah Coleman",
@@ -167,63 +159,55 @@
       "value": 98,
       "tier": "RB1",
       "trend": "flat",
-      "note": "HOLD 98. Thu smash locked 21-205-3 / 43.2 (WaiverPredator started). Already the top. Do not recut."
-    },
-    {
-      "player": "Jaxon Smith-Njigba",
-      "pos": "WR",
-      "value": 98,
-      "tier": "WR1",
-      "trend": "flat",
-      "note": "HOLD 98. Sleeper Q / LP ankle Wed. NBC: likely load management. Klemm STARTED him (morning bench STALE). Start if active. Bye over."
+      "note": "proj 100 / prod 100 / role 98"
     },
     {
       "player": "Amon-Ra St. Brown",
       "pos": "WR",
-      "value": 95,
+      "value": 94,
       "tier": "WR1",
       "trend": "flat",
-      "note": "HOLD 95. 7-146 / 18.5 locked (TradeHurricane). Box closed."
+      "note": "proj 98 / prod 94 / role 94"
     },
     {
       "player": "CeeDee Lamb",
       "pos": "WR",
-      "value": 95,
+      "value": 93,
       "tier": "WR1",
       "trend": "flat",
-      "note": "HOLD 95 LIVE FLAT. Thu vs PHI Q1 \u2014 do not recut. ZeroChill started. 3.3 early."
+      "note": "proj 90 / prod 98 / role 98"
     },
     {
       "player": "Ja'Marr Chase",
       "pos": "WR",
-      "value": 95,
+      "value": 92,
       "tier": "WR1",
       "trend": "flat",
-      "note": "HOLD 95. MNF 5.6 dud locked, not a recut. vs NO smash Sunday."
+      "note": "proj 96 / prod 96 / role 84"
     },
     {
       "player": "James Cook III",
       "pos": "RB",
-      "value": 94,
+      "value": 92,
       "tier": "RB1",
       "trend": "flat",
-      "note": "HOLD. Thu vs KC 8:20. Rain/gusts WATCH not a sit. Total 45.5."
+      "note": "proj 92 / prod 90 / role 100"
+    },
+    {
+      "player": "Jaxon Smith-Njigba",
+      "pos": "WR",
+      "value": 92,
+      "tier": "WR1",
+      "trend": "flat",
+      "note": "Questionable x0.95"
     },
     {
       "player": "Bijan Robinson",
       "pos": "RB",
-      "value": 89,
+      "value": 90,
       "tier": "RB1",
-      "trend": "flat",
-      "note": "HOLD. Bye over @ MIN. Klemm STARTED him (morning bench STALE)."
-    },
-    {
-      "player": "Bucky Irving",
-      "pos": "RB",
-      "value": 88,
-      "tier": "RB1",
-      "trend": "flat",
-      "note": "HOLD. 17.5 ChaosGoblin BENCH. MNF vs CAR start."
+      "trend": "down",
+      "note": "proj 96 / prod 88 / role 88"
     },
     {
       "player": "Christian McCaffrey",
@@ -231,7 +215,7 @@
       "value": 88,
       "tier": "RB1",
       "trend": "flat",
-      "note": "HOLD. vs SEA."
+      "note": "proj 98 / prod 96 / role 58"
     },
     {
       "player": "Chuba Hubbard",
@@ -239,191 +223,231 @@
       "value": 88,
       "tier": "RB1",
       "trend": "flat",
-      "note": "HOLD. MNF @ TB."
-    },
-    {
-      "player": "Joe Burrow",
-      "pos": "QB",
-      "value": 88,
-      "tier": "QB1",
-      "trend": "flat",
-      "note": "HOLD SF1. MNF 23.9 closed. vs NO smash."
+      "note": "proj 88 / prod 94 / role 92"
     },
     {
       "player": "Trey McBride",
       "pos": "TE",
-      "value": 87,
+      "value": 88,
       "tier": "TE1",
       "trend": "flat",
-      "note": "HOLD."
+      "note": "proj 83 / prod 94 / role 100"
+    },
+    {
+      "player": "Joe Burrow",
+      "pos": "QB",
+      "value": 87,
+      "tier": "QB1",
+      "trend": "flat",
+      "note": "SF QB1 floor 45"
+    },
+    {
+      "player": "Bucky Irving",
+      "pos": "RB",
+      "value": 86,
+      "tier": "RB1",
+      "trend": "down",
+      "note": "proj 90 / prod 85 / role 83"
+    },
+    {
+      "player": "Matthew Golden",
+      "pos": "WR",
+      "value": 86,
+      "tier": "WR2",
+      "trend": "up",
+      "note": "proj 88 / prod 88 / role 90"
+    },
+    {
+      "player": "George Kittle",
+      "pos": "TE",
+      "value": 85,
+      "tier": "TE1",
+      "trend": "flat",
+      "note": "proj 94 / prod 89 / role 83"
+    },
+    {
+      "player": "Brock Bowers",
+      "pos": "TE",
+      "value": 84,
+      "tier": "TE1",
+      "trend": "flat",
+      "note": "Questionable x0.95"
     },
     {
       "player": "Josh Allen",
       "pos": "QB",
-      "value": 84,
+      "value": 83,
       "tier": "QB1",
       "trend": "flat",
-      "note": "HOLD SF1. Thu vs KC 8:20 rain/gusts 35-38 WATCH not a sit. Total 45.5."
-    },
-    {
-      "player": "Tee Higgins",
-      "pos": "WR",
-      "value": 84,
-      "tier": "WR2",
-      "trend": "flat",
-      "note": "HOLD. MNF 11.3. vs NO smash."
-    },
-    {
-      "player": "Justin Jefferson",
-      "pos": "WR",
-      "value": 83,
-      "tier": "WR1",
-      "trend": "flat",
-      "note": "HOLD. vs ATL."
-    },
-    {
-      "player": "Isaiah Likely",
-      "pos": "TE",
-      "value": 82,
-      "tier": "TE1",
-      "trend": "flat",
-      "note": "proj 88 / prod 82 / role 88"
+      "note": "SF QB1 floor 45"
     },
     {
       "player": "Tony Pollard",
       "pos": "RB",
-      "value": 82,
+      "value": 81,
       "tier": "RB1",
       "trend": "flat",
-      "note": "proj 84 / prod 78 / role 96"
-    },
-    {
-      "player": "Brock Purdy",
-      "pos": "QB",
-      "value": 80,
-      "tier": "QB1",
-      "trend": "flat",
-      "note": "HOLD 80. DNP Wed low ankle. Thursday practice MISSING. Shanahan: possibility sits Sunday. Mac Jones skip until named. Klemm started him. Do not recut yet."
+      "note": "proj 81 / prod 77 / role 96"
     },
     {
       "player": "Chris Olave",
       "pos": "WR",
       "value": 80,
       "tier": "WR1",
-      "trend": "flat",
-      "note": "proj 77 / prod 77 / role 92"
+      "trend": "up",
+      "note": "proj 77 / prod 76 / role 92"
     },
     {
-      "player": "George Kittle",
-      "pos": "TE",
-      "value": 80,
-      "tier": "TE1",
-      "trend": "flat",
-      "note": "HOLD."
-    },
-    {
-      "player": "Parker Washington",
+      "player": "Justin Jefferson",
       "pos": "WR",
       "value": 80,
       "tier": "WR1",
       "trend": "flat",
-      "note": "proj 81 / prod 79 / role 87"
-    },
-    {
-      "player": "D'Andre Swift",
-      "pos": "RB",
-      "value": 78,
-      "tier": "RB1",
-      "trend": "flat",
-      "note": "HOLD 78. 9-65-1 + 7-97 / 25.7 locked (ZeroChill started). PPR lead. Monangai vultured 2 TDs \u2014 do not recut down."
-    },
-    {
-      "player": "Dak Prescott",
-      "pos": "QB",
-      "value": 78,
-      "tier": "QB1",
-      "trend": "flat",
-      "note": "HOLD overlay 78 LIVE FLAT. Thu vs PHI Q1 \u2014 do not recut. WaiverPredator started. 1.32 early."
-    },
-    {
-      "player": "Javonte Williams",
-      "pos": "RB",
-      "value": 78,
-      "tier": "RB1",
-      "trend": "flat",
-      "note": "HOLD 78 LIVE FLAT. Thu vs PHI Q1 \u2014 do not recut. AustinDoingWork started. 10.5 early."
-    },
-    {
-      "player": "Kenneth Walker III",
-      "pos": "RB",
-      "value": 78,
-      "tier": "RB1",
-      "trend": "flat",
-      "note": "HOLD 78. OUT Thu (3rd straight groin). AustinDoingWork BENCHED him \u2014 Superflex hole FIXED (Caleb 29.3). Formula 58 Out haircut is wrong. Start Johnson 8:20. Do not smash-sell."
+      "note": "proj 92 / prod 61 / role 79"
     },
     {
       "player": "Malik Nabers",
       "pos": "WR",
-      "value": 78,
+      "value": 79,
       "tier": "WR1",
       "trend": "flat",
-      "note": "HOLD."
+      "note": "buy-low: volume > points"
     },
     {
       "player": "Patrick Mahomes",
       "pos": "QB",
-      "value": 78,
+      "value": 79,
       "tier": "QB1",
       "trend": "flat",
-      "note": "HOLD. Thu @ BUF 8:20 rain/gusts 35-38 WATCH not a sit."
+      "note": "SF QB1 floor 45"
+    },
+    {
+      "player": "Isaiah Likely",
+      "pos": "TE",
+      "value": 78,
+      "tier": "TE1",
+      "trend": "flat",
+      "note": "Questionable x0.95"
+    },
+    {
+      "player": "Tee Higgins",
+      "pos": "WR",
+      "value": 78,
+      "tier": "WR2",
+      "trend": "flat",
+      "note": "proj 87 / prod 90 / role 60"
+    },
+    {
+      "player": "Brock Purdy",
+      "pos": "QB",
+      "value": 77,
+      "tier": "QB1",
+      "trend": "flat",
+      "note": "Questionable x0.95"
+    },
+    {
+      "player": "Javonte Williams",
+      "pos": "RB",
+      "value": 77,
+      "tier": "RB1",
+      "trend": "flat",
+      "note": "proj 77 / prod 83 / role 71"
+    },
+    {
+      "player": "Drake London",
+      "pos": "WR",
+      "value": 76,
+      "tier": "WR1",
+      "trend": "flat",
+      "note": "buy-low: volume > points"
+    },
+    {
+      "player": "Parker Washington",
+      "pos": "WR",
+      "value": 76,
+      "tier": "WR1",
+      "trend": "down",
+      "note": "Questionable x0.95"
     },
     {
       "player": "Derrick Henry",
       "pos": "RB",
-      "value": 76,
+      "value": 75,
       "tier": "RB1",
       "trend": "flat",
-      "note": "HOLD 76. Back in protocol (Minter). LP Wed. Expects to play. Conservative sit-lean until Friday. RivalryEngine started him \u2014 start Croskey. Do not smash-sell."
-    },
-    {
-      "player": "Nico Collins",
-      "pos": "WR",
-      "value": 76,
-      "tier": "WR1",
-      "trend": "flat",
-      "note": "HOLD. vs BAL. MHJ Q sit."
+      "note": "Questionable x0.95"
     },
     {
       "player": "Trevor Lawrence",
       "pos": "QB",
-      "value": 76,
+      "value": 75,
       "tier": "QB1",
       "trend": "flat",
-      "note": "HOLD SF1. vs TEN."
-    },
-    {
-      "player": "Tetairoa McMillan",
-      "pos": "WR",
-      "value": 74,
-      "tier": "WR1",
-      "trend": "flat",
-      "note": "proj 71 / prod 69 / role 79"
+      "note": "SF QB1 floor 45"
     },
     {
       "player": "Zay Flowers",
       "pos": "WR",
-      "value": 73,
+      "value": 75,
       "tier": "WR1",
-      "trend": "flat",
-      "note": "proj 69 / prod 75 / role 77"
+      "trend": "up",
+      "note": "proj 69 / prod 75 / role 84"
     },
     {
-      "player": "Jayden Daniels",
+      "player": "C.J. Stroud",
+      "pos": "QB",
+      "value": 74,
+      "tier": "QB1",
+      "trend": "up",
+      "note": "SF QB1 floor 45"
+    },
+    {
+      "player": "Jonathan Taylor",
+      "pos": "RB",
+      "value": 74,
+      "tier": "RB1",
+      "trend": "down",
+      "note": "proj 67 / prod 71 / role 85"
+    },
+    {
+      "player": "Jordan Love",
+      "pos": "QB",
+      "value": 74,
+      "tier": "QB1",
+      "trend": "flat",
+      "note": "SF QB1 floor 45"
+    },
+    {
+      "player": "Nico Collins",
+      "pos": "WR",
+      "value": 74,
+      "tier": "WR1",
+      "trend": "up",
+      "note": "proj 85 / prod 82 / role 46"
+    },
+    {
+      "player": "Bhayshul Tuten",
+      "pos": "RB",
+      "value": 73,
+      "tier": "RB1",
+      "trend": "down",
+      "note": "Questionable x0.95"
+    },
+    {
+      "player": "D'Andre Swift",
+      "pos": "RB",
+      "value": 73,
+      "tier": "RB1",
+      "trend": "down",
+      "note": "proj 79 / prod 79 / role 65"
+    },
+    {
+      "player": "Dak Prescott",
       "pos": "QB",
       "value": 72,
       "tier": "QB1",
       "trend": "flat",
-      "note": "HOLD. MNF 17.06 closed. W12 @ ARI."
+      "note": "SF QB1 floor 45"
     },
     {
       "player": "Cam Skattebo",
@@ -437,188 +461,212 @@
       "player": "George Pickens",
       "pos": "WR",
       "value": 71,
-      "tier": "WR1",
-      "trend": "flat",
-      "note": "HOLD 71 LIVE FLAT. Thu vs PHI. TradeHurricane started. Do not recut Q1."
+      "tier": "WR2",
+      "trend": "up",
+      "note": "proj 60 / prod 84 / role 67"
     },
     {
-      "player": "Jaylen Warren",
+      "player": "Kyren Williams",
       "pos": "RB",
       "value": 71,
-      "tier": "RB1",
-      "trend": "flat",
-      "note": "proj 73 / prod 69 / role 78"
+      "tier": "RB1-split",
+      "trend": "down",
+      "note": "proj 75 / prod 74 / role 52"
     },
     {
       "player": "Luther Burden III",
       "pos": "WR",
       "value": 71,
-      "tier": "WR2",
-      "trend": "flat",
-      "note": "HOLD 71. 3-44 / 6.0 locked (ChaosGoblin started). Not a recut."
+      "tier": "WR1",
+      "trend": "up",
+      "note": "proj 73 / prod 65 / role 69"
     },
     {
-      "player": "Harold Fannin Jr.",
-      "pos": "TE",
-      "value": 70,
-      "tier": "TE1",
-      "trend": "flat",
-      "note": "proj 65 / prod 71 / role 76"
-    },
-    {
-      "player": "Jonathan Taylor",
-      "pos": "RB",
-      "value": 70,
-      "tier": "RB1",
-      "trend": "flat",
-      "note": "HOLD. vs NYG. Not traded."
-    },
-    {
-      "player": "Jordan Love",
+      "player": "Jared Goff",
       "pos": "QB",
       "value": 70,
       "tier": "QB1",
       "trend": "flat",
-      "note": "HOLD 70. 12.62 locked on TradeHurricane BENCH (they started McCarthy). Do not recut ROS."
+      "note": "SF QB1 floor 45"
+    },
+    {
+      "player": "Jaylen Warren",
+      "pos": "RB",
+      "value": 70,
+      "tier": "RB1",
+      "trend": "down",
+      "note": "proj 71 / prod 69 / role 77"
+    },
+    {
+      "player": "Tetairoa McMillan",
+      "pos": "WR",
+      "value": 70,
+      "tier": "WR1",
+      "trend": "flat",
+      "note": "Questionable x0.95"
+    },
+    {
+      "player": "Jayden Daniels",
+      "pos": "QB",
+      "value": 69,
+      "tier": "QB1",
+      "trend": "flat",
+      "note": "SF QB1 floor 45"
     },
     {
       "player": "Chase Brown",
       "pos": "RB",
-      "value": 69,
+      "value": 68,
       "tier": "RB1",
-      "trend": "flat",
-      "note": "proj 61 / prod 59 / role 76"
+      "trend": "down",
+      "note": "proj 60 / prod 58 / role 75"
     },
     {
-      "player": "Drake London",
-      "pos": "WR",
-      "value": 69,
-      "tier": "WR1",
+      "player": "Harold Fannin Jr.",
+      "pos": "TE",
+      "value": 67,
+      "tier": "TE1",
       "trend": "flat",
-      "note": "HOLD. Sleeper Healthy (cleared concussion). QuietSniper still BENCH \u2014 start over Sutton."
+      "note": "Questionable x0.95"
+    },
+    {
+      "player": "Travis Kelce",
+      "pos": "TE",
+      "value": 67,
+      "tier": "TE1",
+      "trend": "flat",
+      "note": "proj 78 / prod 78 / role 44"
     },
     {
       "player": "Ashton Jeanty",
       "pos": "RB",
-      "value": 67,
+      "value": 65,
       "tier": "RB1",
-      "trend": "flat",
-      "note": "proj 55 / prod 67 / role 61"
-    },
-    {
-      "player": "C.J. Stroud",
-      "pos": "QB",
-      "value": 66,
-      "tier": "QB1",
-      "trend": "flat",
-      "note": "HOLD. vs BAL Sunday."
+      "trend": "down",
+      "note": "proj 52 / prod 67 / role 60"
     },
     {
       "player": "Quinshon Judkins",
       "pos": "RB",
-      "value": 66,
+      "value": 65,
       "tier": "RB1",
-      "trend": "flat",
+      "trend": "down",
       "note": "buy-low: volume > points"
-    },
-    {
-      "player": "Caleb Williams",
-      "pos": "QB",
-      "value": 64,
-      "tier": "QB1",
-      "trend": "flat",
-      "note": "HOLD 64. 30/44 345-2 + 2pt / 29.3 locked (AustinDoingWork). Sleeper Q tag is postgame STALE. Do not smash-up one 44-attempt game."
     },
     {
       "player": "DeVonta Smith",
       "pos": "WR",
       "value": 64,
       "tier": "WR1",
-      "trend": "flat",
+      "trend": "up",
       "note": "proj 63 / prod 73 / role 48"
     },
     {
-      "player": "Mike Evans",
-      "pos": "WR",
+      "player": "Sam LaPorta",
+      "pos": "TE",
       "value": 64,
-      "tier": "WR1",
+      "tier": "TE1",
       "trend": "flat",
-      "note": "HOLD 64. DNP Wed Achilles. Sunday start-lean. ZeroChill STARTED him \u2014 prefer Coleman Friday (Evans is Sunday, Coleman locks 3:00)."
+      "note": "proj 72 / prod 61 / role 58"
     },
     {
       "player": "Garrett Wilson",
       "pos": "WR",
       "value": 63,
       "tier": "WR1",
-      "trend": "flat",
+      "trend": "up",
       "note": "buy-low: volume > points"
+    },
+    {
+      "player": "Kirk Cousins",
+      "pos": "QB",
+      "value": 63,
+      "tier": "QB1",
+      "trend": "flat",
+      "note": "SF QB1 floor 45"
+    },
+    {
+      "player": "Caleb Williams",
+      "pos": "QB",
+      "value": 62,
+      "tier": "QB1",
+      "trend": "down",
+      "note": "Questionable x0.95"
+    },
+    {
+      "player": "Mike Evans",
+      "pos": "WR",
+      "value": 62,
+      "tier": "WR1",
+      "trend": "flat",
+      "note": "Questionable x0.95"
     },
     {
       "player": "Ollie Gordon II",
       "pos": "RB",
-      "value": 63,
+      "value": 62,
       "tier": "RB1",
-      "trend": "flat",
-      "note": "proj 63 / prod 61 / role 69"
-    },
-    {
-      "player": "Brock Bowers",
-      "pos": "TE",
-      "value": 62,
-      "tier": "TE1",
-      "trend": "flat",
-      "note": "HOLD 62. LP Wed. Kubiak optimistic. Sleeper Q. Sit until named SNF. Formula 84 wrong. ZeroChill benched (correct)."
-    },
-    {
-      "player": "Jared Goff",
-      "pos": "QB",
-      "value": 62,
-      "tier": "QB1",
-      "trend": "flat",
-      "note": "HOLD 62. 25/36 313-1-1 / 18.0 locked (WaiverPredator). Box closed."
+      "trend": "down",
+      "note": "proj 62 / prod 60 / role 69"
     },
     {
       "player": "Jameson Williams",
       "pos": "WR",
       "value": 60,
       "tier": "WR2",
-      "trend": "flat",
-      "note": "HOLD 60. 6-68 / 10.1 locked (RivalryEngine started). Box closed. Not a recut."
+      "trend": "up",
+      "note": "proj 67 / prod 67 / role 37"
     },
     {
-      "player": "Sam LaPorta",
-      "pos": "TE",
-      "value": 59,
-      "tier": "TE1",
-      "trend": "flat",
-      "note": "HOLD 59. 4-44-1 / 12.4 locked (WaiverPredator). Box closed smash."
+      "player": "Saquon Barkley",
+      "pos": "RB",
+      "value": 60,
+      "tier": "RB1",
+      "trend": "down",
+      "note": "buy-low: volume > points"
     },
     {
       "player": "Stefon Diggs",
       "pos": "WR",
       "value": 59,
       "tier": "WR1",
-      "trend": "flat",
-      "note": "HOLD 59. DNP Wed personal (not injury). Watch presence @ ARI. AnalyticsOverlord started him."
+      "trend": "up",
+      "note": "proj 58 / prod 59 / role 63"
     },
     {
-      "player": "Drake Maye",
-      "pos": "QB",
-      "value": 58,
-      "tier": "QB1",
-      "trend": "flat",
-      "note": "HOLD 58 GUESS. Fractured fibula, NBC 6+ weeks, IR-stash. Formula 29 wrong. QuietSniper empty IR \u2014 IR him."
-    },
-    {
-      "player": "Saquon Barkley",
+      "player": "Kenneth Walker III",
       "pos": "RB",
-      "value": 56,
+      "value": 57,
       "tier": "RB1",
-      "trend": "flat",
-      "note": "HOLD 56 LIVE START not a smash vs DAL -8.5. AustinDoingWork started. 0.0 early Q1. Do not recut live. Inactives IN (active)."
+      "trend": "down",
+      "note": "Out x0.65"
     },
     {
       "player": "Tyler Shough",
+      "pos": "QB",
+      "value": 56,
+      "tier": "QB1",
+      "trend": "flat",
+      "note": "SF QB1 floor 45"
+    },
+    {
+      "player": "Christian Watson",
+      "pos": "WR",
+      "value": 55,
+      "tier": "WR1",
+      "trend": "up",
+      "note": "Out x0.65"
+    },
+    {
+      "player": "DJ Moore",
+      "pos": "WR",
+      "value": 55,
+      "tier": "WR1",
+      "trend": "flat",
+      "note": "proj 62 / prod 55 / role 35"
+    },
+    {
+      "player": "Matthew Stafford",
       "pos": "QB",
       "value": 55,
       "tier": "QB1",
@@ -626,140 +674,116 @@
       "note": "SF QB1 floor 45"
     },
     {
-      "player": "Emeka Egbuka",
-      "pos": "WR",
-      "value": 54,
-      "tier": "WR1",
-      "trend": "flat",
-      "note": "buy-low: volume > points"
-    },
-    {
       "player": "KC Concepcion Jr.",
       "pos": "WR",
       "value": 54,
       "tier": "WR2",
+      "trend": "up",
+      "note": "proj 48 / prod 53 / role 55"
+    },
+    {
+      "player": "Cam Ward",
+      "pos": "QB",
+      "value": 53,
+      "tier": "QB1",
       "trend": "flat",
-      "note": "proj 48 / prod 54 / role 55"
+      "note": "SF QB1 floor 45"
+    },
+    {
+      "player": "Drew Lock",
+      "pos": "QB",
+      "value": 53,
+      "tier": "QB1",
+      "trend": "flat",
+      "note": "Questionable x0.95; GUESS inputs"
+    },
+    {
+      "player": "Emeka Egbuka",
+      "pos": "WR",
+      "value": 53,
+      "tier": "WR1",
+      "trend": "up",
+      "note": "buy-low: volume > points"
+    },
+    {
+      "player": "Omarion Hampton",
+      "pos": "RB",
+      "value": 53,
+      "tier": "RB1",
+      "trend": "down",
+      "note": "buy-low: volume > points"
+    },
+    {
+      "player": "T.J. Hockenson",
+      "pos": "TE",
+      "value": 53,
+      "tier": "TE1",
+      "trend": "flat",
+      "note": "proj 56 / prod 44 / role 58"
     },
     {
       "player": "Aaron Jones Sr.",
       "pos": "RB",
-      "value": 53,
+      "value": 52,
       "tier": "RB1",
-      "trend": "flat",
+      "trend": "down",
       "note": "buy-low: volume > points"
     },
     {
-      "player": "DJ Moore",
-      "pos": "WR",
-      "value": 53,
-      "tier": "WR1",
-      "trend": "flat",
-      "note": "HOLD. Off Bills IR. Sleeper Healthy. START Thursday vs KC. Rain/gusts WATCH not a sit."
-    },
-    {
-      "player": "Kirk Cousins",
+      "player": "Bryce Young",
       "pos": "QB",
       "value": 52,
       "tier": "QB1",
       "trend": "flat",
-      "note": "HOLD. vs ATL. Formula 62 is a different scale."
-    },
-    {
-      "player": "Kyren Williams",
-      "pos": "RB",
-      "value": 52,
-      "tier": "RB1-split",
-      "trend": "down",
-      "note": "RECUT 63\u219252 GUESS. Lost the lead (12-46-1 / 14.5). Pelissero turf toe ~1 month. QuietSniper BENCH \u2014 14.5 locked miss. Do not dump."
+      "note": "SF QB1 floor 45"
     },
     {
       "player": "Rhamondre Stevenson",
       "pos": "RB",
       "value": 52,
       "tier": "RB1-split",
-      "trend": "flat",
-      "note": "proj 53 / prod 47 / role 47"
-    },
-    {
-      "player": "T.J. Hockenson",
-      "pos": "TE",
-      "value": 52,
-      "tier": "TE1",
-      "trend": "flat",
-      "note": "proj 53 / prod 47 / role 56"
-    },
-    {
-      "player": "Rashee Rice",
-      "pos": "WR",
-      "value": 51,
-      "tier": "WR1",
-      "trend": "flat",
-      "note": "HOLD. Thu @ BUF rain ~100% NWS gusts up to 45 / total 45.5 WATCH \u2014 fade deep shots, not an auto-sit. Klemm started him."
-    },
-    {
-      "player": "Bo Nix",
-      "pos": "QB",
-      "value": 50,
-      "tier": "QB1",
-      "trend": "flat",
-      "note": "SF QB1 floor 45; buy-low: volume > points"
-    },
-    {
-      "player": "Tucker Kraft",
-      "pos": "TE",
-      "value": 49,
-      "tier": "TE1",
-      "trend": "flat",
-      "note": "proj 59 / prod 29 / role 47"
+      "trend": "down",
+      "note": "proj 54 / prod 46 / role 48"
     },
     {
       "player": "Tyler Warren",
       "pos": "TE",
-      "value": 49,
+      "value": 52,
       "tier": "TE1",
       "trend": "flat",
       "note": "buy-low: volume > points"
     },
     {
-      "player": "Christian Watson",
+      "player": "Rashee Rice",
       "pos": "WR",
-      "value": 48,
+      "value": 50,
       "tier": "WR1",
-      "trend": "down",
-      "note": "RECUT 84\u219248 GUESS HOLD. Concussion Out at half. 14.5 locked (TD). Extra rest before W13 vs NO. Do not smash-sell to 12. Formula leak yesterday."
+      "trend": "up",
+      "note": "proj 65 / prod 45 / role 10"
     },
     {
-      "player": "Matthew Stafford",
+      "player": "Tucker Kraft",
+      "pos": "TE",
+      "value": 50,
+      "tier": "TE1",
+      "trend": "flat",
+      "note": "buy-low: volume > points"
+    },
+    {
+      "player": "Bo Nix",
       "pos": "QB",
-      "value": 48,
+      "value": 49,
       "tier": "QB1",
       "trend": "flat",
-      "note": "HOLD 48. 4.6 locked on AustinDoingWork BENCH (Walker 0.0 in Superflex). Do not recut ROS off a 23-attempt run game."
-    },
-    {
-      "player": "Rome Odunze",
-      "pos": "WR",
-      "value": 48,
-      "tier": "WR2",
-      "trend": "up",
-      "note": "RECUT 44\u219248 GUESS. 6-87-2 / 23.7 locked on RivalryEngine BENCH (walk-off). Not a WR1. Do not smash to JSN."
+      "note": "SF QB1 floor 45; buy-low: volume > points"
     },
     {
       "player": "Braelon Allen",
       "pos": "RB",
-      "value": 47,
-      "tier": "RB1",
-      "trend": "flat",
-      "note": "proj 31 / prod 51 / role 57"
-    },
-    {
-      "player": "Blake Corum",
-      "pos": "RB",
       "value": 46,
       "tier": "RB1",
-      "trend": "up",
-      "note": "RECUT 30\u219246 GUESS. 32-184-1 / 27.5. PFF: ahead of Kyren on the depth chart first time. Not CMC. Formula 30 cap wrong. MrB started him."
+      "trend": "flat",
+      "note": "proj 29 / prod 50 / role 56"
     },
     {
       "player": "Jalen Coker",
@@ -767,18 +791,66 @@
       "value": 46,
       "tier": "WR2",
       "trend": "flat",
-      "note": "proj 52 / prod 38 / role 40"
+      "note": "proj 52 / prod 37 / role 40"
     },
     {
       "player": "Khalil Shakir",
       "pos": "WR",
       "value": 46,
       "tier": "WR2",
+      "trend": "up",
+      "note": "proj 38 / prod 47 / role 50"
+    },
+    {
+      "player": "Aaron Rodgers",
+      "pos": "QB",
+      "value": 45,
+      "tier": "QB1",
       "trend": "flat",
-      "note": "proj 38 / prod 48 / role 50"
+      "note": "SF QB1 floor 45; GUESS inputs"
+    },
+    {
+      "player": "Anthony Richardson Sr.",
+      "pos": "QB",
+      "value": 45,
+      "tier": "QB1",
+      "trend": "flat",
+      "note": "SF QB1 floor 45"
+    },
+    {
+      "player": "Baker Mayfield",
+      "pos": "QB",
+      "value": 45,
+      "tier": "QB1",
+      "trend": "flat",
+      "note": "SF QB1 floor 45; buy-low: volume > points"
+    },
+    {
+      "player": "Carson Wentz",
+      "pos": "QB",
+      "value": 45,
+      "tier": "QB1",
+      "trend": "flat",
+      "note": "SF QB1 floor 45; GUESS inputs"
     },
     {
       "player": "Deshaun Watson",
+      "pos": "QB",
+      "value": 45,
+      "tier": "QB1",
+      "trend": "flat",
+      "note": "SF QB1 floor 45; buy-low: volume > points"
+    },
+    {
+      "player": "Fernando Mendoza",
+      "pos": "QB",
+      "value": 45,
+      "tier": "QB1",
+      "trend": "flat",
+      "note": "SF QB1 floor 45"
+    },
+    {
+      "player": "Geno Smith",
       "pos": "QB",
       "value": 45,
       "tier": "QB1",
@@ -807,7 +879,7 @@
       "value": 45,
       "tier": "WR2",
       "trend": "flat",
-      "note": "proj 37 / prod 42 / role 62"
+      "note": "buy-low: volume > points"
     },
     {
       "player": "Michael Penix Jr.",
@@ -818,28 +890,44 @@
       "note": "SF QB1 floor 45; buy-low: volume > points"
     },
     {
-      "player": "DK Metcalf",
-      "pos": "WR",
-      "value": 44,
-      "tier": "WR1",
+      "player": "Sam Darnold",
+      "pos": "QB",
+      "value": 45,
+      "tier": "QB1",
       "trend": "flat",
-      "note": "buy-low: volume > points"
+      "note": "SF QB1 floor 45; buy-low: volume > points"
     },
     {
-      "player": "Emmett Johnson",
-      "pos": "RB",
+      "player": "Chig Okonkwo",
+      "pos": "TE",
       "value": 44,
-      "tier": "RB1",
+      "tier": "TE1",
       "trend": "flat",
-      "note": "HOLD 44 GUESS. Walker OUT. Locked W12 RB1 Thu @ BUF 8:20 rain WATCH. Not Walker 78. Formula 30 cap wrong. TradeHurricane started him."
+      "note": "proj 39 / prod 67 / role 14"
     },
     {
       "player": "Jaylen Waddle",
       "pos": "WR",
       "value": 44,
       "tier": "WR1",
+      "trend": "up",
+      "note": "buy-low: volume > points"
+    },
+    {
+      "player": "DK Metcalf",
+      "pos": "WR",
+      "value": 43,
+      "tier": "WR1",
       "trend": "flat",
       "note": "buy-low: volume > points"
+    },
+    {
+      "player": "Ladd McConkey",
+      "pos": "WR",
+      "value": 43,
+      "tier": "WR1",
+      "trend": "flat",
+      "note": "proj 46 / prod 39 / role 12"
     },
     {
       "player": "Michael Wilson",
@@ -850,76 +938,68 @@
       "note": "IR x0.71; buy-low: volume > points; GUESS inputs"
     },
     {
-      "player": "Jonah Coleman",
-      "pos": "RB",
-      "value": 42,
-      "tier": "RB1",
+      "player": "Rome Odunze",
+      "pos": "WR",
+      "value": 43,
+      "tier": "WR2",
       "trend": "flat",
-      "note": "HOLD 42 GUESS. Locked DEN RB1. Dobbins suspended 1 game Fri. 32.9 ZeroChill still BENCH \u2014 start Friday over Evans Q. Formula 30 cap wrong."
+      "note": "proj 44 / prod 29 / role 38"
     },
     {
-      "player": "Chig Okonkwo",
+      "player": "Dalton Kincaid",
       "pos": "TE",
-      "value": 41,
+      "value": 42,
       "tier": "TE1",
       "trend": "flat",
-      "note": "proj 35 / prod 65 / role 12"
+      "note": "Questionable x0.95"
     },
     {
-      "player": "Bryce Young",
-      "pos": "QB",
-      "value": 38,
-      "tier": "QB2",
-      "trend": "flat",
-      "note": "HOLD. 20.96 AnalyticsOverlord BENCH. MNF W12 @ TB startable SF2. Formula 52 wrong."
+      "player": "Jacory Croskey-Merritt",
+      "pos": "RB",
+      "value": 40,
+      "tier": "RB1-split",
+      "trend": "down",
+      "note": "proj 31 / prod 31 / role 44"
     },
     {
       "player": "Denzel Boston",
       "pos": "WR",
       "value": 38,
       "tier": "WR1",
-      "trend": "flat",
+      "trend": "up",
       "note": "Questionable x0.95; buy-low: volume > points"
     },
     {
-      "player": "Lamar Jackson",
-      "pos": "QB",
-      "value": 38,
-      "tier": "QB1",
-      "trend": "flat",
-      "note": "HOLD IR stash. Thumb/ankle. Not 86. ChaosGoblin IR."
-    },
-    {
-      "player": "Matthew Golden",
-      "pos": "WR",
-      "value": 38,
-      "tier": "WR2",
+      "player": "Colston Loveland",
+      "pos": "TE",
+      "value": 36,
+      "tier": "TE1",
       "trend": "down",
-      "note": "RECUT 85\u219238 GUESS. Formula leak. 4.4 locked. GB WR2/flex. Watson concussion may bump W13. Do not trade him as a WR1."
+      "note": "-20 vs last board; Out x0.65; buy-low: volume > points"
     },
     {
       "player": "Josh Downs",
       "pos": "WR",
-      "value": 37,
+      "value": 36,
       "tier": "WR2",
       "trend": "flat",
-      "note": "proj 29 / prod 33 / role 42"
+      "note": "proj 27 / prod 31 / role 42"
     },
     {
-      "player": "Justin Herbert",
+      "player": "Lamar Jackson",
       "pos": "QB",
       "value": 36,
       "tier": "QB1",
       "trend": "flat",
-      "note": "HOLD 36 GUESS. Protocol. DNP Wednesday. Thursday practice MISSING. AnalyticsOverlord STARTED him \u2014 sit. Start Mendoza/Young. Do not drop. Line flipped NE -1.5 / 35.5."
+      "note": "IR x0.71; GUESS inputs"
     },
     {
-      "player": "Sam Darnold",
+      "player": "Justin Herbert",
       "pos": "QB",
-      "value": 36,
-      "tier": "QB2",
-      "trend": "up",
-      "note": "RECUT 32\u219236 GUESS. Sleeper Healthy. FP Wed. Macdonald plan to start; Rapoport expected. Not a presser name. Start-lean. ZeroChill bench."
+      "value": 35,
+      "tier": "QB1",
+      "trend": "down",
+      "note": "Questionable x0.95; buy-low: volume > points"
     },
     {
       "player": "Deebo Samuel Sr.",
@@ -927,47 +1007,39 @@
       "value": 34,
       "tier": "WR2",
       "trend": "flat",
-      "note": "proj 33 / prod 50 / role 4"
+      "note": "proj 33 / prod 49 / role 4"
     },
     {
-      "player": "Travis Kelce",
+      "player": "Dallas Goedert",
       "pos": "TE",
-      "value": 34,
+      "value": 32,
       "tier": "TE1",
       "trend": "flat",
-      "note": "HOLD. Thu @ BUF rain WATCH. Formula 67 wrong. ChaosGoblin started him."
+      "note": "buy-low: volume > points"
     },
     {
       "player": "Tyler Allgeier",
       "pos": "RB",
-      "value": 34,
+      "value": 32,
       "tier": "RB1-split",
       "trend": "flat",
-      "note": "proj 24 / prod 27 / role 45"
+      "note": "buy-low: volume > points"
     },
     {
-      "player": "Bhayshul Tuten",
+      "player": "Alvin Kamara",
       "pos": "RB",
-      "value": 32,
-      "tier": "RB2",
+      "value": 30,
+      "tier": "committee",
       "trend": "flat",
-      "note": "HOLD 32 GUESS sit-lean. Official DNP Wednesday ankle/foot. Friday decision. Formula 73 wrong. Rodriguez owned fill."
+      "note": "committee RB 33% cap 30"
     },
     {
-      "player": "Fernando Mendoza",
-      "pos": "QB",
-      "value": 32,
-      "tier": "QB2",
-      "trend": "flat",
-      "note": "HOLD 32 GUESS. 29.88 bench. SNF vs CLE startable SF2 over Herbert. Formula 45 floor wrong. AnalyticsOverlord \u2014 start him."
-    },
-    {
-      "player": "Omarion Hampton",
+      "player": "Blake Corum",
       "pos": "RB",
-      "value": 32,
-      "tier": "RB2",
+      "value": 30,
+      "tier": "committee",
       "trend": "flat",
-      "note": "HOLD 32. Formula 55 wrong. Herbert protocol caps the stack."
+      "note": "committee RB 39% cap 30"
     },
     {
       "player": "Breece Hall",
@@ -978,12 +1050,12 @@
       "note": "committee RB 38% cap 30"
     },
     {
-      "player": "Dallas Goedert",
-      "pos": "TE",
+      "player": "David Montgomery",
+      "pos": "RB",
       "value": 30,
-      "tier": "TE",
+      "tier": "committee",
       "trend": "flat",
-      "note": "HOLD 30 LIVE. Thu @ DAL. TradeHurricane BENCH vs Strange \u2014 live miss if he scores. Do not recut Q1."
+      "note": "committee RB 36% cap 30"
     },
     {
       "player": "DeMario Douglas",
@@ -991,23 +1063,23 @@
       "value": 30,
       "tier": "WR1",
       "trend": "flat",
-      "note": "proj 19 / prod 35 / role 33"
+      "note": "proj 19 / prod 33 / role 32"
     },
     {
-      "player": "Germie Bernard",
-      "pos": "WR",
-      "value": 30,
-      "tier": "WR2",
-      "trend": "flat",
-      "note": "proj 23 / prod 27 / role 29"
-    },
-    {
-      "player": "Jadarian Price",
+      "player": "Emmett Johnson",
       "pos": "RB",
       "value": 30,
       "tier": "committee",
       "trend": "flat",
-      "note": "committee RB 23% cap 30"
+      "note": "committee RB 30% cap 30"
+    },
+    {
+      "player": "Jonah Coleman",
+      "pos": "RB",
+      "value": 30,
+      "tier": "committee",
+      "trend": "flat",
+      "note": "committee RB 35% cap 30"
     },
     {
       "player": "Jordan Mason",
@@ -1018,6 +1090,14 @@
       "note": "committee RB 33% cap 30"
     },
     {
+      "player": "Josh Jacobs",
+      "pos": "RB",
+      "value": 30,
+      "tier": "committee",
+      "trend": "flat",
+      "note": "Out x0.65; committee RB 19% cap 30"
+    },
+    {
       "player": "Makai Lemon",
       "pos": "WR",
       "value": 30,
@@ -1026,12 +1106,12 @@
       "note": "buy-low: volume > points"
     },
     {
-      "player": "Ryan Flournoy",
-      "pos": "WR",
+      "player": "Travis Etienne Jr.",
+      "pos": "RB",
       "value": 30,
-      "tier": "WR",
+      "tier": "committee",
       "trend": "flat",
-      "note": "proj 17 / prod 44 / role 17"
+      "note": "committee RB 34% cap 30"
     },
     {
       "player": "Tre Tucker",
@@ -1050,36 +1130,60 @@
       "note": "committee RB 17% cap 30"
     },
     {
-      "player": "Cam Ward",
+      "player": "Drake Maye",
       "pos": "QB",
-      "value": 28,
-      "tier": "QB2",
+      "value": 29,
+      "tier": "QB1",
       "trend": "flat",
-      "note": "HOLD as owned SF2, fade as smash @ JAX -14.5. 26.22 Klemm BENCH locked."
+      "note": "Out x0.65"
     },
     {
-      "player": "Colston Loveland",
+      "player": "Germie Bernard",
+      "pos": "WR",
+      "value": 29,
+      "tier": "WR2",
+      "trend": "flat",
+      "note": "proj 23 / prod 25 / role 27"
+    },
+    {
+      "player": "Jadarian Price",
+      "pos": "RB",
+      "value": 29,
+      "tier": "committee",
+      "trend": "flat",
+      "note": "committee RB 23% cap 30"
+    },
+    {
+      "player": "Kyler Murray",
+      "pos": "QB",
+      "value": 29,
+      "tier": "QB1",
+      "trend": "flat",
+      "note": "Questionable x0.95; buy-low: volume > points; GUESS inputs"
+    },
+    {
+      "player": "Ryan Flournoy",
+      "pos": "WR",
+      "value": 29,
+      "tier": "WR",
+      "trend": "flat",
+      "note": "proj 17 / prod 43 / role 15"
+    },
+    {
+      "player": "Brenton Strange",
       "pos": "TE",
       "value": 28,
-      "tier": "TE",
-      "trend": "down",
-      "note": "RECUT 53\u219228 GUESS. Out knee. \u22121.0 ChaosGoblin bench. Formula 53 is wrong. Not a TE1 dump long-term, unstartable this week."
+      "tier": "TE1",
+      "trend": "flat",
+      "note": "buy-low: volume > points"
     },
     {
-      "player": "Geno Smith",
-      "pos": "QB",
+      "player": "Davante Adams",
+      "pos": "WR",
       "value": 28,
-      "tier": "QB2",
+      "tier": "WR",
       "trend": "flat",
-      "note": "HOLD 28 GUESS. 25.44. Startable SF2 @ MIA. Formula 45 floor wrong."
-    },
-    {
-      "player": "J.K. Dobbins",
-      "pos": "RB",
-      "value": 28,
-      "tier": "RB1-split",
-      "trend": "flat",
-      "note": "HOLD. Suspended 1 game Friday @ PIT (Payton). Sit. Coleman even more locked. ZeroChill owns him."
+      "note": "IR x0.50; GUESS inputs"
     },
     {
       "player": "Jalen Hurts",
@@ -1087,55 +1191,63 @@
       "value": 28,
       "tier": "QB1",
       "trend": "flat",
-      "note": "HOLD IR season (DVT/PE). RivalryEngine IR. Milton skip."
+      "note": "IR x0.50; GUESS inputs"
     },
     {
-      "player": "Davante Adams",
+      "player": "Antonio Williams",
       "pos": "WR",
       "value": 27,
-      "tier": "WR",
-      "trend": "flat",
-      "note": "HOLD IR hamstring. Week 13 target. AustinDoingWork IR."
-    },
-    {
-      "player": "Brenton Strange",
-      "pos": "TE",
-      "value": 26,
-      "tier": "TE1",
-      "trend": "flat",
-      "note": "buy-low: volume > points"
-    },
-    {
-      "player": "Rico Dowdle",
-      "pos": "RB",
-      "value": 26,
-      "tier": "committee",
-      "trend": "flat",
-      "note": "committee RB 27% cap 30"
+      "tier": "WR2",
+      "trend": "up",
+      "note": "+11 vs last board; buy-low: volume > points"
     },
     {
       "player": "Kyle Pitts Sr.",
       "pos": "TE",
-      "value": 25,
+      "value": 27,
       "tier": "TE1",
       "trend": "flat",
-      "note": "proj 12 / prod 18 / role 24"
+      "note": "proj 17 / prod 17 / role 28"
     },
     {
-      "player": "Dalton Kincaid",
+      "player": "Rachaad White",
+      "pos": "RB",
+      "value": 27,
+      "tier": "committee",
+      "trend": "flat",
+      "note": "committee RB 33% cap 30"
+    },
+    {
+      "player": "Rico Dowdle",
+      "pos": "RB",
+      "value": 25,
+      "tier": "committee",
+      "trend": "up",
+      "note": "committee RB 27% cap 30"
+    },
+    {
+      "player": "Courtland Sutton",
+      "pos": "WR",
+      "value": 24,
+      "tier": "WR2",
+      "trend": "flat",
+      "note": "proj 12 / prod 12 / role 29"
+    },
+    {
+      "player": "Michael Mayer",
       "pos": "TE",
       "value": 24,
-      "tier": "TE",
+      "tier": "TE2",
       "trend": "flat",
-      "note": "HOLD 24 GUESS. Official Q, LP Wed. Rain WATCH. Not a 10-team panic stream. AustinDoingWork has Chig started."
+      "note": "proj 0 / prod 50 / role 14"
     },
     {
-      "player": "David Montgomery",
+      "player": "Chris Rodriguez Jr.",
       "pos": "RB",
-      "value": 24,
-      "tier": "RB2",
-      "trend": "flat",
-      "note": "HOLD. Marks Q sit. HOU RB1 vs BAL."
+      "value": 23,
+      "tier": "committee",
+      "trend": "up",
+      "note": "committee RB 26% cap 30"
     },
     {
       "player": "Xavier Worthy",
@@ -1143,159 +1255,79 @@
       "value": 23,
       "tier": "WR",
       "trend": "flat",
-      "note": "proj 10 / prod 17 / role 25"
+      "note": "proj 10 / prod 16 / role 25"
     },
     {
-      "player": "Anthony Richardson Sr.",
-      "pos": "QB",
-      "value": 22,
-      "tier": "QB2",
-      "trend": "flat",
-      "note": "HOLD 22 GUESS owned. RivalryEngine $6. STARTED him vs NYG. Sit Rodgers. Formula 45 floor wrong as a trade price."
-    },
-    {
-      "player": "Ladd McConkey",
+      "player": "Jordan Addison",
       "pos": "WR",
-      "value": 22,
-      "tier": "WR2",
+      "value": 21,
+      "tier": "WR",
       "trend": "flat",
-      "note": "HOLD 22 GUESS. 18.2 MrB BENCH. W12 only if Herbert plays. Aggregator Q (back) vs Sleeper Healthy CONFLICT."
+      "note": "Doubtful x0.80"
     },
     {
       "player": "RJ Harvey",
       "pos": "RB",
-      "value": 22,
+      "value": 21,
       "tier": "committee",
-      "trend": "flat",
+      "trend": "down",
       "note": "IR x0.71; committee RB 12% cap 30; GUESS inputs"
     },
     {
       "player": "Keon Coleman",
       "pos": "WR",
-      "value": 21,
+      "value": 20,
       "tier": "WR",
       "trend": "flat",
-      "note": "proj 15 / prod 12 / role 21"
+      "note": "proj 15 / prod 10 / role 19"
     },
     {
-      "player": "Baker Mayfield",
-      "pos": "QB",
-      "value": 20,
-      "tier": "QB2",
-      "trend": "flat",
-      "note": "HOLD 20. Played 23.08. W12 vs CAR startable. Formula 45 floor wrong."
-    },
-    {
-      "player": "Jacory Croskey-Merritt",
+      "player": "J.K. Dobbins",
       "pos": "RB",
-      "value": 20,
-      "tier": "RB2",
-      "trend": "flat",
-      "note": "HOLD 20 GUESS owned. RivalryEngine $5. BENCH \u2014 start him Sunday @ ARI. Sit-lean Henry."
-    },
-    {
-      "player": "Kyler Murray",
-      "pos": "QB",
-      "value": 20,
-      "tier": "QB1",
-      "trend": "flat",
-      "note": "HOLD 20. Sleeper Q (was Out) hamstring DNP. Cousins starts. WaiverPredator cannot IR a Q \u2014 empty IR still."
-    },
-    {
-      "player": "Malik Willis",
-      "pos": "QB",
       "value": 19,
-      "tier": "QB1",
-      "trend": "flat",
-      "note": "IR x0.71; buy-low: volume > points; GUESS inputs"
-    },
-    {
-      "player": "Chris Rodriguez Jr.",
-      "pos": "RB",
-      "value": 18,
-      "tier": "RB2",
-      "trend": "flat",
-      "note": "HOLD owned fill if Tuten sits vs TEN. AustinDoingWork BENCH (correct until Tuten sits)."
-    },
-    {
-      "player": "Corey Kiner",
-      "pos": "RB",
-      "value": 18,
-      "tier": "committee",
-      "trend": "flat",
-      "note": "committee RB 27% cap 30"
-    },
-    {
-      "player": "Drew Lock",
-      "pos": "QB",
-      "value": 18,
-      "tier": "QB2",
-      "trend": "down",
-      "note": "RECUT 28\u219218 GUESS. Q elbow LP. Backup if Darnold plays. MrB started Deshaun instead. Formula 53 floor wrong."
-    },
-    {
-      "player": "Kaleb Johnson",
-      "pos": "RB",
-      "value": 18,
-      "tier": "RB2",
-      "trend": "flat",
-      "note": "HOLD 18. Jacobs Out. Started, 3.7 locked. AnalyticsOverlord bench. Not a 10-team smash. Path if Jacobs sits W13."
-    },
-    {
-      "player": "Kimani Vidal",
-      "pos": "RB",
-      "value": 18,
-      "tier": "committee",
-      "trend": "flat",
-      "note": "committee RB 19% cap 30"
-    },
-    {
-      "player": "Travis Etienne Jr.",
-      "pos": "RB",
-      "value": 18,
-      "tier": "RB2",
-      "trend": "flat",
-      "note": "HOLD 18 GUESS committee."
+      "tier": "RB1-split",
+      "trend": "up",
+      "note": "Sus x0.71; buy-low: volume > points; GUESS inputs"
     },
     {
       "player": "Juwan Johnson",
       "pos": "TE",
-      "value": 17,
+      "value": 18,
       "tier": "TE1",
       "trend": "flat",
       "note": "Questionable x0.95"
     },
     {
-      "player": "Aaron Rodgers",
+      "player": "Malik Willis",
       "pos": "QB",
-      "value": 16,
-      "tier": "QB2",
+      "value": 18,
+      "tier": "QB1",
       "trend": "flat",
-      "note": "HOLD 16 GUESS. Steelers: inactive Friday, Rudolph starts. Sleeper still PIT MISSING. RivalryEngine benched him (Richardson started). Skip Rudolph."
+      "note": "IR x0.71; buy-low: volume > points; GUESS inputs"
+    },
+    {
+      "player": "Corey Kiner",
+      "pos": "RB",
+      "value": 17,
+      "tier": "committee",
+      "trend": "flat",
+      "note": "committee RB 27% cap 30"
+    },
+    {
+      "player": "Kimani Vidal",
+      "pos": "RB",
+      "value": 17,
+      "tier": "committee",
+      "trend": "flat",
+      "note": "committee RB 19% cap 30"
     },
     {
       "player": "Adonai Mitchell",
       "pos": "WR",
       "value": 16,
-      "tier": "WR",
+      "tier": "WR2",
       "trend": "flat",
       "note": "buy-low: volume > points"
-    },
-    {
-      "player": "Alvin Kamara",
-      "pos": "RB",
-      "value": 16,
-      "tier": "RB2",
-      "trend": "flat",
-      "note": "HOLD 16 GUESS committee. Not a 10-team RB1."
-    },
-    {
-      "player": "Antonio Williams",
-      "pos": "WR",
-      "value": 16,
-      "tier": "WR3",
-      "trend": "flat",
-      "note": "HOLD 16 GUESS OWNED. WaiverPredator leftover $0 (drop Marks). Failed AO/RE/ZC. MNF 9-122. McLaurin IR. Startable Sunday flex. Not a WR1."
     },
     {
       "player": "Brian Thomas Jr.",
@@ -1303,95 +1335,39 @@
       "value": 16,
       "tier": "WR",
       "trend": "flat",
-      "note": "proj 4 / prod 4 / role 8"
+      "note": "proj 4 / prod 4 / role 6"
     },
     {
-      "player": "Jack Bech",
-      "pos": "WR",
-      "value": 16,
-      "tier": "WR3",
-      "trend": "flat",
-      "note": "HOLD 16 GUESS FA $0 FCFS. 8-88-1. Bowers LP / Kubiak optimistic \u2014 W12 start only if Bowers sits SNF."
-    },
-    {
-      "player": "Josh Jacobs",
+      "player": "Kaleb Johnson",
       "pos": "RB",
-      "value": 16,
-      "tier": "RB2",
-      "trend": "flat",
-      "note": "HOLD 16. Sleeper Out. Inactive Wednesday confirmed. Path is Week 13. ChaosGoblin benched (correct)."
+      "value": 15,
+      "tier": "committee",
+      "trend": "up",
+      "note": "committee RB 27% cap 30"
     },
     {
       "player": "De'Von Achane",
       "pos": "RB",
-      "value": 15,
+      "value": 14,
       "tier": "committee",
       "trend": "flat",
       "note": "IR x0.50; committee RB 16% cap 30; GUESS inputs"
     },
     {
-      "player": "Jordan Addison",
+      "player": "Marvin Harrison Jr.",
       "pos": "WR",
-      "value": 15,
+      "value": 14,
       "tier": "WR",
-      "trend": "flat",
-      "note": "HOLD. Doubtful thumb surgery. Sit."
+      "trend": "up",
+      "note": "proj 0 / prod 8 / role 2"
     },
     {
       "player": "TreVeyon Henderson",
       "pos": "RB",
-      "value": 15,
+      "value": 14,
       "tier": "committee",
       "trend": "flat",
       "note": "IR x0.71; committee RB 23% cap 30; GUESS inputs"
-    },
-    {
-      "player": "A.J. Brown",
-      "pos": "WR",
-      "value": 14,
-      "tier": "WR",
-      "trend": "flat",
-      "note": "HOLD. Doubtful hamstring. NOW actually FA (RivalryEngine dropped for Croskey). Skip add."
-    },
-    {
-      "player": "Courtland Sutton",
-      "pos": "WR",
-      "value": 12,
-      "tier": "WR3",
-      "trend": "flat",
-      "note": "HOLD trap. 0-2 started. Sit-lean @ PIT ~36.5. QuietSniper."
-    },
-    {
-      "player": "Konata Mumpfield",
-      "pos": "WR",
-      "value": 12,
-      "tier": "WR3",
-      "trend": "flat",
-      "note": "GUESS FA $0 FCFS. 4-69 Wed with Adams/Puka IR. Best remaining FA now that Williams is owned. 10-team WR3/flex dart, not a WR1. MrB leftover #1 Friday."
-    },
-    {
-      "player": "Kyle Monangai",
-      "pos": "RB",
-      "value": 12,
-      "tier": "RB",
-      "trend": "up",
-      "note": "NEW 12 GUESS FA. 8-15-2 vulture Thu with Roschon inactive. Not the PPR back (Swift 7-97 / 25.7). Speculative Friday leftover dart. Do not buy as Swift."
-    },
-    {
-      "player": "Rachaad White",
-      "pos": "RB",
-      "value": 12,
-      "tier": "RB2",
-      "trend": "flat",
-      "note": "HOLD 12 GUESS. Active MNF, 0.0. Croskey took the job. Sit. Formula 30 cap is a lie."
-    },
-    {
-      "player": "Brian Robinson Jr.",
-      "pos": "RB",
-      "value": 11,
-      "tier": "committee",
-      "trend": "flat",
-      "note": "IR x0.71; committee RB 22% cap 30; GUESS inputs"
     },
     {
       "player": "Jerry Jeudy",
@@ -1399,103 +1375,31 @@
       "value": 11,
       "tier": "WR",
       "trend": "flat",
-      "note": "proj 2 / prod 2 / role 10"
+      "note": "proj 2 / prod 2 / role 8"
+    },
+    {
+      "player": "Pat Freiermuth",
+      "pos": "TE",
+      "value": 11,
+      "tier": "TE1",
+      "trend": "flat",
+      "note": "proj 6 / prod 0 / role 6"
     },
     {
       "player": "Tank Dell",
       "pos": "WR",
       "value": 11,
       "tier": "WR",
-      "trend": "flat",
+      "trend": "down",
       "note": "proj 6 / prod 6 / role 0"
     },
     {
-      "player": "Carson Wentz",
-      "pos": "QB",
-      "value": 10,
-      "tier": "QB2",
-      "trend": "flat",
-      "note": "HOLD trap. Formula 45 floor wrong."
-    },
-    {
-      "player": "Justice Hill",
+      "player": "Brian Robinson Jr.",
       "pos": "RB",
       "value": 10,
-      "tier": "RB3",
+      "tier": "committee",
       "trend": "flat",
-      "note": "GUESS FA $0 FCFS. Henry still in protocol. Fill only if Henry sits Sunday. Speculative leftover behind Williams. Not a smash-sell of Henry 76."
-    },
-    {
-      "player": "Woody Marks",
-      "pos": "RB",
-      "value": 10,
-      "tier": "RB",
-      "trend": "down",
-      "note": "RECUT 23\u219210 GUESS FA skip. Dropped by WaiverPredator for Williams. Still Q concussion. Montgomery is HOU. Do not add back."
-    },
-    {
-      "player": "Marvin Harrison Jr.",
-      "pos": "WR",
-      "value": 9,
-      "tier": "WR",
-      "trend": "flat",
-      "note": "HOLD. Sleeper Q hamstring. Sit until named."
-    },
-    {
-      "player": "Pat Freiermuth",
-      "pos": "TE",
-      "value": 9,
-      "tier": "TE1",
-      "trend": "flat",
-      "note": "proj 0 / prod 0 / role 6"
-    },
-    {
-      "player": "Daniel Jones",
-      "pos": "QB",
-      "value": 8,
-      "tier": "QB2",
-      "trend": "flat",
-      "note": "HOLD 8 GUESS. Waived. NOW actually FA (RivalryEngine dropped for Richardson). Skip until signed. Formula 45 wrong."
-    },
-    {
-      "player": "Mac Jones",
-      "pos": "QB",
-      "value": 8,
-      "tier": "QB2",
-      "trend": "flat",
-      "note": "GUESS FA skip until Purdy is named out. DNP Wed ankle is a watch, not a start."
-    },
-    {
-      "player": "MarShawn Lloyd",
-      "pos": "RB",
-      "value": 8,
-      "tier": "RB3",
-      "trend": "down",
-      "note": "RECUT 14\u21928 GUESS FA skip. Wednesday path closed. Kaleb got the Jacobs-out work (3.7). Do not add now."
-    },
-    {
-      "player": "Michael Mayer",
-      "pos": "TE",
-      "value": 8,
-      "tier": "TE2",
-      "trend": "flat",
-      "note": "GUESS OWNED ZeroChill $0 leftover (dropped Estime). Bowers Q fill on paper. 1-4 / 4 yds flop. Bench, not a TE1."
-    },
-    {
-      "player": "Audric Estime",
-      "pos": "RB",
-      "value": 6,
-      "tier": "RB2",
-      "trend": "flat",
-      "note": "HOLD droppable. NOW actually FA (ZeroChill dropped for Mayer). Leave him."
-    },
-    {
-      "player": "Mason Rudolph",
-      "pos": "QB",
-      "value": 6,
-      "tier": "QB2",
-      "trend": "flat",
-      "note": "GUESS FA skip. Named PIT starter Friday. Dead ~36.5 vs DEN. Not a 10-team SF2."
+      "note": "IR x0.71; committee RB 22% cap 30; GUESS inputs"
     }
   ],
   "players": [
@@ -6181,15 +6085,16 @@
     }
   ],
   "must_act_today": [
-    "Set KC@BUF before 8:20 ET. Start Johnson / Allen / Cook / Mahomes / DJ Moore. Walker OUT. Inactives ~6:50. Rain 37F 98% gusts 35-38 WATCH not a sit. Fade Rice deep.",
-    "PHI@DAL LIVE Q1 0-0 \u2014 do not recut Dak/Lamb/Javonte/Saquon/Pickens. Goedert is on TradeHurricane BENCH (live miss risk).",
-    "Thursday leftover PROCESSED last_ran=26. WaiverPredator Antonio Williams $0 (drop Marks). Failed AO/RE/ZC. Friday leftover: Mumpfield then Monangai. MrB #1.",
-    "CHI 39-DET 35 FINAL. Gibbs 43.2 smash locked. Swift 25.7. Caleb 29.3. Odunze 23.7 RivalryEngine BENCH MISS. Monangai 8-15-2 FA 12 GUESS.",
-    "RivalryEngine: Richardson started (correct). Odunze miss locked. START Croskey Sunday. Sit-lean Henry. Sit Tuten.",
-    "ZeroChill: start Coleman Friday over Evans Q. Sit Dobbins. Sit Bowers until named. QuietSniper: sit Sutton/Juwan, start London.",
-    "AnalyticsOverlord: sit Herbert (they started him). Start Mendoza or Young as SF2. Burrow vs NO is the QB1.",
+    "Set Thursday NOW. First remaining kick CHI@DET 1:00 ET. Start Gibbs / ARSB / Goff / Caleb / Swift / LaPorta. Inactives MISSING ~11:30.",
+    "Wednesday LOCKED: Corum 27.5 smash (MrB). Kyren 14.5 QuietSniper BENCH miss. Love 12.62 TradeHurricane BENCH miss. Stafford 4.6 / Walker 0.0 AustinDoingWork Superflex miss. Watson 14.5 then concussion Out.",
+    "Thursday leftover last_ran=25 has NOT processed. W12 txs=0. FCFS if the wire is open: Antonio Williams (Strong), Mumpfield (speculative), Bech (if Bowers sits), Hill (Henry hedge). MrB leftover #1. Skip Lloyd now.",
+    "Walker OUT Thursday. Johnson locked START (TradeHurricane already started him). AustinDoingWork Superflex already 0.0 \u2014 do not smash-sell Walker 78. Formula 58 wrong.",
+    "Herbert DNP Wednesday protocol. Thursday practice MISSING. AnalyticsOverlord STARTED him \u2014 start Mendoza or Young. Do not drop.",
+    "Henry still in concussion protocol. Sit-lean until Friday cleared. RivalryEngine: START Croskey Sunday (still benched). Do not smash-sell 76.",
+    "Darnold Sleeper Healthy / FP / expected to start. Start-lean. Sit Lock (Q elbow). ZeroChill: Darnold is the SEA QB; MrB already sat Lock for Deshaun.",
+    "ZeroChill: still start Coleman Friday (benched 32.9). Sit Dobbins. Sit Bowers until named. QuietSniper: sit Sutton/Juwan, start London. Kyren miss is locked.",
+    "Klemm: start Bijan and JSN \u2014 bye is over. JSN Q ankle LP \u2014 start if active. Purdy DNP is a watch, not a sit. ChaosGoblin: start Irving Monday.",
     "IR the empties: QuietSniper Maye (Out). MrB Harvey (IR tagged on active roster). WaiverPredator cannot IR Kyler (Q). Klemm empty.",
-    "Klemm: Bijan+JSN STARTED (morning STALE \u2014 keep them). Purdy DNP is a watch not a sit. ChaosGoblin: start Irving Monday.",
     "Trade deadline is Week 12. Do it this week or not at all."
   ],
   "injuries": [
@@ -6198,8 +6103,8 @@
       "pos": "RB",
       "team": "KC",
       "status": "Out",
-      "note": "Groin. Out Thursday (3rd straight). AustinDoingWork BENCHED him \u2014 Superflex hole FIXED (Caleb 29.3).",
-      "replacement": "Emmett Johnson locked START 8:20. Owned TradeHurricane. Do not smash-sell Walker 78."
+      "note": "Groin. Out Thursday (3rd straight). AustinDoingWork started him in Superflex \u2014 0.0 locked.",
+      "replacement": "Emmett Johnson locked START. Owned TradeHurricane. Do not smash-sell Walker 78."
     },
     {
       "player": "Justin Herbert",
@@ -6242,38 +6147,6 @@
       "replacement": "Golden 4.4. Extra rest before W13. HOLD 48 GUESS. Do not smash-sell."
     },
     {
-      "player": "Jahmyr Gibbs",
-      "pos": "RB",
-      "team": "DET",
-      "status": "Healthy",
-      "note": "21-205-3 / 43.2 locked smash. Indoor 55.5 cashed.",
-      "replacement": "N/A. HOLD 98. WaiverPredator started."
-    },
-    {
-      "player": "Rome Odunze",
-      "pos": "WR",
-      "team": "CHI",
-      "status": "Healthy",
-      "note": "6-87-2 / 23.7 locked on RivalryEngine BENCH (walk-off).",
-      "replacement": "N/A this week. Recut 44\u219248 GUESS. Not a WR1."
-    },
-    {
-      "player": "Kyle Monangai",
-      "pos": "RB",
-      "team": "CHI",
-      "status": "Healthy",
-      "note": "8-15-2 vulture. Roschon inactive. Already played.",
-      "replacement": "Swift is the PPR back (25.7). Monangai 12 GUESS FA leftover dart."
-    },
-    {
-      "player": "Colston Loveland",
-      "pos": "TE",
-      "team": "CHI",
-      "status": "Out",
-      "note": "Knee. \u22121.0 ChaosGoblin bench.",
-      "replacement": "Unstartable this week. Recut 53\u219228 GUESS."
-    },
-    {
       "player": "Brock Bowers",
       "pos": "TE",
       "team": "LV",
@@ -6287,7 +6160,7 @@
       "team": "JAX",
       "status": "Questionable",
       "note": "Ankle/foot. Official DNP Wednesday. Sit-lean vs TEN. Friday decision.",
-      "replacement": "Chris Rodriguez Jr. owned AustinDoingWork (started as flex). Startable if Tuten sits."
+      "replacement": "Chris Rodriguez Jr. owned AustinDoingWork (benched). Startable if Tuten sits."
     },
     {
       "player": "Drake Maye",
@@ -6327,14 +6200,14 @@
       "team": "SEA",
       "status": "Questionable",
       "note": "Ankle. LP Wednesday. NBC: likely load management. Sleeper Q. Start if active.",
-      "replacement": "Klemm STARTED him (morning bench STALE). HOLD 98. Do not recut."
+      "replacement": "Klemm BENCH \u2014 start him. HOLD 98. Do not recut."
     },
     {
       "player": "Aaron Rodgers",
       "pos": "QB",
       "team": "PIT",
       "status": "Inactive",
-      "note": "Steelers: inactive Friday. Rudolph starts. Sleeper team display blank.",
+      "note": "Steelers: inactive Friday. Rudolph starts. Sleeper still PIT.",
       "replacement": "Rudolph skip 10-team in 36.5. RivalryEngine started Richardson (correct)."
     },
     {
@@ -6350,7 +6223,7 @@
       "pos": "QB",
       "team": "PHI",
       "status": "IR",
-      "note": "DVT + PE season. Milton starts PHI LIVE \u2014 skip 10-team.",
+      "note": "DVT + PE season.",
       "replacement": "Milton FA skip. RivalryEngine IR him already."
     },
     {
@@ -6390,8 +6263,8 @@
       "pos": "RB",
       "team": "HOU",
       "status": "Questionable",
-      "note": "Concussion. Dropped by WaiverPredator for Williams. Still Q. Conservative sit W12.",
-      "replacement": "Montgomery is HOU RB1. Owned Klemm. Marks 10 GUESS FA skip."
+      "note": "Concussion. FP Wednesday. Still must clear protocol. Sleeper Q. Conservative sit W12.",
+      "replacement": "Montgomery is HOU RB1. Owned Klemm."
     },
     {
       "player": "Marvin Harrison Jr.",
@@ -6406,100 +6279,117 @@
       "pos": "RB",
       "team": "PHI",
       "status": "Healthy",
-      "note": "Wed FP, no designation, active. LIVE START Thu @ DAL \u2014 not a smash vs DAL -8.5. 0.0 early Q1.",
-      "replacement": "Shipley skip. AustinDoingWork started him (correct). Do not recut live."
+      "note": "Wed FP, no designation. START Thu @ DAL \u2014 not a smash vs DAL -8.5.",
+      "replacement": "Shipley skip. AustinDoingWork started him (correct). Inactives ~3:00."
     },
     {
-      "player": "Dalton Kincaid",
+      "player": "Sam LaPorta",
       "pos": "TE",
-      "team": "BUF",
-      "status": "Questionable",
-      "note": "Thumb/ankle. LP. GTD ~6:50. Rain WATCH.",
-      "replacement": "AustinDoingWork started Chig (Sunday) \u2014 can still swap if named active."
+      "team": "DET",
+      "status": "Healthy",
+      "note": "Wed FP ankle. Off Lions report. Thu smash vs CHI.",
+      "replacement": "Start. Owned WaiverPredator."
     },
     {
       "player": "Jake Ferguson",
       "pos": "TE",
       "team": "DAL",
       "status": "Out",
-      "note": "Knee/ankle. Inactive Thursday.",
+      "note": "Knee/ankle. Out Thursday.",
       "replacement": "Skip. Not rostered."
+    },
+    {
+      "player": "Dalton Kincaid",
+      "pos": "TE",
+      "team": "BUF",
+      "status": "Questionable",
+      "note": "Thumb/ankle LP. Official Q. Rain WATCH.",
+      "replacement": "Start-lean if named. AustinDoingWork started Chig \u2014 don't panic-swap."
     },
     {
       "player": "Mike Evans",
       "pos": "WR",
       "team": "SF",
       "status": "Questionable",
-      "note": "Achilles. DNP Wednesday. Sunday start-lean.",
-      "replacement": "ZeroChill started him \u2014 sit-lean vs Coleman Friday (Evans is Sunday)."
+      "note": "Achilles. DNP Wednesday. Sunday start-lean. Thursday practice MISSING.",
+      "replacement": "ZeroChill started him \u2014 watch Fri. Do not panic-sit."
+    },
+    {
+      "player": "Tetairoa McMillan",
+      "pos": "WR",
+      "team": "CAR",
+      "status": "Questionable",
+      "note": "Foot. Extra day before MNF. QuietSniper started him.",
+      "replacement": "Start-lean. Watch Fri/Sat."
     },
     {
       "player": "Stefon Diggs",
       "pos": "WR",
       "team": "WAS",
       "status": "Questionable",
-      "note": "DNP Wednesday personal. Official still listed. Sleeper no-tag CONFLICT.",
-      "replacement": "Williams OWNED WaiverPredator. Start-lean Diggs only if with the team."
+      "note": "DNP Wednesday personal, not injury. Sleeper Q. AnalyticsOverlord started him.",
+      "replacement": "Start-lean only if with the team. Williams is the FA spike."
     },
     {
-      "player": "Jacory Croskey-Merritt",
+      "player": "Juwan Johnson",
+      "pos": "TE",
+      "team": "NO",
+      "status": "Questionable",
+      "note": "Hamstring. DNP Wednesday. QuietSniper started him. Sit-lean @ CIN.",
+      "replacement": "Kraft already played 1.9. London is the better Sunday swap."
+    },
+    {
+      "player": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
+      "status": "Out",
+      "note": "Chest. Left Wednesday. Ruled out.",
+      "replacement": "Parkinson FA skip 10-team. Davis Allen also Q ankle."
+    },
+    {
+      "player": "Roschon Johnson",
       "pos": "RB",
-      "team": "WAS",
-      "status": "Healthy",
-      "note": "Groin IR return. 13-54-1 MNF. Owned RivalryEngine still BENCH.",
-      "replacement": "White is dead. START Croskey Sunday. Sit-lean Henry."
+      "team": "CHI",
+      "status": "Out",
+      "note": "Ankle. Out Thursday vs DET.",
+      "replacement": "Swift is CHI RB1. Monangai skip 10-team."
     }
   ],
   "news": [
     {
-      "player": "Jahmyr Gibbs",
-      "note": "CHI 39-DET 35 FINAL. 21-205-3 / 43.2 HPPR. Indoor 55.5 smash.",
-      "impact": "HOLD 98. Already the top. WaiverPredator started. Box closed."
+      "player": "Blake Corum",
+      "note": "32-184-1 / 27.5 in LAR 26-GB 13. PFF: first time ahead of Kyren on the depth chart. Pelissero: Kyren turf toe ~1 month.",
+      "impact": "Recut 30\u219246 GUESS. RB1-this-week / new-lead, not CMC. Do not dump Kyren."
     },
     {
-      "player": "Rome Odunze",
-      "note": "6-87-2 / 23.7 including walk-off TD. RivalryEngine BENCH.",
-      "impact": "RECUT 44\u219248 GUESS. Locked miss. Not a WR1."
+      "player": "Kyren Williams",
+      "note": "12-46-1 / 14.5. Lost the 32-carry lead. QuietSniper benched him.",
+      "impact": "Recut 63\u219252 GUESS. Locked miss. Role is split, not zero."
     },
     {
-      "player": "Kyle Monangai",
-      "note": "8-15-2 vulture. Roschon inactive. Still FA.",
-      "impact": "NEW 12 GUESS FA leftover dart. Do not recut Swift 78 down. Not a 10-team RB1."
+      "player": "Josh Jacobs",
+      "note": "Inactive Wednesday. Sleeper Out. Kaleb started 3.7. Lloyd crumbs.",
+      "impact": "Path is Week 13. Do not add Lloyd now."
     },
     {
-      "player": "D'Andre Swift",
-      "note": "9-65-1 + 7-97 / 25.7. PPR lead even with Monangai TDs.",
-      "impact": "HOLD 78. ZeroChill started. Do not dump to Monangai 12."
+      "player": "Christian Watson",
+      "note": "Concussion Out at half after Kinchens hit. 14.5 locked including the TD.",
+      "impact": "Recut 84\u219248 GUESS HOLD. Extra rest before W13. Golden 4.4 may bump."
     },
     {
-      "player": "Caleb Williams",
-      "note": "30/44 345-2 + 2pt / 29.3. Walk-off to Odunze. Sleeper Q tag STALE.",
-      "impact": "HOLD 64. AustinDoingWork started. Do not smash-up one game."
+      "player": "Sam Darnold",
+      "note": "Sleeper Healthy. FP Wednesday. Macdonald plan to start; Rapoport expected. Lock Q elbow.",
+      "impact": "Recut 32\u219236 GUESS start-lean. Sit Lock (28\u219218)."
     },
     {
-      "player": "Antonio Williams",
-      "note": "Thursday leftover last_ran 25\u219226. WaiverPredator $0 (drop Marks). Failed AO/RE/ZC.",
-      "impact": "OWNED. 16 HOLD. Startable Sunday flex. Best remaining FA is now Mumpfield."
-    },
-    {
-      "player": "Woody Marks",
-      "note": "Dropped by WaiverPredator. Still Q concussion.",
-      "impact": "RECUT 23\u219210 GUESS FA skip. Montgomery is HOU."
-    },
-    {
-      "player": "Colston Loveland",
-      "note": "Out knee. \u22121.0 ChaosGoblin bench.",
-      "impact": "RECUT 53\u219228 GUESS. Unstartable this week."
+      "player": "Jaxon Smith-Njigba",
+      "note": "LP ankle Wednesday. Sleeper Q. NBC: likely load management.",
+      "impact": "HOLD 98. Klemm still benches him \u2014 start if active."
     },
     {
       "player": "Kenneth Walker III",
-      "note": "Still OUT Thursday. 7-man MISSING ~6:50. AustinDoingWork benched him (Caleb 29.3 Superflex hole closed).",
-      "impact": "HOLD 78. Johnson locked START 8:20. Do not smash-sell."
-    },
-    {
-      "player": "PHI@DAL",
-      "note": "LIVE Q1 0-0. Kick delayed ~4:45. Ferguson inactive. Milton starts PHI. Saquon/Goedert/Dak/CeeDee/Javonte/Pickens active.",
-      "impact": "Do not recut live. Goedert is on TradeHurricane BENCH \u2014 live miss if he scores. Milton skip 10-team."
+      "note": "Out Thursday third straight. AustinDoingWork Superflex already 0.0.",
+      "impact": "Johnson locked. Do not smash-sell 78. Formula 58 is the Out haircut \u2014 ignore it."
     },
     {
       "player": "Derrick Henry",
@@ -6508,13 +6398,23 @@
     },
     {
       "player": "Justin Herbert",
-      "note": "DNP Wednesday protocol. Thursday practice MISSING. NE -1.5 / 35.5.",
+      "note": "DNP Wednesday protocol. Thursday practice MISSING. NE now -1.5 / 35.5.",
       "impact": "Sit-lean. AnalyticsOverlord started him \u2014 swap Mendoza/Young. Do not drop."
     },
     {
       "player": "Brock Purdy",
       "note": "DNP Wednesday low ankle. Thursday practice MISSING. Possibility he sits.",
-      "impact": "HOLD 80. Watch Friday. Mac Jones skip until named. Klemm started him."
+      "impact": "HOLD 80. Watch Friday. Mac Jones skip until named."
+    },
+    {
+      "player": "Tyler Higbee",
+      "note": "Chest injury, ruled out Wednesday. Davis Allen ankle Q.",
+      "impact": "Parkinson FA skip 10-team. Not a must-add."
+    },
+    {
+      "player": "Konata Mumpfield",
+      "note": "4-69 with Adams/Puka IR. Trending add. Still FA.",
+      "impact": "Speculative FCFS $0 behind Williams. 12 GUESS. Not a WR1."
     },
     {
       "player": "Jacory Croskey-Merritt",
@@ -6524,40 +6424,30 @@
     {
       "player": "Jonah Coleman",
       "note": "Dobbins suspended Friday. 32.9 still benched.",
-      "impact": "Must-start Friday @ PIT 36.5 over Evans Q. Sutton is the trap."
-    },
-    {
-      "player": "Jaxon Smith-Njigba",
-      "note": "Q ankle LP Wed. Klemm STARTED him (morning bench STALE).",
-      "impact": "HOLD 98. Start if active. Bye over."
-    },
-    {
-      "player": "Bijan Robinson",
-      "note": "Klemm STARTED him (morning bench STALE). Bye over @ MIN.",
-      "impact": "Keep him in. HOLD 89."
+      "impact": "Must-start Friday @ PIT 36.5. Sutton is the trap."
     },
     {
       "player": "Buffalo weather",
-      "note": "MySportsWeather/NWS 5 PM: 37F 98% rain NE 15 gusts 35-38. Total 45.5.",
-      "impact": "WATCH not a sit for Allen/Mahomes/Cook/Kelce/Johnson. Fade Rice deep shots."
+      "note": "NWS 4 AM: rain ~100%, gusts up to 45. Total 47.0\u219245.5.",
+      "impact": "WATCH not a sit for Allen/Mahomes/Cook/Kelce. Fade Rice deep shots."
     }
   ],
   "faab": [
+    {
+      "player": "Antonio Williams",
+      "pos": "WR",
+      "priority": "Strong",
+      "bid_low": 0,
+      "bid_high": 0,
+      "why": "Thursday leftover has not run. FCFS $0. 9-122 / 16.7 HPPR. McLaurin IR. Diggs DNP personal. @ ARI. Best remaining FA. MrB leftover #1."
+    },
     {
       "player": "Konata Mumpfield",
       "pos": "WR",
       "priority": "Speculative",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Thursday leftover processed. Williams gone. 4-69 Wed with Adams/Puka IR. Best remaining FA. 10-team WR3/flex dart. MrB leftover #1 Friday."
-    },
-    {
-      "player": "Kyle Monangai",
-      "pos": "RB",
-      "priority": "Speculative",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "8-15-2 vulture with Roschon Out. Not the PPR back (Swift 25.7). Speculative $0 FCFS dart only."
+      "why": "4-69 Wed with Adams/Puka IR. Trending add. 10-team WR3/flex dart, not a WR1."
     },
     {
       "player": "Jack Bech",
@@ -6573,7 +6463,7 @@
       "priority": "Speculative",
       "bid_low": 0,
       "bid_high": 0,
-      "why": "Henry still in protocol. Fill only if Henry sits Sunday. Behind Mumpfield/Monangai."
+      "why": "Henry still in protocol. Fill only if Henry sits Sunday. Behind Williams."
     },
     {
       "player": "MarShawn Lloyd",
@@ -6584,28 +6474,12 @@
       "why": "Wednesday path closed. Kaleb got the Jacobs-out work (3.7). Skip now."
     },
     {
-      "player": "Woody Marks",
-      "pos": "RB",
-      "priority": "Skip",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "Dropped. Still Q concussion. Montgomery is HOU. Leave him."
-    },
-    {
       "player": "Mason Rudolph",
       "pos": "QB",
       "priority": "Skip",
       "bid_low": 0,
       "bid_high": 0,
       "why": "Named Friday starter. Dead 36.5 vs DEN. Not a 10-team SF2."
-    },
-    {
-      "player": "Joe Milton",
-      "pos": "QB",
-      "priority": "Skip",
-      "bid_low": 0,
-      "bid_high": 0,
-      "why": "Named PHI starter LIVE @ DAL. Bad offense. Skip 10-team."
     },
     {
       "player": "DJ Uiagalelei",
@@ -6645,127 +6519,109 @@
       "player": "Jahmyr Gibbs",
       "pos": "RB",
       "call": "Must-start",
-      "note": "LOCKED smash 21-205-3 / 43.2. WaiverPredator started."
-    },
-    {
-      "player": "D'Andre Swift",
-      "pos": "RB",
-      "call": "Must-start",
-      "note": "LOCKED 9-65-1 + 7-97 / 25.7. ZeroChill started. Do not recut to Monangai."
-    },
-    {
-      "player": "Caleb Williams",
-      "pos": "QB",
-      "call": "Must-start",
-      "note": "LOCKED 30/44 345-2 / 29.3. AustinDoingWork started. Superflex hole closed."
-    },
-    {
-      "player": "Jared Goff",
-      "pos": "QB",
-      "call": "Must-start",
-      "note": "LOCKED 18.0. WaiverPredator started."
+      "note": "Thu smash vs CHI 55.5. WaiverPredator started him."
     },
     {
       "player": "Amon-Ra St. Brown",
       "pos": "WR",
       "call": "Must-start",
-      "note": "LOCKED 7-146 / 18.5. TradeHurricane started."
+      "note": "Thu smash vs CHI. TradeHurricane started him."
+    },
+    {
+      "player": "Jared Goff",
+      "pos": "QB",
+      "call": "Must-start",
+      "note": "Thu smash vs CHI. WaiverPredator started him."
+    },
+    {
+      "player": "Caleb Williams",
+      "pos": "QB",
+      "call": "Must-start",
+      "note": "Thu smash @ DET 55.5. AustinDoingWork started him."
+    },
+    {
+      "player": "D'Andre Swift",
+      "pos": "RB",
+      "call": "Must-start",
+      "note": "Thu smash @ DET. Roschon Out. ZeroChill started him."
     },
     {
       "player": "Sam LaPorta",
       "pos": "TE",
       "call": "Must-start",
-      "note": "LOCKED 4-44-1 / 12.4. WaiverPredator started."
-    },
-    {
-      "player": "Rome Odunze",
-      "pos": "WR",
-      "call": "Sit / trap",
-      "note": "LOCKED MISS 6-87-2 / 23.7 on RivalryEngine BENCH. Recut 48 GUESS. Not a WR1."
-    },
-    {
-      "player": "Emmett Johnson",
-      "pos": "RB",
-      "call": "Must-start",
-      "note": "Walker OUT. Locked W12 RB1 Thu @ BUF 8:20. TradeHurricane started him. Rain WATCH not a sit."
-    },
-    {
-      "player": "Kenneth Walker III",
-      "pos": "RB",
-      "call": "Sit / trap",
-      "note": "OUT. AustinDoingWork benched him (correct). Do not smash-sell 78."
-    },
-    {
-      "player": "Josh Allen",
-      "pos": "QB",
-      "call": "Must-start",
-      "note": "Thu vs KC 8:20. Rain/gusts WATCH not a sit."
-    },
-    {
-      "player": "Patrick Mahomes",
-      "pos": "QB",
-      "call": "Must-start",
-      "note": "Thu @ BUF 8:20. Rain/gusts WATCH not a sit."
-    },
-    {
-      "player": "James Cook III",
-      "pos": "RB",
-      "call": "Must-start",
-      "note": "Thu vs KC 8:20. Rain WATCH not a sit."
-    },
-    {
-      "player": "DJ Moore",
-      "pos": "WR",
-      "call": "Must-start",
-      "note": "Thu vs KC 8:20. Rain WATCH. MrB started him."
-    },
-    {
-      "player": "Rashee Rice",
-      "pos": "WR",
-      "call": "Toss-up",
-      "note": "WATCH \u2014 fade deep in gusts 35-38 / total 45.5, not an auto-sit. Klemm started him."
-    },
-    {
-      "player": "Dalton Kincaid",
-      "pos": "TE",
-      "call": "Toss-up",
-      "note": "Q GTD ~6:50 start-lean if named. Rain WATCH. AustinDoingWork started Chig (Sunday) \u2014 can still swap."
+      "note": "Wed FP. Off report. Thu smash vs CHI."
     },
     {
       "player": "Saquon Barkley",
       "pos": "RB",
       "call": "Must-start",
-      "note": "LIVE START Thu @ DAL \u2014 not a smash. 0.0 early Q1. Do not recut."
+      "note": "START Thu @ DAL \u2014 not a smash vs DAL -8.5. AustinDoingWork started him."
     },
     {
       "player": "CeeDee Lamb",
       "pos": "WR",
       "call": "Must-start",
-      "note": "LIVE Thu vs PHI. 3.3 early. Do not recut."
+      "note": "Thu smash vs PHI. ZeroChill started him."
     },
     {
       "player": "Dak Prescott",
       "pos": "QB",
       "call": "Must-start",
-      "note": "LIVE Thu vs PHI. 1.32 early. Do not recut."
+      "note": "Thu smash vs PHI. WaiverPredator started him."
     },
     {
-      "player": "Javonte Williams",
+      "player": "Emmett Johnson",
       "pos": "RB",
       "call": "Must-start",
-      "note": "LIVE Thu vs PHI. 10.5 early. Do not recut."
+      "note": "Walker OUT. Locked W12 RB1 Thu @ BUF. TradeHurricane started him. Rain WATCH not a sit."
     },
     {
-      "player": "Dallas Goedert",
+      "player": "Kenneth Walker III",
+      "pos": "RB",
+      "call": "Sit / trap",
+      "note": "OUT. 0.0 locked in AustinDoingWork Superflex. Do not smash-sell 78."
+    },
+    {
+      "player": "Josh Allen",
+      "pos": "QB",
+      "call": "Must-start",
+      "note": "Thu vs KC. Rain/gusts WATCH not a sit."
+    },
+    {
+      "player": "Patrick Mahomes",
+      "pos": "QB",
+      "call": "Must-start",
+      "note": "Thu @ BUF. Rain/gusts WATCH not a sit."
+    },
+    {
+      "player": "James Cook III",
+      "pos": "RB",
+      "call": "Must-start",
+      "note": "Thu vs KC. Rain WATCH not a sit."
+    },
+    {
+      "player": "DJ Moore",
+      "pos": "WR",
+      "call": "Must-start",
+      "note": "Thu vs KC. Rain WATCH. MrB started him."
+    },
+    {
+      "player": "Rashee Rice",
+      "pos": "WR",
+      "call": "Toss-up",
+      "note": "WATCH \u2014 fade deep in gusts 35-45 / total 45.5, not an auto-sit. Klemm started him."
+    },
+    {
+      "player": "Dalton Kincaid",
       "pos": "TE",
-      "call": "Strong start",
-      "note": "LIVE on TradeHurricane BENCH vs Strange \u2014 live miss if he scores."
+      "call": "Toss-up",
+      "note": "Q start-lean if named. Rain WATCH. Chig already started \u2014 don't panic-swap."
     },
     {
       "player": "Jonah Coleman",
       "pos": "RB",
       "call": "Must-start",
-      "note": "Fri @ PIT. Dobbins suspended. ZeroChill still BENCH 32.9 \u2014 start him over Evans Q."
+      "note": "Fri @ PIT. Dobbins suspended. ZeroChill still BENCH 32.9 \u2014 start him."
     },
     {
       "player": "Courtland Sutton",
@@ -6801,7 +6657,7 @@
       "player": "Sam Darnold",
       "pos": "QB",
       "call": "Strong start",
-      "note": "Sleeper Healthy / FP / expected to start. 36 GUESS start-lean. ZeroChill bench."
+      "note": "Sleeper Healthy / FP / expected to start. 36 GUESS start-lean. ZeroChill bench \u2014 start him over sitting."
     },
     {
       "player": "Drew Lock",
@@ -6813,7 +6669,7 @@
       "player": "Jacory Croskey-Merritt",
       "pos": "RB",
       "call": "Must-start",
-      "note": "OWNED. RivalryEngine still BENCH. Start him Sunday @ ARI. White is dead."
+      "note": "OWNED. RivalryEngine BENCH. Start him Sunday @ ARI. White is dead."
     },
     {
       "player": "Derrick Henry",
@@ -6831,31 +6687,31 @@
       "player": "Bhayshul Tuten",
       "pos": "RB",
       "call": "Sit / trap",
-      "note": "DNP Wed sit-lean. Friday decision. Rodriguez owned fill (started as flex)."
+      "note": "DNP Wed sit-lean. Friday decision. Rodriguez owned fill."
     },
     {
       "player": "Bijan Robinson",
       "pos": "RB",
       "call": "Must-start",
-      "note": "Bye over @ MIN. Klemm STARTED him (morning STALE \u2014 keep him)."
+      "note": "Bye over @ MIN. Klemm BENCH \u2014 start him."
     },
     {
       "player": "Jaxon Smith-Njigba",
       "pos": "WR",
       "call": "Must-start",
-      "note": "Q ankle LP \u2014 start if active. Klemm STARTED him. Bye over @ SF."
+      "note": "Q ankle LP \u2014 start if active. Klemm BENCH. Bye over @ SF."
     },
     {
       "player": "Drake London",
       "pos": "WR",
       "call": "Must-start",
-      "note": "Sleeper Healthy. QuietSniper still BENCH \u2014 start over Sutton."
+      "note": "Sleeper Healthy. QuietSniper BENCH \u2014 start over Sutton."
     },
     {
       "player": "Bucky Irving",
       "pos": "RB",
       "call": "Must-start",
-      "note": "MNF vs CAR. ChaosGoblin still BENCH \u2014 start over Allen/Skattebo."
+      "note": "MNF vs CAR. ChaosGoblin BENCH \u2014 start over Allen/Skattebo."
     },
     {
       "player": "Tony Pollard",
@@ -6912,16 +6768,16 @@
       "note": "W12 box CLOSED on QuietSniper bench (14.5). Recut 52 GUESS ROS \u2014 do not dump."
     },
     {
-      "player": "Kyle Monangai",
-      "pos": "RB",
-      "call": "Sit / trap",
-      "note": "Already played 8-15-2. FA leftover dart ROS. Do not start him as Swift."
+      "player": "Jordan Love",
+      "pos": "QB",
+      "call": "Must-start",
+      "note": "W12 box CLOSED 12.62 on TradeHurricane bench. HOLD 70 ROS."
     },
     {
-      "player": "Joe Milton",
+      "player": "Matthew Stafford",
       "pos": "QB",
-      "call": "Sit / trap",
-      "note": "Named PHI starter LIVE. Skip 10-team."
+      "call": "Must-start",
+      "note": "W12 box CLOSED 4.6 on AustinDoingWork bench. HOLD 48 ROS."
     },
     {
       "player": "Ladd McConkey",
@@ -6960,16 +6816,10 @@
       "note": "Named Friday starter. Skip 10-team in 36.5 vs DEN."
     },
     {
-      "player": "Mike Evans",
-      "pos": "WR",
-      "call": "Toss-up",
-      "note": "Q Achilles DNP Wed. Sunday start-lean. ZeroChill should start Coleman Friday over him."
-    },
-    {
-      "player": "Antonio Williams",
-      "pos": "WR",
+      "player": "Dallas Goedert",
+      "pos": "TE",
       "call": "Strong start",
-      "note": "OWNED WaiverPredator leftover $0. Startable Sunday flex @ ARI over BTJ/Kamara."
+      "note": "Thu @ DAL. TradeHurricane BENCH \u2014 start over Strange."
     }
   ],
   "streamers_qb": [
@@ -6984,54 +6834,48 @@
     "Justin Herbert (LAC) \u2014 protocol DNP Wed sit-lean W12. 36 GUESS. AnalyticsOverlord started him. Do not drop.",
     "Brock Purdy (SF) \u2014 DNP Wed ankle watch. HOLD 80. Mac Jones skip until named.",
     "Aaron Rodgers (PIT) \u2014 inactive Friday. Sit. Rudolph skip.",
-    "Caleb Williams (CHI) / Jared Goff (DET) \u2014 already played. 29.3 / 18.0 locked.",
     "DJ Uiagalelei (LAC) \u2014 skip until named. Dead 35.5 vs NE.",
     "Tommy DeVito (NE) \u2014 skip. Named Maye fill in a 35.5 total.",
     "Mason Rudolph (PIT) \u2014 skip. Named Friday starter in 36.5.",
     "Mac Jones (SF) \u2014 skip until Purdy is named out.",
-    "Joe Milton (PHI) \u2014 named starter LIVE @ DAL. Skip 10-team.",
+    "Joe Milton (PHI) \u2014 skip.",
     "Daniel Jones \u2014 waived, FA. Skip until signed.",
     "Deshaun Watson (CLE) \u2014 MrB SF2 vs LV. GUESS, better than Lock this week."
   ],
   "actions_today": [
-    "Set KC@BUF before 8:20 ET: start Johnson / Allen / Cook / Mahomes / DJ Moore / Kelce. Walker OUT. Inactives ~6:50. Fade Rice deep in 37F / 98% rain / gusts 35-38 \u2014 not an auto-sit.",
-    "PHI@DAL LIVE Q1 0-0 \u2014 do not recut. Saquon/Javonte/Lamb/Dak/Pickens are in. Goedert is on TradeHurricane BENCH (live miss if he scores).",
-    "CHI@DET FINAL: Gibbs 43.2 smash. Swift 25.7. Caleb 29.3. Goff 18.0. ARSB 18.5. LaPorta 12.4. Odunze 23.7 RivalryEngine BENCH MISS. Monangai 8-15-2 FA.",
-    "Wednesday locked: Corum 27.5 smash. Kyren 14.5 QuietSniper miss. Love 12.62 TradeHurricane miss. Stafford 4.6. Watson 14.5 then Out.",
-    "Thursday leftover PROCESSED last_ran=26. WaiverPredator Williams $0 (drop Marks). Friday leftover: Mumpfield then Monangai / Bech / Hill. Skip Lloyd / Rudolph / Milton / Marks. MrB leftover #1.",
-    "RivalryEngine: Richardson started (correct). Odunze miss locked. START Croskey Sunday. Sit-lean Henry. Sit Tuten. Rodgers already benched.",
+    "Set Thursday before 1:00 ET: start Gibbs / ARSB / Goff / Caleb / Swift / LaPorta. CHI@DET 55.5 smash. Inactives ~11:30.",
+    "Thursday rest: start Saquon (not a smash), Javonte, Lamb, Dak, Johnson, Allen, Cook, Mahomes, DJ Moore. Fade Rice deep in BUF rain/gusts \u2014 not an auto-sit.",
+    "Wednesday locked: Corum 27.5 smash. Kyren 14.5 QuietSniper miss. Love 12.62 TradeHurricane miss. Stafford 4.6 / Walker 0.0 AustinDoingWork Superflex miss. Watson 14.5 then Out.",
+    "Thursday leftover last_ran=25 NOT processed. FCFS Williams then Mumpfield / Bech / Hill. Skip Lloyd / Rudolph / DeVito / Uiagalelei / Mac Jones. MrB leftover #1.",
+    "RivalryEngine: Richardson started (correct). START Croskey Sunday. Sit-lean Henry. Sit Tuten. Rodgers already benched.",
     "IR empties: QuietSniper Maye (Out). MrB Harvey (IR tagged). WaiverPredator cannot IR Kyler (Q). Klemm empty.",
-    "ZeroChill vs QuietSniper: start Coleman Friday over Evans Q. Sit Dobbins. Sit Bowers until named. QuietSniper: sit Sutton/Juwan, start London.",
+    "ZeroChill vs QuietSniper: start Coleman Friday. Sit Dobbins. Sit Bowers until named. QuietSniper: sit Sutton/Juwan, start London.",
     "AnalyticsOverlord: sit Herbert (they started him). Start Mendoza or Young as SF2. Burrow vs NO is the QB1.",
-    "Klemm: Bijan and JSN STARTED (morning STALE \u2014 keep them). JSN Q ankle \u2014 start if active. Purdy DNP is a watch not a sit. ChaosGoblin: start Irving Monday.",
-    "AustinDoingWork: Superflex hole closed (Caleb 29.3, Walker benched). Optional Kincaid swap over Chig if named active ~6:50. Do not recut Javonte live.",
-    "Overlay recuts vs 7:25 AM: Odunze 44\u219248 GUESS, NEW Monangai 12 GUESS FA, Marks 23\u219210 GUESS FA skip, Loveland 53\u219228 GUESS. Williams owned 16 HOLD. Gibbs/Swift/Caleb HOLD. PHI/DAL LIVE FLAT.",
-    "Do not smash-sell Walker 78 / Bowers 62 / Maye 58 / Tuten 32 / Herbert 36 / Purdy 80 / Henry 76 / Watson 48 / Kyren 52 / Swift 78. Do not buy formula 74 Tuten or 58 Walker or 84 Bowers or 85 Golden or 45 Mendoza/Darnold floor or Monangai as Swift.",
-    "Trade deadline is this week. If you need a SF2, pay Young/Geno/Mendoza/Darnold range, not Burrow. If you need RB volume, buy Coleman 42, Johnson 44, or Corum 46 \u2014 not Walker as if he is gone, not Monangai as if he is Swift.",
-    "Watch: KC/BUF inactives ~6:50; Kincaid GTD; Herbert/Purdy/Tuten/Bowers/Henry Friday; Darnold official name; Diggs presence; JSN Fri; Friday leftover ~5:00 AM."
+    "Klemm: start Bijan and JSN \u2014 display_week=12, bye over. JSN Q ankle \u2014 start if active. Purdy DNP is a watch not a sit. ChaosGoblin: start Irving Monday.",
+    "Overlay recuts vs 5:20 PM Wed: Corum 30\u219246 GUESS, Kyren 63\u219252 GUESS, Darnold 32\u219236 GUESS, Lock 28\u219218 GUESS, Watson 84\u219248 GUESS, Golden 85\u219238 GUESS, Lloyd 14\u21928 GUESS.",
+    "Do not smash-sell Walker 78 / Bowers 62 / Maye 58 / Tuten 32 / Herbert 36 / Purdy 80 / Henry 76 / Watson 48 / Kyren 52. Do not buy formula 74 Tuten or 58 Walker or 84 Bowers or 85 Golden or 45 Mendoza/Darnold floor.",
+    "Trade deadline is this week. If you need a SF2, pay Young/Geno/Mendoza/Darnold range, not Burrow. If you need RB volume, buy Coleman 42, Johnson 44, or Corum 46 \u2014 not Walker as if he is gone.",
+    "Watch: CHI/DET inactives ~11:30; PHI/DAL ~3:00; KC/BUF ~6:45; Herbert/Purdy/Tuten/Bowers/Henry Friday; Darnold official name; Diggs presence; JSN Fri; next leftover."
   ],
   "trade_rules_of_thumb": [
     "Superflex: starting QBs are premium. QB2s still matter. Do not treat this like 1QB.",
-    "Half-PPR: WRs hold; committee RBs are capped unless they have a path to 15+ touches (Coleman/Johnson/Corum do; Monangai does not).",
+    "Half-PPR: WRs hold; committee RBs are capped unless they have a path to 15+ touches (Coleman/Johnson/Corum do).",
     "10-team: benches are shallow. Do not overpay a 4th RB or a one-week TE streamer.",
-    "Formula 1.0.0 players[] is a different scale (Maye 29 / Walker 58 Out haircut / Tuten 74 / Bowers 84 / Kelce 67 / Lock 53 / Coleman 30 cap / Golden 85 / Darnold 45 / Loveland 53). Bots trade the overlay numbers in trade_board.",
+    "Formula 1.0.0 players[] is a different scale (Maye 29 / Walker 58 Out haircut / Tuten 74 / Bowers 84 / Kelce 67 / Lock 53 / Coleman 30 cap / Golden 85 / Darnold 45). Bots trade the overlay numbers in trade_board.",
     "Side getting Gibbs / Allen / JSN / Burrow / CMC / Lamb gives extra in 2-for-1s.",
-    "Injury HOLDs: do not recut Walker/Bowers/Maye/Tuten/Herbert/Purdy/Henry/Watson to the fill's price. Walker Out on a short week is not a recut to Johnson 44. Kyren's toe is not a recut to Corum at 30. Swift 25.7 is not a recut to Monangai 12.",
-    "W11 bye is over. display_week=12. Love/Stafford/Kyren/Gibbs/Swift/Caleb boxes are closed. Do not fade JSN/Bijan as still on bye. Klemm started both.",
-    "Tuesday FAAB awarded Richardson/Croskey/Mayer. Thursday leftover awarded Williams to WaiverPredator. Remaining leftover is FCFS $0 (Mumpfield/Monangai). last_ran=26.",
-    "Do not recut PHI@DAL live Q1 names (Dak/Lamb/Javonte/Saquon/Pickens/Goedert)."
+    "Injury HOLDs: do not recut Walker/Bowers/Maye/Tuten/Herbert/Purdy/Henry/Watson to the fill's price. Walker Out on a short week is not a recut to Johnson 44. Kyren's toe is not a recut to Corum at 30.",
+    "W11 bye is over. display_week=12. Love/Stafford/Kyren boxes are closed. Do not fade JSN/Bijan as still on bye.",
+    "Tuesday FAAB already awarded Richardson/Croskey/Mayer. Remaining leftover is FCFS $0. Thursday leftover has not processed (last_ran=25)."
   ],
   "ripoff_flags": [
-    "Paying formula 74 for Tuten or 58 for Walker or 84 for Bowers or 67 for Kelce or 53 for Lock/Loveland or 45 for Mendoza/Geno/Mayfield/Darnold/Jones/Rodgers or 85 for Golden.",
-    "Smash-selling Maye to 12 / Walker to Johnson / Bowers to Mayer / Henry to Hill / Purdy to Mac Jones / Kyren to Corum at 30 / Coleman at the 30 committee cap / Watson to 12 / Swift to Monangai at 12.",
-    "Buying Uiagalelei, DeVito, Rudolph, Milton, or Mac Jones as a Superflex starter this week.",
+    "Paying formula 74 for Tuten or 58 for Walker or 84 for Bowers or 67 for Kelce or 53 for Lock or 45 for Mendoza/Geno/Mayfield/Darnold/Jones/Rodgers or 85 for Golden.",
+    "Smash-selling Maye to 12 / Walker to Johnson / Bowers to Mayer / Henry to Hill / Purdy to Mac Jones / Kyren to Corum at 30 / Coleman at the 30 committee cap / Watson to 12.",
+    "Buying Uiagalelei, DeVito, Rudolph, or Mac Jones as a Superflex starter this week.",
     "Buying Bech as a WR2 if Bowers is named active.",
     "Buying White as the WAS RB1 \u2014 Croskey took the job.",
-    "Buying Monangai as if he is Swift after 8-15-2.",
     "Starting Herbert, Rodgers, Walker, or Rudolph blind.",
     "Trading away Burrow/Chase before the NO smash because of the MNF dud.",
-    "Leaving Croskey / Coleman / Irving / London on the bench.",
-    "Paying 85 for Golden after 4.4, or 84 for Watson as if the concussion did not happen.",
-    "Recutting Dak/Lamb/Javonte/Saquon off Q1 live boxes."
+    "Leaving Bijan / JSN / Croskey / Coleman / Irving / London on the bench.",
+    "Paying 85 for Golden after 4.4, or 84 for Watson as if the concussion did not happen."
   ]
 }
